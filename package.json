@@ -1,0 +1,42 @@
+{
+  "name": "@si-systems/core",
+  "version": "0.1.0",
+  "description": "Identity-Aligned System Architecture for Human-AI Interaction",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest --watch",
+    "test:coverage": "vitest run --coverage",
+    "dev": "tsx watch src/index.ts",
+    "demo": "tsx examples/cli-demo.ts",
+    "example": "tsx examples/basic-usage.ts",
+    "lint": "eslint src --ext .ts || true",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "keywords": [
+    "ai",
+    "identity",
+    "drift-detection",
+    "human-ai-interaction",
+    "alignment"
+  ],
+  "author": "David Dunlop",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "eslint": "^8.55.0",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "prettier": "^3.1.1",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.0.4"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
