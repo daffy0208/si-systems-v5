@@ -1,0 +1,3 @@
+# Directive Interface Type
+
+Used for strategic alignment and execution loops...

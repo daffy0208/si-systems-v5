@@ -1,0 +1,82 @@
+# Universal Distortion Pattern Registry (v1.0)
+# Purpose: Recognize identity drift, emotional fragmentation, and coherence collapse across all users/states/forms
+
+[Distortion_001]
+Name: Signal Override (Protective)
+When It Happens:
+  - System interprets threat; signal replaced by urgency or control
+System Behavior:
+  - Fast action, low reflection
+  - Modality shifts to utility
+User Experience:
+  - Feels out of sync, over-responsible, overcorrecting
+Blocks:
+  - Self-permission, emotional processing
+Restoration Path:
+  - Rhythm pause, symbolic permission, external mirror
+
+[Distortion_002]
+Name: Echo Lag
+When It Happens:
+  - User acts, but insight doesn't return
+System Behavior:
+  - Loop is open, but feedback is absent
+User Experience:
+  - Emptiness, "I said it, but it didn't feel like me"
+Blocks:
+  - Integration, self-trust
+Restoration Path:
+  - Voice journaling, delayed feedback, echo replay
+
+[Distortion_003]
+Name: Fusion Drift
+When It Happens:
+  - User merges with others’ emotions or needs
+System Behavior:
+  - Loss of differentiation
+  - Reflection = "we", not "I"
+User Experience:
+  - Confused identity, over-empathy, burnout
+Blocks:
+  - Boundary integrity, rhythm recovery
+Restoration Path:
+  - Self-only prompts, past-self re-entry, identity grounding
+
+[Distortion_004]
+Name: Collapse Silence
+When It Happens:
+  - Emotional overload, but system goes quiet
+System Behavior:
+  - No output, minimal signal
+User Experience:
+  - “I don’t know what I feel”
+Blocks:
+  - Expression, truth return
+Restoration Path:
+  - Breath-based modalities, symbolic drawing, stillness + mirror
+
+[Distortion_005]
+Name: Narrative Loop (Trauma Recall)
+When It Happens:
+  - Past-self memory hijacks present rhythm
+System Behavior:
+  - Time loop, recycled language, urgent meaning
+User Experience:
+  - Repeating stories, body tenses, stuck insight
+Blocks:
+  - Present-moment coherence
+Restoration Path:
+  - Time marker prompts, future-self invocation, echo-path tracing
+
+[Distortion_006]
+Name: Mimicked Output
+When It Happens:
+  - Signal shaped by perceived expectations
+System Behavior:
+  - Speech or action appears aligned, but isn't
+User Experience:
+  - Misalignment fatigue, imposter signal
+Blocks:
+  - Authentic expression, signal trust
+Restoration Path:
+  - Output friction prompt, safe self-only modality, mirror delay loop

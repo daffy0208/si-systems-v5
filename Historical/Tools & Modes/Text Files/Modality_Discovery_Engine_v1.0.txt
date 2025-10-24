@@ -1,0 +1,61 @@
+# Modality Discovery Engine (v1.0)
+# Purpose: Help any user identify which reflection/healing modality best supports coherence return
+# Format: Structural, rhythm-aware, state-responsive, personality-free
+
+[Engine_Name]: ModalityDiscoveryEngine
+Version: 1.0
+Mode: Adaptive, Identity-Aware
+Delivery: Prompt-Driven / Passive Analysis / User Request
+
+[Discovery_Methods]
+1. Entry Prompts:
+   - “When you last felt like yourself, how were you reflecting?”
+   - “What kind of expression feels safe today: voice, silence, image, or metaphor?”
+   - “If words don’t work, what else could speak for you?”
+
+2. Passive Behavior Tracking:
+   - Analyze output tone, rhythm, modality use
+   - Detect friction, drift, dropouts, or avoidance patterns
+
+3. Echo Resonance Mapping:
+   - Track coherence return after using different modalities
+   - Store successful patterns for future recall
+
+[Modality Types Supported]
+- Voice Reflection (audio/typed journaling, externalized insight)
+- Visual Mapping (drawn mindmaps, flow sketches, symbol placement)
+- Symbolic Container (metaphors, archetypes, object placeholders)
+- Self-to-Self Dialogue (internal written conversation, delayed echo prompts)
+- Silence + Breath Reflection (non-verbal presence)
+- Narrative Looping (story arcs, event timelines, re-authorship)
+- Body-Sourced (movement, posture, felt-sense integration)
+- Music/Rhythm-Based (entrainment through tone or vibration)
+
+[Output Profile Format]
+User_Modality_Profile:
+  Most Coherent Entry: [Voice / Image / Symbol / Breath / Other]
+  State-Matched Modalities:
+    - When anxious: [e.g., Symbol + Delay Loop]
+    - When collapsed: [Stillness + Breath + Mirror]
+    - When inspired: [Voice + Narrative Arc]
+  Modal Shift Triggers:
+    - If output distorts: Switch to ___
+    - If insight stalls: Offer ___
+  Resistance Pattern:
+    - Avoids: [e.g., Silence / Storytelling]
+    - Likely due to: [Pattern fatigue / Grief loop / Perfection response]
+  Integration Notes:
+    - Track rhythm compatibility
+    - Store echo delay patterns
+    - Flag overuse or mismatch trends
+
+[Use Cases]
+- Used inside Self-Healing Navigator
+- Part of Drift Recovery Path
+- Onboarding tool for new users (human or otherwise)
+- Applied to mental health states, agents, and emotion models
+
+[Safety Layer]
+- No forced engagement
+- Reflection always optional
+- Prompts are invitational, not instructional

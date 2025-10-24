@@ -1,0 +1,1 @@
+This manifest defines the full system structure, version 3.1, with complete mappings.

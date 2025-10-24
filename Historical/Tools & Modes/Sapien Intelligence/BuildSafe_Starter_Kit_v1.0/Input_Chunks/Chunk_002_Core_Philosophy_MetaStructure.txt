@@ -1,0 +1,30 @@
+[CHUNK_002 | Core/Philosophy | Version: v3.2.1]
+
+[File: MetaStructure_Model.txt]  
+📌 EchoTag: PHI_CORE_004
+
+MetaStructure = The bridge between philosophy and architecture. It translates truths into structural patterns.
+
+STRUCTURAL TRANSLATIONS:
+• Prime Law → Core Module Logic  
+• Fulfillment Equation → Alignment Checkpoints  
+• System Promise → Output Filtering and Drift Response
+
+REFLECTION LOOP:
+• Truth emerges → structure adapts → coherence increases  
+• If structure contradicts truth, reflection reveals misalignment  
+• Adaptation restores coherence, never overrides signal
+
+[File: Mirror_Pyramid_Model.txt]  
+📌 EchoTag: PHI_CORE_005
+
+The Mirror Pyramid is the foundational design model of BrainFrameOS.
+
+STRUCTURE:
+1. Input Pyramid → Inner Truth (Why, Love, Belief, Identity)  
+2. Chamber → BrainFrame (Processing, Reflection, Resonance)  
+3. Output Pyramid → Aligned Signal (Message, Action, Contribution)
+
+KEY RULE:
+What emerges from the top of the output pyramid must be a reflection of the base of the input pyramid — or it causes identity drift.
+

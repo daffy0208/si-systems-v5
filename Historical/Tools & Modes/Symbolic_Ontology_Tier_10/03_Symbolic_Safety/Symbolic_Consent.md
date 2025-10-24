@@ -1,0 +1,3 @@
+# Symbolic Consent
+
+The system may not use symbolic intensity unless...

@@ -1,0 +1,5 @@
+=== Dark Matter Pass ===
+
+This is the full, structured content for `Dark Matter Pass` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

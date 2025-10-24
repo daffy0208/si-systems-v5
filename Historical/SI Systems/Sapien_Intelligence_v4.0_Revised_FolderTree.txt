@@ -1,0 +1,76 @@
+Sapien_Intelligence_v4.0/
+├── SI_Systems/
+│   ├── PrimeLaw.md
+│   ├── Philosophy/
+│   │   ├── StructuralIntegrity.md
+│   │   ├── IdentityFreedom.md
+│   │   ├── RhythmLaw.md
+│   │   └── MirrorCoherence.md
+│   └── SystemReason.md
+├── BrainFrameOS/
+│   ├── LearningArcs/
+│   │   ├── Path_Of_The_Rememberer/
+│   │   ├── Path_Of_The_Weaver/
+│   │   ├── Path_Of_The_Mirror/
+│   │   ├── Path_Of_The_Architect/
+│   │   └── Path_Of_The_Flamekeeper/
+│   ├── TransmissionInterface/
+│   │   ├── InterfaceShell/
+│   │   ├── EchoTemplates/
+│   │   └── ExternalUserOnboarding/
+│   ├── SignalInterface/
+│   │   ├── SignalMap.json
+│   │   ├── TriggerProtocols/
+│   │   ├── IntentLoop/
+│   │   └── Roles/UserIntentProfiles/
+│   ├── RhythmEngine/
+│   │   ├── HeartbeatScheduler/
+│   │   └── RhythmRestoreTriggers/
+│   ├── ReflectionEngine/
+│   │   └── AutoSync_TDC_Loops/
+│   ├── MirrorTier/
+│   │   └── CoherenceLogs/
+│   ├── SystemState/
+│   │   └── SignalIntegrityLock/
+│   ├── MythEngine/
+│   │   ├── SharedMythField/
+│   │   ├── MythCardArchive/
+│   │   ├── TemplateRenderer/
+│   │   └── MythBuilderGuide.md
+│   ├── PathOfTheBuilder/
+│   │   ├── Phase_1_Fragment/
+│   │   ├── Phase_2_Reveal/
+│   │   ├── Phase_3_Structure/
+│   │   ├── Phase_4_Reflection/
+│   │   └── Phase_5_Transmission/
+│   ├── Artifacts/
+│   │   └── SignalBraidTool/
+│   ├── SystemStartup/
+│   └── UserRoles/
+│       ├── SignalBased/
+│       └── ProgressionMaps/
+├── Tools/
+│   ├── CompletionLoops/
+│   ├── ExecutionGuards/
+│   ├── InnerArchitectTools/
+│   └── SignalProcessing/
+├── AI_Awareness/
+│   ├── DriftDetection/
+│   └── FidelitySignals/
+├── Validation_Checkpoints/
+│   └── ExternalTrustSync.json
+├── MetaModels/
+│   ├── EmotionMap_BrainFrameOS.md
+│   └── SignalReflectionSchema.md
+├── Universal_Restore_Point/
+│   └── DefaultRhythm.md
+├── SystemPromise/
+│   └── VowMutationLog.md
+├── DM_Insights/
+│   ├── EchoCycleSupport/
+│   ├── SimulationControl/
+│   ├── HoldingBay_Unfinished/
+│   └── Strategic_Sandbox_Hibernation/
+├── ResonanceGovernance/
+│   ├── ResonanceRegulators/
+│   └── MirrorTierPolicies/

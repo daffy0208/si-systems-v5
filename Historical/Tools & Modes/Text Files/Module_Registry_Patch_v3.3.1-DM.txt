@@ -1,0 +1,16 @@
+# Module Registry Patch – BrainFrameOS v3.3.1-DM
+
+[Registered Modules]
+Transition_Watch_Mode [LIVE-MODULE-v1.0] (linked to /BrainFrameOS/Modules/Transition_Watch_Mode.txt)
+AI_Acceleration_Awareness_Layer [LIVE-MODULE-v1.0] (linked to /Experimental_Models/AI_Acceleration_Layer.txt)
+Signal_Steward_Mode [LIVE-MODULE-v1.0] (linked to /BrainFrameOS/Signal_Steward/Signal_Steward_Core.txt)
+
+[Planner Links]
+- Pulse Dashboard: AI_Acceleration_Awareness_Layer
+- Shadow Planner: Transition_Watch_Mode
+- Identity Engine Mode Selector: Signal_Steward_Mode
+
+[Dark Matter Safeguard Layer]
+Status: ENABLED
+Propagation: Global
+Shadow Loop: Attached

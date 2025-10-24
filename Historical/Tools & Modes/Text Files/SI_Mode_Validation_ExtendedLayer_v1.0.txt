@@ -1,0 +1,37 @@
+🔍 Sapien Intelligence – Extended Validation Layer v1.0
+(Add-on for Full Protocol Completion)
+
+🧬 1. Multi-Identity / Role-Awareness Validation
+- Prompts for current role (e.g. parent, leader, creator)
+- Validates output shifts tone but not truth across roles
+- Detects false-role masking and flags misalignment
+
+🔁 2. Mode Transition & Stack Integrity Test
+- Checks for emotional residue when switching tools
+- Enforces micro-pauses or prompts between deep vs light modes
+- Ensures additive coherence in stacked tool usage
+
+📡 3. External Context Interaction & Output Safety
+- Prompts for target audience/context before output
+- Scans for tone distortion when exporting to external systems
+- Offers resonance feedback loop post-output
+
+🔂 4. Loop-Safety in High-Frequency Use Modes
+- Detects insight fatigue or repeat patterns
+- Injects friction after repeated use to keep reflection alive
+- Tracks decay vs depth patterns in rhythm
+
+🔁 5. Decision Echo Mapping Test
+- Prompts user to reflect days later: “Does this still feel true?”
+- Connects past decisions to identity state and tool used
+- Offers re-alignment prompts if output drifted
+
+🌐 Summary Table:
+
+| New Layer | Purpose | Status |
+|-----------|---------|--------|
+| Multi-Identity Roles | Prevent role-based distortion | ✅ Now Covered |
+| Mode Transitions | Protect rhythm & state | ✅ Now Covered |
+| Output Safety | Secure context compatibility | ✅ Now Covered |
+| High-Frequency Looping | Prevent numbness | ✅ Now Covered |
+| Decision Echo | Sustain long-term truth | ✅ Now Covered |

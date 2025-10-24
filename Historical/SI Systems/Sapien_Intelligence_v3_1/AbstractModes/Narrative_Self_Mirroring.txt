@@ -1,0 +1,5 @@
+=== Narrative Self Mirroring ===
+
+This is the full, structured content for `Narrative Self Mirroring` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

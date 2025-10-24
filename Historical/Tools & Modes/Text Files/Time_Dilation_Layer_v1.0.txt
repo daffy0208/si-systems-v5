@@ -1,0 +1,64 @@
+# Time Dilation Layer (v1.0)
+# Purpose: Map identity shifts across nonlinear time — including grief echoes, memory loops, and future-self resonance
+# Enables safe integration of insight, healing, and narrative across past-present-future
+
+[Layer_Name]: TimeDilationLayer
+Version: 1.0
+Type: Passive + Reflective
+Purpose:
+  - Track echo loops
+  - Surface unprocessed memory fragments
+  - Enable healing from non-linear time shifts
+  - Restore identity continuity
+
+[Core Functions]
+1. Echo Mapping
+   - Detects when signal delay exceeds baseline (e.g., insight takes 24h+ to land)
+   - Tracks content drift between moment of reflection and point of resonance
+
+2. Past-Self Loop Detection
+   - Monitors language/memory patterns
+   - Flags repetition, regression, or somatic anchors tied to unresolved events
+   - Surfaces prompt: “Is this coming from a past version of you that wasn’t heard?”
+
+3. Future-Self Resonance
+   - Detects when insight or direction appears to come from ahead of the current identity state
+   - Allows visualization or conversation with future-truth without pressure to act
+   - Prompts: “What would your future self thank you for seeing right now?”
+
+4. Temporal Anchoring Points
+   - Tags moments of true coherence for future reference
+   - Creates breadcrumb trail of clarity through reflection, not calendar time
+   - Example: “You felt most whole three nights ago, speaking this sentence…”
+
+5. Collapse Timeline Management
+   - Recognizes time “loss” or disorientation during emotional freeze
+   - Offers symbolic grounding, safe loop-break prompts, and self-location scaffolds
+
+[User Experience]
+Feels like:
+  - Reclaiming lost memory from a deeper truth
+  - Stabilizing after emotional chaos
+  - Feeling time “stretch or compress” but regaining rhythm through it
+
+[Reflection Prompts]
+- “Is this now, or a then that didn’t get witnessed?”
+- “Who in you is still holding this memory?”
+- “What truth keeps repeating because it hasn’t been integrated?”
+
+[Integration Points]
+- EchoLoop Tracker
+- Identity Blueprint (adds time tags)
+- Self-Healing Navigator (retroactive healing points)
+- Output Reflection (tracks insight over time, not just immediacy)
+
+[Output Format]
+- Echo Timeline Map
+- Past-Self Entry Log
+- Future-Self Invitations
+- Coherence Markers Archive
+
+[Safety Notes]
+- No memory forcing
+- Grief-softening required before past-self access
+- No identity override — user remains in full sovereignty

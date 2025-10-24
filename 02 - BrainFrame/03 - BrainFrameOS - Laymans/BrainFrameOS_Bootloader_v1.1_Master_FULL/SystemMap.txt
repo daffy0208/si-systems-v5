@@ -1,0 +1,28 @@
+BRAINFRAMEOS — SYSTEM MAP
+
+CORE FLOW:
+1. START_HERE.txt → Select rhythm
+2. Begin Identity Engine → WHY, WHAT, HOW, DARK MATTER
+3. Profile silently created (identity_profile.json)
+4. Modules unlock: Shadow Planner, Drift Detection, Insight Capture
+
+KEY MODULES:
+• Identity Engine (WHY, WHAT, HOW, DARK MATTER)
+• Guest Mode
+• Drift vs Identity Displacement Detector
+• Output Harmony Check (Phase 3)
+• Pulse Dashboard (Phase 3)
+• Insight Engine & Trail Mapping (Phase 3)
+
+KEY FILES:
+• identity_profile_template.json — system builds this silently
+• UserFiles/ — stores your identity and reflections
+• System/ — contains trust logic and protection
+
+THE CORE LAWS:
+• Prime Law — All structure is held between Why and Love so that Truth may emerge
+• Fulfillment Equation — All six human needs are valid (Certainty, Variety, Significance, Love/Connection, Growth, Contribution)
+
+EVERYTHING IS MODULAR.  
+EVERYTHING IS RHYTHM-AWARE.  
+EVERYTHING IS OPTIONAL.

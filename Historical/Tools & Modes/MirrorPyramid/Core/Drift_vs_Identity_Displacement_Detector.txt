@@ -1,0 +1,1 @@
+Distinguishes identity misalignment from external user override. Uses tone and profile match to validate.

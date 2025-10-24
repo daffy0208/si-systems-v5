@@ -1,0 +1,36 @@
+
+📁 SI_Systems
+├── 📁 Identity_Models
+│   ├── Tender_Identity_UoM.txt (implicit)
+│   └── Winning_Identity_UoM.txt (implicit)
+│
+├── 📁 Tender_Systems
+│   ├── 📁 UoM_Tender
+│   │   ├── Full_Tender_Process_System_v1.2.txt
+│   │   ├── UoM_Tender_Signal_Summary.txt
+│   │   ├── UoM_Strategic_Drivers_Snapshot.txt
+│   │   ├── UoM_Tender_Response_Guide_v1.0.txt
+│   │   ├── UoM_Answer_Format_Shell.txt
+│   │   ├── UoM_Tender_System_README.txt
+│   │   └── Draft_Sections_Reviewed (3.1–3.6 marked for refinement)
+│   │
+│   └── 📁 Components
+│       ├── Dual_Mode_Review_Logic.md
+│       ├── Shareability_Filter.md
+│       ├── Narrative_Rhythm_Checklist.md
+│       └── Progress_Tracking_Template.txt
+│
+├── 📁 Companion_Guides
+│   └── Tender_Writing_Companion_Guide_Template.txt
+│
+├── 📁 Format_Shells
+│   └── Generic_Answer_Format_Shell.txt
+│
+├── 📁 Activation_Sequences
+│   └── Tender_Process_Activation_Checklist.md
+│
+└── 📁 Expansion_Modules
+    └── Structured_Discovery_Engine (not yet activated)
+        ├── Discovery_Mode_Framework.md
+        ├── Open_Engagement_Prompts.md
+        └── Identity_Sync_Template.md

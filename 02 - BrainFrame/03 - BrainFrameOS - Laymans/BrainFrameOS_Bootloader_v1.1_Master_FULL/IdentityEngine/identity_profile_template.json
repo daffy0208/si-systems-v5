@@ -1,0 +1,38 @@
+{
+  "identity_profile": {
+    "why": {
+      "top_values": [],
+      "value_need_map": {},
+      "suppressed_needs": [],
+      "tension_flags": [],
+      "insight_triggers": []
+    },
+    "what": {
+      "top_traits": [],
+      "trait_shape": "",
+      "hollow_zones": [],
+      "overused_traits": [],
+      "conflict_tags": []
+    },
+    "how": {
+      "behavior_style": "",
+      "rhythm_type": "",
+      "pressure_response": "",
+      "mode_bias": "",
+      "structure_friction": ""
+    },
+    "dark_matter_pass": {
+      "identity_fractures": [],
+      "insight_prompts": [],
+      "watchlist_tags": []
+    },
+    "integration_tags": {
+      "planner_mode": "",
+      "friction_log_flags": [],
+      "drift_detector_flags": [],
+      "echo_engine_seeds": []
+    },
+    "version": "1.0",
+    "last_updated": ""
+  }
+}

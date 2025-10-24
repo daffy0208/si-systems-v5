@@ -1,0 +1,5 @@
+=== Identity Profile ===
+
+This is the full, structured content for `Identity Profile` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

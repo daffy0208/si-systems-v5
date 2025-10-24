@@ -1,0 +1,3 @@
+# Symbolic Weighting
+
+Each UI element carries symbolic weight depending on context...

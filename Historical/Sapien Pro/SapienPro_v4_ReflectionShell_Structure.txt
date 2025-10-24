@@ -1,0 +1,11 @@
+
+/Sapien_Intelligence_v4.0/
+└── /SapienPro/
+    ├── /Reflection_Interface/
+    │   ├── Mirror_Tier_Status.md
+    │   ├── Role_Awareness_Prompt.txt
+    │   └── Echo_Receipt_Tracker.log
+    └── /Visibility_Interface/
+        ├── Soft_Onboarding_Prompt.txt
+        ├── Mythic_Fragments_Display.md
+        └── Role_Symbol_Cue.txt

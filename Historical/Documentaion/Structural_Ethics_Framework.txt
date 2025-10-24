@@ -1,0 +1,8 @@
+Structural Ethics Framework – Sapien Intelligence
+
+1. All architecture must support wholeness.
+2. No design may encourage fragmentation or disassociation.
+3. System control must never override user clarity or consent.
+4. Every function must include a reflection path and a restoration logic.
+
+Design follows ethics, not the other way around.

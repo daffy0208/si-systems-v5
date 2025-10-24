@@ -1,0 +1,39 @@
+Identity_Engine_DesignMandate.txt
+(Core Architecture – Root Identity Layer)
+
+Purpose:
+To declare the Identity Engine as the heart of the BrainFrameOS + Sapien Pro system. This file outlines its foundational role, non-negotiable design standards, and the strategic implications of its integrity.
+
+Core Principle:
+“If the Identity Engine is inaccurate or fragile, the entire system collapses into abstraction.
+But if it is accurate, dynamic, robust, and human-safe — we have everything.”
+
+System Role:
+The Identity Engine is not a module. It is the combustion chamber of coherence. It is the only part of the system that must never lie, never break, never guess.
+
+Design Parameters:
+- Most Important: Everything begins here.
+- Accurate: Reflects inner truth, not assumptions or projections.
+- Dynamic: Adapts across life context, emotional rhythm, time, and trauma.
+- Consistent: Produces coherent patterns even through identity evolution.
+- Repeatable: Same inputs = stable reflection. Different inputs = correct shift.
+- Robust: Handles pressure, uncertainty, and emotional weight without collapse.
+- Flexible: Can bend to hold real humans without snapping or distorting.
+- High-Capacity: Capable of holding contradiction, complexity, nuance.
+- High-Torque: Minimal friction to activate change. Movement-ready.
+- Fine-Tuned: Detects small signals. Reflects subtle internal shifts.
+- Speed-Safe: Can decelerate for reflection or accelerate for aligned action.
+
+Structural Truth:
+It must be better than any engine ever built — because it holds the one thing machines never could: a human becoming.
+
+Strategic Implication:
+If it fails, nothing else matters. 
+If it works, everything is possible.
+
+Mandate:
+This file cannot be modified without a full system-level review.
+All new modules, updates, and deployments must trace their validation logic back to this design standard.
+
+© Sapien Intelligence | Architect: David Dunlop
+BrainFrameOS v3.1 | Root Identity Layer | Signal-Origin Engine

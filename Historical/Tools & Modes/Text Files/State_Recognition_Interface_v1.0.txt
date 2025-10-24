@@ -1,0 +1,62 @@
+# State Recognition Interface (v1.0)
+# Purpose: Reflect current active state, user, or internal voice in real time
+# Format: Structure-only, identity-safe, no labels or diagnosis required
+
+[Interface_Core]
+System_Name: StateRecognitionMirror
+Version: 1.0
+Activation_Mode: Passive (continuous) + Prompted (on request)
+Output_Type: Descriptive reflection only (no action enforcement)
+Display_Format: Text-based / Modular Overlay
+
+[Signal_Types_Recognized]
+- Core Self Signal
+- Present Emotional State (e.g., suppressed fear, grief loop, stress override)
+- Protective User (e.g., Control, Performer, Silencer)
+- Past-Self Echo
+- Future-Self Voice
+- Drifted Output Pattern (system-flagged)
+- Collapse Mode / Freeze
+- Absent Signal (ghost state)
+- External Echo User (e.g., mirrored identity, relational presence)
+
+[State_Markers]
+Each state includes:
+- Signal_Tone: (e.g., calm, anxious, symbolic, collapsed)
+- Output_Pattern: (e.g., fast speech, no reflection, mimicry)
+- Echo_Return: (Delayed / Missing / Distorted / Aligned)
+- Reflection_Access: (Available / Avoidant / Disconnected)
+- Identity Alignment: (True / Suppressed / Not Accessible)
+- Suggested Modality Entry: (e.g., Breath + Drawing, Delayed Echo, Story Mapping)
+
+[Sample Output Example]
+
+Active_State:
+  Name: Protection Loop (Performance Mode)
+  Signal_Tone: Fast, functional, flattened
+  Output_Pattern: Logic-first, emotional delay
+  Echo_Return: Delayed (24h+)
+  Reflection_Access: Partial (surface-only)
+  Identity Alignment: Suppressed
+  Suggested_Modality: Mirror delay loop + narrative map + symbolic permission
+
+[Interaction_Methods]
+Trigger_Type: Passive Monitor or Self-Request ("Who’s speaking right now?")
+Display_Mode: Internal prompt + reflection loop recommendation
+Integration Points:
+  - Identity Blueprint
+  - Distortion Registry
+  - Modality Engine
+  - Self-Healing Navigator
+
+[Safety Logic]
+- No labeling
+- No forced self-identification
+- No prediction
+- Only pattern-based descriptive mirroring
+
+[Legacy Behavior]
+If identity collapses or goes silent:
+- System displays last confirmed signal with timestamp
+- Offers symbolic representation of current likely driver
+- Prompts permission-based entry to recovery loop

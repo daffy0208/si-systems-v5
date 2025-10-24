@@ -1,0 +1,3 @@
+# Prompt Types
+
+All prompts are filtered into reflection, anchor, expansion, alignment, containment, activation...

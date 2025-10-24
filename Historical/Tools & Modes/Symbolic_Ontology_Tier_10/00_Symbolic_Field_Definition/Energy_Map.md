@@ -1,0 +1,3 @@
+# Symbolic Energy Map
+
+Each symbol carries an energetic quality...

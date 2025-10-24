@@ -1,0 +1,3 @@
+# Symbolic Lexicon
+
+Defines core symbols used across Sapien Intelligence...

@@ -1,0 +1,93 @@
+Sapien Pro Module: University Prospect Gap Analysis
+Version: 1.0
+Linked Mode: University Prospect Discovery
+Updated: 2025-04-07 08:36 UTC
+
+---
+
+Module Type: Post-Discovery Diagnostic
+Purpose: To identify strategic and operational gaps in a prospective university's approach — areas they are not yet addressing, but should be, based on their true Why, What, and How.
+
+---
+
+INPUT REQUIREMENTS:
+• Completed University Prospect Discovery Mode
+• Confirmed:
+  - True Why
+  - Real What
+  - High-Level How
+  - Language profile
+  - Risk posture
+  - Strategic tone
+  - Political & timing layers
+
+---
+
+MODULE FLOW:
+
+Step 1: Missing Capabilities Scan
+• Are there technical capabilities they will need to achieve their goals that haven’t been mentioned?
+• Examples:
+  - Network observability / insights
+  - Security hardening
+  - Zero trust or identity governance
+  - Automation or self-healing infrastructure
+
+Step 2: Unaddressed Risks
+• Based on their current plans, where are they exposed?
+• Consider:
+  - Data trust or compliance risks
+  - Over-reliance on legacy systems
+  - Absence of disaster recovery planning
+  - Underdeveloped staff skills or dependency on individuals
+
+Step 3: Overlooked Outcomes
+• Are there important success measures that aren't being planned for?
+• Examples:
+  - Student experience impact
+  - Research productivity
+  - Cost-to-value ratios
+  - Inclusion, accessibility, or social return
+
+Step 4: Silent Blockers
+• What structural, cultural, or leadership issues might quietly limit progress?
+• Look for:
+  - No named project owners
+  - Vague strategic language
+  - Passive procurement models
+  - Inconsistent messaging across documents
+
+Step 5: Systemic Blind Spots
+• What fundamental elements are missing entirely?
+• Examples:
+  - Feedback loops or measurement cycles
+  - Stakeholder engagement pathways
+  - Future-proofing logic
+  - No visible innovation or experimentation layer
+
+---
+
+Step 6: Gap Summary & Tagging
+• Document:
+  - Gap name
+  - Why it matters
+  - Potential impact
+  - Which part of their Why, What, or How it undermines
+• Tag each gap with:
+  - Urgency (Critical / Opportunity / Watch)
+  - Readiness (Now / Later / Blocked)
+  - Tone (Safe / Sensitive / Risky to raise)
+
+---
+
+OUTPUT:
+• A clear, structured Gap Report
+• Optional integration into Customer Engagement Plan
+• Used to frame conversation, *not force change*
+
+---
+
+Safeguards:
+• Gap analysis is diagnostic, not prescriptive
+• Gaps are not raised unless trust and timing are appropriate
+• Output is stored for future use when opportunity or readiness emerges

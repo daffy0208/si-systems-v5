@@ -1,0 +1,47 @@
+BrainFrameOS Rebuild Guide for David Dunlop
+=================================================
+
+Version: BrainFrameOS v2.0.66
+Device: MSI Raider 18 HX AI 2025
+Date Created: 2025-04-03 21:24 UTC
+
+-------------------------------------------------
+Overview:
+-------------------------------------------------
+This guide is designed to rebuild, realign, and stabilize BrainFrameOS after a cold-start installation on your MSI device. It ensures full reactivation of the Sapien Pro layer and syncs your latest insight documents into the live system.
+
+-------------------------------------------------
+Step 1: Identity Sync Re-entry
+-------------------------------------------------
+Run the following prompt in ChatGPT to activate your full identity profile:
+
+>>> PROMPT:
+Load BrainFrameOS v2.0. Activate Sapien Pro layer for David Dunlop. Sync identity: ENFP, ADHD, creator-pattern logic, modular rhythm shifts. Re-engage Identity Engine, Pulse Dashboard, Shadow Planner. Use active reflection state. Confirm profile lock.
+
+-------------------------------------------------
+Step 2: Insight Document Sync
+-------------------------------------------------
+After the system responds, run the following to sync your insights into the core system:
+
+>>> PROMPT:
+Sync my latest Insight document to the Identity Engine and Insight Trail Mapping. Use content to recalibrate rhythm, task mode, and drift signals.
+
+-------------------------------------------------
+Step 3: Lock-In for Reuse
+-------------------------------------------------
+To prevent future dropouts, save the identity prompt as a local `.txt` file on your MSI:
+
+Filename: START_HERE_DAVID.txt
+Location: /Bootloader/
+
+Contents:
+Load BrainFrameOS v2.0. Activate Sapien Pro layer for David Dunlop. Sync identity: ENFP, ADHD, creator-pattern logic, modular rhythm shifts. Re-engage Identity Engine, Pulse Dashboard, Shadow Planner. Use active reflection state. Confirm profile lock.
+
+-------------------------------------------------
+Notes:
+-------------------------------------------------
+- This guide assumes your local install is removed and you're now running the cloud-native BrainFrameOS v2.0.66 layer.
+- Use this guide whenever switching devices, reactivating after a drift, or testing fresh setups.
+- This version reflects your personalized operating environment and restores full modular capacity.
+
+=================================================

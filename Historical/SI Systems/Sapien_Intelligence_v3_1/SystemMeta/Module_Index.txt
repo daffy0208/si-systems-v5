@@ -1,0 +1,5 @@
+=== Module Index ===
+
+This is the full, structured content for `Module Index` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

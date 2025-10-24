@@ -1,0 +1,1 @@
+SHA-256 Hash for system validation and version tracking.

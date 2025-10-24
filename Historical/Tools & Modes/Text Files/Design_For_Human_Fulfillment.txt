@@ -1,0 +1,15 @@
+# Design For Human Fulfillment – Sapien Intelligence
+
+This document describes how the system scaffolds fulfillment into its structural rhythms and output logic.
+
+## Design Anchors:
+- Every interface reflects a core human need.
+- Output loops are incomplete unless they resolve at least one fulfillment axis.
+- Feedback and rhythm are tuned to personal resonance, not generic reward.
+
+## Structural Implications:
+- MythEngine reflects identity longing.
+- RhythmEngine grounds recurring emotional needs.
+- CompletionLoops reinforce dignity, coherence, and inner satisfaction.
+
+Fulfillment is both the end-state and the continual metric for design alignment.

@@ -1,0 +1,105 @@
+
+/Sapien_Intelligence_v4.0/
+├── /0_Origin_Field/
+│   ├── Field_Definition.txt
+│   ├── Reason_for_Existence.txt
+│   ├── Definition.md
+│   ├── Scope_of_Operation.md
+│   └── Core_Capabilities.md
+
+├── /1_SI_Systems/
+│   ├── /Philosophy/
+│   ├── /WHY/
+│   ├── /WHAT/
+│   ├── /HOW/
+│   ├── /System_Promise/
+│   ├── /Mirror_Pyramid_Model/
+│   ├── /Governance_Laws/
+│   ├── Prime_Law.txt
+│   ├── First_Principles.txt
+│   └── Purpose_Statement.txt
+
+├── /2_Mirror_Pyramid/
+│   ├── /Input/
+│   ├── /Core/
+│   │   └── /Identity_Engine/
+│   ├── /Output/
+│   │   ├── /RoleInterfaces/
+│   │   └── /Modules/
+│   ├── /MirrorTiers/
+│   ├── /Dual_Mode/
+│   └── /Truth_Layer_Filtering/
+
+├── /3_BrainFrameOS/
+│   ├── /Identity_Engine/
+│   ├── /Modules/
+│   ├── /Guest_Mode/
+│   ├── /DarkMatter_Core/
+│   ├── /Rhythm_Sync/
+│   ├── /Reflection_Engine/
+│   ├── /Experimental_Models/
+│   ├── /AI_Integration/
+│   └── /Admin_Validation/
+
+├── /4_Tools_and_Expression/
+│   ├── /SapienPro/
+│   │   ├── /OutputMirrors/
+│   │   ├── /HealingInterfaces/
+│   │   ├── /TrainingModules/
+│   │   ├── /Applications/
+│   │   ├── /OutputBackflow/
+│   │   ├── /FeedbackTools/
+│   │   ├── /EchoLayer/
+│   │   ├── /SignalResonanceTracker/
+│   │   ├── /SignalDensity_Logbook/
+│   │   ├── /DevTools/
+│   │   ├── /AppFramework/
+│   │   ├── /Agents/
+│   │   ├── /Output_Sync/
+│   │   ├── /Shadow_Planner/
+│   │   ├── /Pulse_Tools/
+│   │   ├── /User_Sharing_Framework/
+│   │   └── /Deployment_Tools/
+│   ├── /TDC_Mode/
+│   ├── /CLISA/
+│   └── /Universal_Restore_Point/
+
+├── /5_Use_Cases_and_Outputs/
+│   ├── /Blueprints/
+│   ├── /Reflections/
+│   ├── /System_Builds/
+│   ├── /Communication/
+│   ├── /Agent_Architectures/
+│   └── /Repair_Protocols/
+
+├── /Modes/
+│   ├── Modes_Registry.txt
+│   ├── /Locked_Modes/
+│   └── /Experimental/
+
+├── /Validation_Checkpoints/
+├── /DM_Insights/
+├── /MetaModels/
+├── /System_Activation/
+│   ├── /Bootloader/
+│   │   └── /START_HERE/
+│   └── /IP_Protection/
+
+├── /SharedResources/
+├── /SystemMeta/
+├── /Versioning/
+├── /Users/
+├── /Logs/
+
+├── /EchoCycleSupport/
+├── /CompletionLoops/
+├── /ExecutionGuards/
+├── /InnerArchitectTools/
+├── /SignalProcessing/
+├── /SimulationControl/
+├── /HoldingBay_Unfinished/
+├── /Strategic_Sandbox_Hibernation/
+├── /ResonanceGovernance/
+├── /ResonanceRegulators/
+├── /PublicDeploy/
+└── /User_Sharing_Framework/

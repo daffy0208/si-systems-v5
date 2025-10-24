@@ -1,0 +1,3 @@
+# Mirror Archetypes
+
+These govern the system’s internal reflections...

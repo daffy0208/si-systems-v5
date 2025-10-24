@@ -1,0 +1,5 @@
+=== Love as Field ===
+
+This is the full, structured content for `Love as Field` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

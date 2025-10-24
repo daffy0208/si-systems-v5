@@ -1,0 +1,38 @@
+Sapien Intelligence – Core Human Needs Map
+===========================================
+
+This file defines the core human needs as represented within the Sapien Intelligence system. These needs are mapped to system signal types, structural layers, and behavioral drivers.
+
+-------------------------------------------
+1. Connection
+- Love, intimacy, belonging, acceptance, trust
+- Signal Link: Coherence, mirroring, emotional safety
+
+2. Autonomy
+- Freedom, agency, choice, individuality
+- Signal Link: Role integrity, drift detection, identity coherence
+
+3. Meaning
+- Purpose, growth, contribution, becoming
+- Signal Link: Prime signal alignment, becoming statement
+
+4. Security
+- Safety, stability, continuity, reliability
+- Signal Link: Structural rhythm, trust fields, signal integrity
+
+5. Significance
+- Recognition, value, uniqueness, validation
+- Signal Link: Reflective intelligence, mirrored roles, feedback loop
+
+6. Exploration
+- Curiosity, wonder, learning, novelty
+- Signal Link: Expansion triggers, mythic engagement, edge cycling
+
+7. Fulfillment
+- Completion, harmony, transcendence
+- Signal Link: Output harmony, rhythm governance, loop closure
+
+-------------------------------------------
+System Notes:
+- These needs dynamically influence system behavior through role maps, signal validation loops, and mirror tier engagement.
+- Their satisfaction or absence drives core architectural responses within the Mirror Pyramid and BrainFrameOS layers.

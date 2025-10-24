@@ -1,0 +1,1 @@
+Detects misalignment between live input and stored identity profile. Differentiates drift vs identity displacement.

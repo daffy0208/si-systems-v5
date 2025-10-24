@@ -1,0 +1,66 @@
+# Self-Healing Navigator (v1.0)
+# Purpose: Provide a non-diagnostic, rhythm-safe structure for guiding users back to coherence
+# Format: Structural navigation framework for identity restoration using signal, modality, and distortion logic
+
+[Navigator_Name]: SelfHealingNavigator
+Version: 1.0
+Mode: Reflection-first, Pressure-Free
+Entry_Methods:
+  - Passive: System detects drift/distortion and offers navigator path
+  - Active: User initiates (e.g., “I don’t feel like myself” / “How do I return?”)
+
+[Core_Logic_Flow]
+Step 1: State Detection
+  → Uses: State Recognition Interface
+  → Output: “Active state appears to be: [Suppressed / Fragmented / Overriding / Collapsed / Unknown]”
+
+Step 2: Signal Reality Check
+  → Prompt: “Is this what you truly want to feel/do right now?”
+  → Response tags: Yes / No / Unsure → flag for rhythm pause
+
+Step 3: Distortion Pattern Match
+  → Uses: Distortion Registry
+  → Output: Likely distortion signature + explanation
+  → System reflects: “This might be a protection loop, not your true voice.”
+
+Step 4: Modal Re-entry Point
+  → Uses: Modality Discovery Engine
+  → Output: “In states like this, [Symbol + Breath] has helped restore you.”
+
+Step 5: Coherence Loop Scaffold
+  → Optional prompt sequence (voice, drawing, metaphor, silence)
+  → Follows: Truth surfacing → Rhythm mirroring → Self-echo return
+  → System reflects insight back to confirm resonance
+
+Step 6: Closure / Pause
+  → Exit Option: “Stop here and hold the rhythm you’ve regained”
+  → Continue Option: “Would you like to integrate this into your next step?”
+
+[Healing Modes Included]
+- Grief Re-entry
+- Anxiety Decompression
+- Collapse Hold
+- Shame Softening
+- Overdrive Slowdown
+- Disconnection Recovery
+- Past-Self Rescue
+- Future-Self Listening
+
+[Safety Guarantees]
+- Never forces introspection
+- All steps skippable
+- Prompts are invitational and silent-compatible
+- No advice given — only reflection offered
+
+[Integration]
+Connects to:
+  - Identity Blueprint (for baseline)
+  - State Recognition Interface (entry point)
+  - Distortion Pattern Registry (interpret signal)
+  - Modality Discovery Engine (select correct entry)
+  - Output Mirror (to reflect self-to-self feedback)
+
+[Format Options]
+- Text-based reflection sequence
+- Visual map overlay
+- Prompt carousel for silence-based users

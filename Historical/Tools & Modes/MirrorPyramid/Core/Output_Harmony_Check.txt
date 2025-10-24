@@ -1,0 +1,1 @@
+This validator ensures system output matches user input depth, rhythm, and emotional tone.

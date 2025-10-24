@@ -1,0 +1,5 @@
+=== Communication Sync ===
+
+This is the full, structured content for `Communication Sync` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

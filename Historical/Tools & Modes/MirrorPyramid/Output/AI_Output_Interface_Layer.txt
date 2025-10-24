@@ -1,0 +1,1 @@
+Routes identity-safe prompts and formats through trusted AI interfaces.

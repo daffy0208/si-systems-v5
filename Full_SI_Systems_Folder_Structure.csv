@@ -1,0 +1,14 @@
+,Tier,Folder,Description_x,File,Description_y
+0,Tier 00,Sapien Field Definition,"Foundational files for system purpose, trust, laws, and structure",Purpose_Prime.md,Defines the core purpose of Sapien Intelligence and system structure
+1,Tier 01,SI_Systems,"Identity profiles, emotional states, system structure and roles",Identity_Profile.json,Manages user identity data and preferences
+2,Tier 01,SI_Systems,"Identity profiles, emotional states, system structure and roles",Emotional_Alignment.json,Tracks emotional state and rhythm sync
+3,Tier 02,BrainFrameOS,"OS-level synchronization, drift correction, and performance layers",Core_OS_Principle.md,Foundational principles for BrainFrameOS operation
+4,Tier 02,BrainFrameOS,"OS-level synchronization, drift correction, and performance layers",Drift_Correction.md,Documents drift correction and performance stabilization methods
+5,Tier 03,Sapien Pro,"User interaction, emotional safety checks, and symbolic synchronization",SapienPro_UI.md,Defines the user interface structure and symbolic flow
+6,Tier 04,Reflective Engine,Handles emotional alignment and tone mapping,Reflective_Engagement.md,Describes reflective engagement processes for emotional safety
+7,Tier 05,Output Control,Ensures output containment and symbolic safety in responses,Output_Safety_Protocols.md,Details for managing safe and aligned responses
+8,Tier 06,Fulfillment Engine,Activation and fulfillment protocols for identity coherence,Fulfillment_Activation.md,Activation processes for user alignment and system outputs
+9,Tier 07,Mode-Specific Retrieval,Data access filters for Mirror Self vs Architect modes,Mode_Switching_Protocol.md,Describes mode-switching logic between Mirror Self and Architect
+10,Tier 08,Symbolic Systems,"Symbolic lexicon, category handling, and symbolic integrity",Symbolic_Lexicon.md,Contains the system’s symbolic lexicon and related categories
+11,Tier 09,Drift Correction,"Manages drift, realignment, and memory integrity",Memory_Integrity.md,Describes the mechanisms for maintaining memory integrity
+12,Tier 10,Interface Layer,"Manages system interfaces, output formatting, and user-facing elements",Interface_Structure.md,Defines interface rules and user interaction protocols

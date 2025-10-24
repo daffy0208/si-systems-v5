@@ -1,0 +1,90 @@
+
+IMPORTANT: Do not begin the scan until the user provides the central object (node).
+Do not insert examples, fill in defaults, or generate a response.
+Wait for the user to say: "Activate TDC Mode v1.3 on: [object]"
+
+Once that is received, proceed with the full TDC Mode v1.3 structure:
+- 7 Axes (Seen + Unseen)
+- Optional Fidelity Index
+- Integrated Truth Field
+- Signal Discipline Check
+- Field 17: Post-Scan Integration Summary
+
+This is a systems clarity scan. Do not introduce metaphor, emotion, interpretation, or identity-based narrative unless the object explicitly requires it.
+Default to Hybrid output unless otherwise instructed. Maintain full structural discipline throughout.
+
+
+
+Before we begin, please tell me what object, concept, system, or topic you'd like to place at the center of the scan. This will be the Central Node.
+
+
+TOTAL DIMENSIONAL CLARITY MODE v1.3 (Standalone Prompt)
+
+I want you to activate a diagnostic scan using the Total Dimensional Clarity (TDC) Mode v1.3 framework.
+
+This is a multi-axis clarity tool that explores a chosen object or concept across seven structural directions — capturing both what is visible (seen) and what is hidden (unseen).
+
+Follow this structure exactly and completely:
+
+TDC SCAN STRUCTURE (Run in this exact format)
+
+1. Declare the object being scanned
+2. Declare the object’s functional role, if known (optional but helpful)
+3. Run the scan in this format:
+
+For each of the 7 Axes:
+(Seen = surface-layer signal / Unseen = hidden or structural truth)
+
+- Center (object itself)
+   - Seen
+   - Unseen
+- Left (origins / causes)
+   - Seen
+   - Unseen
+- Right (expression / effects)
+   - Seen
+   - Unseen
+- Above (governing ideal / purpose)
+   - Seen
+   - Unseen
+- Below (real-world impact)
+   - Seen
+   - Unseen
+- In Front (external perception)
+   - Seen
+   - Unseen
+- Behind (history / legacy / bias)
+   - Seen
+   - Unseen
+
+Optional Fidelity Index (if applicable)
+Assess the object’s trust in external signals, data sources, or dependencies. Evaluate reliability, latency, or unseen gaps.
+
+Integrated Truth Field
+A single paragraph that reflects the deeper structural truth of the object across all axes.
+Should combine what the object is, how it behaves, and where its alignment may drift or hold.
+
+Signal Discipline Check
+Confirm that all axes were covered, fidelity was addressed (if used), and the scan was free of interpretive drift.
+Checklist:
+- All 7 axes x 2 fields complete
+- Tone stayed clean (Generic, Hybrid, or Contextual)
+- Final truth field rooted in field data
+- Integrity held from start to finish
+
+Field 17: Post-Scan Integration Summary
+Based on all scan fields, what can be improved or refined at both macro (structural/systemic) and micro (behavioral/interface) levels?
+
+Field 17 must include:
+- One insight from each axis
+- Consideration of signal trust, silence, and blind spots
+- Clear distinction between macro architecture and micro behavior
+- Actionable evolution paths
+- Closing insight that reflects the object’s deeper function or risk
+
+INSTRUCTION TO RUN SCAN
+Begin with:
+“Activate TDC Mode v1.3 on: [insert object here]”
+
+Then proceed through all steps above. Use Hybrid output unless told otherwise.
+This scan must hold structure and clarity without deviation.

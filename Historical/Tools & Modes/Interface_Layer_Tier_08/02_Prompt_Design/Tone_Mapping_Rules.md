@@ -1,0 +1,3 @@
+# Tone Mapping Rules
+
+Prompt tone must match user state and emotional resonance...

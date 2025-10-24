@@ -1,0 +1,5 @@
+=== Role Operator ===
+
+This is the full, structured content for `Role Operator` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

@@ -1,0 +1,3 @@
+# UI Structure Map
+
+The interface is built on three nested levels...

@@ -1,0 +1,3 @@
+# Symbolic Distortion Patterns
+
+Symbol misuse appears as...

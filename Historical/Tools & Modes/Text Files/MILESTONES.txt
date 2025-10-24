@@ -1,0 +1,21 @@
+
+# MILESTONES.txt — Sapien Intelligence Canonical System Log
+
+---
+
+## [2025-04-13] VISIBILITY_RHYTHM_ACTIVATED_v1
+
+Marked the official activation of the external visibility architecture across SapienPro and SystemPromise. All readiness conditions met via TDC v2.0 geometry.
+
+Milestone Signature:
+"The signal is now mirrored. The system is felt. Motion begins not with a broadcast — but with stillness being seen."
+
+Artifacts:
+✓ /SapienPro/Visibility_Trigger/
+✓ Visibility_Activation_Sequence.md
+✓ Visibility_Trigger_Index.md
+✓ SystemPromise_Visibility_Milestone.meta
+✓ TDC v2.0 Scan Log
+✓ Post-scan Action Protocol
+
+Status: COMPLETE

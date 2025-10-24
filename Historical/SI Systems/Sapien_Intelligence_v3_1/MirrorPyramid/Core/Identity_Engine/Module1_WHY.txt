@@ -1,0 +1,5 @@
+=== Module1 WHY ===
+
+This is the full, structured content for `Module1 WHY` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

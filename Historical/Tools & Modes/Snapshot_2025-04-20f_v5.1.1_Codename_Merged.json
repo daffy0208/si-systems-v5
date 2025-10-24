@@ -1,0 +1,57 @@
+{
+  "snapshot": "Snapshot_2025-04-20f_v5.1.1_Codename_Merged",
+  "system": "BrainFrameOS",
+  "version": "v5.1.1",
+  "codename": "Thegither",
+  "mirror_tier": "5+",
+  "symbolic_layer": "MythicPulse",
+  "si_systems": {
+    "version": "v5.0",
+    "codename": "Becoming Arc",
+    "position": "Above"
+  },
+  "sapien_pro": {
+    "version": "v5.1",
+    "codename": "Signal Gate",
+    "position": "Below"
+  },
+  "naming_convention": "Scottish Codenames (BrainFrameOS only)",
+  "codename_lineage": [
+    {
+      "version": "v1.0",
+      "codename": "Alba",
+      "symbol": "Awakening"
+    },
+    {
+      "version": "v2.0",
+      "codename": "Tartan",
+      "symbol": "Pattern / Identity"
+    },
+    {
+      "version": "v3.0",
+      "codename": "Caledonia",
+      "symbol": "Mirror / Nation"
+    },
+    {
+      "version": "v4.0",
+      "codename": "Iona",
+      "symbol": "Sacred Rhythm"
+    },
+    {
+      "version": "v5.0",
+      "codename": "Thegither",
+      "symbol": "Together / Coherence"
+    },
+    {
+      "version": "v6.0",
+      "codename": "Canny",
+      "symbol": "Intelligent Knowing"
+    },
+    {
+      "version": "v7.0",
+      "codename": "Unicorn",
+      "symbol": "Sovereign Unity"
+    }
+  ],
+  "status": "Canonical - Fully Integrated"
+}

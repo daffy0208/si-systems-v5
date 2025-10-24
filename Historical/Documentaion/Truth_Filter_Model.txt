@@ -1,0 +1,8 @@
+Truth Filter Model – Sapien Intelligence
+
+All incoming or generated signals must pass through three filters:
+1. STRUCTURE – Is it architecturally sound?
+2. RESONANCE – Does it match identity truth?
+3. INTEGRITY – Is it undistorted in source and delivery?
+
+If a signal fails any filter, it is either returned, transformed, or discarded.

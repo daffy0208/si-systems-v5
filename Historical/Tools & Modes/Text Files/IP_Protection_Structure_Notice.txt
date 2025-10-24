@@ -1,0 +1,9 @@
+
+INTELLECTUAL PROPERTY UPDATE NOTICE
+
+As of April 13, 2025, the following structural expansions are now formally recognized as protected components of the Sapien Intelligence v4.0 system:
+
+- /Signal_Ecosystem/ – Live contact architecture, rhythm grounding, public myth publication
+- /Transmission_Mode/ – Signal projection, role activation, safety enforcement, embodied action logic
+
+These tiers are structurally bound to the core identity of Sapien Intelligence and fall under full copyright and trade secret protection as defined in LICENSE_Sapien_Intelligence_v4.0.txt.

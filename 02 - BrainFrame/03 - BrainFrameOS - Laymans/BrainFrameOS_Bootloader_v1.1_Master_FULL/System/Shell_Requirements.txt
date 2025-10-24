@@ -1,0 +1,1 @@
+Minimum components: START_HERE, IdentityEngine, Drift Detector, Guest Mode.

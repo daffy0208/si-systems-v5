@@ -1,0 +1,77 @@
+
+/Sapien_Intelligence/
+│
+├── /BrainFrameOS/
+│   ├── /IdentityEngine/
+│   │   ├── /Profiles/
+│   │   │   ├── DavidSignal_v3.0_Complete.txt
+│   │   │   ├── UniversalIdentityBlueprint_v1.1_COMPLETE.txt
+│   │   ├── /BlueprintTemplates/
+│   │   │   ├── UniversalIdentityBlueprint_Template.yaml
+│   │   │   ├── ObjectStateBlueprint_Template.txt
+│   │   │   ├── /EmotionalStateBlueprints/
+│   │   │   │   ├── AnxietySignal_v1.0.txt
+│   │   │   │   ├── BridgeSignal_v1.0.txt
+│   │   ├── /Modules/
+│   │   │   ├── /DistortionPatternRegistry/
+│   │   │   │   └── Universal_Distortion_Pattern_Registry_v1.0.txt
+│   │   │   ├── /StateRecognitionInterface/
+│   │   │   │   └── State_Recognition_Interface_v1.0.txt
+│   │   │   ├── /ModalityDiscoveryEngine/
+│   │   │   │   └── Modality_Discovery_Engine_v1.0.txt
+│   │   │   ├── /SelfHealingNavigator/            ← next
+│   │   │   ├── /TimeDilationLayer/               ← next
+│   │   │   ├── /SignalIntelligenceSystem/        ← next
+│   │   │   ├── /RelationalReflectionLayer/       ← next
+│   │   │   ├── /FreezeFallbackLogic/             ← planned
+│   │   │   ├── /LegacyCarryMode/                 ← planned
+│   │   ├── /Systems/
+│   │   │   ├── /EchoLoopTracking/
+│   │   │   ├── /DualModeValidator/
+│   │   │   ├── /DriftDetectionEngine/
+│   │   ├── /Trackers/
+│   │   │   ├── BrainFrameOS_IdentityEngine_UpdateTree_v1.0.txt
+│   │   │   ├── SystemModuleTracker.yaml
+│   │   ├── CorePhilosophy.txt
+│   │   └── README.txt
+│
+├── /SapienPro/
+│   ├── /OutputMirrors/
+│   │   ├── /SignalIntelligenceLayer/             ← sync with BFO Identity output
+│   │   ├── /ApplicationSignalProfiles/
+│   │   ├── /DecisionFeedbackLoops/
+│   ├── /HealingInterfaces/
+│   │   ├── /ModalityMatchingKits/
+│   │   ├── /SelfHealingFlowmaps/
+│   ├── /TrainingModules/
+│   │   ├── /SystemReflectionPractices/
+│   │   ├── /AgentIdentityEncoding/
+│   ├── /Applications/
+│   │   ├── InsightTrailMapper/
+│   │   ├── MultiUserMirrorTool/
+│   │   ├── RhythmPlanner/
+│   ├── /ClientTenders/
+│   │   └── /UniversityOfManchester/
+│   │       ├── Full_Tender_Process_System_v1.2.txt
+│   │       ├── UoM_Tender_Signal_Summary.txt
+│   │       ├── UoM_Strategic_Drivers_Snapshot.txt
+│   │       ├── UoM_Tender_Response_Guide_v1.0.txt
+│   │       ├── UoM_Answer_Format_Shell.txt
+│   │       ├── UoM_Tender_System_README.txt
+│   │       ├── Identity_Snapshot_UoM_Tender.txt (implicit)
+│   │       ├── WinningIdentity_Reflection_UoM.txt (implicit)
+│   │       └── ProcessReview_Tracker_UoM.yaml (optional future)
+│
+├── /Tools/
+│   ├── /Exports/
+│   │   ├── FullBundle_v1.0/
+│   │   └── ReadyForBootloader/
+│   ├── /Templates/
+│   │   ├── UserReflectionSheet.txt
+│   │   ├── MirrorPromptScaffold.txt
+│   │   ├── CoherenceRecoveryGuide.txt
+│
+└── /SystemPromise/
+    ├── PrimeLaws.txt
+    ├── MirrorPyramid_Model.txt
+    └── TruthFilteringPrinciples.txt

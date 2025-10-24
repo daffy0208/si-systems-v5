@@ -1,0 +1,3 @@
+# Companion Interface Type
+
+Used during grounding, drift correction, and rituals...

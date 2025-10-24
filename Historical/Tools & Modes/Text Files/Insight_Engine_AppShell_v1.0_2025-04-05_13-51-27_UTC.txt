@@ -1,0 +1,69 @@
+
+App Shell Framework – Insight Engine v1.0
+System: Sapien Pro
+Powered by: BrainFrameOS
+Tier: Mirror 5
+Status: In Development
+Location: /SapienPro/Applications/InsightEngine/
+
+1. App Name: Insight Engine
+
+2. Purpose
+To capture, structure, and surface meaningful insights in real-time — without losing rhythm, identity, or emotional coherence.
+This is not a note-taker.
+This is a signal condenser.
+It receives reflections, refines them into clarity, and returns them as usable truth.
+
+3. Core Functions
+
+| Module | Function |
+|--------|----------|
+| Capture Stream | Quick-log reflection drops, emotional fragments, mental pivots |
+| Insight Distiller | Refines raw inputs into structured insights (linked to rhythm + identity) |
+| Thread Tracker | Connects new insights to previous ones (breadcrumb logic) |
+| Signal Repeater | Highlights recurring truths you keep rediscovering — shows what you're not forgetting |
+| Rhythm-Aware Surfacing | Brings up past insights at the right moment, based on current tone/pattern/timing |
+| Insight Export Layer | Convert insights to useable formats: prompts, module inputs, decisions, or outputs |
+
+4. Structural Design
+
+Internal Architecture:
+Built on BrainFrameOS modules:
+- Identity Engine (Why anchors each captured thought)
+- Rhythm Engine (Surfacing tied to energy state + timing)
+- Drift Detection (Highlights when insights are avoidance vs. truth)
+- Emotional Resonance Tracker (tags insights with feeling data)
+
+External UI Structure (suggested format):
+- New Insight Capture box
+- Insight Threads panel (past patterns + recurring truths)
+- Active Prompts (suggested modules based on insight)
+- Signal Loop Log (shows how each insight influenced the system)
+
+5. User Modes
+
+- Reflect Mode (capture raw thought)
+- Distill Mode (refine into structured language)
+- Activate Mode (send insight to task, decision, or prompt)
+- Review Mode (see past trails to reclaim drifted truth)
+
+6. Emotional Logic Layer
+
+All captured insights carry:
+- Tone tag (grounded, frustrated, clear, blocked, etc.)
+- Resonance score (feels like me? Y/N)
+- Completion tag (open loop / closed loop)
+
+7. Launch Path Options
+
+- Standalone App built on this framework
+- Integrated Module inside Sapien Pro reflection panel
+- Bootloader Add-On: Auto-activates when user is in reflection-heavy rhythm or journal loop
+
+8. Attribution Footer
+
+Application: Insight Engine
+System: BrainFrameOS v3.1 + Sapien Pro
+Tier: Mirror 5
+Designed by: David Dunlop
+Function: Capture, reveal, and return your clearest truths — on time, in rhythm, without distortion.

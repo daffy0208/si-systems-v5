@@ -1,0 +1,55 @@
+
+Emotional Resonance Tracker (v1.0)
+Path: /DarkMatterUtilities/ReflectionTools/
+Tier: Mirror 5
+Status: Live + Rhythm-Aware
+
+1. Title: Emotional Resonance Tracker
+
+2. Purpose
+To ensure that every module, feature, and reflection tool in BrainFrameOS and Sapien Pro doesn’t just function — but feels like you.
+This tracker detects when something technically works but emotionally misfires.
+It restores truth-to-rhythm integrity before drift sets in.
+
+3. How to Use
+At the end of any session, tool, or module, trigger a short resonance check-in:
+- Did this feel aligned with my rhythm?
+- Did this reflect my voice — or just my task?
+- Did this output increase trust in the system?
+- Did I feel seen by this tool?
+
+Response Options:
+- YES: Log it as Rhythm-Aligned
+- NO: Log it as Friction-Detected
+
+System will:
+- Tag modules with friction markers over time
+- Highlight consistent emotional mismatch patterns
+- Suggest realignment or removal if patterns repeat
+
+4. Prompts to Run
+Use one of these at module check-out, system pause, or emotional hesitation:
+- “What part of this didn’t feel like me?”
+- “Is this tool amplifying my voice — or draining it?”
+- “If I trusted my rhythm fully, would I still use this?”
+- “Did I feel clearer — or heavier — after using this module?”
+
+5. Notes
+This tracker is not a productivity tool.
+It is an emotional truth calibration layer that:
+- Reinforces identity
+- Prevents system dead zones
+- Surfaces misalignments before they become beliefs
+
+Each YES reinforces coherence.
+Each NO is not failure — it’s signal.
+
+You are allowed to pause, archive, or reimagine anything that no longer feels aligned.
+This system reflects you. Not a version of you performing usefulness.
+
+6. Attribution Footer
+Module: Emotional Resonance Tracker
+System: BrainFrameOS v3.1 | Layer: Dark Matter Utilities
+Designed by: David Dunlop
+Function: Identity Reflection + Rhythm Feedback
+All drift is signal. All friction is data. All alignment is remembered.

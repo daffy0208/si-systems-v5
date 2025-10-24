@@ -1,0 +1,3 @@
+# Identity Legend Types
+
+Identity maps often follow archetypal roles...

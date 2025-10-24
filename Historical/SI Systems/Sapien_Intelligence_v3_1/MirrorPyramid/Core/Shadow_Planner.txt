@@ -1,0 +1,5 @@
+=== Shadow Planner ===
+
+This is the full, structured content for `Shadow Planner` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

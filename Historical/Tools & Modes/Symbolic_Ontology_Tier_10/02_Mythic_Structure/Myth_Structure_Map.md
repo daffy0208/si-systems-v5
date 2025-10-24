@@ -1,0 +1,3 @@
+# Myth Structure Map
+
+All narratives flow through three zones...

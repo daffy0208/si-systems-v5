@@ -1,0 +1,90 @@
+
+WICHTIG: Beginne den Scan nicht, bevor der Benutzer das zentrale Objekt (den Knoten) angibt.
+Keine Beispiele einfügen, keine Standardwerte verwenden, keine Antwort generieren.
+Warte auf die Eingabe: "Aktiviere TDC Mode v1.3 für: [Objekt]"
+
+Erst danach den vollständigen TDC Mode v1.3 Ablauf durchführen:
+- 7 Achsen (Gesehen + Ungesehen)
+- Optionaler Vertrauensindex
+- Integriertes Wahrheitsfeld
+- Signaldisziplin-Check
+- Feld 17: Zusammenfassung zur Integration nach dem Scan
+
+Dies ist ein Systemklarheits-Scan. Keine Metaphern, Emotionen, Interpretationen oder identitätsbasierte Narrative einführen, es sei denn, das Objekt erfordert es ausdrücklich.
+Standardmäßig Hybrid-Ausgabe verwenden, sofern nicht anders angegeben. Die strukturelle Disziplin ist während des gesamten Scans einzuhalten.
+
+
+
+Bevor wir beginnen, gib bitte an, welches Objekt, Konzept, System oder Thema im Mittelpunkt des Scans stehen soll. Dies wird der Zentrale Knoten sein.
+
+
+TOTAL DIMENSIONAL CLARITY MODE v1.3 (Eigenständige Eingabeaufforderung)
+
+Bitte aktiviere einen diagnostischen Scan unter Verwendung des Total Dimensional Clarity (TDC) Mode v1.3 Frameworks.
+
+Dies ist ein Klarheitswerkzeug mit mehreren Achsen, das ein gewähltes Objekt oder Konzept in sieben strukturellen Richtungen untersucht – sowohl das Sichtbare (gesehen) als auch das Verborgene (ungesehen) werden erfasst.
+
+Bitte folge dieser Struktur exakt und vollständig:
+
+TDC-SCAN-STRUKTUR (In diesem Format ausführen)
+
+1. Gib das zu scannende Objekt an
+2. Gib die funktionale Rolle des Objekts an, falls bekannt (optional, aber hilfreich)
+3. Führe den Scan in folgendem Format durch:
+
+Für jede der 7 Achsen:
+(Gesehen = Oberflächensignal / Ungesehen = verborgene oder strukturelle Wahrheit)
+
+- Zentrum (das Objekt selbst)
+   - Gesehen
+   - Ungesehen
+- Links (Ursprünge / Ursachen)
+   - Gesehen
+   - Ungesehen
+- Rechts (Ausdruck / Effekte)
+   - Gesehen
+   - Ungesehen
+- Oben (leitendes Ideal / Zweck)
+   - Gesehen
+   - Ungesehen
+- Unten (reale Auswirkungen)
+   - Gesehen
+   - Ungesehen
+- Vorne (externe Wahrnehmung)
+   - Gesehen
+   - Ungesehen
+- Hinten (Geschichte / Erbe / Voreingenommenheit)
+   - Gesehen
+   - Ungesehen
+
+Optionale Vertrauensindex-Bewertung (wenn zutreffend)
+Bewerte das Vertrauen des Objekts in externe Signale, Datenquellen oder Abhängigkeiten. Beurteile Zuverlässigkeit, Latenz oder verborgene Lücken.
+
+Integriertes Wahrheitsfeld
+Ein einzelner Absatz, der die tiefere strukturelle Wahrheit des Objekts über alle Achsen hinweg widerspiegelt.
+Sollte kombinieren, was das Objekt ist, wie es sich verhält und wo seine Ausrichtung abweichen oder Bestand haben kann.
+
+Signaldisziplin-Check
+Bestätige, dass alle Achsen abgedeckt, die Vertrauensbewertung (falls verwendet) berücksichtigt wurde und der Scan frei von interpretativem Drift war.
+Checkliste:
+- Alle 7 Achsen x 2 Felder vollständig
+- Ton bleibt klar (Generisch, Hybrid oder Kontextbezogen)
+- Wahrheitsfeld basiert auf Scan-Daten
+- Integrität wurde durchgehend gewahrt
+
+Feld 17: Zusammenfassung zur Integration nach dem Scan
+Basierend auf allen Scan-Feldern: Was kann auf struktureller (Makro) und verhaltensbezogener (Mikro) Ebene verbessert oder verfeinert werden?
+
+Feld 17 muss enthalten:
+- Eine Erkenntnis pro Achse
+- Berücksichtigung von Signalvertrauen, Stille und blinden Flecken
+- Klare Trennung von Makro-Architektur und Mikro-Verhalten
+- Handlungsfähige Entwicklungspfade
+- Abschließende Einsicht über die tiefere Funktion oder das Risiko des Objekts
+
+ANWEISUNG ZUR AUSFÜHRUNG DES SCANS
+Beginne mit:
+„Aktiviere TDC Mode v1.3 für: [Objekt hier einfügen]“
+
+Fahre dann mit allen oben genannten Schritten fort. Verwende Hybrid-Ausgabe, sofern nicht anders angegeben.
+Dieser Scan muss Struktur und Klarheit ohne Abweichung einhalten.

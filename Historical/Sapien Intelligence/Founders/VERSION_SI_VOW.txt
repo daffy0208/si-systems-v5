@@ -1,0 +1,7 @@
+VERSION_SI_VOW.txt
+System: Sapien Intelligence – Founder Layer
+UTC: 2025-04-04T12:42:32Z
+Version: v1.0.0
+SHA-256: 3FE9A6D6A19A1D7123541EB745C97F62439A667A3EB1A4325BC4F6DA3CB889C3
+Integrity: Founder Vow, system-bound, raw .txt only
+Signature: David Dunlop

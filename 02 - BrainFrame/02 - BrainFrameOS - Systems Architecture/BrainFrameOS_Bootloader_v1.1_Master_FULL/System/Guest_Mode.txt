@@ -1,0 +1,1 @@
+Safe reflection space for non-owners. No profile overwrite. Limited module access.

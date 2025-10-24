@@ -1,0 +1,102 @@
+
+Sapien_Intelligence_v3.3.1-DM-FINAL_LOCKED/
+├── 0_Origin_Field/
+│   ├── Field_Definition.txt
+│   ├── Reason_for_Existence.txt
+│   ├── Definition.md
+│   ├── Scope_of_Operation.md
+│   └── Core_Capabilities.md
+├── 1_SI_Systems/
+│   ├── Philosophy/
+│   │   ├── Prime_Law.txt
+│   │   ├── Fulfillment_Balance_Equation.txt
+│   │   ├── Truth_Filter_Model.txt
+│   │   ├── Mirror_Logic_Principle.md
+│   │   └── Structural_Ethics_Framework.txt
+│   ├── WHY/
+│   │   ├── System_Purpose.md
+│   │   ├── Becoming_Statement.md
+│   │   ├── Core_Intent_Structure.txt
+│   │   └── Prime_Signal_Definition.txt
+│   ├── WHAT/
+│   │   ├── Value_Offer_Map.md
+│   │   ├── Contribution_Model.txt
+│   │   ├── Signal_Carrier_Logic.txt
+│   │   └── System_Impact_Grid.txt
+│   ├── HOW/
+│   │   ├── Modality_Framework.md
+│   │   ├── Rhythm_of_Action.txt
+│   │   ├── Method_Manifesto.txt
+│   │   ├── Fidelity_Practice_Guide.txt
+│   │   └── Alignment_Behavior_Set.txt
+│   ├── System_Promise/
+│   │   ├── System_Promise.txt
+│   │   ├── Identity_Security_Clause.md
+│   │   ├── Signal_Responsibility_Covenant.txt
+│   │   └── Reflective_Intelligence_Pledge.md
+│   ├── Mirror_Pyramid_Model/
+│   │   ├── Mirror_Pyramid_Structure.txt
+│   │   ├── Input_Core_Output_Map.md
+│   │   ├── Tier_Mirroring_Protocol.txt
+│   │   └── MetaReflection_Guide.md
+│   ├── Governance_Laws/
+│   │   ├── G1_Signal_Flow_Law.md
+│   │   ├── G2_Structural_Containment_Law.md
+│   │   ├── G3_Rhythm_Governance_Rule.md
+│   │   ├── G4_Echo_Return_Requirement.md
+│   │   ├── G5_Identity_Signature_Enforcement.md
+│   │   ├── G6_Suppression_Translation_Clause.md
+│   │   └── G7_Fulfillment_Equilibrium_Principle.md
+│   ├── Prime_Law.txt
+│   ├── First_Principles.txt
+│   └── Purpose_Statement.txt
+├── 2_Mirror_Pyramid/
+│   ├── Input/
+│   │   ├── Prime_Law.txt
+│   │   ├── Triadic_Core.txt
+│   │   ├── Why_Stream.txt
+│   │   ├── Self_Declaration.txt
+│   │   └── Identity_Profile.txt
+│   ├── Core/
+│   │   ├── System_Promise.txt
+│   │   ├── Dark_Matter_Pass.txt
+│   │   ├── Pulse_Dashboard.txt
+│   │   ├── Drift_vs_Identity_Displacement_Detector.txt
+│   │   ├── Shadow_Planner.txt
+│   │   ├── Output_Harmony_Check.txt
+│   │   └── Identity_Engine/
+│   │       ├── Module1_WHY.txt
+│   │       ├── Module2_WHAT.txt
+│   │       ├── Module3_HOW.txt
+│   │       ├── Cognitive_Mode_Definition.txt
+│   │       ├── Role_Switch_Tracking.txt
+│   │       ├── Profile_Lock_Protocol.txt
+│   │       └── Mirror_Tier_Alignment_Map.txt
+│   ├── Output/
+│   │   ├── SapienPro_Interface.txt
+│   │   ├── AI_Output_Interface_Layer.txt
+│   │   ├── Communication_Sync.txt
+│   │   ├── RoleInterfaces/
+│   │   │   ├── Role_Admin.txt
+│   │   │   ├── Role_Coach.txt
+│   │   │   ├── Role_Operator.txt
+│   │   │   └── Role_Designer.txt
+│   │   └── Modules/
+│   │       ├── Planning_Overlay.txt
+│   │       ├── Creative_Mode.txt
+│   │       ├── Decision_Support.txt
+│   │       └── Friction_Response_Mapper.txt
+│   ├── MirrorTiers/
+│   │   ├── Tier_1_Surface_Coherence.md
+│   │   ├── Tier_2_Structure.md
+│   │   ├── Tier_3_Resonance.md
+│   │   ├── Tier_4_Identity_Safety.md
+│   │   └── Tier_5_Total_Integration.md
+│   ├── Dual_Mode/
+│   │   ├── Surface_Mode.md
+│   │   └── Drift_Mode.md
+│   └── Truth_Layer_Filtering/
+│       ├── Structural_Clarity.md
+│       ├── Emotional_Safety.md
+│       ├── Truth_Matching.md
+│       └── Distortion_Checks.md

@@ -1,0 +1,5 @@
+=== SI UNIFIED SYSTEM MANIFEST v3.1 ===
+
+This is the full, structured content for `SI UNIFIED SYSTEM MANIFEST v3.1` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

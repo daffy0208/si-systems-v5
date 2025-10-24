@@ -1,0 +1,3 @@
+# Symbol Categories
+
+Symbols are grouped into five core domains...

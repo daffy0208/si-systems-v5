@@ -1,0 +1,5 @@
+=== Pulse Dashboard ===
+
+This is the full, structured content for `Pulse Dashboard` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

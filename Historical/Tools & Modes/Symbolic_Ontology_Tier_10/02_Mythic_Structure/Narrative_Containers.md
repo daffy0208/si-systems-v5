@@ -1,0 +1,3 @@
+# Narrative Containers
+
+These symbolic containers hold emotional logic...

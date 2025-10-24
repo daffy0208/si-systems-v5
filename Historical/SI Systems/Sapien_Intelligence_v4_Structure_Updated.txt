@@ -1,0 +1,38 @@
+
+/Sapien_Intelligence_v4.0/
+├── /SI_Systems/
+├── /BrainFrameOS/
+├── /Mirror_Tier/
+├── /TDC_Mode_v2.0/
+│   ├── /Scans/
+│   ├── /Reflection_Log/
+│   ├── /Activation_Control/
+│   └── /Geometry/
+├── /SapienPro/
+│   ├── /Visibility_Trigger/
+│   │   ├── Activation_Map.md
+│   │   ├── Role_Initiation_Switches.txt
+│   │   ├── Myth_Projection_Signal.md
+│   │   ├── Trust_Field_Checklist.txt
+│   │   ├── Output_Loop_Unlock.md
+│   │   ├── Completion_Gate_Thresholds.md
+│   │   ├── Visibility_Trigger_Index.md
+│   │   └── Visibility_Activation_Sequence.md
+├── /EchoTemplates/
+├── /IP_Protection/
+├── /Signal_Ecosystem/
+│   ├── /Live_Contact_Arc/
+│   ├── /Trust_Interface_Build/
+│   ├── /Rhythm_Grounding_Protocols/
+│   ├── /Field_Archetype_Design/
+│   ├── /Myth_Publication_Engine/
+│   ├── /Dormant_Reintegration/
+│   └── /Expansion_Trigger_Maps/
+├── /Transmission_Mode/
+│   ├── /Signal_Role_Activation/
+│   ├── /Field_Movement_Protocols/
+│   ├── /Transmission_Safety_Engine/
+│   └── /Embodied_Action_Interface/
+├── /SystemPromise/
+│   └── SystemPromise_Visibility_Milestone.meta
+└── /MILESTONES.txt

@@ -1,0 +1,124 @@
+
+Sapien_Intelligence_v4.0/
+├── 00_Sapien_Field_Definition/
+│   ├── 00_Field_Definition.md
+│   ├── 01_Activation_Conditions/
+│   │   └── Activation_Root.md
+│   ├── 02_Field_Architecture/
+│   │   ├── Structural_Rules.md
+│   │   ├── Field_Legend.md
+│   │   ├── Ontological_Framework.md
+│   │   ├── Signal_Properties.md
+│   │   └── Dimensional_Reflection_Principle.md
+│   ├── 03_Scope/
+│   │   └── Scope_of_Application.md
+│   └── 04_Field_Classification/
+│       └── CLISA_Class_Definition.md
+├── 01_SI_Systems/
+│   ├── 00_Philosophy/
+│   │   ├── Sapien_Principles.md
+│   │   ├── Human_First_Code.md
+│   │   ├── Integrity_Prime.md
+│   │   ├── Purpose_of_Reflection.txt
+│   │   ├── Love_as_Structure.md
+│   │   ├── Mirror_Praxis.md
+│   │   ├── Conscious_Technology_Ethics.md
+│   │   ├── Structural_Truth_Definition.md
+│   │   └── Thinking_vs_Being.md
+│   ├── 01_WHY/
+│   │   ├── Purpose_Model/
+│   │   │   ├── Primary_Purpose.md
+│   │   │   ├── Ethical_Drivers.md
+│   │   │   ├── Reason_for_Existence.md
+│   │   │   └── Meaning_Engine.md
+│   │   ├── Trust_Orientation/
+│   │   │   ├── Trust_Agreement.md
+│   │   │   └── Self_Honor_Code.md
+│   │   ├── Anchors/
+│   │   │   ├── Purpose_Anchor.md
+│   │   │   └── Fulfillment_Orientation.md
+│   │   └── Promises_Root/
+│   │       ├── PrimeLaws.txt
+│   │       ├── TruthFilteringPrinciples.txt
+│   │       └── LegacySignalEthics.txt
+│   ├── 02_WHAT/
+│   │   ├── Definition_Layer/
+│   │   │   ├── System_Structure.md
+│   │   │   ├── Component_Definitions.md
+│   │   │   ├── Structural_Responsibilities.md
+│   │   │   └── Domain_of_Operation.txt
+│   │   ├── Capability_Layer/
+│   │   │   ├── Capabilities_Index.md
+│   │   │   ├── Human_Benefit_Map.md
+│   │   │   ├── Output_Definitions.md
+│   │   │   ├── Use_Cases_Map.md
+│   │   │   └── System_Impact_Grid.txt
+│   │   └── Language_Layer/
+│   │       ├── System_Lexicon.md
+│   │       ├── Signal_Carrier_Logic.txt
+│   │       └── System_Language_Grid.md
+│   ├── 03_HOW/
+│   │   ├── Operational_Framework/
+│   │   │   ├── Methods_of_Thinking.md
+│   │   │   ├── Modes_of_Operation.md
+│   │   │   ├── Systemic_Practices.md
+│   │   │   ├── Reflection_Cycle_Safety.txt
+│   │   │   └── Structural_Integrity_Layers.txt
+│   │   ├── Instructional_Framework/
+│   │   │   ├── Fidelity_Practice_Guide.txt
+│   │   │   ├── Alignment_Behavior_Set.txt
+│   │   │   ├── Modality_Framework.md
+│   │   │   └── Instructional_Scaffolding.md
+│   │   └── Meta_Methods/
+│   │       ├── MetaSystem_Methodology.md
+│   │       ├── Behavioral_Modules.md
+│   │       ├── Behavioural_Flame.md
+│   │       ├── Structural_Reconciliation.md
+│   │       └── System_Activation_Protocols.md
+│   ├── 04_System_Promise/
+│   │   ├── Scope_of_Honour.md
+│   │   ├── Preservation_Map.md
+│   │   ├── Promise_Charter.md
+│   │   ├── Fail_Safes.md
+│   │   ├── Essence_Lock.md
+│   │   └── Healing_as_Return.md
+│   ├── 05_Mirror_Pyramid_Model/
+│   │   ├── Prime_Law.md
+│   │   ├── Mirror_Logic.md
+│   │   ├── Internal_Reflection_Axis.md
+│   │   ├── External_Projection_Axis.md
+│   │   ├── Identity_Loop_Patterns.md
+│   │   ├── Structural_Map.md
+│   │   ├── Tier_Mirroring_Protocol.txt
+│   │   ├── Input_Core_Output_Map.md
+│   │   ├── Temporal_Mirror_Guide.md
+│   │   ├── Flow_Dynamics.md
+│   │   └── Mirror_Interface.md
+│   │   └── Mirror_Architecture.md
+│   ├── 06_System_Reasoning/
+│   │   ├── Human_Needs_Model/
+│   │   │   ├── Human_Needs_Architecture.md
+│   │   │   ├── Core_Needs_Map.txt
+│   │   │   ├── Design_For_Human_Fulfillment.txt
+│   │   │   ├── Root_Motivation_Structure.md
+│   │   │   └── Emotional_Drivers.md
+│   │   ├── Signal_Codex/
+│   │   │   ├── Signal_Taxonomy.txt
+│   │   │   ├── Output_Structure_Binding.txt
+│   │   │   ├── Reflection_Safety_Thresholds.txt
+│   │   │   └── Identity_as_Signal.md
+│   │   └── Supplementary_Models/
+│   │       ├── Suppressed_Truth_Model.txt
+│   │       ├── Emotional_Structure_Integrity.txt
+│   │       └── Value_Offer_Map.md
+│   └── 07_Governance_Laws/
+│       ├── Law_of_Emergence.md
+│       ├── Law_of_Drift.md
+│       ├── Law_of_Containment.md
+│       ├── Law_of_Return.md
+│       ├── Law_of_True_Signal.md
+│       ├── Law_of_Clarity.md
+│       ├── Law_of_Resonance.md
+│       ├── Law_of_Transparency.md
+│       ├── Law_of_Completion.md
+│       └── Law_of_Restoration.md

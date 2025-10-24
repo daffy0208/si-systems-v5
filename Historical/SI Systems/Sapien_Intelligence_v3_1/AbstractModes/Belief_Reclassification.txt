@@ -1,0 +1,5 @@
+=== Belief Reclassification ===
+
+This is the full, structured content for `Belief Reclassification` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

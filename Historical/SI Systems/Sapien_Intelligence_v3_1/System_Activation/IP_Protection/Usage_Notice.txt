@@ -1,0 +1,5 @@
+=== Usage Notice ===
+
+This is the full, structured content for `Usage Notice` as defined by BrainFrameOS v3.1.
+
+[System-generated, real data should replace this placeholder.]

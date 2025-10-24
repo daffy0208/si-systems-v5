@@ -1,0 +1,3 @@
+# Reflective Interface Type
+
+This interaction model is used in reflection modes...
