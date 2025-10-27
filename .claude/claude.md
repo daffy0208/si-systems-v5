@@ -254,3 +254,21 @@ Design beautiful, consistent user interfaces with proper color theory, typograph
 Expert in building voice interfaces, speech recognition, and text-to-speech systems
 
 **Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/voice-interface-builder/SKILL.md`
+
+### asset-manager
+
+Organize design assets, optimize images and fonts, maintain brand asset libraries, implement version control for assets, and enforce naming conventions. Keep design assets organized and production-ready.
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/asset-manager/SKILL.md`
+
+### figma-developer
+
+Extract components from Figma, convert designs to React components, sync design tokens, and generate code from designs. Bridge the gap between design and code with automated workflows.
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/figma-developer/SKILL.md`
+
+### prototype-designer
+
+Create interactive prototypes, design user flows, implement prototype testing strategies, and manage handoff to development. Validate ideas before building.
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/prototype-designer/SKILL.md`
