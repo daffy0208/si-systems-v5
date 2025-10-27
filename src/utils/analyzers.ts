@@ -13,14 +13,22 @@ export function analyzeTone(text: string): string {
 }
 
 export function analyzeValues(text: string, values: string[]): number {
-  // Placeholder - would use semantic similarity
-  let alignment = 1.0;
+  // Simple keyword-based violation detection - would be enhanced with semantic analysis
+  const valueKeywords: Record<string, string[]> = {
+    'transparency': ['hide', 'conceal', 'secret'],
+    'efficiency': ['waste', 'inefficient', 'slow'],
+    'empathy': ['cold', 'harsh', 'dismiss'],
+  };
+
+  let violations = 0;
   for (const value of values) {
-    if (text.toLowerCase().includes(value.toLowerCase())) {
-      alignment -= 0.1;
+    const keywords = valueKeywords[value.toLowerCase()] || [];
+    if (keywords.some(keyword => text.toLowerCase().includes(keyword))) {
+      violations++;
     }
   }
-  return Math.max(alignment, 0);
+
+  return Math.min(violations * 0.3, 1.0);
 }
 
 export function analyzeRhythm(text: string): string {

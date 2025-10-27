@@ -326,7 +326,9 @@ function analyzeStructuredDocuments(docsDir: string, outputFile: string): void {
 
 // ==================== CLI ====================
 
-if (require.main === module) {
+import { fileURLToPath } from 'url';
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] === __filename) {
   const args = process.argv.slice(2);
 
   if (args.length < 2) {

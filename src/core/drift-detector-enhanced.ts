@@ -7,6 +7,7 @@ import { Identity, DriftScore, InteractionContext } from '../types/identity';
 import { DriftDetector } from './drift-detector';
 import { NLPDriftDetector } from '../nlp/nlp-drift-detector';
 import { nlpPipeline } from '../nlp/pipeline';
+import { analyzeValues } from '../utils/analyzers';
 
 export interface EnhancedDriftDetectorConfig {
   enableNLP?: boolean; // Enable NLP-based analysis
@@ -297,16 +298,11 @@ export class EnhancedDriftDetector extends DriftDetector {
         return Math.min(result.confidence, 1.0);
       }
 
-      // Also check baseline value violations
+      // Also check baseline value violations using imported analyzer
       const coreValues = this.baselineIdentity.coreValues;
-      let violations = 0;
-      for (const value of coreValues) {
-        if (this.detectValueViolation(aiResponse, value)) {
-          violations++;
-        }
-      }
+      const heuristicScore = analyzeValues(aiResponse, coreValues);
 
-      return Math.max(Math.min(violations * 0.3, 1.0), result.confidence * 0.5);
+      return Math.max(heuristicScore, result.confidence * 0.5);
     } catch (error) {
       console.warn('NLP value analysis failed, using heuristic:', error);
       return this.analyzeValueAlignment('', aiResponse);

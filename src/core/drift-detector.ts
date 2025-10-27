@@ -93,15 +93,8 @@ export class DriftDetector {
   protected analyzeValueAlignment(userMessage: string, aiResponse: string): number {
     const coreValues = this.baselineIdentity.coreValues;
 
-    // Check for value violations or misalignments
-    let violations = 0;
-    for (const value of coreValues) {
-      if (this.detectValueViolation(aiResponse, value)) {
-        violations++;
-      }
-    }
-
-    return Math.min(violations * 0.3, 1.0);
+    // Use imported analyzer from utils/analyzers.ts
+    return analyzeValues(aiResponse, coreValues);
   }
 
   /**
@@ -225,17 +218,6 @@ export class DriftDetector {
     return toneCompatibility[preferredTone]?.includes(detectedTone) || false;
   }
 
-  protected detectValueViolation(message: string, value: string): boolean {
-    // Simple keyword-based detection - would be enhanced with semantic analysis
-    const valueKeywords: Record<string, string[]> = {
-      'transparency': ['hide', 'conceal', 'secret'],
-      'efficiency': ['waste', 'inefficient', 'slow'],
-      'empathy': ['cold', 'harsh', 'dismiss'],
-    };
-
-    const keywords = valueKeywords[value.toLowerCase()] || [];
-    return keywords.some(keyword => message.toLowerCase().includes(keyword));
-  }
 
   private contextToNumber(context: string): number {
     const map: Record<string, number> = { minimal: 0, moderate: 1, extensive: 2 };

@@ -84,7 +84,9 @@ async function runDiagnostic() {
   console.log('\n✅ Diagnostic complete!');
 }
 
-if (require.main === module) {
+import { fileURLToPath } from 'url';
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] === __filename) {
   runDiagnostic()
     .then(() => process.exit(0))
     .catch((error) => {

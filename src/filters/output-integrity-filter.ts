@@ -230,7 +230,8 @@ export class OutputIntegrityFilter {
   // Helper methods
   private detectTone(text: string): string {
     if (text.length < 50) return 'direct';
-    if (text.includes('please') || text.includes('thank')) return 'formal';
+    const lowerText = text.toLowerCase();
+    if (lowerText.includes('please') || lowerText.includes('thank')) return 'formal';
     if (text.match(/\b(gonna|wanna|yeah)\b/i)) return 'casual';
     return 'technical';
   }

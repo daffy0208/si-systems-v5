@@ -119,7 +119,9 @@ async function main() {
 }
 
 // Run example
-if (require.main === module) {
+import { fileURLToPath } from 'url';
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] === __filename) {
   main().catch((error) => {
     console.error('Error:', error);
     process.exit(1);

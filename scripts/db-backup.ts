@@ -342,7 +342,9 @@ export async function runBackup(): Promise<void> {
 }
 
 // Run if executed directly
-if (require.main === module) {
+import { fileURLToPath } from 'url';
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] === __filename) {
   runBackup().catch(error => {
     console.error('Backup failed:', error)
     process.exit(1)
