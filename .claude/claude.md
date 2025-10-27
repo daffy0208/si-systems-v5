@@ -27,6 +27,12 @@ Design REST and GraphQL APIs. Use when creating backend APIs, defining API contr
 
 **Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/api-designer/SKILL.md`
 
+### archon-manager
+
+Master Archon MCP for strategic project management, task tracking, and knowledge base operations. The strategic layer (WHAT/WHEN) that coordinates with Skills (HOW). Use when managing projects, tracking tasks, querying knowledge bases, or implementing the Archon+Skills two-layer architecture.
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/archon-manager/SKILL.md`
+
 ### audio-producer
 
 Expert in web audio, audio processing, and interactive sound design
@@ -50,6 +56,12 @@ Automatically save and restore development context to minimize cognitive load wh
 Expert in writing compelling copy for web, marketing, and product
 
 **Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/copywriter/SKILL.md`
+
+### codex-review-workflow
+
+Automated code review workflow using OpenAI Codex CLI. Implements iterative fix-and-review cycles to ensure code quality through automated validation.
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/codex-review-workflow/SKILL.md`
 
 ### dark-matter-analyzer
 
@@ -87,6 +99,12 @@ Automatically manage focus sessions, breaks, and hyperfocus protection. Uses ADH
 
 **Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/focus-session-manager/SKILL.md`
 
+### forensic-data-engineer
+
+Expert in data forensics, anomaly detection, audit trail analysis, fraud detection, and breach investigation. Use when investigating security incidents, detecting fraud patterns, analyzing data integrity issues, or conducting compliance audits. Covers temporal accountability, audit logging, chain of custody, data recovery, and regulatory compliance (GDPR, SOC2, HIPAA).
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/forensic-data-engineer/SKILL.md`
+
 ### frontend-builder
 
 Build modern React/Next.js frontends. Use when creating web applications, choosing frontend stack, structuring components, or implementing UI/UX designs. Covers React, Next.js, Tailwind CSS, and component patterns.
@@ -104,6 +122,12 @@ Plan product launches and go-to-market strategy. Use when launching products, en
 Expert in IoT development, microcontrollers, sensors, and MQTT protocols
 
 **Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/iot-developer/SKILL.md`
+
+### knowledge-base-manager
+
+Design, build, and maintain comprehensive knowledge bases. Bridges document-based (RAG) and entity-based (graph) knowledge systems. Use when building knowledge-intensive applications, managing organizational knowledge, or creating intelligent information systems.
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/knowledge-base-manager/SKILL.md`
 
 ### knowledge-graph-builder
 
@@ -176,6 +200,12 @@ Implement security best practices across the application stack. Use when securin
 Expert in AR/VR, WebXR, and spatial computing for Vision Pro and web
 
 **Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/spatial-developer/SKILL.md`
+
+### supabase-developer
+
+Build full-stack applications with Supabase (PostgreSQL, Auth, Storage, Real-time, Edge Functions). Use when implementing authentication, database design with RLS, file storage, real-time features, or serverless functions.
+
+**Location:** `https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/supabase-developer/SKILL.md`
 
 ### task-breakdown-specialist
 
