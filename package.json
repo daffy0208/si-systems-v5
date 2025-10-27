@@ -2,8 +2,31 @@
   "name": "@si-systems/core",
   "version": "0.1.0",
   "description": "Identity-Aligned System Architecture for Human-AI Interaction",
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./adapters": {
+      "types": "./dist/adapters/index.d.ts",
+      "import": "./dist/adapters/index.js"
+    },
+    "./core": {
+      "types": "./dist/core/index.d.ts",
+      "import": "./dist/core/index.js"
+    },
+    "./persistence": {
+      "types": "./dist/persistence/index.d.ts",
+      "import": "./dist/persistence/index.js"
+    },
+    "./nlp": {
+      "types": "./dist/nlp/index.d.ts",
+      "import": "./dist/nlp/index.js"
+    }
+  },
   "scripts": {
     "build": "tsc",
     "test": "vitest run",
@@ -17,7 +40,7 @@
     "evaluate:hybrid": "tsx src/evaluation/evaluate-hybrid.ts",
     "benchmark": "tsx src/benchmarks/performance-suite.ts",
     "stress-test": "tsx src/benchmarks/stress-test.ts",
-    "lint": "eslint src --ext .ts || true",
+    "lint": "eslint src --ext .ts",
     "format": "prettier --write \"src/**/*.ts\"",
     "typecheck": "tsc --noEmit",
     "prepublishOnly": "npm run build && npm test"

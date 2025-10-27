@@ -284,9 +284,16 @@ export async function runStandardBenchmarks(): Promise<PerformanceReport> {
 }
 
 // Run if executed directly
-if (require.main === module) {
+import { fileURLToPath } from 'url';
+import { writeFileSync } from 'fs';
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] === __filename) {
   runStandardBenchmarks()
-    .then(() => {
+    .then((report) => {
+      // Write results to file for CI/CD artifacts
+      const outputPath = 'benchmark-results.json';
+      writeFileSync(outputPath, JSON.stringify(report, null, 2));
+      console.log(`\n📊 Benchmark results written to ${outputPath}`);
       console.log('Exiting...');
       process.exit(0);
     })

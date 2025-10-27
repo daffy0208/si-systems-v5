@@ -502,7 +502,9 @@ export async function runDeploy(): Promise<void> {
 }
 
 // Run if executed directly
-if (require.main === module) {
+import { fileURLToPath } from 'url';
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] === __filename) {
   runDeploy().catch((error) => {
     console.error('Deployment failed:', error)
     process.exit(1)
