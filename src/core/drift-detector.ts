@@ -64,8 +64,11 @@ export class DriftDetector {
       confidence,
     };
 
-    // Store for trend analysis
+    // Store for trend analysis (keep only last 10 to prevent memory leak)
     this.historicalScores.push(driftScore);
+    if (this.historicalScores.length > 10) {
+      this.historicalScores.shift(); // Remove oldest score
+    }
 
     return driftScore;
   }
@@ -75,7 +78,7 @@ export class DriftDetector {
    */
   private analyzeToneAlignment(userMessage: string, aiResponse: string): number {
     const userTones = this.baselineIdentity.tone;
-    const detectedTone = this.detectToneInMessage(aiResponse);
+    const detectedTone = analyzeTone(aiResponse);
 
     // Simple heuristic: check if AI response matches user's preferred tones
     const match = userTones.some(tone => this.toneMatches(tone, detectedTone));
@@ -106,7 +109,7 @@ export class DriftDetector {
    */
   protected analyzeRhythmAlignment(userMessage: string, aiResponse: string): number {
     const preferredRhythm = this.baselineIdentity.communicationRhythm;
-    const responseRhythm = this.detectRhythm(aiResponse);
+    const responseRhythm = analyzeRhythm(aiResponse);
 
     const rhythmMatch: Record<string, string[]> = {
       fast: ['fast', 'concise'],
@@ -124,7 +127,7 @@ export class DriftDetector {
    */
   protected analyzeContextAlignment(userMessage: string, aiResponse: string): number {
     const preferredContext = this.baselineIdentity.contextLevel;
-    const responseContext = this.detectContextLevel(aiResponse);
+    const responseContext = analyzeContext(aiResponse);
 
     const mismatch = Math.abs(
       this.contextToNumber(preferredContext) - this.contextToNumber(responseContext)
@@ -154,15 +157,20 @@ export class DriftDetector {
 
   /**
    * Get recommendation based on drift score and flags
+   * Uses configured driftThreshold instead of hard-coded values
    */
   protected getRecommendation(
     overall: number,
     flags: DriftScore['flags']
   ): DriftScore['recommendation'] {
-    if (overall > 0.6 || flags.includes('identity_erosion')) {
+    // Use configured threshold (default 0.3)
+    // Recalibrate if score is high (2x threshold) or identity erosion detected
+    const recalibrateThreshold = this.driftThreshold * 2;
+    if (overall > recalibrateThreshold || flags.includes('identity_erosion')) {
       return 'recalibrate';
     }
-    if (overall > 0.3 || flags.length > 2) {
+    // Review if score exceeds threshold or multiple flags
+    if (overall > this.driftThreshold || flags.length > 2) {
       return 'review';
     }
     return 'continue';
@@ -204,13 +212,7 @@ export class DriftDetector {
   }
 
   // Helper methods for tone/value/rhythm detection
-  private detectToneInMessage(message: string): string {
-    // Simple heuristic - would be enhanced with NLP
-    if (message.length < 50) return 'direct';
-    if (message.includes('please') || message.includes('thank')) return 'formal';
-    if (message.match(/\b(gonna|wanna|yeah)\b/i)) return 'casual';
-    return 'technical';
-  }
+  // Note: analyzeTone, analyzeRhythm, analyzeContext are now imported from utils/analyzers.ts
 
   private toneMatches(preferredTone: string, detectedTone: string): boolean {
     const toneCompatibility: Record<string, string[]> = {
@@ -233,21 +235,6 @@ export class DriftDetector {
 
     const keywords = valueKeywords[value.toLowerCase()] || [];
     return keywords.some(keyword => message.toLowerCase().includes(keyword));
-  }
-
-  private detectRhythm(message: string): string {
-    const wordCount = message.split(/\s+/).length;
-    if (wordCount < 30) return 'concise';
-    if (wordCount < 100) return 'fast';
-    if (wordCount < 200) return 'thoughtful';
-    return 'detailed';
-  }
-
-  private detectContextLevel(message: string): string {
-    const sentenceCount = message.split(/[.!?]+/).length;
-    if (sentenceCount < 3) return 'minimal';
-    if (sentenceCount < 7) return 'moderate';
-    return 'extensive';
   }
 
   private contextToNumber(context: string): number {
