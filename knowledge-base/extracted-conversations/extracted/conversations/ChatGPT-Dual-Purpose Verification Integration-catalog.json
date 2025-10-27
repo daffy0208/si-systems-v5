@@ -1,0 +1,70 @@
+{
+  "sourceFile": "ChatGPT-Dual-Purpose Verification Integration.md",
+  "metadata": {
+    "title": "Dual-Purpose Verification Integration",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/29/2025 15:02:25",
+    "updated": "4/28/2025 16:20:44",
+    "exported": "10/9/2025 15:37:26",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e80b81-468c-8013-9cc9-e0323484eff2"
+  },
+  "stats": {
+    "totalExchanges": 14,
+    "totalSections": 34,
+    "totalTables": 0,
+    "totalLists": 46
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 30,
+      "locations": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 15,
+      "locations": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 15,
+      "locations": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        13
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.888Z"
+}

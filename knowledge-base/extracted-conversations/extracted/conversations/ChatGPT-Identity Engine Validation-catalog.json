@@ -1,0 +1,103 @@
+{
+  "sourceFile": "ChatGPT-Identity Engine Validation.md",
+  "metadata": {
+    "title": "Identity Engine Validation",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/30/2025 15:45:49",
+    "updated": "8/10/2025 12:35:20",
+    "exported": "9/25/2025 16:13:40",
+    "link": "https://chatgpt.com/g/g-p-6804585959cc8191b61d9e012dda13b0-si-systems-validation/c/6812379c-25f0-8013-894f-0a045f09bd08"
+  },
+  "stats": {
+    "totalExchanges": 38,
+    "totalSections": 125,
+    "totalTables": 19,
+    "totalLists": 230
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 14,
+      "locations": [
+        1,
+        3,
+        12,
+        13,
+        15,
+        17,
+        21,
+        25,
+        27,
+        33,
+        35
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 13,
+      "locations": [
+        1,
+        3,
+        12,
+        13,
+        15,
+        17,
+        21,
+        25,
+        27,
+        33,
+        35
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 13,
+      "locations": [
+        1,
+        3,
+        12,
+        13,
+        15,
+        17,
+        21,
+        25,
+        27,
+        33,
+        35
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 6,
+      "locations": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        21
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 6,
+      "locations": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        21
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 2,
+      "locations": [
+        10,
+        17
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.161Z"
+}

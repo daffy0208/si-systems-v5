@@ -1,0 +1,56 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Status Update.md",
+  "metadata": {
+    "title": "BrainFrameOS Status Update",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/3/2025 1:08:39",
+    "updated": "4/24/2025 8:23:28",
+    "exported": "9/26/2025 13:01:28",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67edd187-8930-8013-aca1-900d66bc7446"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 0,
+    "totalTables": 0,
+    "totalLists": 1
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 5,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 4,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 4,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.479Z"
+}

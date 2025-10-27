@@ -1,0 +1,48 @@
+{
+  "sourceFile": "ChatGPT-AI Translator Support.md",
+  "metadata": {
+    "title": "AI Translator Support",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/28/2025 15:14:50",
+    "updated": "4/24/2025 8:20:52",
+    "exported": "9/26/2025 12:57:33",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e6bce9-e280-8013-adfa-1365adb247f4"
+  },
+  "stats": {
+    "totalExchanges": 8,
+    "totalSections": 4,
+    "totalTables": 1,
+    "totalLists": 9
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 20,
+      "locations": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 3,
+      "locations": [
+        4,
+        5
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 3,
+      "locations": [
+        4,
+        5
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.850Z"
+}

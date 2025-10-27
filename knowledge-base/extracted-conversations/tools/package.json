@@ -1,0 +1,18 @@
+{
+  "name": "si-systems-conversation-parser",
+  "version": "1.0.0",
+  "description": "ChatGPT conversation parser for SI Systems knowledge extraction",
+  "main": "conversation-parser.ts",
+  "scripts": {
+    "parse": "ts-node conversation-parser.ts",
+    "batch": "ts-node batch-extract.ts"
+  },
+  "keywords": ["chatgpt", "parser", "knowledge-extraction", "si-systems"],
+  "author": "SI Systems Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

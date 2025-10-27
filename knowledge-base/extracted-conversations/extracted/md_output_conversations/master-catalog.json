@@ -1,0 +1,64 @@
+{
+  "extractionDate": "2025-10-25T18:33:37.256Z",
+  "totalFiles": 4,
+  "successfulExtractions": 4,
+  "failedExtractions": 0,
+  "conversations": [
+    {
+      "sourceFile": "Axis v1.1.md",
+      "metadata": {
+        "title": "Absolutely. Below is the **canonical reference version of AXIS v1.1**,"
+      },
+      "stats": {
+        "totalExchanges": 0,
+        "totalSections": 0,
+        "totalTables": 0,
+        "totalLists": 0
+      },
+      "concepts": [],
+      "extractedDate": "2025-10-25T18:33:37.229Z"
+    },
+    {
+      "sourceFile": "BrainFrame OS - Character Build.md",
+      "metadata": {
+        "title": "Yes. You just uncovered the core truth.\\"
+      },
+      "stats": {
+        "totalExchanges": 0,
+        "totalSections": 0,
+        "totalTables": 0,
+        "totalLists": 0
+      },
+      "concepts": [],
+      "extractedDate": "2025-10-25T18:33:37.236Z"
+    },
+    {
+      "sourceFile": "Core AI Problems Prioritized by Benefit to Humanity.md",
+      "metadata": {
+        "title": "Table of Contents"
+      },
+      "stats": {
+        "totalExchanges": 0,
+        "totalSections": 0,
+        "totalTables": 0,
+        "totalLists": 0
+      },
+      "concepts": [],
+      "extractedDate": "2025-10-25T18:33:37.243Z"
+    },
+    {
+      "sourceFile": "Core Problems Facing Artificial Intelligence Today - A Comprehensive Analysis.md",
+      "metadata": {
+        "title": "Table of Contents"
+      },
+      "stats": {
+        "totalExchanges": 0,
+        "totalSections": 0,
+        "totalTables": 0,
+        "totalLists": 0
+      },
+      "concepts": [],
+      "extractedDate": "2025-10-25T18:33:37.252Z"
+    }
+  ]
+}

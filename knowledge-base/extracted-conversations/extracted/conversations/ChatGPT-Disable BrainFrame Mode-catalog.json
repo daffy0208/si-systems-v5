@@ -1,0 +1,48 @@
+{
+  "sourceFile": "ChatGPT-Disable BrainFrame Mode.md",
+  "metadata": {
+    "title": "Disable BrainFrame Mode",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/31/2025 12:50:12",
+    "updated": "4/24/2025 8:21:22",
+    "exported": "9/26/2025 12:59:59",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67ea8174-1444-8013-bf25-87b5171ae103"
+  },
+  "stats": {
+    "totalExchanges": 30,
+    "totalSections": 10,
+    "totalTables": 0,
+    "totalLists": 69
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 6,
+      "locations": [
+        0,
+        1,
+        4,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 2,
+      "locations": [
+        1,
+        11
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 2,
+      "locations": [
+        1,
+        11
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.826Z"
+}

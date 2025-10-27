@@ -1,0 +1,81 @@
+{
+  "sourceFile": "ChatGPT-Kintsugi Art and Philosophy.md",
+  "metadata": {
+    "title": "Kintsugi Art and Philosophy",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "5/5/2025 17:50:39",
+    "updated": "5/6/2025 11:24:06",
+    "exported": "10/9/2025 22:42:07",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/6818ec5f-7e24-8013-9fa8-7fe4d473bfad"
+  },
+  "stats": {
+    "totalExchanges": 8,
+    "totalSections": 24,
+    "totalTables": 0,
+    "totalLists": 33
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 4,
+      "locations": [
+        3
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 3,
+      "locations": [
+        3,
+        7
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 3,
+      "locations": [
+        3,
+        7
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 3,
+      "locations": [
+        3,
+        7
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 3,
+      "locations": [
+        3,
+        7
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 3,
+      "locations": [
+        3,
+        7
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 3,
+      "locations": [
+        3
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 1,
+      "locations": [
+        3
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.232Z"
+}

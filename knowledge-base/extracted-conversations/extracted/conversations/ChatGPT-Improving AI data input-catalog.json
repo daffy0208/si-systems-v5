@@ -1,0 +1,188 @@
+{
+  "sourceFile": "ChatGPT-Improving AI data input.md",
+  "metadata": {
+    "title": "Improving AI data input",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "8/7/2025 11:37:49",
+    "updated": "8/7/2025 22:12:54",
+    "exported": "10/9/2025 22:49:13",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/689481f0-7bac-8331-a49d-88869cb037a2"
+  },
+  "stats": {
+    "totalExchanges": 46,
+    "totalSections": 115,
+    "totalTables": 27,
+    "totalLists": 221
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 197,
+      "locations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        24,
+        25,
+        27,
+        29,
+        30,
+        31,
+        33,
+        34,
+        35,
+        38,
+        39,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 195,
+      "locations": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        24,
+        25,
+        27,
+        29,
+        30,
+        31,
+        33,
+        34,
+        35,
+        38,
+        39,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 195,
+      "locations": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        24,
+        25,
+        27,
+        29,
+        30,
+        31,
+        33,
+        34,
+        35,
+        38,
+        39,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 17,
+      "locations": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        25,
+        29,
+        31,
+        33,
+        35,
+        39,
+        43
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 17,
+      "locations": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        25,
+        29,
+        31,
+        33,
+        35,
+        39,
+        43
+      ]
+    },
+    {
+      "concept": "IdentityEngine",
+      "count": 5,
+      "locations": [
+        15,
+        17,
+        25,
+        33
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 2,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 2,
+      "locations": [
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.193Z"
+}

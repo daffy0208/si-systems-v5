@@ -1,0 +1,140 @@
+{
+  "sourceFile": "ChatGPT-Human-Centered AI Framework.md",
+  "metadata": {
+    "title": "Human-Centered AI Framework",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "7/10/2025 22:32:32",
+    "updated": "7/10/2025 22:54:43",
+    "exported": "10/9/2025 22:48:57",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/6870316e-c0e8-8013-a02c-a17d95bb1d9a"
+  },
+  "stats": {
+    "totalExchanges": 24,
+    "totalSections": 0,
+    "totalTables": 3,
+    "totalLists": 85
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 29,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 29,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 29,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 26,
+      "locations": [
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 26,
+      "locations": [
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 6,
+      "locations": [
+        1,
+        15,
+        17,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 6,
+      "locations": [
+        1,
+        15,
+        17,
+        21,
+        23
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.104Z"
+}

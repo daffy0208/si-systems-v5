@@ -1,0 +1,52 @@
+{
+  "sourceFile": "ChatGPT-Shadow Planner Weekly Focus.md",
+  "metadata": {
+    "title": "Shadow Planner Weekly Focus",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/23/2025 15:29:36",
+    "updated": "5/27/2025 16:53:45",
+    "exported": "10/9/2025 15:29:36",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e028e0-0688-8013-8af0-f42a2b0edf7e"
+  },
+  "stats": {
+    "totalExchanges": 28,
+    "totalSections": 80,
+    "totalTables": 3,
+    "totalLists": 142
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 29,
+      "locations": [
+        3,
+        5,
+        7,
+        13,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 7,
+      "locations": [
+        24,
+        25
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 7,
+      "locations": [
+        24,
+        25
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.787Z"
+}

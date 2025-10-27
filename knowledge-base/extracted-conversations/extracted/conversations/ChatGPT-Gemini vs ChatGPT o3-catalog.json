@@ -1,0 +1,48 @@
+{
+  "sourceFile": "ChatGPT-Gemini vs ChatGPT o3.md",
+  "metadata": {
+    "title": "Gemini vs ChatGPT o3",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/17/2025 0:26:00",
+    "updated": "4/19/2025 21:46:56",
+    "exported": "9/26/2025 12:37:36",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/68003c88-b1e8-8013-a7da-6ca81058b89d"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 1,
+    "totalTables": 2,
+    "totalLists": 4
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 2,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.064Z"
+}

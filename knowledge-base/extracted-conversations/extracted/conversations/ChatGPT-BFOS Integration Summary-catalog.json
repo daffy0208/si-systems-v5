@@ -1,0 +1,50 @@
+{
+  "sourceFile": "ChatGPT-BFOS Integration Summary.md",
+  "metadata": {
+    "title": "BFOS Integration Summary",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/29/2025 15:34:02",
+    "updated": "4/28/2025 16:19:59",
+    "exported": "10/9/2025 15:36:57",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e812ea-0fa8-8013-bb5a-6c4aabd23c7a"
+  },
+  "stats": {
+    "totalExchanges": 8,
+    "totalSections": 29,
+    "totalTables": 0,
+    "totalLists": 38
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 18,
+      "locations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 7,
+      "locations": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 7,
+      "locations": [
+        1,
+        5,
+        7
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.907Z"
+}

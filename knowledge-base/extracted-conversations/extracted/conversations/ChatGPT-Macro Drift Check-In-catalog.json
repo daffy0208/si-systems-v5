@@ -1,0 +1,204 @@
+{
+  "sourceFile": "ChatGPT-Macro Drift Check-In.md",
+  "metadata": {
+    "title": "Macro Drift Check-In",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/5/2025 14:24:23",
+    "updated": "4/20/2025 23:34:28",
+    "exported": "10/9/2025 22:38:56",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67f12f06-6f40-8013-9baf-74632568abe6"
+  },
+  "stats": {
+    "totalExchanges": 72,
+    "totalSections": 169,
+    "totalTables": 20,
+    "totalLists": 370
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 42,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        9,
+        11,
+        17,
+        21,
+        25,
+        27,
+        29,
+        31,
+        33,
+        37,
+        41,
+        51,
+        53,
+        55,
+        63,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 41,
+      "locations": [
+        1,
+        3,
+        5,
+        9,
+        11,
+        17,
+        21,
+        25,
+        27,
+        29,
+        31,
+        33,
+        37,
+        41,
+        51,
+        53,
+        55,
+        63,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 41,
+      "locations": [
+        1,
+        3,
+        5,
+        9,
+        11,
+        17,
+        21,
+        25,
+        27,
+        29,
+        31,
+        33,
+        37,
+        41,
+        51,
+        53,
+        55,
+        63,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 36,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        37,
+        41,
+        53,
+        57,
+        63
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 28,
+      "locations": [
+        0,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        37,
+        41,
+        53,
+        57,
+        63
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 12,
+      "locations": [
+        9,
+        11,
+        13,
+        29,
+        33,
+        37,
+        53,
+        57,
+        63
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 12,
+      "locations": [
+        9,
+        11,
+        13,
+        29,
+        33,
+        37,
+        53,
+        57,
+        63
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 6,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        9,
+        27
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.261Z"
+}

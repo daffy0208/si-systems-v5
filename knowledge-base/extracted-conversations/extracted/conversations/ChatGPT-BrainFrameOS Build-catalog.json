@@ -1,0 +1,183 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Build.md",
+  "metadata": {
+    "title": "BrainFrameOS Build",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "5/31/2025 18:46:13",
+    "updated": "8/9/2025 9:47:55",
+    "exported": "10/9/2025 22:58:29",
+    "link": "https://chatgpt.com/g/g-p-683b43c37ea08191bed73ead42abcf5b-brainframeos-build/c/683b4065-9afc-8013-baa4-5094bbc326ec"
+  },
+  "stats": {
+    "totalExchanges": 30,
+    "totalSections": 109,
+    "totalTables": 23,
+    "totalLists": 164
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 48,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 43,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 43,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        15,
+        17,
+        19
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 28,
+      "locations": [
+        0,
+        1,
+        12,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 23,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        12,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 23,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        12,
+        21,
+        23
+      ]
+    },
+    {
+      "concept": "SapienOS",
+      "count": 9,
+      "locations": [
+        12,
+        13,
+        19,
+        25
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 5,
+      "locations": [
+        17,
+        27,
+        29
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 5,
+      "locations": [
+        17,
+        27,
+        29
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 4,
+      "locations": [
+        0,
+        1,
+        17
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 3,
+      "locations": [
+        0,
+        1,
+        19
+      ]
+    },
+    {
+      "concept": "IdentityEngine",
+      "count": 3,
+      "locations": [
+        12
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.275Z"
+}

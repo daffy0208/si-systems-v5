@@ -1,0 +1,164 @@
+{
+  "sourceFile": "ChatGPT-System Initialization Summary.md",
+  "metadata": {
+    "title": "System Initialization Summary",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/11/2025 11:34:37",
+    "updated": "4/19/2025 22:01:11",
+    "exported": "9/26/2025 12:39:41",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67f8f03d-8040-8013-aa2c-02896c3788ef"
+  },
+  "stats": {
+    "totalExchanges": 46,
+    "totalSections": 68,
+    "totalTables": 11,
+    "totalLists": 222
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 67,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        21,
+        25,
+        27,
+        29,
+        33,
+        37,
+        45
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 47,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11,
+        17,
+        25,
+        27,
+        29,
+        33,
+        37,
+        45
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 35,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        10,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        27,
+        29,
+        37,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 31,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        10,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        27,
+        29,
+        37,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 31,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        10,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        27,
+        29,
+        37,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 13,
+      "locations": [
+        0,
+        1,
+        2,
+        5,
+        7,
+        13
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 13,
+      "locations": [
+        0,
+        1,
+        2,
+        5,
+        7,
+        13
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 4,
+      "locations": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.830Z"
+}

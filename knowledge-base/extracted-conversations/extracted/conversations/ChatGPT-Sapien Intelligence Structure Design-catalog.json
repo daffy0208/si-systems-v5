@@ -1,0 +1,254 @@
+{
+  "sourceFile": "ChatGPT-Sapien Intelligence Structure Design.md",
+  "metadata": {
+    "title": "Sapien Intelligence Structure Design",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/19/2025 14:37:51",
+    "updated": "8/10/2025 12:32:26",
+    "exported": "9/26/2025 12:17:36",
+    "link": "https://chatgpt.com/g/g-p-6803b20078748191bf5ad9be8e8ab461-si-systems-official-folder-structure/c/6803a72e-e7c0-8013-a741-361afd6e2c27"
+  },
+  "stats": {
+    "totalExchanges": 48,
+    "totalSections": 69,
+    "totalTables": 2,
+    "totalLists": 200
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 68,
+      "locations": [
+        1,
+        6,
+        7,
+        13,
+        14,
+        15,
+        17,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        37,
+        38,
+        39,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 68,
+      "locations": [
+        1,
+        6,
+        7,
+        13,
+        14,
+        15,
+        17,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        37,
+        38,
+        39,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 68,
+      "locations": [
+        1,
+        6,
+        7,
+        13,
+        14,
+        15,
+        17,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        37,
+        38,
+        39,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 61,
+      "locations": [
+        0,
+        1,
+        3,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        17,
+        19,
+        23,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 20,
+      "locations": [
+        1,
+        20,
+        21,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        31,
+        35,
+        37
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 20,
+      "locations": [
+        1,
+        20,
+        21,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        31,
+        35,
+        37
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 20,
+      "locations": [
+        8,
+        9,
+        17,
+        19,
+        32,
+        33,
+        37,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 20,
+      "locations": [
+        8,
+        9,
+        17,
+        19,
+        32,
+        33,
+        37,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 16,
+      "locations": [
+        1,
+        28,
+        29,
+        31,
+        32,
+        33,
+        35,
+        37,
+        42,
+        44
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 9,
+      "locations": [
+        0,
+        1,
+        3,
+        9,
+        13,
+        19
+      ]
+    },
+    {
+      "concept": "IdentityEngine",
+      "count": 1,
+      "locations": [
+        27
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.725Z"
+}

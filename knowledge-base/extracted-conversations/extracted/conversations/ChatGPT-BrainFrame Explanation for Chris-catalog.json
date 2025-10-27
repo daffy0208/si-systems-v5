@@ -1,0 +1,99 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Explanation for Chris.md",
+  "metadata": {
+    "title": "BrainFrame Explanation for Chris",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/31/2025 22:41:03",
+    "updated": "4/24/2025 8:21:51",
+    "exported": "9/26/2025 13:00:13",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67eb0bee-ee90-8013-b853-6d362793f98c"
+  },
+  "stats": {
+    "totalExchanges": 45,
+    "totalSections": 45,
+    "totalTables": 5,
+    "totalLists": 116
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 49,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        14,
+        16,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        44
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 28,
+      "locations": [
+        3,
+        12,
+        14,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        44
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 28,
+      "locations": [
+        3,
+        12,
+        14,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        44
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.029Z"
+}

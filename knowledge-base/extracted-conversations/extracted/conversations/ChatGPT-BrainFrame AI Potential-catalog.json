@@ -1,0 +1,83 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame AI Potential.md",
+  "metadata": {
+    "title": "BrainFrame AI Potential",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/27/2025 20:21:15",
+    "updated": "3/31/2025 9:13:50",
+    "exported": "10/9/2025 15:33:33",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e5b33b-2f48-8013-8efe-3fc0fdb8ca70"
+  },
+  "stats": {
+    "totalExchanges": 54,
+    "totalSections": 90,
+    "totalTables": 14,
+    "totalLists": 280
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 232,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        33,
+        37,
+        43,
+        44,
+        45,
+        47,
+        49,
+        50,
+        51,
+        53
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 7,
+      "locations": [
+        12,
+        50,
+        51,
+        53
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 7,
+      "locations": [
+        12,
+        50,
+        51,
+        53
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.968Z"
+}

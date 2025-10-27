@@ -1,0 +1,56 @@
+{
+  "sourceFile": "ChatGPT-Chat title optimization.md",
+  "metadata": {
+    "title": "Chat title optimization",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/1/2025 9:56:34",
+    "updated": "4/24/2025 8:22:46",
+    "exported": "9/26/2025 13:01:02",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67ebaa42-4fa8-8013-84da-83bb6b09a2a0"
+  },
+  "stats": {
+    "totalExchanges": 10,
+    "totalSections": 8,
+    "totalTables": 2,
+    "totalLists": 14
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 28,
+      "locations": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 28,
+      "locations": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 28,
+      "locations": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        9
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.691Z"
+}

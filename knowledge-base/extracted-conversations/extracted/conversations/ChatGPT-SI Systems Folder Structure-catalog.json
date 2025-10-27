@@ -1,0 +1,100 @@
+{
+  "sourceFile": "ChatGPT-SI Systems Folder Structure.md",
+  "metadata": {
+    "title": "SI Systems Folder Structure",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/17/2025 3:10:53",
+    "updated": "4/20/2025 13:48:47",
+    "exported": "9/26/2025 12:44:01",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/6800632d-ac80-8013-a40c-2e8573a59691"
+  },
+  "stats": {
+    "totalExchanges": 16,
+    "totalSections": 19,
+    "totalTables": 2,
+    "totalLists": 36
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 13,
+      "locations": [
+        1,
+        3,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 7,
+      "locations": [
+        1,
+        3,
+        5,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 7,
+      "locations": [
+        1,
+        3,
+        5,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 7,
+      "locations": [
+        1,
+        3,
+        5,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 4,
+      "locations": [
+        3,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 4,
+      "locations": [
+        3,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 2,
+      "locations": [
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 2,
+      "locations": [
+        13,
+        15
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.644Z"
+}

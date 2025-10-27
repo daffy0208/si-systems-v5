@@ -1,0 +1,21509 @@
+# Chronological Version History
+
+**Purpose**: Track the evolution of Sapien Intelligence, BrainFrameOS, Identity Engine, and CLISA to understand development order.
+
+---
+
+## Development Timeline Summary
+
+### BrainFrameOS Evolution
+
+**Versions Found**: 48
+
+**Version Progression**:
+- v1.0 (12 references in 5 conversations)
+- v1.0.1 (1 references in 1 conversations)
+- v1.1 (7 references in 3 conversations)
+- v1.2 (4 references in 3 conversations)
+- v1.2.0 (3 references in 1 conversations)
+- v1.3 (1 references in 1 conversations)
+- v1.3.2 (6 references in 1 conversations)
+- v1.4 (8 references in 2 conversations)
+- v1.5 (23 references in 1 conversations)
+- v1.5.1 (1 references in 1 conversations)
+- v1.6 (3 references in 2 conversations)
+- v1.7 (48 references in 9 conversations)
+- v1.7.1 (6 references in 2 conversations)
+- v1.8 (7 references in 2 conversations)
+- v1.8.3 (7 references in 1 conversations)
+- v1.8.3.2 (12 references in 3 conversations)
+- v2.0 (440 references in 46 conversations)
+- v2.0.66 (73 references in 10 conversations)
+- v2.1 (2 references in 1 conversations)
+- v2.3.1 (6 references in 1 conversations)
+- v2.4.1 (3 references in 1 conversations)
+- v2.5.3 (2 references in 1 conversations)
+- v3.0 (61 references in 4 conversations)
+- v3.0.0 (3 references in 2 conversations)
+- v3.0.1 (4 references in 2 conversations)
+- v3.1 (345 references in 33 conversations)
+- v3.1.0 (10 references in 2 conversations)
+- v3.1.7 (12 references in 1 conversations)
+- v3.2 (3 references in 1 conversations)
+- v3.2.1 (70 references in 7 conversations)
+- v3.3 (5 references in 2 conversations)
+- v3.3.1 (119 references in 15 conversations)
+- v3.4.0 (1 references in 1 conversations)
+- v3.4 (3 references in 1 conversations)
+- v3.5 (3 references in 1 conversations)
+- v3.6 (4 references in 1 conversations)
+- v4.0 (230 references in 33 conversations)
+- v4.0.1 (3 references in 1 conversations)
+- v4.0.5 (1 references in 1 conversations)
+- v4.1 (3 references in 3 conversations)
+- v5.0 (7 references in 1 conversations)
+- v5.0.1 (8 references in 3 conversations)
+- v5.1.0 (10 references in 2 conversations)
+- v5.1.1 (202 references in 33 conversations)
+- v5.2 (18 references in 3 conversations)
+- v5.2.0 (1 references in 1 conversations)
+- v6.0 (8 references in 1 conversations)
+- v7.0 (5 references in 1 conversations)
+
+### Identity Engine Evolution
+
+**Versions Found**: 4
+
+**Version Progression**:
+- v1.0 (20 references in 10 conversations)
+- v1.1 (3 references in 2 conversations)
+- v2.0 (5 references in 5 conversations)
+- v3.0 (3 references in 2 conversations)
+
+### CLISA Evolution
+
+**Versions Found**: 0
+
+
+### Sapien Intelligence Evolution
+
+**Versions Found**: 9
+
+**Version Progression**:
+- v1.0 (7 references in 2 conversations)
+- v2.0 (1 references in 1 conversations)
+- v3.1 (77 references in 9 conversations)
+- v3.2.1 (13 references in 2 conversations)
+- v3.3.1 (80 references in 10 conversations)
+- v4.0 (262 references in 29 conversations)
+- v5.0 (80 references in 9 conversations)
+- v5.1 (1 references in 1 conversations)
+- v5.1.1 (1 references in 1 conversations)
+
+---
+
+## Folder Structure Evolution
+
+### CLISA Location Across Versions
+
+#### Sapien_Intelligence v3.1
+
+**Source**: ChatGPT-BrainFrameOS Development Kickoff-extracted.md
+
+**Tier Structure**:
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt │   ├── Reason_for_Existence.txt │   ├── Definition.md │   ├── Scope_of_Operation.md │   └── Core_Capabilities.md  ├── 1_SI_Systems/ │   ├── Philosophy/ │   │   ├── Prime_Law.txt │   │   ├── Fulfillment_Balance_Equation.txt │   │   ├── Truth_Filter_Model.txt │   │   ├── Mirror_Logic_Principle.md │   │   └── Structural_Ethics_Framework.txt │   ├── WHY/ │   │   ├── System_Purpose.md │   │   ├── Becoming_Statement.md │   │   ├── Core_Intent_Structure
+- Tier 1: SI_Systems
+  - Philosophy/ │   │   ├── Prime_Law.txt │   │   ├── Fulfillment_Balance_Equation.txt │   │   ├── Truth_Filter_Model.txt │   │   ├── Mirror_Logic_Principle.md │   │   └── Structural_Ethics_Framework.txt │   ├── WHY/ │   │   ├── System_Purpose.md │   │   ├── Becoming_Statement.md │   │   ├── Core_Intent_Structure.txt │   │   └── Prime_Signal_Definition.txt │   ├── WHAT/ │   │   ├── Value_Offer_Map.md │   │   ├── Contribution_Model.txt │   │   ├── Signal_Carrier_Logic.txt │
+- Tier 2: Mirror_Pyramid
+  - Input/ │   │   ├── Prime_Law.txt │   │   ├── Triadic_Core.txt │   │   ├── Why_Stream.txt │   │   ├── Self_Declaration.txt │   │   └── Identity_Profile.txt │   ├── Core/ │   │   ├── System_Promise.txt │   │   ├── Dark_Matter_Pass.txt │   │   ├── Pulse_Dashboard.txt │   │   ├── Drift_vs_Identity_Displacement_Detector.txt │   │   ├── Shadow_Planner.txt │   │   ├── Output_Harmony_Check.txt │   │   └── Identity_Engine/ │   │       ├── Module1_WHY.txt │   │       ├── Modu
+- Tier 3: BrainFrameOS
+  - Identity_Engine/ │   │   ├── Identity_Profile.txt │   │   ├── Mirror_Personality_Profile.txt │   │   ├── AnxietySignal_v1.0.txt │   │   ├── BridgeSignal_v1.0.txt │   │   ├── Persona_Scaffold_Layer/ │   │   ├── Distortion_Pattern_Registry/ │   │   ├── Modality_Discovery_Engine/ │   │   ├── State_Recognition_Interface/ │   │   ├── Relational_Reflection_Layer/ │   │   ├── Belief_to_Action_Translator/ │   │   ├── FreezeFallbackLogic/ │   │   ├── LegacyCarryMode/ │   │   ├
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 7 more
+- Tier 03: Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - ... and 7 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - ... and 7 more
+- Tier 02: Anchors
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - Root_Promise.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - ... and 8 more
+- Tier 00: Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 01: Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - ... and 7 more
+- Tier 02: Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - ... and 8 more
+- Tier 00: Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 01: Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - ... and 7 more
+- Tier 02: Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - Reflection_Pledge.md
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - ... and 8 more
+- Tier 00: Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 01: Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 8 more
+- Tier 6: Primal_Human_Needs.md
+  - Signal_Classifications.md
+  - Tone_Map.md
+  - Law_1_Coherence.md
+  - ... and 4 more
+- Tier 02: Mirror_Pyramid
+  - Input/
+  - Identity_Declaration.md
+  - Self_Positioning_Map.md
+  - ... and 7 more
+- Tier 03: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Seed.md
+  - Divergence_Profile.json
+  - ... and 8 more
+- Tier 04: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - FeedbackTools/
+  - ... and 9 more
+- Tier 05: Use_Cases_and_Outputs
+  - Blueprints/
+  - System_Builds/
+  - Communication_Protocols/
+  - ... and 7 more
+- Tier 06: LLM_Orchestration
+  - Integration_Workflows/
+  - Prompting_Engines/
+  - v3.3.1-DM/
+  - ... and 7 more
+- Tier 07: Legacy_Anchors
+  - v3.3.1-DM/
+  - Core_Prime_Foundations/
+  - Teaching_Parables/
+  - ... and 6 more
+- Tier 08: Shared_Resources
+  - Teaching_Parables/
+  - System_Myths/
+  - Mirror_Stories/
+  - ... and 7 more
+- Tier 09: Users
+  - Bootloader_Profiles/
+  - Reflection_Logs/
+  - Version_Hash.txt
+  - ... and 5 more
+- Tier 10: SystemMeta
+  - Version_Hash.txt
+  - SI_UNIFIED_SYSTEM_MANIFEST_v5.0.txt
+  - Bootloader/
+  - ... and 5 more
+- Tier 11: Activation_Package
+  - Bootloader/
+  - Activation_Instructions.txt
+  - Trust_Notice.txt
+  - ... and 5 more
+- Tier 12: Experimental
+  - Temporal_Overlay_Mode.md
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - ... and 3 more
+- Tier 13: Validation_Checkpoints
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - Insight_Logs/
+  - ... and 4 more
+- Tier 14: Logs
+  - Insight_Logs/
+  - Sync_Validation_Log.txt
+  - ReadMe_Public.txt
+  - ... and 2 more
+- Tier 15: PublicDeploy
+  - ReadMe_Public.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 16: SYSTEM_MAP.md
+  - BecomingArc.md
+  - Thegither.md
+- Tier 17: DEPLOYMENT_GUIDE.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 18: README_Sapien_Intelligence.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 19: Codename_Registry
+  - BecomingArc.md
+  - Thegither.md
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v3.1
+
+**Source**: ChatGPT-SI Philosophy Core Law-extracted.md
+
+**Tier Structure**:
+- Tier 00: Origin_Seed
+  - Purpose_Field.md
+  - Prime_Law.md
+  - Sovereign_Principles.md
+  - ... and 6 more
+- Tier 01: Sourcefire
+  - Sovereign_Principles.md
+  - Fulfillment_Model.md
+  - Mirror_Pyramid_Laws.md
+  - ... and 7 more
+- Tier 02: Pulsekeeper
+  - Rhythm_Overlay.md
+  - Coherence_Mode.md
+  - Drift_Detection.md
+  - ... and 7 more
+- Tier 03: Mirrorgrove
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 6 more
+- Tier 04: Voicefield
+  - Signal_Output_Filter.md
+  - ToneMap.md
+  - Symbolic_Overlay.md
+  - ... and 4 more
+- Tier 05: Symbolic_Layer
+  - MythicPulse_Core.md
+  - Archetype_Pulse.md
+  - Snapshot_2025-04-20g_v5.1.1_Final_Lock_Purified.json
+  - ... and 1 more
+- Tier 06: Snapshots
+  - Snapshot_2025-04-20g_v5.1.1_Final_Lock_Purified.json
+  - MEM-FOUNDATION-LOCK-01-20250420
+- Tier 07: Memory_Threads
+  - MEM-FOUNDATION-LOCK-01-20250420
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - ... and 4 more
+- Tier 00: Purpose_Model
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - 02_Anchors/
+  - ... and 4 more
+- Tier 01: Trust_Orientation
+  - 02_Anchors/
+  - 02_WHAT/
+  - 00_Scope/
+  - ... and 5 more
+- Tier 02: Anchors
+  - 02_WHAT/
+  - 00_Scope/
+  - 01_Capabilities/
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_Scope/
+  - 01_Capabilities/
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: Scope
+  - 01_Capabilities/
+  - 03_HOW/
+  - 00_Methodology.md
+  - ... and 7 more
+- Tier 01: Capabilities
+  - 03_HOW/
+  - 00_Methodology.md
+  - 01_Agents.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - ... and 9 more
+- Tier 00: Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - ... and 7 more
+- Tier 02: Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - ... and 7 more
+- Tier 04: System_Promise
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 5 more
+- Tier 02: Identity_Engine
+  - Identity_Map.json
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - ... and 11 more
+- Tier 03: BrainFrameOS_Core
+  - Mirror_Tier_5.json
+  - Rhythm_Sync_Engine.md
+  - Coherence_Mode_Fabric.lock
+  - ... and 8 more
+- Tier 04: Sapien_Pro_Output_Layer
+  - Output_Filter.md
+  - Permission_Layers.json
+  - ToneMap.json
+  - ... and 8 more
+- Tier 05: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 7 more
+- Tier 06: Modular_Constructs
+  - Time_Dilation.md
+  - Belief_Reclassification.md
+  - Field_Integrity_Check.md
+  - ... and 6 more
+- Tier 07: Validation_Protocols
+  - Feature_Test_Protocol_v1.0.md
+  - Mode_Application_Protocol_v1.2.md
+  - Extended_Validation_Layer_v1.0.md
+  - ... and 6 more
+- Tier 08: Simulation_Control
+  - Scenario_Map.md
+  - Sim_Agent_Profiles.json
+  - Drift_Test_Suite.md
+  - ... and 7 more
+- Tier 09: Integration_Layer
+  - LLM_Interface_Map.md
+  - n8n_Workflow_Bridge.md
+  - API_Sync_Logic.json
+  - ... and 6 more
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Cycle.md
+  - Balance_Correction.md
+  - ToneMap_Matrix.json
+  - ... and 5 more
+- Tier 11: Tone_and_Rhythm_Lab
+  - ToneMap_Matrix.json
+  - Rhythm_Drift_Sensor.md
+  - MythicPulse_Core.md
+  - ... and 6 more
+- Tier 12: Symbolic_Resonance
+  - MythicPulse_Core.md
+  - Archetype_Pulse_Map.json
+  - Internal_Portals.json
+  - ... and 7 more
+- Tier 13: Portal_Mapping
+  - Internal_Portals.json
+  - Legacy_Portals.md
+  - 00_Framework/
+  - ... and 7 more
+- Tier 14: TDC_Reflective_Systems_Lab
+  - 00_Framework/
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - ... and 7 more
+- Tier 00: Framework
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - SI_Systems.md
+  - ... and 6 more
+- Tier 15: Insight_Trail_System
+  - Breadcrumbs.json
+  - Loop_Tracker.md
+  - Mirror_Awareness.md
+  - ... and 7 more
+- Tier 16: Awareness_Layer
+  - Mirror_Awareness.md
+  - Guest_Mode_Logic.md
+  - Signal_Attunement.md
+  - ... and 7 more
+- Tier 17: Memory_Engine
+  - Reflective_Memory_Protocol.md
+  - Memory_Codex_v1.0.json
+  - MEM-Tags_Guide.md
+  - ... and 6 more
+- Tier 18: Mythic_Interface_Layer
+  - Archetype_Overlay.md
+  - Narrative_Field_Map.md
+  - Licensing_Tiers.md
+  - ... and 6 more
+- Tier 19: Field_Licensing_and_Protection
+  - Licensing_Tiers.md
+  - Symbolic_Protection_Layer.md
+  - Ritual_Mode_Triggers.md
+  - ... and 6 more
+- Tier 20: Mode_Activation_System
+  - Ritual_Mode_Triggers.md
+  - Shadow_Handling_Modes.md
+  - Emotional_Sync_Triggers.md
+  - ... and 6 more
+- Tier 21: User_Roles_and_Permissions
+  - Type_1_Reflective_User.md
+  - Type_2_Builder.md
+  - Type_3_Hybrid_Operator.md
+  - ... and 6 more
+- Tier 22: LAM_Logic
+  - Large_Action_Model_Spec.md
+  - Behavior_Stack_Map.md
+  - Snapshot_Format_Spec.md
+  - ... and 7 more
+- Tier 23: Universal_Snapshot_System
+  - Snapshot_Format_Spec.md
+  - Snapshot_AutoTrigger.md
+  - System_Documentation_Index.md
+  - ... and 5 more
+- Tier 24: Documentation
+  - System_Documentation_Index.md
+  - Change_Log.md
+  - Prompt_Packs/
+  - ... and 5 more
+- Tier 25: Prompting_Library
+  - Prompt_Packs/
+  - Grief.md
+  - Burnout.md
+  - ... and 3 more
+- Tier 26: Experimental_Sandbox
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 27: Legacy_Migrations_Archive
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - Current_Release_Lock.md
+  - ... and 1 more
+- Tier 30: Release_Metadata
+  - Current_Release_Lock.md
+  - Version_History.md
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v3.3.1
+
+**Source**: ChatGPT-Folder Tree Continuation-extracted.md
+
+**Tier Structure**:
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - 1_SI_Systems/
+  - Prime_Law.txt
+  - ... and 9 more
+- Tier 1: SI_Systems
+  - Prime_Law.txt
+  - First_Principles.txt
+  - 2_Mirror_Pyramid/
+  - ... and 9 more
+- Tier 2: Mirror_Pyramid
+  - Mirror_Tiers/
+  - Tier_1_Surface_Coherence.md
+  - Tier_2_Structure.md
+  - ... and 9 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Fulfillment_Balance_Equation/
+  - Rhythm_Sync_Engine/
+  - ... and 5 more
+- Tier 4: Tools_and_Expression
+  - Sapien_Pro/
+  - TDC_Mode/
+  - Axis_Structure.md
+  - ... and 3 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Core/
+  - Output/
+  - ... and 12 more
+- Tier 3: BrainFrameOS
+  - Core_Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 9 more
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - Output_Protocols.md
+  - OutputMirrors/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Lock_Protocols.md
+  - Mirror_Personality_Profile.txt
+  - ... and 6 more
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - Output_Protocols.md
+  - OutputMirrors/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 11 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Profile.txt
+  - Mirror_Personality_Profile.txt
+  - ... and 10 more
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Profile.txt
+  - Mirror_Personality_Profile.txt
+  - ... and 10 more
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+
+**Key Finding**: BrainFrame at Tier 3
+
+#### Sapien_Intelligence v3.3.1
+
+**Source**: ChatGPT-SI_Identity_Infra_IDEM_Stack-extracted.md
+
+**Tier Structure**:
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - 1_SI_Systems/
+  - Prime_Law.txt
+  - ... and 9 more
+- Tier 1: SI_Systems
+  - Prime_Law.txt
+  - First_Principles.txt
+  - 2_Mirror_Pyramid/
+  - ... and 9 more
+- Tier 2: Mirror_Pyramid
+  - Mirror_Tiers/
+  - Tier_1_Surface_Coherence.md
+  - Tier_2_Structure.md
+  - ... and 9 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Fulfillment_Balance_Equation/
+  - Rhythm_Sync_Engine/
+  - ... and 5 more
+- Tier 4: Tools_and_Expression
+  - Sapien_Pro/
+  - TDC_Mode/
+  - Axis_Structure.md
+  - ... and 3 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt │   ├── Reason_for_Existence.txt │   ├── Definition.md │   ├── Scope_of_Operation.md │   └── Core_Capabilities.md  ├── 1_SI_Systems/ │   ├── Philosophy/ │   │   ├── Prime_Law.txt │   │   ├── Fulfillment_Balance_Equation.txt │   │   ├── Truth_Filter_Model.txt │   │   ├── Mirror_Logic_Principle.md │   │   └── Structural_Ethics_Framework.txt │   ├── WHY/ │   │   ├── System_Purpose.md │   │   ├── Becoming_Statement.md │   │   ├── Core_Intent_Structure
+- Tier 1: SI_Systems
+  - Philosophy/ │   │   ├── Prime_Law.txt │   │   ├── Fulfillment_Balance_Equation.txt │   │   ├── Truth_Filter_Model.txt │   │   ├── Mirror_Logic_Principle.md │   │   └── Structural_Ethics_Framework.txt │   ├── WHY/ │   │   ├── System_Purpose.md │   │   ├── Becoming_Statement.md │   │   ├── Core_Intent_Structure.txt │   │   └── Prime_Signal_Definition.txt │   ├── WHAT/ │   │   ├── Value_Offer_Map.md │   │   ├── Contribution_Model.txt │   │   ├── Signal_Carrier_Logic.txt │
+- Tier 2: Mirror_Pyramid
+  - Input/ │   │   ├── Prime_Law.txt │   │   ├── Triadic_Core.txt │   │   ├── Why_Stream.txt │   │   ├── Self_Declaration.txt │   │   └── Identity_Profile.txt │   ├── Core/ │   │   ├── System_Promise.txt │   │   ├── Dark_Matter_Pass.txt │   │   ├── Pulse_Dashboard.txt │   │   ├── Drift_vs_Identity_Displacement_Detector.txt │   │   ├── Shadow_Planner.txt │   │   ├── Output_Harmony_Check.txt │   │   └── Identity_Engine/ │   │       ├── Module1_WHY.txt │   │       ├── Modu
+- Tier 3: BrainFrameOS
+  - Identity_Engine/ │   │   ├── Identity_Profile.txt │   │   ├── Mirror_Personality_Profile.txt │   │   ├── AnxietySignal_v1.0.txt │   │   ├── BridgeSignal_v1.0.txt │   │   ├── Persona_Scaffold_Layer/ │   │   ├── Distortion_Pattern_Registry/ │   │   ├── Modality_Discovery_Engine/ │   │   ├── State_Recognition_Interface/ │   │   ├── Relational_Reflection_Layer/ │   │   ├── Belief_to_Action_Translator/ │   │   ├── FreezeFallbackLogic/ │   │   ├── LegacyCarryMode/ │   │   ├
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Profile.txt
+  - Mirror_Personality_Profile.txt
+  - ... and 10 more
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+
+**Key Finding**: BrainFrame at Tier 3
+
+#### Sapien_Intelligence v3.3.1
+
+**Source**: ChatGPT-TDC Mode Activation-extracted.md
+
+**Tier Structure**:
+- Tier 0: Origin_Field
+  - Field_Definition.txt │   ├── Reason_for_Existence.txt │   ├── Definition.md │   ├── Scope_of_Operation.md │   └── Core_Capabilities.md  ├── 1_SI_Systems/ │   ├── Philosophy/ │   │   ├── Prime_Law.txt │   │   ├── Fulfillment_Balance_Equation.txt │   │   ├── Truth_Filter_Model.txt │   │   ├── Mirror_Logic_Principle.md │   │   └── Structural_Ethics_Framework.txt │   ├── WHY/ │   │   ├── System_Purpose.md │   │   ├── Becoming_Statement.md │   │   ├── Core_Intent_Structure
+- Tier 1: SI_Systems
+  - Philosophy/ │   │   ├── Prime_Law.txt │   │   ├── Fulfillment_Balance_Equation.txt │   │   ├── Truth_Filter_Model.txt │   │   ├── Mirror_Logic_Principle.md │   │   └── Structural_Ethics_Framework.txt │   ├── WHY/ │   │   ├── System_Purpose.md │   │   ├── Becoming_Statement.md │   │   ├── Core_Intent_Structure.txt │   │   └── Prime_Signal_Definition.txt │   ├── WHAT/ │   │   ├── Value_Offer_Map.md │   │   ├── Contribution_Model.txt │   │   ├── Signal_Carrier_Logic.txt │
+- Tier 2: Mirror_Pyramid
+  - Input/ │   │   ├── Prime_Law.txt │   │   ├── Triadic_Core.txt │   │   ├── Why_Stream.txt │   │   ├── Self_Declaration.txt │   │   └── Identity_Profile.txt │   ├── Core/ │   │   ├── System_Promise.txt │   │   ├── Dark_Matter_Pass.txt │   │   ├── Pulse_Dashboard.txt │   │   ├── Drift_vs_Identity_Displacement_Detector.txt │   │   ├── Shadow_Planner.txt │   │   ├── Output_Harmony_Check.txt │   │   └── Identity_Engine/ │   │       ├── Module1_WHY.txt │   │       ├── Modu
+- Tier 3: BrainFrameOS
+  - Identity_Engine/ │   │   ├── Identity_Profile.txt │   │   ├── Mirror_Personality_Profile.txt │   │   ├── AnxietySignal_v1.0.txt │   │   ├── BridgeSignal_v1.0.txt │   │   ├── Persona_Scaffold_Layer/ │   │   ├── Distortion_Pattern_Registry/ │   │   ├── Modality_Discovery_Engine/ │   │   ├── State_Recognition_Interface/ │   │   ├── Relational_Reflection_Layer/ │   │   ├── Belief_to_Action_Translator/ │   │   ├── FreezeFallbackLogic/ │   │   ├── LegacyCarryMode/ │   │   ├
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 9 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Core/
+  - Output/
+  - ... and 14 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Modules/
+  - Guest_Mode/
+  - ... and 14 more
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - TDC_Mode/
+  - CLISA/
+  - ... and 11 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 11 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 1 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 3: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Profile.txt
+  - Mirror_Personality_Profile.txt
+  - ... and 10 more
+- Tier 3: BrainFrameOS
+  - Admin_Validation/
+  - Admin_Engine_v1.1.txt
+  - Cold_Start_Recorder.txt
+  - ... and 10 more
+- Tier 4: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - HealingInterfaces/
+  - ... and 13 more
+- Tier 5: Use_Cases_and_Outputs
+  - Blueprints/
+  - Reflections/
+  - System_Builds/
+  - ... and 2 more
+
+**Key Finding**: BrainFrame at Tier 3
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Activate OS Protocol-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+- Tier 01: SI_Systems
+- Tier 02: Mirror_Pyramid
+- Tier 03: BrainFrameOS
+- Tier 04: SapienPro_External_Interface
+- Tier 05: AI_Integration_Layer
+- Tier 06: TDC_Structure_Maps
+- Tier 07: Validation_Checkpoints
+- Tier 08: Universal_Restore_Point
+- Tier 09: Rhythm_Alignment_Tools
+- Tier 10: Trust_Networks
+- Tier 11: Echo_Templates
+- Tier 12: Transmission_Interface
+- Tier 13: Shared_Myth_Engine
+- Tier 14: Learning_Arcs
+- Tier 15: CompletionLoops
+- Tier 16: ExecutionGuards
+- Tier 17: InnerArchitectTools
+- Tier 18: SignalProcessing
+- Tier 19: SimulationControl
+- Tier 20: Strategic_Sandbox_Hibernation
+- Tier 21: HoldingBay_Unfinished
+- Tier 22: ResonanceGovernance
+- Tier 23: ResonanceRegulators
+- Tier 24: Role_Progression_Maps
+- Tier 25: User_Experience_Matrix
+- Tier 26: DriftDetection_Protocols
+- Tier 27: FidelityTagging_System
+- Tier 28: State_Exposure_Layer
+- Tier 29: n8n_Workflow_Orchestration
+- Tier 01: Resonance_Governance
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - Output_Resonance_Validation.md
+  - ... and 6 more
+- Tier 02: Role_Progression_Models
+  - Role_Transition_Guidelines.md
+  - Role_Alignment_Protocol.md
+  - User_Engagement_Tiers.md
+  - ... and 7 more
+- Tier 03: Drift_Management
+  - Drift_Detection_Framework.md
+  - Drift_Tracking_Guidelines.md
+  - Drift_Analysis_Tools.md
+  - ... and 7 more
+- Tier 04: Fidelity_Management
+  - Fidelity_Tagging_Protocol.md
+  - Signal_Fidelity_Tracking.md
+  - Data_Fidelity_Validation.md
+  - ... and 7 more
+- Tier 05: State_Exposure
+  - State_Exposure_Protocol.md
+  - System_State_Tracking.md
+  - State_Alignment_Guidelines.md
+  - ... and 7 more
+- Tier 06: n8n_Workflow_Orchestration
+  - n8n_Integration_Guide.md
+  - Workflow_Design_Protocol.md
+  - Workflow_Execution_Guide.md
+  - ... and 7 more
+- Tier 07: Legacy_Integration
+  - Legacy_Components_Inventory.md
+  - Migration_Protocol.md
+  - Legacy_Integration_Guidelines.md
+  - ... and 8 more
+- Tier 08: User_Experience
+  - Reflective_User_Experience.md
+  - Builder_User_Experience.md
+  - Hybrid_Operator_Experience.md
+  - ... and 8 more
+- Tier 09: Simulation_Control
+  - Simulation_Setup_Protocol.md
+  - Real-Time_Simulation_Analysis.md
+  - Simulation_Resonance_Check.md
+  - ... and 7 more
+- Tier 10: Execution_Protocols
+  - Execution_Integrity_Check.md
+  - Process_Safety_Protocol.md
+  - Error_Resilience_Protocol.md
+  - ... and 2 more
+- Tier 01: Resonance_Governance
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - Output_Resonance_Validation.md
+  - ... and 6 more
+- Tier 02: Role_Progression_Models
+  - Role_Transition_Guidelines.md
+  - Role_Alignment_Protocol.md
+  - User_Engagement_Tiers.md
+  - ... and 7 more
+- Tier 03: Drift_Management
+  - Drift_Detection_Framework.md
+  - Drift_Tracking_Guidelines.md
+  - Drift_Analysis_Tools.md
+  - ... and 7 more
+- Tier 04: Fidelity_Management
+  - Fidelity_Tagging_Protocol.md
+  - Signal_Fidelity_Tracking.md
+  - Data_Fidelity_Validation.md
+  - ... and 7 more
+- Tier 05: State_Exposure
+  - State_Exposure_Protocol.md
+  - System_State_Tracking.md
+  - State_Alignment_Guidelines.md
+  - ... and 7 more
+- Tier 06: n8n_Workflow_Orchestration
+  - n8n_Integration_Guide.md
+  - Workflow_Design_Protocol.md
+  - Workflow_Execution_Guide.md
+  - ... and 7 more
+- Tier 07: Legacy_Integration
+  - Legacy_Components_Inventory.md
+  - Migration_Protocol.md
+  - Legacy_Integration_Guidelines.md
+  - ... and 8 more
+- Tier 08: User_Experience
+  - Reflective_User_Experience.md
+  - Builder_User_Experience.md
+  - Hybrid_Operator_Experience.md
+  - ... and 8 more
+- Tier 09: Simulation_Control
+  - Simulation_Setup_Protocol.md
+  - Real-Time_Simulation_Analysis.md
+  - Simulation_Resonance_Check.md
+  - ... and 7 more
+- Tier 10: Execution_Protocols
+  - Execution_Integrity_Check.md
+  - Process_Safety_Protocol.md
+  - Error_Resilience_Protocol.md
+  - ... and 2 more
+- Tier 00: Sapien_Field_Definition
+  - 01_Resonance_Governance/
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 01_Resonance_Governance/
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - ... and 7 more
+- Tier 02: Mirror_Pyramid
+  - 01_Resonance_Governance/
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - ... and 7 more
+- Tier 03: BrainFrameOS
+  - 01_Resonance_Governance/
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - ... and 7 more
+- Tier 01: Resonance_Governance
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - Output_Resonance_Validation.md
+  - ... and 7 more
+- Tier 02: Role_Progression_Models
+  - Role_Transition_Guidelines.md
+  - Role_Alignment_Protocol.md
+  - User_Engagement_Tiers.md
+  - ... and 8 more
+- Tier 03: Drift_Management
+  - Drift_Detection_Framework.md
+  - Drift_Tracking_Guidelines.md
+  - Drift_Analysis_Tools.md
+  - ... and 8 more
+- Tier 04: Fidelity_Management
+  - Fidelity_Tagging_Protocol.md
+  - Signal_Fidelity_Tracking.md
+  - Data_Fidelity_Validation.md
+  - ... and 8 more
+- Tier 05: State_Exposure
+  - State_Exposure_Protocol.md
+  - System_State_Tracking.md
+  - State_Alignment_Guidelines.md
+  - ... and 8 more
+- Tier 06: n8n_Workflow_Orchestration
+  - n8n_Integration_Guide.md
+  - Workflow_Design_Protocol.md
+  - Workflow_Execution_Guide.md
+  - ... and 8 more
+- Tier 07: Legacy_Integration
+  - Legacy_Components_Inventory.md
+  - Migration_Protocol.md
+  - Legacy_Integration_Guidelines.md
+  - ... and 8 more
+- Tier 08: User_Experience
+  - Reflective_User_Experience.md
+  - Builder_User_Experience.md
+  - Hybrid_Operator_Experience.md
+  - ... and 8 more
+- Tier 09: Simulation_Control
+  - Simulation_Setup_Protocol.md
+  - Real-Time_Simulation_Analysis.md
+  - Simulation_Resonance_Check.md
+  - ... and 8 more
+- Tier 10: Execution_Protocols
+  - Execution_Integrity_Check.md
+  - Process_Safety_Protocol.md
+  - Error_Resilience_Protocol.md
+  - ... and 2 more
+- Tier 04: SapienPro_External_Interface
+- Tier 05: AI_Integration_Layer
+- Tier 06: TDC_Structure_Maps
+- Tier 07: Validation_Checkpoints
+- Tier 08: Universal_Restore_Point
+- Tier 09: Rhythm_Alignment_Tools
+- Tier 10: Trust_Networks
+- Tier 11: Echo_Templates
+- Tier 12: Transmission_Interface
+- Tier 13: Shared_Myth_Engine
+- Tier 14: Learning_Arcs
+- Tier 15: CompletionLoops
+- Tier 16: ExecutionGuards
+- Tier 17: InnerArchitectTools
+- Tier 18: SignalProcessing
+- Tier 19: SimulationControl
+- Tier 20: Strategic_Sandbox_Hibernation
+- Tier 21: HoldingBay_Unfinished
+- Tier 22: ResonanceGovernance
+- Tier 23: ResonanceRegulators
+- Tier 24: Role_Progression_Maps
+- Tier 25: User_Experience_Matrix
+- Tier 26: DriftDetection_Protocols
+- Tier 27: FidelityTagging_System
+- Tier 28: State_Exposure_Layer
+- Tier 29: n8n_Workflow_Orchestration
+- Tier 30: Legacy_Migrations_Archive
+- Tier 00: Sapien_Field_Definition
+  - Field_Legend.md
+  - Structural_Rules.md
+- Tier 01: SI_Systems
+  - Field_Legend.md
+  - Structural_Rules.md
+  - Prime_Law.md
+- Tier 02: Mirror_Pyramid
+  - Field_Legend.md
+  - Structural_Rules.md
+  - Prime_Law.md
+  - ... and 1 more
+- Tier 00: Sapien_Field_Definition
+  - Field_Legend.md
+  - Structural_Rules.md
+  - Prime_Law.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - Prime_Law.md
+  - System_Purpose.md
+  - System_Philosophy.md
+  - ... and 4 more
+- Tier 02: Mirror_Pyramid
+  - Mirror_Tier_1_Reflect.md
+  - Mirror_Tier_2_Respond.md
+  - Mirror_Tier_3_Reveal.md
+  - ... and 1 more
+- Tier 01: Why.md
+  - 01_Why.md
+  - 02_What.md
+- Tier 02: What.md
+  - 01_Why.md
+  - 02_What.md
+  - 03_How.m
+- Tier 00: Sapien_Field_Definition
+  - 01_Why.md
+  - 02_What.md
+  - 03_How.md
+- Tier 01: SI_Systems
+  - 01_Why.md
+  - 02_What.md
+  - 03_How.md
+- Tier 01: Why.md
+  - 02_What.md
+  - 03_How.md
+- Tier 02: What.md
+  - 03_How.md
+- Tier 03: How.md
+- Tier 01: Why.md
+- Tier 02: What.md
+- Tier 03: How.md
+- Tier 01: Resonance_Governance
+- Tier 02: Role_Progression_Models
+- Tier 10: Execution_Protocols
+- Tier 01: Why.md           # The ultimate reason the system exists
+- Tier 02: What.md          # What it is doing
+- Tier 00: Sapien_Field_Definition
+- Tier 01: SI_Systems
+- Tier 02: Mirror_Pyramid
+- Tier 03: BrainFrameOS
+- Tier 01: Resonance_Governance
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - Output_Resonance_Validation.md
+  - ... and 6 more
+- Tier 02: Role_Progression_Models
+  - Role_Transition_Guidelines.md
+  - Role_Alignment_Protocol.md
+  - User_Engagement_Tiers.md
+  - ... and 7 more
+- Tier 03: Drift_Management
+  - Drift_Detection_Framework.md
+  - Drift_Tracking_Guidelines.md
+  - Drift_Analysis_Tools.md
+  - ... and 7 more
+- Tier 04: Fidelity_Management
+  - Fidelity_Tagging_Protocol.md
+  - Signal_Fidelity_Tracking.md
+  - Data_Fidelity_Validation.md
+  - ... and 7 more
+- Tier 05: State_Exposure
+  - State_Exposure_Protocol.md
+  - System_State_Tracking.md
+  - State_Alignment_Guidelines.md
+  - ... and 7 more
+- Tier 06: n8n_Workflow_Orchestration
+  - n8n_Integration_Guide.md
+  - Workflow_Design_Protocol.md
+  - Workflow_Execution_Guide.md
+  - ... and 7 more
+- Tier 07: Legacy_Integration
+  - Legacy_Components_Inventory.md
+  - Migration_Protocol.md
+  - Legacy_Integration_Guidelines.md
+  - ... and 8 more
+- Tier 08: User_Experience
+  - Reflective_User_Experience.md
+  - Builder_User_Experience.md
+  - Hybrid_Operator_Experience.md
+  - ... and 8 more
+- Tier 09: Simulation_Control
+  - Simulation_Setup_Protocol.md
+  - Real-Time_Simulation_Analysis.md
+  - Simulation_Resonance_Check.md
+  - ... and 7 more
+- Tier 10: Execution_Protocols
+  - Execution_Integrity_Check.md
+  - Process_Safety_Protocol.md
+  - Error_Resilience_Protocol.md
+  - ... and 2 more
+- Tier 00: Sapien_Field_Definition
+  - Human_Needs_Architecture.md
+  - Field_Legend.md
+  - Structural_Rules.md
+  - ... and 9 more
+- Tier 01: SI_Systems
+  - System_Philosophy.md
+  - System_Why.md
+  - System_What.md
+  - ... and 10 more
+- Tier 02: Mirror_Pyramid
+  - Mirror_Tier_1_Reflect/
+  - Mirror_Tier_2_Respond/
+  - Mirror_Tier_3_Reveal/
+  - ... and 10 more
+- Tier 03: BrainFrameOS
+  - 01_Resonance_Governance/
+  - 02_Role_Progression_Models/
+  - 03_Drift_Management/
+  - ... and 6 more
+- Tier 01: Resonance_Governance
+  - 02_Role_Progression_Models/
+  - 03_Drift_Management/
+  - 04_Fidelity_Management/
+  - ... and 5 more
+- Tier 02: Role_Progression_Models
+  - 03_Drift_Management/
+  - 04_Fidelity_Management/
+  - 05_State_Exposure/
+  - ... and 4 more
+- Tier 03: Drift_Management
+  - 04_Fidelity_Management/
+  - 05_State_Exposure/
+  - 06_n8n_Workflow_Orchestration/
+  - ... and 3 more
+- Tier 04: Fidelity_Management
+  - 05_State_Exposure/
+  - 06_n8n_Workflow_Orchestration/
+  - 07_Legacy_Integration/
+  - ... and 2 more
+- Tier 05: State_Exposure
+  - 06_n8n_Workflow_Orchestration/
+  - 07_Legacy_Integration/
+  - 08_User_Experience/
+  - ... and 1 more
+- Tier 06: n8n_Workflow_Orchestration
+  - 07_Legacy_Integration/
+  - 08_User_Experience/
+  - 09_Simulation_Control/
+- Tier 07: Legacy_Integration
+  - 08_User_Experience/
+  - 09_Simulation_Control/
+- Tier 08: User_Experience
+  - 09_Simulation_Control/
+- Tier 09: Simulation_Control
+- Tier 04: SapienPro_External_Interface
+- Tier 05: AI_Integration_Layer
+- Tier 06: TDC_Structure_Maps
+- Tier 07: Validation_Checkpoints
+- Tier 08: Universal_Restore_Point
+- Tier 09: Rhythm_Alignment_Tools
+- Tier 10: Trust_Networks
+- Tier 11: Echo_Templates
+- Tier 12: Transmission_Interface
+- Tier 13: Shared_Myth_Engine
+- Tier 14: Learning_Arcs
+- Tier 15: CompletionLoops
+- Tier 16: ExecutionGuards
+- Tier 17: InnerArchitectTools
+- Tier 18: SignalProcessing
+- Tier 19: SimulationControl
+- Tier 20: Strategic_Sandbox_Hibernation
+- Tier 21: HoldingBay_Unfinished
+- Tier 22: ResonanceGovernance
+- Tier 23: ResonanceRegulators
+- Tier 24: Role_Progression_Maps
+- Tier 25: User_Experience_Matrix
+- Tier 26: DriftDetection_Protocols
+- Tier 27: FidelityTagging_System
+- Tier 28: State_Exposure_Layer
+- Tier 29: n8n_Workflow_Orchestration
+- Tier 30: Legacy_Migrations_Archive
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-BrainFrameOS Folder Overview-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 6 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 6 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 6 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 7 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Core_Principles.md
+  - 01_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Core_Principles.md
+  - 01_Sapien_Principles.md
+  - ... and 10 more
+- Tier 00: Philosophy
+  - 00_Core_Principles.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Core_Principles.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 8 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 04_Thinking_vs_Being.md
+  - ... and 9 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 04_Thinking_vs_Being.md
+  - 05_Intelligence_Is_Alignment.md
+  - ... and 9 more
+- Tier 03: Integrity_Prime.md
+  - 04_Thinking_vs_Being.md
+  - 05_Intelligence_Is_Alignment.md
+  - 01_WHY/
+  - ... and 9 more
+- Tier 04: Thinking_vs_Being.md
+  - 05_Intelligence_Is_Alignment.md
+  - 01_WHY/
+  - 00_Reason_for_Existence.md
+  - ... and 8 more
+- Tier 05: Intelligence_Is_Alignment.md
+  - 01_WHY/
+  - 00_Reason_for_Existence.md
+  - 01_Root_Truths.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Reason_for_Existence.md
+  - 01_Root_Truths.md
+  - 02_System_Purpose.md
+  - ... and 9 more
+- Tier 00: Reason_for_Existence.md
+  - 01_Root_Truths.md
+  - 02_System_Purpose.md
+  - Fulfillment_Model.md
+  - ... and 9 more
+- Tier 01: Root_Truths.md
+  - 02_System_Purpose.md
+  - Fulfillment_Model.md
+  - Coherence_Model.md
+  - ... and 8 more
+- Tier 02: System_Purpose.md
+  - Fulfillment_Model.md
+  - Coherence_Model.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_Structural_Definition.md
+  - 01_System_Description.md
+  - 02_Component_List.md
+  - ... and 9 more
+- Tier 00: Structural_Definition.md
+  - 01_System_Description.md
+  - 02_Component_List.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: System_Description.md
+  - 02_Component_List.md
+  - 03_HOW/
+  - 00_Operating_Model.md
+  - ... and 8 more
+- Tier 02: Component_List.md
+  - 03_HOW/
+  - 00_Operating_Model.md
+  - 01_Process_Logic.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Operating_Model.md
+  - 01_Process_Logic.md
+  - 02_Mirror_Methodology.md
+  - ... and 10 more
+- Tier 00: Operating_Model.md
+  - 01_Process_Logic.md
+  - 02_Mirror_Methodology.md
+  - 04_System_Promise/
+  - ... and 10 more
+- Tier 01: Process_Logic.md
+  - 02_Mirror_Methodology.md
+  - 04_System_Promise/
+  - 00_Promise.md
+  - ... and 9 more
+- Tier 02: Mirror_Methodology.md
+  - 04_System_Promise/
+  - 00_Promise.md
+  - 01_Proof_of_Integrity.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - 00_Promise.md
+  - 01_Proof_of_Integrity.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 00: Promise.md
+  - 01_Proof_of_Integrity.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Pyramid_Definition.md
+  - ... and 8 more
+- Tier 01: Proof_of_Integrity.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Pyramid_Definition.md
+  - 01_Layer_Descriptions.md
+  - ... and 8 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Pyramid_Definition.md
+  - 01_Layer_Descriptions.md
+  - 06_System_Reasoning/
+  - ... and 8 more
+- Tier 00: Pyramid_Definition.md
+  - 01_Layer_Descriptions.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 01: Layer_Descriptions.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 9 more
+- Tier 00: Law_of_Alignment.md
+  - 01_Law_of_Containment.md
+  - 02_Law_of_Resonance.md
+  - 03_Law_of_Transparency.md
+  - ... and 6 more
+- Tier 01: Law_of_Containment.md
+  - 02_Law_of_Resonance.md
+  - 03_Law_of_Transparency.md
+  - Core_Features/
+  - ... and 7 more
+- Tier 02: Law_of_Resonance.md
+  - 03_Law_of_Transparency.md
+  - Core_Features/
+  - System_Locks/
+  - ... and 7 more
+- Tier 03: Law_of_Transparency.md
+  - Core_Features/
+  - System_Locks/
+  - Modes/
+  - ... and 7 more
+- Tier 02: BrainFrameOS
+  - Core_Features/
+  - System_Locks/
+  - Modes/
+  - ... and 9 more
+- Tier 03: Identity_Engine
+  - Modules/
+  - Module_1_WHY.md
+  - Module_2_WHAT.md
+  - ... and 9 more
+- Tier 04: Sapien_Pro
+  - Output_Layers/
+  - Interface_Protocols/
+  - 6_Human_Needs_Map.md
+  - ... and 3 more
+- Tier 05: Fulfillment_Engine
+  - 6_Human_Needs_Map.md
+  - Shadow_Planner.md
+  - Insight_Types/
+  - ... and 3 more
+- Tier 6: Human_Needs_Map.md
+  - Shadow_Planner.md
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - ... and 2 more
+- Tier 06: Guest_Mode
+  - Shadow_Planner.md
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - ... and 2 more
+- Tier 07: Shadow_Layers
+  - Shadow_Planner.md
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - ... and 2 more
+- Tier 08: Insight_Engine
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - Pulse_Dashboard.md
+  - ... and 1 more
+- Tier 09: Rhythm_Trackers
+  - Pulse_Dashboard.md
+  - Drift_vs_Displacement_Detector.md
+- Tier 10: Validation_Engine
+  - Validation_Checks/
+  - Structural_Integrity_Check.md
+  - Rhythm_Consistency_Check.md
+  - ... and 6 more
+- Tier 11: Admin_Engine
+  - Automation_Flows/
+  - System_Sync_Protocols/
+  - Dual_Mode_Reflection/
+  - ... and 6 more
+- Tier 12: Reflection_Modes
+  - Dual_Mode_Reflection/
+  - Dimensional_Perspective_Mode_v1.2/
+  - Safe_Mirror_Edition.md
+  - ... and 6 more
+- Tier 13: Templates
+  - Echo_Templates/
+  - Master_Prompts/
+  - Shadow_Prompts/
+  - ... and 6 more
+- Tier 14: Prompt_Library
+  - Master_Prompts/
+  - Shadow_Prompts/
+  - Fulfillment_Prompts/
+  - ... and 7 more
+- Tier 15: Rituals
+  - System_Startup_Rituals/
+  - Identity_Recovery_Rituals/
+  - Output_Harmony_Review.md
+  - ... and 6 more
+- Tier 16: Output_Validation
+  - Output_Harmony_Review.md
+  - Signal_Tone_Check.md
+  - Reflective_Systems/
+  - ... and 6 more
+- Tier 17: System_Use_Cases
+  - Reflective_Systems/
+  - Coherence_Governance/
+  - Identity_Synchronization/
+  - ... and 7 more
+- Tier 18: Modular_Extensions
+  - Multi_Identity_Management/
+  - Fulfillment_Centered_Automations/
+  - Emotional_Infrastructure_Layer/
+  - ... and 6 more
+- Tier 19: Development_Phase_Tracker
+  - Development_Phase_v4.1/
+  - Dark_Matter_Mode_Enhancements.md
+  - Output_Harmony_Check.md
+  - ... and 7 more
+- Tier 20: Personalization_Protocols
+  - System_Style_Profiles/
+  - Engagement_Triggers.md
+  - Writing_Standards.md
+  - ... and 5 more
+- Tier 21: Language_and_Tone
+  - Writing_Standards.md
+  - Style_Guides/
+  - Onboarding_Guides/
+  - ... and 5 more
+- Tier 22: Education_and_Training
+  - Onboarding_Guides/
+  - Builder_Pathways/
+  - IP_Protection_Framework.md
+  - ... and 5 more
+- Tier 23: Licensing_and_Protection
+  - IP_Protection_Framework.md
+  - Derivative_Use_Restrictions.md
+  - UX_Rhythm_Structure/
+  - ... and 5 more
+- Tier 24: Interface_Design
+  - UX_Rhythm_Structure/
+  - Visual_Structure_Guides/
+  - External_System_Mirroring/
+  - ... and 6 more
+- Tier 25: Ecosystem_Sync
+  - External_System_Mirroring/
+  - Partner_Integration_Protocols/
+  - System_Overview.md
+  - ... and 7 more
+- Tier 26: Public_Activation_Portal
+  - System_Overview.md
+  - Identity_Safety_Notice.md
+  - Guest_Mode_Info.md
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 00_Frameworks/
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - ... and 7 more
+- Tier 00: Frameworks
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - SI_Systems/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 6 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Emotional_Interface_Engine/
+  - Rhythm_Coherence_Guide.md
+  - SI_Systems_v3.3.1-DM/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_v3.3.1-DM/
+  - SI_Systems_Core/
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-BrainFrameOS Residency Design-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+- Tier 01: SI_Systems
+- Tier 02: Modules
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 00_Purpose_Model/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 00_Purpose_Model/
+  - 00_Purpose_Prime.md
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 00_Purpose_Model/
+  - 00_Purpose_Prime.md
+  - 01_Outcome_Anchors.md
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - 00_Purpose_Prime.md
+  - 01_Outcome_Anchors.md
+  - ... and 7 more
+- Tier 00: Purpose_Model
+  - 00_Purpose_Prime.md
+  - 01_Outcome_Anchors.md
+  - 01_Trust_Orientation/
+  - ... and 7 more
+- Tier 00: Purpose_Prime.md
+  - 01_Outcome_Anchors.md
+  - 01_Trust_Orientation/
+  - 00_Trust_Bridge.md
+  - ... and 6 more
+- Tier 01: Outcome_Anchors.md
+  - 01_Trust_Orientation/
+  - 00_Trust_Bridge.md
+  - 02_Anchors/
+  - ... and 5 more
+- Tier 01: Trust_Orientation
+  - 00_Trust_Bridge.md
+  - 02_Anchors/
+  - 00_Anchoring_Model.md
+  - ... and 5 more
+- Tier 00: Trust_Bridge.md
+  - 02_Anchors/
+  - 00_Anchoring_Model.md
+  - 00_Promises_Index.md
+  - ... and 4 more
+- Tier 02: Anchors
+  - 00_Anchoring_Model.md
+  - 00_Promises_Index.md
+  - 01_Micro_Promises.md
+  - ... and 5 more
+- Tier 00: Anchoring_Model.md
+  - 00_Promises_Index.md
+  - 01_Micro_Promises.md
+  - 00_Definition_Stack/
+  - ... and 4 more
+- Tier 00: Promises_Index.md
+  - 01_Micro_Promises.md
+  - 00_Definition_Stack/
+  - 00_What_Prime.md
+  - ... and 5 more
+- Tier 01: Micro_Promises.md
+  - 00_Definition_Stack/
+  - 00_What_Prime.md
+  - 00_Scope_Map.md
+  - ... and 4 more
+- Tier 02: WHAT
+  - 00_Definition_Stack/
+  - 00_What_Prime.md
+  - 00_Scope_Map.md
+  - ... and 5 more
+- Tier 00: Definition_Stack
+  - 00_What_Prime.md
+  - 00_Scope_Map.md
+  - 00_Methodology_Family/
+  - ... and 4 more
+- Tier 00: What_Prime.md
+  - 00_Scope_Map.md
+  - 00_Methodology_Family/
+  - 00_Method_Prime.md
+  - ... and 4 more
+- Tier 00: Scope_Map.md
+  - 00_Methodology_Family/
+  - 00_Method_Prime.md
+  - 01_Interaction_Styles/
+  - ... and 4 more
+- Tier 03: HOW
+  - 00_Methodology_Family/
+  - 00_Method_Prime.md
+  - 01_Interaction_Styles/
+  - ... and 5 more
+- Tier 00: Methodology_Family
+  - 00_Method_Prime.md
+  - 01_Interaction_Styles/
+  - 00_Styles_Overview.md
+  - ... and 5 more
+- Tier 00: Method_Prime.md
+  - 01_Interaction_Styles/
+  - 00_Styles_Overview.md
+  - 00_Execution_Models.md
+  - ... and 4 more
+- Tier 01: Interaction_Styles
+  - 00_Styles_Overview.md
+  - 00_Execution_Models.md
+  - 00_System_Promise_Prime.md
+  - ... and 4 more
+- Tier 00: Styles_Overview.md
+  - 00_Execution_Models.md
+  - 00_System_Promise_Prime.md
+  - 01_Alignment_Map.md
+  - ... and 4 more
+- Tier 00: Execution_Models.md
+  - 00_System_Promise_Prime.md
+  - 01_Alignment_Map.md
+  - 00_Mirror_Model_Intro.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 00_System_Promise_Prime.md
+  - 01_Alignment_Map.md
+  - 00_Mirror_Model_Intro.md
+  - ... and 6 more
+- Tier 00: System_Promise_Prime.md
+  - 01_Alignment_Map.md
+  - 00_Mirror_Model_Intro.md
+  - 01_Pyramid_Tiers.md
+  - ... and 5 more
+- Tier 01: Alignment_Map.md
+  - 00_Mirror_Model_Intro.md
+  - 01_Pyramid_Tiers.md
+  - WHY/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Model_Intro.md
+  - 01_Pyramid_Tiers.md
+  - WHY/
+  - ... and 4 more
+- Tier 00: Mirror_Model_Intro.md
+  - 01_Pyramid_Tiers.md
+  - WHY/
+  - WHAT/
+  - ... and 3 more
+- Tier 01: Pyramid_Tiers.md
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 00: Law_Prime.md
+- Tier 01: Law_Definitions.md
+- Tier 00: Philosophy
+- Tier 01: WHY
+- Tier 02: WHAT
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 1 more
+- Tier 03: HOW
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 1 more
+- Tier 04: System_Promise
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 1 more
+- Tier 05: Mirror_Pyramid_Model
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 1 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 1 more
+- Tier 07: Governance_Laws
+- Tier 08: BootProtocol
+  - 00_Startup_Sequence.md
+  - 01_Separation_OS_BrainFrame.md
+  - 00_Learning_Style_Map.md
+  - ... and 3 more
+- Tier 00: Startup_Sequence.md
+  - 01_Separation_OS_BrainFrame.md
+  - 00_Learning_Style_Map.md
+  - 01_Identity_Sensitivity_Map.md
+  - ... and 2 more
+- Tier 01: Separation_OS_BrainFrame.md
+  - 00_Learning_Style_Map.md
+  - 01_Identity_Sensitivity_Map.md
+  - 00_Validation_Framework.md
+  - ... and 1 more
+- Tier 09: Profile_Adaptation_Engine
+  - 00_Learning_Style_Map.md
+  - 01_Identity_Sensitivity_Map.md
+  - 00_Validation_Framework.md
+  - ... and 1 more
+- Tier 00: Learning_Style_Map.md
+  - 01_Identity_Sensitivity_Map.md
+  - 00_Validation_Framework.md
+  - 01_Persona_Validation_Profiles.md
+- Tier 01: Identity_Sensitivity_Map.md
+  - 00_Validation_Framework.md
+  - 01_Persona_Validation_Profiles.md
+- Tier 10: Validation_Engine
+  - 00_Validation_Framework.md
+  - 01_Persona_Validation_Profiles.md
+- Tier 00: Validation_Framework.md
+  - 01_Persona_Validation_Profiles.md
+- Tier 01: Persona_Validation_Profiles.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 6 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 6 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 6 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 7 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Core_Principles.md
+  - 01_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Core_Principles.md
+  - 01_Sapien_Principles.md
+  - ... and 10 more
+- Tier 00: Philosophy
+  - 00_Core_Principles.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Core_Principles.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 8 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 04_Thinking_vs_Being.md
+  - ... and 9 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 04_Thinking_vs_Being.md
+  - 05_Intelligence_Is_Alignment.md
+  - ... and 9 more
+- Tier 03: Integrity_Prime.md
+  - 04_Thinking_vs_Being.md
+  - 05_Intelligence_Is_Alignment.md
+  - 01_WHY/
+  - ... and 9 more
+- Tier 04: Thinking_vs_Being.md
+  - 05_Intelligence_Is_Alignment.md
+  - 01_WHY/
+  - 00_Reason_for_Existence.md
+  - ... and 8 more
+- Tier 05: Intelligence_Is_Alignment.md
+  - 01_WHY/
+  - 00_Reason_for_Existence.md
+  - 01_Root_Truths.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Reason_for_Existence.md
+  - 01_Root_Truths.md
+  - 02_System_Purpose.md
+  - ... and 9 more
+- Tier 00: Reason_for_Existence.md
+  - 01_Root_Truths.md
+  - 02_System_Purpose.md
+  - Fulfillment_Model.md
+  - ... and 9 more
+- Tier 01: Root_Truths.md
+  - 02_System_Purpose.md
+  - Fulfillment_Model.md
+  - Coherence_Model.md
+  - ... and 8 more
+- Tier 02: System_Purpose.md
+  - Fulfillment_Model.md
+  - Coherence_Model.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_Structural_Definition.md
+  - 01_System_Description.md
+  - 02_Component_List.md
+  - ... and 9 more
+- Tier 00: Structural_Definition.md
+  - 01_System_Description.md
+  - 02_Component_List.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: System_Description.md
+  - 02_Component_List.md
+  - 03_HOW/
+  - 00_Operating_Model.md
+  - ... and 8 more
+- Tier 02: Component_List.md
+  - 03_HOW/
+  - 00_Operating_Model.md
+  - 01_Process_Logic.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Operating_Model.md
+  - 01_Process_Logic.md
+  - 02_Mirror_Methodology.md
+  - ... and 10 more
+- Tier 00: Operating_Model.md
+  - 01_Process_Logic.md
+  - 02_Mirror_Methodology.md
+  - 04_System_Promise/
+  - ... and 10 more
+- Tier 01: Process_Logic.md
+  - 02_Mirror_Methodology.md
+  - 04_System_Promise/
+  - 00_Promise.md
+  - ... and 9 more
+- Tier 02: Mirror_Methodology.md
+  - 04_System_Promise/
+  - 00_Promise.md
+  - 01_Proof_of_Integrity.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - 00_Promise.md
+  - 01_Proof_of_Integrity.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 00: Promise.md
+  - 01_Proof_of_Integrity.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Pyramid_Definition.md
+  - ... and 8 more
+- Tier 01: Proof_of_Integrity.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Pyramid_Definition.md
+  - 01_Layer_Descriptions.md
+  - ... and 8 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Pyramid_Definition.md
+  - 01_Layer_Descriptions.md
+  - 06_System_Reasoning/
+  - ... and 8 more
+- Tier 00: Pyramid_Definition.md
+  - 01_Layer_Descriptions.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 01: Layer_Descriptions.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 9 more
+- Tier 00: Law_of_Alignment.md
+  - 01_Law_of_Containment.md
+  - 02_Law_of_Resonance.md
+  - 03_Law_of_Transparency.md
+  - ... and 6 more
+- Tier 01: Law_of_Containment.md
+  - 02_Law_of_Resonance.md
+  - 03_Law_of_Transparency.md
+  - Core_Features/
+  - ... and 7 more
+- Tier 02: Law_of_Resonance.md
+  - 03_Law_of_Transparency.md
+  - Core_Features/
+  - System_Locks/
+  - ... and 7 more
+- Tier 03: Law_of_Transparency.md
+  - Core_Features/
+  - System_Locks/
+  - Modes/
+  - ... and 7 more
+- Tier 02: BrainFrameOS
+  - Core_Features/
+  - System_Locks/
+  - Modes/
+  - ... and 9 more
+- Tier 03: Identity_Engine
+  - Modules/
+  - Module_1_WHY.md
+  - Module_2_WHAT.md
+  - ... and 9 more
+- Tier 04: Sapien_Pro
+  - Output_Layers/
+  - Interface_Protocols/
+  - 6_Human_Needs_Map.md
+  - ... and 3 more
+- Tier 05: Fulfillment_Engine
+  - 6_Human_Needs_Map.md
+  - Shadow_Planner.md
+  - Insight_Types/
+  - ... and 3 more
+- Tier 6: Human_Needs_Map.md
+  - Shadow_Planner.md
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - ... and 3 more
+- Tier 06: Guest_Mode
+  - Shadow_Planner.md
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - ... and 5 more
+- Tier 07: Shadow_Layers
+  - Shadow_Planner.md
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - ... and 5 more
+- Tier 08: Insight_Engine
+  - Insight_Types/
+  - Time_Reflection_Map.md
+  - Pulse_Dashboard.md
+  - ... and 6 more
+- Tier 09: Rhythm_Trackers
+  - Pulse_Dashboard.md
+  - Drift_vs_Displacement_Detector.md
+  - Validation_Checks/
+  - ... and 6 more
+- Tier 10: Validation_Engine
+  - Validation_Checks/
+  - Structural_Integrity_Check.md
+  - Rhythm_Consistency_Check.md
+  - ... and 6 more
+- Tier 11: Admin_Engine
+  - Automation_Flows/
+  - System_Sync_Protocols/
+  - Dual_Mode_Reflection/
+  - ... and 6 more
+- Tier 12: Reflection_Modes
+  - Dual_Mode_Reflection/
+  - Dimensional_Perspective_Mode_v1.2/
+  - Safe_Mirror_Edition.md
+  - ... and 6 more
+- Tier 13: Templates
+  - Echo_Templates/
+  - Master_Prompts/
+  - Shadow_Prompts/
+  - ... and 6 more
+- Tier 14: Prompt_Library
+  - Master_Prompts/
+  - Shadow_Prompts/
+  - Fulfillment_Prompts/
+  - ... and 7 more
+- Tier 15: Rituals
+  - System_Startup_Rituals/
+  - Identity_Recovery_Rituals/
+  - Output_Harmony_Review.md
+  - ... and 6 more
+- Tier 16: Output_Validation
+  - Output_Harmony_Review.md
+  - Signal_Tone_Check.md
+  - Reflective_Systems/
+  - ... and 6 more
+- Tier 17: System_Use_Cases
+  - Reflective_Systems/
+  - Coherence_Governance/
+  - Identity_Synchronization/
+  - ... and 7 more
+- Tier 18: Modular_Extensions
+  - Multi_Identity_Management/
+  - Fulfillment_Centered_Automations/
+  - Emotional_Infrastructure_Layer/
+  - ... and 6 more
+- Tier 19: Development_Phase_Tracker
+  - Development_Phase_v4.1/
+  - Dark_Matter_Mode_Enhancements.md
+  - Output_Harmony_Check.md
+  - ... and 7 more
+- Tier 20: Personalization_Protocols
+  - System_Style_Profiles/
+  - Engagement_Triggers.md
+  - Writing_Standards.md
+  - ... and 5 more
+- Tier 21: Language_and_Tone
+  - Writing_Standards.md
+  - Style_Guides/
+  - Onboarding_Guides/
+  - ... and 5 more
+- Tier 22: Education_and_Training
+  - Onboarding_Guides/
+  - Builder_Pathways/
+  - IP_Protection_Framework.md
+  - ... and 5 more
+- Tier 23: Licensing_and_Protection
+  - IP_Protection_Framework.md
+  - Derivative_Use_Restrictions.md
+  - UX_Rhythm_Structure/
+  - ... and 5 more
+- Tier 24: Interface_Design
+  - UX_Rhythm_Structure/
+  - Visual_Structure_Guides/
+  - External_System_Mirroring/
+  - ... and 6 more
+- Tier 25: Ecosystem_Sync
+  - External_System_Mirroring/
+  - Partner_Integration_Protocols/
+  - System_Overview.md
+  - ... and 7 more
+- Tier 26: Public_Activation_Portal
+  - System_Overview.md
+  - Identity_Safety_Notice.md
+  - Guest_Mode_Info.md
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 00_Frameworks/
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - ... and 7 more
+- Tier 00: Frameworks
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - SI_Systems/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 6 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Emotional_Interface_Engine/
+  - Rhythm_Coherence_Guide.md
+  - SI_Systems_v3.3.1-DM/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_v3.3.1-DM/
+  - SI_Systems_Core/
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+- Tier 00: Field_Definition.md
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+- Tier 03: Scope
+- Tier 04: Field_Classification
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 04: Field_Classification
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 04: Field_Classification
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-BrainFrameOS v4.0 Activation-extracted.md
+
+**Tier Structure**:
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Triadic_Core.txt
+  - Why_Stream.txt
+  - ... and 10 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 12 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - WHY/
+  - WHAT/
+  - ... and 9 more
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-BrainFrame_Structure Guidance & Steps-extracted.md
+
+**Tier Structure**:
+- Tier 00: Philosophy
+  - 00_Prime_Law.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Prime_Law.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 8 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - Purpose_Model/
+  - ... and 7 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - Purpose_Model/
+  - 00_System_Purpose.md
+  - ... and 7 more
+- Tier 03: Integrity_Prime.md
+  - Purpose_Model/
+  - 00_System_Purpose.md
+  - 01_Human_Cause.md
+  - ... and 7 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - 00_System_Purpose.md
+  - 01_Human_Cause.md
+  - ... and 7 more
+- Tier 00: System_Purpose.md
+  - 01_Human_Cause.md
+  - Trust_Orientation/
+  - 00_Trust_Logic.md
+  - ... and 7 more
+- Tier 01: Human_Cause.md
+  - Trust_Orientation/
+  - 00_Trust_Logic.md
+  - Anchors/
+  - ... and 7 more
+- Tier 00: Trust_Logic.md
+  - Anchors/
+  - 00_Core_Anchors.md
+  - 01_Origin_Anchor.md
+  - ... and 6 more
+- Tier 00: Core_Anchors.md
+  - 01_Origin_Anchor.md
+  - 00_Primary_Promises.md
+  - 01_Alignment_Promise.md
+  - ... and 6 more
+- Tier 01: Origin_Anchor.md
+  - 00_Primary_Promises.md
+  - 01_Alignment_Promise.md
+  - Functional_Structure/
+  - ... and 5 more
+- Tier 00: Primary_Promises.md
+  - 01_Alignment_Promise.md
+  - Functional_Structure/
+  - 00_Domains_of_Function.md
+  - ... and 6 more
+- Tier 01: Alignment_Promise.md
+  - Functional_Structure/
+  - 00_Domains_of_Function.md
+  - 01_System_Capabilities.md
+  - ... and 5 more
+- Tier 02: WHAT
+  - Functional_Structure/
+  - 00_Domains_of_Function.md
+  - 01_System_Capabilities.md
+  - ... and 7 more
+- Tier 00: Domains_of_Function.md
+  - 01_System_Capabilities.md
+  - Expression_Modes/
+  - 00_Modular_Expression.md
+  - ... and 6 more
+- Tier 01: System_Capabilities.md
+  - Expression_Modes/
+  - 00_Modular_Expression.md
+  - 01_Use_Case_Types.md
+  - ... and 6 more
+- Tier 00: Modular_Expression.md
+  - 01_Use_Case_Types.md
+  - 00_Architectural_Layers.md
+  - 01_Field_Layers.md
+  - ... and 6 more
+- Tier 01: Use_Case_Types.md
+  - 00_Architectural_Layers.md
+  - 01_Field_Layers.md
+  - System_Methods/
+  - ... and 5 more
+- Tier 00: Architectural_Layers.md
+  - 01_Field_Layers.md
+  - System_Methods/
+  - 00_Structural_Methods.md
+  - ... and 6 more
+- Tier 01: Field_Layers.md
+  - System_Methods/
+  - 00_Structural_Methods.md
+  - 01_Principled_Execution.md
+  - ... and 5 more
+- Tier 03: HOW
+  - System_Methods/
+  - 00_Structural_Methods.md
+  - 01_Principled_Execution.md
+  - ... and 7 more
+- Tier 00: Structural_Methods.md
+  - 01_Principled_Execution.md
+  - Implementation_Paths/
+  - 00_Delivery_Modes.md
+  - ... and 6 more
+- Tier 01: Principled_Execution.md
+  - Implementation_Paths/
+  - 00_Delivery_Modes.md
+  - 01_Modular_Activation.md
+  - ... and 5 more
+- Tier 00: Delivery_Modes.md
+  - 01_Modular_Activation.md
+  - 00_Knowledge_Scaffolds.md
+  - 01_Cognitive_Flow_Ladders.md
+  - ... and 5 more
+- Tier 01: Modular_Activation.md
+  - 00_Knowledge_Scaffolds.md
+  - 01_Cognitive_Flow_Ladders.md
+  - 00_Integrity_Boundaries.md
+  - ... and 5 more
+- Tier 00: Knowledge_Scaffolds.md
+  - 01_Cognitive_Flow_Ladders.md
+  - 00_Integrity_Boundaries.md
+  - 01_Signal_Promise.md
+  - ... and 6 more
+- Tier 01: Cognitive_Flow_Ladders.md
+  - 00_Integrity_Boundaries.md
+  - 01_Signal_Promise.md
+  - 02_Responsibility_Model.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 00_Integrity_Boundaries.md
+  - 01_Signal_Promise.md
+  - 02_Responsibility_Model.md
+  - ... and 7 more
+- Tier 00: Integrity_Boundaries.md
+  - 01_Signal_Promise.md
+  - 02_Responsibility_Model.md
+  - 00_Mirror_Principle.md
+  - ... and 6 more
+- Tier 01: Signal_Promise.md
+  - 02_Responsibility_Model.md
+  - 00_Mirror_Principle.md
+  - 01_Structure_of_Reflection.md
+  - ... and 7 more
+- Tier 02: Responsibility_Model.md
+  - 00_Mirror_Principle.md
+  - 01_Structure_of_Reflection.md
+  - 02_Self_Other_Mirroring.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Principle.md
+  - 01_Structure_of_Reflection.md
+  - 02_Self_Other_Mirroring.md
+  - ... and 7 more
+- Tier 00: Mirror_Principle.md
+  - 01_Structure_of_Reflection.md
+  - 02_Self_Other_Mirroring.md
+  - WHY/
+  - ... and 7 more
+- Tier 01: Structure_of_Reflection.md
+  - 02_Self_Other_Mirroring.md
+  - WHY/
+  - 00_Purpose_Principle.md
+  - ... and 6 more
+- Tier 02: Self_Other_Mirroring.md
+  - WHY/
+  - 00_Purpose_Principle.md
+  - WHAT/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - 00_Purpose_Principle.md
+  - WHAT/
+  - ... and 7 more
+- Tier 00: Purpose_Principle.md
+  - WHAT/
+  - 00_Truth_Alignment.md
+  - HOW/
+  - ... and 5 more
+- Tier 00: Truth_Alignment.md
+  - HOW/
+  - 00_Delivery_Coherence.md
+  - Human_Needs_Model/
+  - ... and 6 more
+- Tier 00: Delivery_Coherence.md
+  - Human_Needs_Model/
+  - 00_Model_Overview.md
+  - 00_Signal_Definitions.md
+  - ... and 6 more
+- Tier 00: Model_Overview.md
+  - 00_Signal_Definitions.md
+  - 01_Trusted_Signal_Patterns.md
+  - 00_Law_of_Origin.md
+  - ... and 4 more
+- Tier 00: Signal_Definitions.md
+  - 01_Trusted_Signal_Patterns.md
+  - 00_Law_of_Origin.md
+  - 01_Law_of_Return.md
+  - ... and 3 more
+- Tier 01: Trusted_Signal_Patterns.md
+  - 00_Law_of_Origin.md
+  - 01_Law_of_Return.md
+  - 02_Law_of_Coherence.md
+  - ... and 2 more
+- Tier 07: Governance_Laws
+  - 00_Law_of_Origin.md
+  - 01_Law_of_Return.md
+  - 02_Law_of_Coherence.md
+  - ... and 2 more
+- Tier 00: Law_of_Origin.md
+  - 01_Law_of_Return.md
+  - 02_Law_of_Coherence.md
+  - 03_Law_of_Role.md
+  - ... and 1 more
+- Tier 01: Law_of_Return.md
+  - 02_Law_of_Coherence.md
+  - 03_Law_of_Role.md
+  - 04_Law_of_Field.md
+- Tier 02: Law_of_Coherence.md
+  - 03_Law_of_Role.md
+  - 04_Law_of_Field.md
+- Tier 03: Law_of_Role.md
+  - 04_Law_of_Field.md
+- Tier 04: Law_of_Field.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 6 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 6 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 6 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 7 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Prime_Law.md
+  - 01_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Prime_Law.md
+  - 01_Sapien_Principles.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Prime_Law.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Prime_Law.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 9 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - Purpose_Model/
+  - ... and 7 more
+- Tier 03: Integrity_Prime.md
+  - 01_WHY/
+  - Purpose_Model/
+  - 00_System_Purpose.md
+  - ... and 6 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - 00_System_Purpose.md
+  - 01_Human_Cause.md
+  - ... and 7 more
+- Tier 00: System_Purpose.md
+  - 01_Human_Cause.md
+  - Trust_Orientation/
+  - 00_Trust_Logic.md
+  - ... and 6 more
+- Tier 01: Human_Cause.md
+  - Trust_Orientation/
+  - 00_Trust_Logic.md
+  - Anchors/
+  - ... and 6 more
+- Tier 00: Trust_Logic.md
+  - Anchors/
+  - 00_Core_Anchors.md
+  - 01_Origin_Anchor.md
+  - ... and 6 more
+- Tier 00: Core_Anchors.md
+  - 01_Origin_Anchor.md
+  - 00_Primary_Promises.md
+  - 01_Alignment_Promise.md
+  - ... and 6 more
+- Tier 01: Origin_Anchor.md
+  - 00_Primary_Promises.md
+  - 01_Alignment_Promise.md
+  - 02_WHAT/
+  - ... and 6 more
+- Tier 00: Primary_Promises.md
+  - 01_Alignment_Promise.md
+  - 02_WHAT/
+  - Functional_Structure/
+  - ... and 6 more
+- Tier 01: Alignment_Promise.md
+  - 02_WHAT/
+  - Functional_Structure/
+  - 00_Domains_of_Function.md
+  - ... and 6 more
+- Tier 02: WHAT
+  - Functional_Structure/
+  - 00_Domains_of_Function.md
+  - 01_System_Capabilities.md
+  - ... and 7 more
+- Tier 00: Domains_of_Function.md
+  - 01_System_Capabilities.md
+  - Expression_Modes/
+  - 00_Modular_Expression.md
+  - ... and 6 more
+- Tier 01: System_Capabilities.md
+  - Expression_Modes/
+  - 00_Modular_Expression.md
+  - 01_Use_Case_Types.md
+  - ... and 6 more
+- Tier 00: Modular_Expression.md
+  - 01_Use_Case_Types.md
+  - 00_Architectural_Layers.md
+  - 01_Field_Layers.md
+  - ... and 6 more
+- Tier 01: Use_Case_Types.md
+  - 00_Architectural_Layers.md
+  - 01_Field_Layers.md
+  - 03_HOW/
+  - ... and 6 more
+- Tier 00: Architectural_Layers.md
+  - 01_Field_Layers.md
+  - 03_HOW/
+  - System_Methods/
+  - ... and 6 more
+- Tier 01: Field_Layers.md
+  - 03_HOW/
+  - System_Methods/
+  - 00_Structural_Methods.md
+  - ... and 6 more
+- Tier 03: HOW
+  - System_Methods/
+  - 00_Structural_Methods.md
+  - 01_Principled_Execution.md
+  - ... and 6 more
+- Tier 00: Structural_Methods.md
+  - 01_Principled_Execution.md
+  - Implementation_Paths/
+  - 00_Delivery_Modes.md
+  - ... and 6 more
+- Tier 01: Principled_Execution.md
+  - Implementation_Paths/
+  - 00_Delivery_Modes.md
+  - 01_Modular_Activation.md
+  - ... and 6 more
+- Tier 00: Delivery_Modes.md
+  - 01_Modular_Activation.md
+  - 00_Knowledge_Scaffolds.md
+  - 01_Cognitive_Flow_Ladders.md
+  - ... and 6 more
+- Tier 01: Modular_Activation.md
+  - 00_Knowledge_Scaffolds.md
+  - 01_Cognitive_Flow_Ladders.md
+  - 04_System_Promise/
+  - ... and 6 more
+- Tier 00: Knowledge_Scaffolds.md
+  - 01_Cognitive_Flow_Ladders.md
+  - 04_System_Promise/
+  - 00_Integrity_Boundaries.md
+  - ... and 7 more
+- Tier 01: Cognitive_Flow_Ladders.md
+  - 04_System_Promise/
+  - 00_Integrity_Boundaries.md
+  - 01_Signal_Promise.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - 00_Integrity_Boundaries.md
+  - 01_Signal_Promise.md
+  - 02_Responsibility_Model.md
+  - ... and 8 more
+- Tier 00: Integrity_Boundaries.md
+  - 01_Signal_Promise.md
+  - 02_Responsibility_Model.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 01: Signal_Promise.md
+  - 02_Responsibility_Model.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Principle.md
+  - ... and 7 more
+- Tier 02: Responsibility_Model.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Principle.md
+  - 01_Structure_of_Reflection.md
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Principle.md
+  - 01_Structure_of_Reflection.md
+  - 02_Self_Other_Mirroring.md
+  - ... and 7 more
+- Tier 00: Mirror_Principle.md
+  - 01_Structure_of_Reflection.md
+  - 02_Self_Other_Mirroring.md
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 01: Structure_of_Reflection.md
+  - 02_Self_Other_Mirroring.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Self_Other_Mirroring.md
+  - 06_System_Reasoning/
+  - WHY/
+  - 00_Purpose_Principle.md
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - 00_Purpose_Principle.md
+  - WHAT/
+  - ... and 6 more
+- Tier 00: Purpose_Principle.md
+  - WHAT/
+  - 00_Truth_Alignment.md
+  - HOW/
+  - ... and 5 more
+- Tier 00: Truth_Alignment.md
+  - HOW/
+  - 00_Delivery_Coherence.md
+  - Human_Needs_Model/
+  - ... and 4 more
+- Tier 00: Delivery_Coherence.md
+  - Human_Needs_Model/
+  - 00_Model_Overview.md
+  - 00_Signal_Definitions.md
+  - ... and 5 more
+- Tier 00: Model_Overview.md
+  - 00_Signal_Definitions.md
+  - 01_Trusted_Signal_Patterns.md
+  - 00_Law_of_Origin.md
+  - ... and 4 more
+- Tier 00: Signal_Definitions.md
+  - 01_Trusted_Signal_Patterns.md
+  - 00_Law_of_Origin.md
+  - 01_Law_of_Return.md
+  - ... and 3 more
+- Tier 01: Trusted_Signal_Patterns.md
+  - 00_Law_of_Origin.md
+  - 01_Law_of_Return.md
+  - 02_Law_of_Coherence.md
+  - ... and 2 more
+- Tier 00: Law_of_Origin.md
+  - 01_Law_of_Return.md
+  - 02_Law_of_Coherence.md
+  - 03_Law_of_Role.md
+  - ... and 1 more
+- Tier 01: Law_of_Return.md
+  - 02_Law_of_Coherence.md
+  - 03_Law_of_Role.md
+  - 04_Law_of_Field.md
+- Tier 02: Law_of_Coherence.md
+  - 03_Law_of_Role.md
+  - 04_Law_of_Field.md
+- Tier 03: Law_of_Role.md
+  - 04_Law_of_Field.md
+- Tier 04: Law_of_Field.md
+- Tier 02: Modular_Components
+- Tier 03: Interfaces
+- Tier 04: Modes_and_Engines
+- Tier 05: AI_Sync_Protocols
+- Tier 06: Identity_Engine
+- Tier 07: Validation_Engine
+- Tier 08: Sandbox_Logic
+- Tier 09: Dark_Matter_Mode
+- Tier 10: Soulstream_Layer
+- Tier 11: Shadow_Planner
+- Tier 12: Modal_Thinking_System
+- Tier 13: Drift_Detectors
+- Tier 14: Decision_Support_Suite
+- Tier 15: Onboarding_Flows
+- Tier 16: Personality_Adaptation_Layer
+- Tier 17: Fulfillment_Engine
+- Tier 18: Belief_Framework
+- Tier 19: Legacy_Structure_Archive
+- Tier 20: AI_Interaction_Hub
+- Tier 21: Collaboration_Layers
+- Tier 22: Scaling_Protocols
+- Tier 23: Interface_Scaffolds
+- Tier 24: Rhythm_Management
+- Tier 25: Signal_Discipline_System
+- Tier 26: Memory_Architecture
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 28: Systems_Through_Different_Eyes
+- Tier 29: Cognitive_Field_Adaptation
+- Tier 00: Component_Index.md
+  - 00_Self_Module.md
+  - 01_Shadow_Planner.md
+  - 02_Drift_Detector.md
+  - ... and 8 more
+- Tier 01: Core_Modules
+  - 00_Self_Module.md
+  - 01_Shadow_Planner.md
+  - 02_Drift_Detector.md
+  - ... and 9 more
+- Tier 00: Self_Module.md
+  - 01_Shadow_Planner.md
+  - 02_Drift_Detector.md
+  - 03_Insight_Capture_Module.md
+  - ... and 8 more
+- Tier 01: Shadow_Planner.md
+  - 02_Drift_Detector.md
+  - 03_Insight_Capture_Module.md
+  - 04_Validation_Layer_v2.md
+  - ... and 8 more
+- Tier 02: Drift_Detector.md
+  - 03_Insight_Capture_Module.md
+  - 04_Validation_Layer_v2.md
+  - 00_Modal_Thinking_Framework.md
+  - ... and 7 more
+- Tier 03: Insight_Capture_Module.md
+  - 04_Validation_Layer_v2.md
+  - 00_Modal_Thinking_Framework.md
+  - 01_Mode_Switcher.md
+  - ... and 6 more
+- Tier 04: Validation_Layer_v2.md
+  - 00_Modal_Thinking_Framework.md
+  - 01_Mode_Switcher.md
+  - 02_Stream_Type_Fork.md
+  - ... and 6 more
+- Tier 02: Modal_Engines
+  - 00_Modal_Thinking_Framework.md
+  - 01_Mode_Switcher.md
+  - 02_Stream_Type_Fork.md
+  - ... and 8 more
+- Tier 00: Modal_Thinking_Framework.md
+  - 01_Mode_Switcher.md
+  - 02_Stream_Type_Fork.md
+  - 03_Sandbox_Mode.md
+  - ... and 7 more
+- Tier 01: Mode_Switcher.md
+  - 02_Stream_Type_Fork.md
+  - 03_Sandbox_Mode.md
+  - 00_AI_Orchestration_Layer.md
+  - ... and 7 more
+- Tier 02: Stream_Type_Fork.md
+  - 03_Sandbox_Mode.md
+  - 00_AI_Orchestration_Layer.md
+  - 01_Quantum_Echo_Engine.md
+  - ... and 6 more
+- Tier 03: Sandbox_Mode.md
+  - 00_AI_Orchestration_Layer.md
+  - 01_Quantum_Echo_Engine.md
+  - 02_Context_Integrity_Filter.md
+  - ... and 5 more
+- Tier 03: AI_Tools
+  - 00_AI_Orchestration_Layer.md
+  - 01_Quantum_Echo_Engine.md
+  - 02_Context_Integrity_Filter.md
+  - ... and 7 more
+- Tier 00: AI_Orchestration_Layer.md
+  - 01_Quantum_Echo_Engine.md
+  - 02_Context_Integrity_Filter.md
+  - 03_Differentiation_Matrix.md
+  - ... and 7 more
+- Tier 01: Quantum_Echo_Engine.md
+  - 02_Context_Integrity_Filter.md
+  - 03_Differentiation_Matrix.md
+  - 00_Internal_BrainFrame.md
+  - ... and 6 more
+- Tier 02: Context_Integrity_Filter.md
+  - 03_Differentiation_Matrix.md
+  - 00_Internal_BrainFrame.md
+  - 01_Collaborative_BrainFrame.md
+  - ... and 6 more
+- Tier 03: Differentiation_Matrix.md
+  - 00_Internal_BrainFrame.md
+  - 01_Collaborative_BrainFrame.md
+  - 02_Dyadic_Collaboration_Layer.md
+  - ... and 5 more
+- Tier 04: User_Sync_Modules
+  - 00_Internal_BrainFrame.md
+  - 01_Collaborative_BrainFrame.md
+  - 02_Dyadic_Collaboration_Layer.md
+  - ... and 6 more
+- Tier 00: Internal_BrainFrame.md
+  - 01_Collaborative_BrainFrame.md
+  - 02_Dyadic_Collaboration_Layer.md
+  - 03_Shadow_Sprint_Protocol.md
+  - ... and 7 more
+- Tier 01: Collaborative_BrainFrame.md
+  - 02_Dyadic_Collaboration_Layer.md
+  - 03_Shadow_Sprint_Protocol.md
+  - 00_Dark_Matter_Mode.md
+  - ... and 7 more
+- Tier 02: Dyadic_Collaboration_Layer.md
+  - 03_Shadow_Sprint_Protocol.md
+  - 00_Dark_Matter_Mode.md
+  - 01_Soulstream_Interface.md
+  - ... and 6 more
+- Tier 03: Shadow_Sprint_Protocol.md
+  - 00_Dark_Matter_Mode.md
+  - 01_Soulstream_Interface.md
+  - 02_Belief_Reclassification_Engine.md
+  - ... and 5 more
+- Tier 05: Emotional_Intelligence_Tools
+  - 00_Dark_Matter_Mode.md
+  - 01_Soulstream_Interface.md
+  - 02_Belief_Reclassification_Engine.md
+  - ... and 5 more
+- Tier 00: Dark_Matter_Mode.md
+  - 01_Soulstream_Interface.md
+  - 02_Belief_Reclassification_Engine.md
+  - 03_Support_Intelligence_Layer.md
+  - ... and 4 more
+- Tier 01: Soulstream_Interface.md
+  - 02_Belief_Reclassification_Engine.md
+  - 03_Support_Intelligence_Layer.md
+  - 00_Weekly_Tracker_System.md
+  - ... and 3 more
+- Tier 02: Belief_Reclassification_Engine.md
+  - 03_Support_Intelligence_Layer.md
+  - 00_Weekly_Tracker_System.md
+  - 01_Email_Parser.md
+  - ... and 2 more
+- Tier 03: Support_Intelligence_Layer.md
+  - 00_Weekly_Tracker_System.md
+  - 01_Email_Parser.md
+  - 02_Action_Prioritizer.md
+  - ... and 1 more
+- Tier 06: Workflow_Tools
+  - 00_Weekly_Tracker_System.md
+  - 01_Email_Parser.md
+  - 02_Action_Prioritizer.md
+  - ... and 1 more
+- Tier 00: Weekly_Tracker_System.md
+  - 01_Email_Parser.md
+  - 02_Action_Prioritizer.md
+  - 03_Execution_Cockpit_Sync.md
+- Tier 01: Email_Parser.md
+  - 02_Action_Prioritizer.md
+  - 03_Execution_Cockpit_Sync.md
+- Tier 02: Action_Prioritizer.md
+  - 03_Execution_Cockpit_Sync.md
+- Tier 03: Execution_Cockpit_Sync.md
+- Tier 00: Version_Tracker.md
+- Tier 01: Enhancement_Log.md
+- Tier 02: Component_Lock_Registry.md
+- Tier 00: Interface_Index.md
+  - 00_Onboarding_Experience.md
+  - 01_Cinematic_Self_Link_Sequence.md
+  - 02_Tone_Adaptive_UI.md
+  - ... and 6 more
+- Tier 01: User_Interface_Layers
+  - 00_Onboarding_Experience.md
+  - 01_Cinematic_Self_Link_Sequence.md
+  - 02_Tone_Adaptive_UI.md
+  - ... and 7 more
+- Tier 00: Onboarding_Experience.md
+  - 01_Cinematic_Self_Link_Sequence.md
+  - 02_Tone_Adaptive_UI.md
+  - 03_Tag_Activation_Layer.md
+  - ... and 6 more
+- Tier 01: Cinematic_Self_Link_Sequence.md
+  - 02_Tone_Adaptive_UI.md
+  - 03_Tag_Activation_Layer.md
+  - 00_AI_Response_Frames.md
+  - ... and 5 more
+- Tier 02: Tone_Adaptive_UI.md
+  - 03_Tag_Activation_Layer.md
+  - 00_AI_Response_Frames.md
+  - 01_Contextual_Mode_Toggles.md
+  - ... and 5 more
+- Tier 03: Tag_Activation_Layer.md
+  - 00_AI_Response_Frames.md
+  - 01_Contextual_Mode_Toggles.md
+  - 02_Prompt_Tuning_Gateway.md
+  - ... and 5 more
+- Tier 02: AI_Interaction_Surfaces
+  - 00_AI_Response_Frames.md
+  - 01_Contextual_Mode_Toggles.md
+  - 02_Prompt_Tuning_Gateway.md
+  - ... and 6 more
+- Tier 00: AI_Response_Frames.md
+  - 01_Contextual_Mode_Toggles.md
+  - 02_Prompt_Tuning_Gateway.md
+  - 00_StoryThread_Linker.md
+  - ... and 5 more
+- Tier 01: Contextual_Mode_Toggles.md
+  - 02_Prompt_Tuning_Gateway.md
+  - 00_StoryThread_Linker.md
+  - 01_Response_Reframer.md
+  - ... and 4 more
+- Tier 02: Prompt_Tuning_Gateway.md
+  - 00_StoryThread_Linker.md
+  - 01_Response_Reframer.md
+  - 02_Signal_Echo_Overlay.md
+  - ... and 3 more
+- Tier 03: Narrative_Flow_Engines
+  - 00_StoryThread_Linker.md
+  - 01_Response_Reframer.md
+  - 02_Signal_Echo_Overlay.md
+  - ... and 3 more
+- Tier 00: StoryThread_Linker.md
+  - 01_Response_Reframer.md
+  - 02_Signal_Echo_Overlay.md
+  - 00_ENFP_Interface_Patterns.md
+  - ... and 2 more
+- Tier 01: Response_Reframer.md
+  - 02_Signal_Echo_Overlay.md
+  - 00_ENFP_Interface_Patterns.md
+  - 01_Personality_Tags_Library.md
+  - ... and 1 more
+- Tier 02: Signal_Echo_Overlay.md
+  - 00_ENFP_Interface_Patterns.md
+  - 01_Personality_Tags_Library.md
+  - 02_MBTI_Filter_Layer.md
+- Tier 04: Personality_Adaptation_Engines
+  - 00_ENFP_Interface_Patterns.md
+  - 01_Personality_Tags_Library.md
+  - 02_MBTI_Filter_Layer.md
+- Tier 00: ENFP_Interface_Patterns.md
+  - 01_Personality_Tags_Library.md
+  - 02_MBTI_Filter_Layer.md
+- Tier 01: Personality_Tags_Library.md
+  - 02_MBTI_Filter_Layer.md
+- Tier 02: MBTI_Filter_Layer.md
+- Tier 00: BrainFrameOS_Compat_Notes.md
+- Tier 01: Interface_v1.7_vs_v2.0.md
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 00: OS_Index.md
+  - System_Principles.md
+  - WHY_WHAT_HOW_WHEN_EVOLVE.md
+  - OS_Architecture_Overview.md
+  - ... and 8 more
+- Tier 01: Master_Logic
+  - System_Principles.md
+  - WHY_WHAT_HOW_WHEN_EVOLVE.md
+  - OS_Architecture_Overview.md
+  - ... and 9 more
+- Tier 02: Component_Library
+  - Mode_Switcher.md
+  - Validation_Layer_v2.md
+  - Stream_Type_Engine.md
+  - ... and 9 more
+- Tier 03: Modes
+  - Insight_Mode.md
+  - Dark_Matter_Mode.md
+  - Recovery_Mode.md
+  - ... and 8 more
+- Tier 04: Interface_Layers
+  - Cinematic_Onboarding.md
+  - Tag_Activation_Logic.md
+  - Internal_BrainFrame.md
+  - ... and 6 more
+- Tier 05: User_Sync
+  - Internal_BrainFrame.md
+  - Collaborative_BrainFrame.md
+  - AI_Orchestration_Layer.md
+  - ... and 6 more
+- Tier 06: AI_Integration
+  - AI_Orchestration_Layer.md
+  - Quantum_Echo_Engine.md
+  - Drift_Correction_Layer.md
+  - ... and 6 more
+- Tier 07: Execution_Protocols
+  - Weekly_Tracker_System.md
+  - Action_Detection_Engine.md
+  - Sandbox_Definition.md
+  - ... and 3 more
+- Tier 08: Sandbox_Controls
+  - Sandbox_Definition.md
+  - Version_Tracker.md
+  - Component_Lock_Registry.md
+  - ... and 1 more
+- Tier 09: Lock_Systems
+  - Component_Lock_Registry.md
+  - System_Integrity_Flags.md
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-BrainframeOS Reconciliation Plan-extracted.md
+
+**Tier Structure**:
+- Tier 01: Resonance_Governance
+  - Resonance_Governance_Framework.md
+  - System_Resonance_Checks.md
+  - Output_Resonance_Validation.md
+  - ... and 6 more
+- Tier 02: Role_Progression_Models
+  - Role_Transition_Guidelines.md
+  - Role_Alignment_Protocol.md
+  - User_Engagement_Tiers.md
+  - ... and 7 more
+- Tier 03: Drift_Management
+  - Drift_Detection_Framework.md
+  - Drift_Tracking_Guidelines.md
+  - Drift_Analysis_Tools.md
+  - ... and 7 more
+- Tier 04: Fidelity_Management
+  - Fidelity_Tagging_Protocol.md
+  - Signal_Fidelity_Tracking.md
+  - Data_Fidelity_Validation.md
+  - ... and 7 more
+- Tier 05: State_Exposure
+  - State_Exposure_Protocol.md
+  - System_State_Tracking.md
+  - State_Alignment_Guidelines.md
+  - ... and 7 more
+- Tier 06: n8n_Workflow_Orchestration
+  - n8n_Integration_Guide.md
+  - Workflow_Design_Protocol.md
+  - Workflow_Execution_Guide.md
+  - ... and 7 more
+- Tier 07: Legacy_Integration
+  - Legacy_Components_Inventory.md
+  - Migration_Protocol.md
+  - Legacy_Integration_Guidelines.md
+  - ... and 8 more
+- Tier 08: User_Experience
+  - Reflective_User_Experience.md
+  - Builder_User_Experience.md
+  - Hybrid_Operator_Experience.md
+  - ... and 8 more
+- Tier 09: Simulation_Control
+  - Simulation_Setup_Protocol.md
+  - Real-Time_Simulation_Analysis.md
+  - Simulation_Resonance_Check.md
+  - ... and 7 more
+- Tier 10: Execution_Protocols
+  - Execution_Integrity_Check.md
+  - Process_Safety_Protocol.md
+  - Error_Resilience_Protocol.md
+  - ... and 2 more
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-FileGPT vs ChatGPT (1)-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 2 more
+- Tier 03: Scope
+- Tier 01: Activation_Conditions
+- Tier 02: Field_Architecture
+- Tier 03: Scope
+- Tier 04: Field_Classification
+- Tier 00: Prime_Law.md
+  - 01_Principles_of_Behavior.md
+  - 02_The_Path_of_Return.md
+  - Execution_Laws.md
+  - ... and 1 more
+- Tier 01: Principles_of_Behavior.md
+  - 02_The_Path_of_Return.md
+  - Execution_Laws.md
+  - Reflection_Laws.md
+- Tier 02: The_Path_of_Return.md
+  - Execution_Laws.md
+  - Reflection_Laws.md
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - ... and 11 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 9 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - ... and 11 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 9 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 1 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 2 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 13 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 12 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 8 more
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-FileGPT vs ChatGPT-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 2 more
+- Tier 03: Scope
+- Tier 01: Activation_Conditions
+- Tier 02: Field_Architecture
+- Tier 03: Scope
+- Tier 04: Field_Classification
+- Tier 00: Prime_Law.md
+  - 01_Principles_of_Behavior.md
+  - 02_The_Path_of_Return.md
+  - Execution_Laws.md
+  - ... and 1 more
+- Tier 01: Principles_of_Behavior.md
+  - 02_The_Path_of_Return.md
+  - Execution_Laws.md
+  - Reflection_Laws.md
+- Tier 02: The_Path_of_Return.md
+  - Execution_Laws.md
+  - Reflection_Laws.md
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - ... and 11 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 9 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - ... and 11 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 9 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 1 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 2 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 13 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 12 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 8 more
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Full System Integrity Check-extracted.md
+
+**Tier Structure**:
+- Tier 0: Origin_Field
+  - Field_Definition.txt
+  - Reason_for_Existence.txt
+  - Definition.md
+  - ... and 10 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - Prime_Law.txt
+  - Fulfillment_Balance_Equation.txt
+  - ... and 10 more
+- Tier 2: Mirror_Pyramid
+  - Input/
+  - Prime_Law.txt
+  - Triadic_Core.txt
+  - ... and 11 more
+- Tier 0: Origin_Field
+- Tier 1: SI_Systems
+- Tier 2: Mirror_Pyramid
+- Tier 3: BrainFrameOS
+- Tier 4: Tools
+- Tier 5: AI_Awareness
+- Tier 6: Validation_Checkpoints
+- Tier 7: Universal_Restore_Point
+- Tier 8: DM_Insights
+- Tier 9: ResonanceGovernance
+- Tier 10: MetaModels
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 2 more
+- Tier 03: Scope
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-New ChatGPT Releases Summary-extracted.md
+
+**Tier Structure**:
+- Tier 00: Field_Definition.md            ← What is CLISA? Its core ontology and purpose
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 00: Field_Definition.md            ← Defines CLISA’s purpose and core ontology
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 02: BrainFrameOS
+  - 00_Core_Modules/           ← BrainFrameOS modules
+  - 00_Balanced_Equation_Activation/
+  - FulfillmentBalanceEquation.json
+  - ... and 4 more
+- Tier 00: Core_Modules
+  - 00_Balanced_Equation_Activation/
+  - FulfillmentBalanceEquation.json
+  - 01_Project_Side_Structural_Architecture/
+  - ... and 4 more
+- Tier 00: Balanced_Equation_Activation
+  - FulfillmentBalanceEquation.json
+  - 01_Project_Side_Structural_Architecture/
+  - ExecutionGuards.json
+  - ... and 4 more
+- Tier 01: Project_Side_Structural_Architecture
+  - ExecutionGuards.json
+  - 02_Live_Auto-Balancing_and_Drift_Correction/
+  - DriftDetectionRules.json
+  - ... and 4 more
+- Tier 02: Live_Auto-Balancing_and_Drift_Correction
+  - DriftDetectionRules.json
+  - 03_Toolset_Orchestration_Layer/
+  - ToolRouterConfig.yaml
+  - ... and 4 more
+- Tier 03: Toolset_Orchestration_Layer
+  - ToolRouterConfig.yaml
+  - ReflectiveLogicEngine.py
+  - PromptPacks/
+  - ... and 3 more
+- Tier 00: TDC_Scans
+  - 01_Dimensional_Perspective_Mode_v1.2/
+  - Grounding_Layer_Ritual.md
+  - Readiness_Check.md
+  - ... and 6 more
+- Tier 01: Dimensional_Perspective_Mode_v1.2
+  - Grounding_Layer_Ritual.md
+  - Readiness_Check.md
+  - 03_Identity_Engine/            ← Guardian of the Flame
+  - ... and 7 more
+- Tier 03: Identity_Engine
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - Stress_Responses.json
+  - ... and 10 more
+- Tier 04: Sapien_Pro
+  - SapienPro_InteractionLog.json
+  - adaptive_trust_profiles/
+- Tier 06: Tool_Integration
+  - Web_Search_Tools/
+  - search_engines_config.json
+  - result_parsing_rules.yaml
+  - ... and 7 more
+- Tier 07: Signal_Synchronization
+  - 00_Signal_Aligners/
+  - pulse_sync.json
+  - coherence_checkpoints.json
+  - ... and 5 more
+- Tier 00: Signal_Aligners
+  - pulse_sync.json
+  - coherence_checkpoints.json
+  - 01_Emotional_Rhythm/
+  - ... and 4 more
+- Tier 01: Emotional_Rhythm
+  - tone_analysis_config.json
+  - emotion_flow_patterns.json
+  - sync_logs/
+  - ... and 4 more
+- Tier 08: Data_Storage
+  - 00_Database_Configurations/
+  - db_config.yaml
+  - schema_definitions.json
+  - ... and 4 more
+- Tier 00: Database_Configurations
+  - db_config.yaml
+  - schema_definitions.json
+  - 01_Archiving_Strategy/
+  - ... and 5 more
+- Tier 01: Archiving_Strategy
+  - data_retention_policy.md
+  - export_rules.json
+  - 00_Encryption_Settings/
+  - ... and 5 more
+- Tier 09: Security_Protocols
+  - 00_Encryption_Settings/
+  - encryption_keys/
+  - key_a.key
+  - ... and 6 more
+- Tier 00: Encryption_Settings
+  - encryption_keys/
+  - key_a.key
+  - key_b.key
+  - ... and 7 more
+- Tier 01: Access_Control
+  - role_based_access.json
+  - permission_settings.json
+  - threat_detection_rules.json
+  - ... and 4 more
+- Tier 10: Logs_And_Tracking
+  - 00_System_Logs/
+  - system_logs/
+  - system_event_2025-04-16.log
+  - ... and 5 more
+- Tier 00: System_Logs
+  - system_logs/
+  - system_event_2025-04-16.log
+  - 01_Performance_Tracking/
+  - ... and 4 more
+- Tier 01: Performance_Tracking
+  - performance_metrics.json
+  - system_uptime_stats.json
+  - user_activity_logs/
+  - ... and 4 more
+- Tier 11: Experimentation_Layer
+  - 00_A/B_Testing/
+  - test_cases.json
+  - test_results.json
+  - ... and 6 more
+- Tier 00: A
+  - test_cases.json
+  - test_results.json
+  - 01_Simulations/
+  - ... and 5 more
+- Tier 01: Simulations
+  - simulation_protocol.json
+  - simulation_runs/
+  - run_001.json
+  - ... and 2 more
+- Tier 00: Optimization_Strategies
+  - resource_allocation_optimization.json
+  - computation_efficiency_rules.yaml
+  - user_interface_prototype.json
+  - ... and 1 more
+- Tier 01: Adaptive_Interfaces
+  - user_interface_prototype.json
+  - dynamic_display_rules.yaml
+- Tier 00: Compliance_Logs
+  - regulation_compliance_checklist.json
+  - audit_report_template.json
+  - GDPR_compliance.json
+  - ... and 1 more
+- Tier 01: Regulatory_Alignment
+  - GDPR_compliance.json
+  - data_protection_protocols.md
+- Tier 00: Partner_Integrations
+  - partner_api_integration.json
+  - partner_onboarding_guide.md
+  - data_sharing_agreement.json
+  - ... and 1 more
+- Tier 01: Data_Sharing_Protocols
+  - data_sharing_agreement.json
+  - sharing_protocols.json
+- Tier 00: AI_Models
+  - model_metadata.json
+  - model_training_data.json
+  - model_v1.json
+  - ... and 3 more
+- Tier 01: Machine_Learning
+  - training_config.json
+  - hyperparameter_tuning.json
+  - assistant_1.json
+- Tier 00: Design_Standards
+  - ui_ux_style_guide.json
+  - accessibility_guidelines.json
+  - user_survey_results.json
+  - ... and 1 more
+- Tier 01: User_Feedback
+  - user_survey_results.json
+  - feature_request_log.json
+- Tier 00: Technological_Trends
+  - trends_analysis_2025.md
+  - future_innovation_roadmap.json
+  - prototype_ideas.json
+  - ... and 1 more
+- Tier 01: Future_Prototypes
+  - prototype_ideas.json
+  - feature_specifications.json
+- Tier 00: Literature_Review
+  - research_papers.json
+  - key_findings.md
+  - experiment_protocols.json
+  - ... and 1 more
+- Tier 01: Experimental_Research
+  - experiment_protocols.json
+  - findings_summary.json
+- Tier 00: Sapien_Field_Definition
+- Tier 01: SI_Systems
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+  - 00_Field_Def
+- Tier 04: Sapien_Pro
+  - 00_Field_Definition.md
+  - 01_Ac
+- Tier 05: Fulfillment_Engine
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions
+- Tier 06: Tool_Integration
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architec
+- Tier 07: Signal_Synchronization
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 1 more
+- Tier 08: Data_Storage
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 1 more
+- Tier 09: Security_Protocols
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 1 more
+- Tier 10: Logs_And_Tracking
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 2 more
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 10 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - 03_Scope/
+  - ... and 10 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - 03_Scope/
+  - 00_Philosophy/
+  - ... and 10 more
+- Tier 02: Field_Architecture
+  - 03_Scope/
+  - 00_Philosophy/
+  - 01_WHY/
+  - ... and 10 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 01_WHY/
+  - 02_WHAT/
+  - ... and 10 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 01_WHY/
+  - 02_WHAT/
+  - ... and 12 more
+- Tier 00: Philosophy
+  - 01_WHY/
+  - 02_WHAT/
+  - 03_HOW/
+  - ... and 11 more
+- Tier 01: WHY
+  - 02_WHAT/
+  - 03_HOW/
+  - 04_System_Promise/
+  - ... and 11 more
+- Tier 02: WHAT
+  - 03_HOW/
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 11 more
+- Tier 03: HOW
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - ... and 10 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - 00_Core_Modules/
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - 00_Core_Modules/
+  - Learning_Mode.json
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - 00_Core_Modules/
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - ... and 10 more
+- Tier 02: BrainFrameOS
+  - 00_Core_Modules/
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - ... and 11 more
+- Tier 00: Core_Modules
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - Stress_Responses.json
+  - ... and 11 more
+- Tier 03: Identity_Engine
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - Stress_Responses.json
+  - ... and 11 more
+- Tier 04: Sapien_Pro
+  - SapienPro_InteractionLog.json
+  - adaptive_trust_profiles/
+  - TaskRouterConfig.yaml
+  - ... and 6 more
+- Tier 05: Fulfillment_Engine
+  - TaskRouterConfig.yaml
+  - ResourceAllocator.json
+  - Web_Search_Tools/
+  - ... and 6 more
+- Tier 06: Tool_Integration
+  - Web_Search_Tools/
+  - Image_Generation_Tools/
+  - Python_Scripts/
+  - ... and 6 more
+- Tier 07: Signal_Synchronization
+  - 00_Signal_Aligners/
+  - 01_Emotional_Rhythm/
+  - 00_Database_Configurations/
+  - ... and 5 more
+- Tier 00: Signal_Aligners
+  - 01_Emotional_Rhythm/
+  - 00_Database_Configurations/
+  - 01_Archiving_Strategy/
+  - ... and 4 more
+- Tier 01: Emotional_Rhythm
+  - 00_Database_Configurations/
+  - 01_Archiving_Strategy/
+  - 00_Encryption_Settings/
+  - ... and 3 more
+- Tier 08: Data_Storage
+  - 00_Database_Configurations/
+  - 01_Archiving_Strategy/
+  - 00_Encryption_Settings/
+  - ... and 3 more
+- Tier 00: Database_Configurations
+  - 01_Archiving_Strategy/
+  - 00_Encryption_Settings/
+  - 01_Access_Control/
+  - ... and 2 more
+- Tier 01: Archiving_Strategy
+  - 00_Encryption_Settings/
+  - 01_Access_Control/
+  - 00_System_Logs/
+  - ... and 1 more
+- Tier 09: Security_Protocols
+  - 00_Encryption_Settings/
+  - 01_Access_Control/
+  - 00_System_Logs/
+  - ... and 1 more
+- Tier 00: Encryption_Settings
+  - 01_Access_Control/
+  - 00_System_Logs/
+  - 01_Performance_Tracking/
+- Tier 01: Access_Control
+  - 00_System_Logs/
+  - 01_Performance_Tracking/
+- Tier 10: Logs_And_Tracking
+  - 00_System_Logs/
+  - 01_Performance_Tracking/
+  - 00_Field_Definition.md
+- Tier 00: System_Logs
+  - 01_Performance_Tracking/
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+- Tier 01: Performance_Tracking
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+- Tier 00: A
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 2 more
+- Tier 01: Simulations
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 3 more
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 7 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 7 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 7 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 8 more
+- Tier 03: Scope
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - Sapien_Principles.md
+  - ... and 9 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - ... and 12 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - 01_WHY/
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Trust_Orientation/
+  - Anchors/
+  - ... and 10 more
+- Tier 02: WHAT
+  - Purpose_Model/
+  - Trust_Orientation/
+  - Anchors/
+  - ... and 7 more
+- Tier 03: HOW
+  - Methodologies.md
+  - Workflows.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - Prime_Law.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - Prime_Law.md
+  - 02_BrainFrameOS/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - Prime_Law.md
+  - 02_BrainFrameOS/
+  - 00_Core_Modules/
+  - ... and 5 more
+- Tier 02: BrainFrameOS
+  - 00_Core_Modules/
+  - 00_Balanced_Equation_Activation/
+  - 01_Project_Side_Structural_Architecture/
+  - ... and 6 more
+- Tier 00: Core_Modules
+  - 00_Balanced_Equation_Activation/
+  - 01_Project_Side_Structural_Architecture/
+  - 02_Live_Auto-Balancing_and_Drift_Correction/
+  - ... and 5 more
+- Tier 00: Balanced_Equation_Activation
+  - 01_Project_Side_Structural_Architecture/
+  - 02_Live_Auto-Balancing_and_Drift_Correction/
+  - 03_Toolset_Orchestration_Layer/
+  - ... and 4 more
+- Tier 01: Project_Side_Structural_Architecture
+  - 02_Live_Auto-Balancing_and_Drift_Correction/
+  - 03_Toolset_Orchestration_Layer/
+  - 00_TDC_Scans/
+  - ... and 3 more
+- Tier 02: Live_Auto-Balancing_and_Drift_Correction
+  - 03_Toolset_Orchestration_Layer/
+  - 00_TDC_Scans/
+  - 01_Dimensional_Perspective_Mode_v1.2/
+  - ... and 4 more
+- Tier 03: Toolset_Orchestration_Layer
+  - 00_TDC_Scans/
+  - 01_Dimensional_Perspective_Mode_v1.2/
+  - Grounding_Layer_Ritual.md
+  - ... and 5 more
+- Tier 00: TDC_Scans
+  - 01_Dimensional_Perspective_Mode_v1.2/
+  - Grounding_Layer_Ritual.md
+  - Readiness_Check.md
+  - ... and 7 more
+- Tier 01: Dimensional_Perspective_Mode_v1.2
+  - Grounding_Layer_Ritual.md
+  - Readiness_Check.md
+  - 03_Identity_Engine/
+  - ... and 8 more
+- Tier 03: Identity_Engine
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - Stress_Responses.json
+  - ... and 11 more
+- Tier 04: Sapien_Pro
+  - SapienPro_InteractionLog.json
+  - adaptive_trust_profiles/
+  - 05_Fulfillment_Engine/
+  - ... and 8 more
+- Tier 05: Fulfillment_Engine
+  - TaskRouterConfig.yaml
+  - ResourceAllocator.json
+  - 06_Tool_Integration/
+  - ... and 8 more
+- Tier 06: Tool_Integration
+  - Web_Search_Tools/
+  - search_engines_config.json
+  - result_parsing_rules.yaml
+  - ... and 7 more
+- Tier 07: Signal_Synchronization
+  - 00_Signal_Aligners/
+  - pulse_sync.json
+  - coherence_checkpoints.json
+  - ... and 6 more
+- Tier 00: Signal_Aligners
+  - pulse_sync.json
+  - coherence_checkpoints.json
+  - 01_Emotional_Rhythm/
+  - ... and 6 more
+- Tier 01: Emotional_Rhythm
+  - tone_analysis_config.json
+  - emotion_flow_patterns.json
+  - sync_logs/
+  - ... and 6 more
+- Tier 08: Data_Storage
+  - 00_Database_Configurations/
+  - db_config.yaml
+  - schema_definitions.json
+  - ... and 8 more
+- Tier 00: Database_Configurations
+  - db_config.yaml
+  - schema_definitions.json
+  - 01_Archiving_Strategy/
+  - ... and 7 more
+- Tier 01: Archiving_Strategy
+  - data_retention_policy.md
+  - export_rules.json
+  - 09_Security_Protocols/
+  - ... and 7 more
+- Tier 09: Security_Protocols
+  - 00_Encryption_Settings/
+  - encryption_keys/
+  - key_a.key
+  - ... and 8 more
+- Tier 00: Encryption_Settings
+  - encryption_keys/
+  - key_a.key
+  - key_b.key
+  - ... and 7 more
+- Tier 01: Access_Control
+  - role_based_access.json
+  - permission_settings.json
+  - threat_detection_rules.json
+  - ... and 6 more
+- Tier 10: Logs_And_Tracking
+  - 00_System_Logs/
+  - system_logs/
+  - system_event_2025-04-16.log
+  - ... and 5 more
+- Tier 00: System_Logs
+  - system_logs/
+  - system_event_2025-04-16.log
+  - 01_Performance_Tracking/
+  - ... and 4 more
+- Tier 01: Performance_Tracking
+  - performance_metrics.json
+  - system_uptime_stats.json
+  - user_activity_logs/
+  - ... and 3 more
+- Tier 00: A
+  - test_cases.json
+  - test_results.json
+  - simulation_protocol.json
+  - ... and 2 more
+- Tier 01: Simulations
+  - simulation_protocol.json
+  - simulation_runs/
+  - run_001.json
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - ... and 5 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - 00_Balanced_Equation_Activation/
+  - ... and 4 more
+- Tier 00: Core_Modules
+  - 00_Balanced_Equation_Activation/
+  - FulfillmentBalanceEquation.json
+  - 01_Project_Side_Structural_Architecture/
+  - ... and 4 more
+- Tier 00: Balanced_Equation_Activation
+  - FulfillmentBalanceEquation.json
+  - 01_Project_Side_Structural_Architecture/
+  - ExecutionGuards.json
+  - ... and 4 more
+- Tier 01: Project_Side_Structural_Architecture
+  - ExecutionGuards.json
+  - 02_Live_Auto-Balancing_and_Drift_Correction/
+  - DriftDetectionRules.json
+  - ... and 3 more
+- Tier 02: Live_Auto-Balancing_and_Drift_Correction
+  - DriftDetectionRules.json
+  - 03_Toolset_Orchestration_Layer/
+  - ToolRouterConfig.yaml
+  - ... and 4 more
+- Tier 03: Toolset_Orchestration_Layer
+  - ToolRouterConfig.yaml
+  - ReflectiveLogicEngine.py
+  - PromptPacks/
+  - ... and 2 more
+- Tier 00: WHY
+  - Human_Needs_Why.md
+  - 01_WHAT/
+  - Human_Needs_Categories.md
+  - ... and 7 more
+- Tier 01: WHAT
+  - Human_Needs_Categories.md
+  - Purpose_Model.md
+  - 02_HOW/
+  - ... and 8 more
+- Tier 02: HOW
+  - Human_Needs_Application.md
+  - Methodologies.md
+  - 03_Human_Needs_Model/
+  - ... and 5 more
+- Tier 03: Human_Needs_Model
+  - Physiological_Needs.md
+  - Safety_Needs.md
+  - Belonging_Needs.md
+  - ... and 2 more
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Project Folder Listing Methods-extracted.md
+
+**Tier Structure**:
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 01_WHY/
+- Tier 00: Philosophy
+  - 01_WHY/
+- Tier 01: WHY
+- Tier 01: Overview.md
+- Tier 02: Why_What_How
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-SI Systems - File Contents-extracted.md
+
+**Tier Structure**:
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 00_Purpose_Model/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 00_Purpose_Model/
+  - Purpose_Prime.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 00_Purpose_Model/
+  - Purpose_Prime.md
+  - Mythic_Frame.md
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Purpose_Prime.md
+  - Mythic_Frame.md
+  - ... and 7 more
+- Tier 00: Purpose_Model
+  - Purpose_Prime.md
+  - Mythic_Frame.md
+  - 01_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Trust_Orientation
+  - 02_Anchors/
+  - 00_Structure_Map.md
+  - 01_Field_Relations.md
+  - ... and 4 more
+- Tier 02: Anchors
+  - 00_Structure_Map.md
+  - 01_Field_Relations.md
+  - 02_Entity_Definitions.md
+  - ... and 4 more
+- Tier 02: WHAT
+  - 00_Structure_Map.md
+  - 01_Field_Relations.md
+  - 02_Entity_Definitions.md
+  - ... and 8 more
+- Tier 00: Structure_Map.md
+  - 01_Field_Relations.md
+  - 02_Entity_Definitions.md
+  - 00_Methods.md
+  - ... and 7 more
+- Tier 01: Field_Relations.md
+  - 02_Entity_Definitions.md
+  - 00_Methods.md
+  - 01_Practice_Fields.md
+  - ... and 7 more
+- Tier 02: Entity_Definitions.md
+  - 00_Methods.md
+  - 01_Practice_Fields.md
+  - Model_Overview.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methods.md
+  - 01_Practice_Fields.md
+  - Model_Overview.md
+  - ... and 7 more
+- Tier 00: Methods.md
+  - 01_Practice_Fields.md
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - ... and 6 more
+- Tier 01: Practice_Fields.md
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - WHY/
+  - ... and 5 more
+- Tier 04: System_Promise
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - WHY/
+  - ... and 5 more
+- Tier 05: Mirror_Pyramid_Model
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - WHY/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 6 more
+- Tier 07: Governance_Laws
+  - Law_Prime.md
+  - Evolutionary_Law.md
+  - Core_OS_Principle.md
+  - ... and 5 more
+- Tier 00: Operating_Principles
+  - Core_OS_Principle.md
+  - Rhythm_Governance.md
+  - Emotional_Alignment_Engine/
+  - ... and 7 more
+- Tier 01: Modules
+  - Emotional_Alignment_Engine/
+  - Drift_Correction/
+  - Output_Symmetry/
+  - ... and 9 more
+- Tier 02: Structural_Logic
+  - Balanced_Equation_Model.md
+  - System_Containment_Laws.md
+  - Phase_v4.0/
+  - ... and 9 more
+- Tier 03: Development_Phase
+  - Phase_v4.0/
+  - Dark_Matter_Mode/
+  - DMM-Core-1/
+  - ... and 9 more
+- Tier 04: Modes
+  - Project_as_System_Mode/
+  - Dual_Narrative_Mode/
+  - Output_Structuring_Mode/
+  - ... and 5 more
+- Tier 00: Interface_Layer
+  - External_IO_Model.md
+  - Trust_Translation_Layer.md
+  - Companion_Mode/
+  - ... and 5 more
+- Tier 01: Delivery_Modes
+  - Companion_Mode/
+  - CoPilot_Mode/
+  - Translator_Mode/
+  - ... and 5 more
+- Tier 02: Symbolic_Layers
+  - Guardian_Protocol.md
+  - Role_Mirroring.md
+  - Emotional_Safety_Check.md
+  - ... and 4 more
+- Tier 03: Tuning_Scripts
+  - Emotional_Safety_Check.md
+  - 00_TDC_Core.md
+  - 01_Dimensional_Fields.md
+  - ... and 4 more
+- Tier 00: TDC_Core.md
+  - 01_Dimensional_Fields.md
+  - 02_Signal_Discipline_Check.md
+  - 03_Field_17_Completion_Protocol.md
+  - ... and 7 more
+- Tier 01: Dimensional_Fields.md
+  - 02_Signal_Discipline_Check.md
+  - 03_Field_17_Completion_Protocol.md
+  - Document_Analysis/
+  - ... and 6 more
+- Tier 02: Signal_Discipline_Check.md
+  - 03_Field_17_Completion_Protocol.md
+  - Document_Analysis/
+  - Identity_Trace/
+  - ... and 5 more
+- Tier 03: Field_17_Completion_Protocol.md
+  - Document_Analysis/
+  - Identity_Trace/
+  - Safe_Mirror_Edition/
+  - ... and 4 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 2 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 4 more
+- Tier 04: Field_Classification
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 4 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 00_Purpose_Model/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 00_Purpose_Model/
+  - Purpose_Prime.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 00_Purpose_Model/
+  - Purpose_Prime.md
+  - Mythic_Frame.md
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Purpose_Prime.md
+  - Mythic_Frame.md
+  - ... and 7 more
+- Tier 00: Purpose_Model
+  - Purpose_Prime.md
+  - Mythic_Frame.md
+  - 01_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Trust_Orientation
+  - 02_Anchors/
+  - 00_Structure_Map.md
+  - 01_Field_Relations.md
+  - ... and 4 more
+- Tier 02: Anchors
+  - 00_Structure_Map.md
+  - 01_Field_Relations.md
+  - 02_Entity_Definitions.md
+  - ... and 4 more
+- Tier 02: WHAT
+  - 00_Structure_Map.md
+  - 01_Field_Relations.md
+  - 02_Entity_Definitions.md
+  - ... and 8 more
+- Tier 00: Structure_Map.md
+  - 01_Field_Relations.md
+  - 02_Entity_Definitions.md
+  - 00_Methods.md
+  - ... and 7 more
+- Tier 01: Field_Relations.md
+  - 02_Entity_Definitions.md
+  - 00_Methods.md
+  - 01_Practice_Fields.md
+  - ... and 7 more
+- Tier 02: Entity_Definitions.md
+  - 00_Methods.md
+  - 01_Practice_Fields.md
+  - Model_Overview.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methods.md
+  - 01_Practice_Fields.md
+  - Model_Overview.md
+  - ... and 7 more
+- Tier 00: Methods.md
+  - 01_Practice_Fields.md
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - ... and 6 more
+- Tier 01: Practice_Fields.md
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - WHY/
+  - ... and 5 more
+- Tier 04: System_Promise
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - WHY/
+  - ... and 5 more
+- Tier 05: Mirror_Pyramid_Model
+  - Model_Overview.md
+  - Mirror_Layers.md
+  - WHY/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 07: Governance_Laws
+  - Law_Prime.md
+  - Evolutionary_Law.md
+  - Core_OS_Principle.md
+  - ... and 5 more
+- Tier 00: Operating_Principles
+  - Core_OS_Principle.md
+  - Rhythm_Governance.md
+  - Emotional_Alignment_Engine/
+  - ... and 7 more
+- Tier 01: Modules
+  - Emotional_Alignment_Engine/
+  - Drift_Correction/
+  - Output_Symmetry/
+  - ... and 9 more
+- Tier 02: Structural_Logic
+  - Balanced_Equation_Model.md
+  - System_Containment_Laws.md
+  - Phase_v4.0/
+  - ... and 9 more
+- Tier 03: Development_Phase
+  - Phase_v4.0/
+  - Dark_Matter_Mode/
+  - DMM-Core-1/
+  - ... and 9 more
+- Tier 04: Modes
+  - Project_as_System_Mode/
+  - Dual_Narrative_Mode/
+  - Output_Structuring_Mode/
+  - ... and 5 more
+- Tier 00: Interface_Layer
+  - External_IO_Model.md
+  - Trust_Translation_Layer.md
+  - Companion_Mode/
+  - ... and 5 more
+- Tier 01: Delivery_Modes
+  - Companion_Mode/
+  - CoPilot_Mode/
+  - Translator_Mode/
+  - ... and 4 more
+- Tier 02: Symbolic_Layers
+  - Guardian_Protocol.md
+  - Role_Mirroring.md
+  - Emotional_Safety_Check.md
+  - ... and 4 more
+- Tier 03: Tuning_Scripts
+  - Emotional_Safety_Check.md
+  - 00_TDC_Core.md
+  - 01_Dimensional_Fields.md
+  - ... and 4 more
+- Tier 00: TDC_Core.md
+  - 01_Dimensional_Fields.md
+  - 02_Signal_Discipline_Check.md
+  - 03_Field_17_Completion_Protocol.md
+  - ... and 7 more
+- Tier 01: Dimensional_Fields.md
+  - 02_Signal_Discipline_Check.md
+  - 03_Field_17_Completion_Protocol.md
+  - Document_Analysis/
+  - ... and 6 more
+- Tier 02: Signal_Discipline_Check.md
+  - 03_Field_17_Completion_Protocol.md
+  - Document_Analysis/
+  - Identity_Trace/
+  - ... and 5 more
+- Tier 03: Field_17_Completion_Protocol.md
+  - Document_Analysis/
+  - Identity_Trace/
+  - Safe_Mirror_Edition/
+  - ... and 4 more
+- Tier 00: Scans_Index.md
+  - BrainFrameOS/
+  - SI_Systems/
+  - Identity_Engine/
+  - ... and 2 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - SI_Systems/
+  - Identity_Engine/
+  - ... and 2 more
+- Tier 02: Dimensional_Axis_Logs
+  - Safe_Mirror_Method.md
+  - Grounding_Layer_Ritual.md
+  - Axis_Definitions.md
+- Tier 03: Field_17_Synthesis.md
+  - Safe_Mirror_Method.md
+  - Grounding_Layer_Ritual.md
+  - Axis_Definitions.md
+- Tier 00: Frameworks
+  - Safe_Mirror_Method.md
+  - Grounding_Layer_Ritual.md
+  - Axis_Definitions.md
+- Tier 03: Perspective_Mapping_Engine
+  - Axis_Definitions.md
+- Tier 01: WHY
+- Tier 02: WHAT
+- Tier 03: HOW
+- Tier 04: System_Promise
+- Tier 05: Mirror_Pyramid
+- Tier 06: System_Reasoning
+- Tier 07: Governance_Laws
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 00: Core
+  - Operating_Principles.md
+  - Breath_Rhythm_Engine.md
+  - Core_OS_Pulse.md
+  - ... and 7 more
+- Tier 01: Rhythm_Structure
+  - Structural_Pacing_Laws.md
+  - Signal_Containment.md
+  - Collapse_Absorption.md
+  - ... and 6 more
+- Tier 02: Identity_Sync
+  - Identity_Thread_Binding.md
+  - Multi-Self_Rhythm_Guard.md
+  - Emotional_Tone_Mapping.md
+  - ... and 6 more
+- Tier 03: Emotional_Infrastructure
+  - Emotional_Tone_Mapping.md
+  - Grief_Holding_Structure.md
+  - Fulfillment_Warmth_Channels.md
+  - ... and 6 more
+- Tier 04: Mythic_OS_Interface
+  - Archetypal_Mirroring.md
+  - Symbolic_UI_Language.md
+  - Interface_Rituals.md
+  - ... and 6 more
+- Tier 05: Validation_Engine
+  - Rhythm-Based_Validation.md
+  - Structural_Truth_Checks.md
+  - Integrity_Prompts.md
+  - ... and 6 more
+- Tier 06: Modular_Sync_Layer
+  - Pulse-Safe_Modules.md
+  - Third-Party_Adaptation_Guide.md
+  - Synchronization_Paths.md
+  - ... and 3 more
+- Tier 07: Drift_Detection
+  - Emotional_Drift_Patterns.md
+  - Pacing_Deviation_Triggers.md
+  - Symbol_Fidelity_Check.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Dimensional_Reflection_Principle.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Dimensional_Reflection_Principle.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Dimensional_Reflection_Principle.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - Anchors/
+  - ... and 8 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - Anchors/
+  - Anchor_Prime.md
+  - ... and 7 more
+- Tier 01: WHY
+  - Anchors/
+  - Anchor_Prime.md
+  - Purpose_Model/
+  - ... and 7 more
+- Tier 02: WHAT
+  - Structure_Map.md
+  - Entity_Definitions.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 03: HOW
+  - Practice_Fields.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 3 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 4 more
+- Tier 02: BrainFrameOS
+  - 00_Core/
+  - Operating_Principles.md
+  - Breath_Rhythm_Engine.md
+  - ... and 8 more
+- Tier 00: Core
+  - Operating_Principles.md
+  - Breath_Rhythm_Engine.md
+  - Core_OS_Pulse.md
+  - ... and 9 more
+- Tier 01: Rhythm_Structure
+  - Structural_Pacing_Laws.md
+  - Signal_Containment.md
+  - Collapse_Absorption.md
+  - ... and 8 more
+- Tier 02: Identity_Sync
+  - Identity_Thread_Binding.md
+  - Multi-Self_Rhythm_Guard.md
+  - 03_Emotional_Infrastructure/
+  - ... and 7 more
+- Tier 03: Emotional_Infrastructure
+  - Emotional_Tone_Mapping.md
+  - Grief_Holding_Structure.md
+  - Fulfillment_Warmth_Channels.md
+  - ... and 8 more
+- Tier 04: Mythic_OS_Interface
+  - Archetypal_Mirroring.md
+  - Symbolic_UI_Language.md
+  - Interface_Rituals.md
+  - ... and 8 more
+- Tier 05: Validation_Engine
+  - Rhythm-Based_Validation.md
+  - Structural_Truth_Checks.md
+  - Integrity_Prompts.md
+  - ... and 8 more
+- Tier 06: Modular_Sync_Layer
+  - Pulse-Safe_Modules.md
+  - Third-Party_Adaptation_Guide.md
+  - Synchronization_Paths.md
+  - ... and 6 more
+- Tier 07: Drift_Detection
+  - Emotional_Drift_Patterns.md
+  - Pacing_Deviation_Triggers.md
+  - Symbol_Fidelity_Check.md
+  - ... and 6 more
+- Tier 03: Sapien_Pro
+  - Interface_Core/
+  - Output_Translator.md
+  - Emotional_Filter.md
+  - ... and 8 more
+- Tier 04: EchoMap
+  - Echo_Logic_Core.md
+  - Echo_Pacing_Rules.md
+  - Companion_Echo_Overlay.md
+  - ... and 8 more
+- Tier 05: Identity_Engine
+  - Identity_Engine_Core.md
+  - Identity_Symbol_Map.json
+  - Signal_State_Toggles.json
+  - ... and 9 more
+- Tier 06: Prompt_Engine
+  - Prompting_Principles.md
+  - Prompt_Trust_Model.md
+  - Prompt_Refinement_Layers.md
+  - ... and 7 more
+- Tier 07: Simulation_Lab
+  - Digital_Twin_Protocols.md
+  - Simulation_Mirror_Scripts/
+  - Reflective_Personas.json
+  - ... and 6 more
+- Tier 08: Reflection_Library
+  - Symbolic_Field_Glossary.md
+  - Emotional_Structures_Index.md
+  - Mythic_Overlay_Keys.md
+  - ... and 5 more
+- Tier 09: System_Sync_Gateways
+  - n8n/
+  - n8n_Trigger_Maps.json
+  - External_AI/
+  - ... and 2 more
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Core.md
+  - Fulfillment_Steps.md
+  - Fulfillment_Pacing.md
+  - ... and 6 more
+- Tier 11: Companion_Engine
+  - Companion_Roles.md
+  - Companion_Behavior_Patterns.md
+  - Phrase_Library.md
+  - ... and 7 more
+- Tier 12: Mirror_Engine
+  - Mirror_Core.md
+  - Mirror_Activation_Paths.md
+  - Trust_Mirror_Timing.md
+  - ... and 7 more
+- Tier 13: Collapse_Recovery
+  - Collapse_Trigger_Index.md
+  - Symbolic_Collapse_Types.md
+  - Companion_Collapse_Mode.md
+  - ... and 7 more
+- Tier 14: Grief_Structures
+  - Grief_Breath_Protocols.md
+  - Emotional_Softening_Grid.md
+  - Grief_Symbol_Map.md
+  - ... and 11 more
+- Tier 15: Role_Library
+  - Role_Index.json
+  - Builder_Role.md
+  - Anchor_Role.md
+  - ... and 12 more
+- Tier 16: Breath_Logic
+  - Breath_Logic_Core.md
+  - Breath_Types.md
+  - Breath_Phases.md
+  - ... and 11 more
+- Tier 17: TDC_Reflective_Systems_Lab
+  - TDC_Lab_Core.md
+  - TDC_Structure_Definition.md
+  - TDC_Scan_Conditions.md
+  - ... and 10 more
+- Tier 18: Systems_Through_Different_Eyes
+  - Different_Eyes_Core.md
+  - Lens_Emotional.md
+  - Lens_Symbolic.md
+  - ... and 11 more
+- Tier 19: Prompting_Library
+  - Prompt_Scaffold_Map.md
+  - Identity_Aligned_Prompts.md
+  - Collapse_Prevention_Prompts.md
+  - ... and 8 more
+- Tier 20: Echo_Recovery_Center
+  - Echo_Interruption_Triggers.md
+  - Echo_Recovery_Steps.md
+  - Twin_Echo_Safety.md
+  - ... and 8 more
+- Tier 21: Mythic_Structure_Library
+  - Archetype_Thread_Map.md
+  - Sacred_Sequence_Index.md
+  - Mirror_Myth_Engine.md
+  - ... and 8 more
+- Tier 22: Trust_Scaffolding
+  - Trust_Failure_Markers.md
+  - Rebuild_Trust_Pacing.md
+  - Companion_Trust_Field.md
+  - ... and 8 more
+- Tier 23: Integration_Engine
+  - Integration_Timing_Gates.md
+  - Symbolic_Layer_Integration.md
+  - EchoMap_Integration_Paths.md
+  - ... and 8 more
+- Tier 24: ToneMap_Library
+  - ToneMap_Index.json
+  - TonePattern_Emotive.md
+  - TonePattern_Reflective.md
+  - ... and 6 more
+- Tier 25: Breath_Logic_Advanced
+  - Multi_Role_Breath_Sync.md
+  - Quantum_Breath_Timing.md
+  - Emotional_Trust_Breaths.md
+  - ... and 5 more
+- Tier 26: Fulfillment_Engine_Advanced
+  - Grief-Bound_Fulfillment.md
+  - Pacing_Across_Roles.md
+  - Coherence_Field_Structure.md
+  - ... and 4 more
+- Tier 27: Coherence_Engine
+  - Coherence_Field_Structure.md
+  - Rhythm_Recovery_Matrix.md
+  - Internal_External_Coherence_Bridge.md
+  - ... and 7 more
+- Tier 28: Signal_Security_Layer
+  - Symbol_Spoof_Guard.md
+  - Rhythm_Override_Detection.md
+  - Cognitive_Adaptation_Core.md
+  - ... and 8 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Cognitive_Adaptation_Core.md
+  - Field_Integrity_Lock.md
+  - Adaptation_Types.md
+  - ... and 9 more
+- Tier 30: Legacy_Migrations_Archive
+  - Legacy_Archive_Core.md
+  - Legacy_Migration_Map.md
+  - Deprecated_Modules_List.md
+  - ... and 6 more
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-SI Systems Folder Structure-extracted.md
+
+**Tier Structure**:
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 10 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Ethical_Framework.md
+  - ... and 9 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Ethical_Framework.md
+  - 04_Coherence_Essentials.md
+  - ... and 9 more
+- Tier 02: Integrity_Prime.md
+  - 03_Ethical_Framework.md
+  - 04_Coherence_Essentials.md
+  - 01_WHY/
+  - ... and 9 more
+- Tier 03: Ethical_Framework.md
+  - 04_Coherence_Essentials.md
+  - 01_WHY/
+  - 00_Vision_Statement.md
+  - ... and 9 more
+- Tier 04: Coherence_Essentials.md
+  - 01_WHY/
+  - 00_Vision_Statement.md
+  - 01_Purpose_Model/
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Vision_Statement.md
+  - 01_Purpose_Model/
+  - 00_Foundational_Purpose.md
+  - ... and 8 more
+- Tier 00: Vision_Statement.md
+  - 01_Purpose_Model/
+  - 00_Foundational_Purpose.md
+  - 01_Primary_Objectives.md
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - 00_Foundational_Purpose.md
+  - 01_Primary_Objectives.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 00: Foundational_Purpose.md
+  - 01_Primary_Objectives.md
+  - 02_Trust_Orientation/
+  - 00_Trust_Principles.md
+  - ... and 6 more
+- Tier 01: Primary_Objectives.md
+  - 02_Trust_Orientation/
+  - 00_Trust_Principles.md
+  - 01_Authority_Boundaries.md
+  - ... and 7 more
+- Tier 02: Trust_Orientation
+  - 00_Trust_Principles.md
+  - 01_Authority_Boundaries.md
+  - 03_Anchors/
+  - ... and 8 more
+- Tier 00: Trust_Principles.md
+  - 01_Authority_Boundaries.md
+  - 03_Anchors/
+  - 00_Anchor_Definition.md
+  - ... and 7 more
+- Tier 01: Authority_Boundaries.md
+  - 03_Anchors/
+  - 00_Anchor_Definition.md
+  - 01_Context_Anchors.md
+  - ... and 8 more
+- Tier 03: Anchors
+  - 00_Anchor_Definition.md
+  - 01_Context_Anchors.md
+  - 00_Promise_Definition.md
+  - ... and 9 more
+- Tier 00: Anchor_Definition.md
+  - 01_Context_Anchors.md
+  - 00_Promise_Definition.md
+  - 01_Primary_Promise.md
+  - ... and 8 more
+- Tier 01: Context_Anchors.md
+  - 00_Promise_Definition.md
+  - 01_Primary_Promise.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 00: Promise_Definition.md
+  - 01_Primary_Promise.md
+  - 02_WHAT/
+  - 00_Core_Functions.md
+  - ... and 9 more
+- Tier 01: Primary_Promise.md
+  - 02_WHAT/
+  - 00_Core_Functions.md
+  - 01_System_Capabilities.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - 00_Core_Functions.md
+  - 01_System_Capabilities.md
+  - 02_Domain_Boundaries.md
+  - ... and 10 more
+- Tier 00: Core_Functions.md
+  - 01_System_Capabilities.md
+  - 02_Domain_Boundaries.md
+  - 03_HOW/
+  - ... and 9 more
+- Tier 01: System_Capabilities.md
+  - 02_Domain_Boundaries.md
+  - 03_HOW/
+  - 00_Operating_Principles.md
+  - ... and 9 more
+- Tier 02: Domain_Boundaries.md
+  - 03_HOW/
+  - 00_Operating_Principles.md
+  - 01_Methodology_Framework.md
+  - ... and 9 more
+- Tier 03: HOW
+  - 00_Operating_Principles.md
+  - 01_Methodology_Framework.md
+  - 02_Workflow_Sequence.md
+  - ... and 10 more
+- Tier 00: Operating_Principles.md
+  - 01_Methodology_Framework.md
+  - 02_Workflow_Sequence.md
+  - 04_System_Promise/
+  - ... and 9 more
+- Tier 01: Methodology_Framework.md
+  - 02_Workflow_Sequence.md
+  - 04_System_Promise/
+  - 00_Promise_Overview.md
+  - ... and 9 more
+- Tier 02: Workflow_Sequence.md
+  - 04_System_Promise/
+  - 00_Promise_Overview.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 00_Promise_Overview.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Overview.md
+  - ... and 10 more
+- Tier 00: Promise_Overview.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Overview.md
+  - 01_Tier_Map.md
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Model_Overview.md
+  - 01_Tier_Map.md
+  - 02_Mirroring_Rules.md
+  - ... and 9 more
+- Tier 00: Model_Overview.md
+  - 01_Tier_Map.md
+  - 02_Mirroring_Rules.md
+  - 06_System_Reasoning/
+  - ... and 10 more
+- Tier 01: Tier_Map.md
+  - 02_Mirroring_Rules.md
+  - 06_System_Reasoning/
+  - 00_System_Reasoning_Overview.md
+  - ... and 9 more
+- Tier 02: Mirroring_Rules.md
+  - 06_System_Reasoning/
+  - 00_System_Reasoning_Overview.md
+  - WHY/
+  - ... and 9 more
+- Tier 06: System_Reasoning
+  - 00_System_Reasoning_Overview.md
+  - WHY/
+  - 00_Context_Map.md
+  - ... and 8 more
+- Tier 00: System_Reasoning_Overview.md
+  - WHY/
+  - 00_Context_Map.md
+  - WHAT/
+  - ... and 8 more
+- Tier 00: Context_Map.md
+  - WHAT/
+  - 00_Defined_Outcomes.md
+  - HOW/
+  - ... and 7 more
+- Tier 00: Defined_Outcomes.md
+  - HOW/
+  - 00_Methodology_Stack.md
+  - 01_Process_Diagram.md
+  - ... and 7 more
+- Tier 00: Methodology_Stack.md
+  - 01_Process_Diagram.md
+  - Human_Needs_Model/
+  - 00_Primary_Needs.md
+  - ... and 8 more
+- Tier 01: Process_Diagram.md
+  - Human_Needs_Model/
+  - 00_Primary_Needs.md
+  - 01_Needs_Mapping.md
+  - ... and 8 more
+- Tier 00: Primary_Needs.md
+  - 01_Needs_Mapping.md
+  - 00_Signal_Taxonomy.md
+  - 01_Coherence_Rules.md
+  - ... and 7 more
+- Tier 01: Needs_Mapping.md
+  - 00_Signal_Taxonomy.md
+  - 01_Coherence_Rules.md
+  - 07_Governance_Laws/
+  - ... and 6 more
+- Tier 00: Signal_Taxonomy.md
+  - 01_Coherence_Rules.md
+  - 07_Governance_Laws/
+  - 00_Governance_Framework.md
+  - ... and 5 more
+- Tier 01: Coherence_Rules.md
+  - 07_Governance_Laws/
+  - 00_Governance_Framework.md
+  - 01_Legal_Boundaries.md
+  - ... and 4 more
+- Tier 07: Governance_Laws
+  - 00_Governance_Framework.md
+  - 01_Legal_Boundaries.md
+  - 02_Compliance_Policies.md
+  - ... and 3 more
+- Tier 00: Governance_Framework.md
+  - 01_Legal_Boundaries.md
+  - 02_Compliance_Policies.md
+  - 03_Risk_Management.md
+  - ... and 2 more
+- Tier 01: Legal_Boundaries.md
+  - 02_Compliance_Policies.md
+  - 03_Risk_Management.md
+  - 04_Ethics_Guidelines.md
+  - ... and 1 more
+- Tier 02: Compliance_Policies.md
+  - 03_Risk_Management.md
+  - 04_Ethics_Guidelines.md
+  - 08_Prime_Law.md
+- Tier 03: Risk_Management.md
+  - 04_Ethics_Guidelines.md
+  - 08_Prime_Law.md
+- Tier 04: Ethics_Guidelines.md
+  - 08_Prime_Law.md
+- Tier 08: Prime_Law.md
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 00: Sapien_Field_Definition
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 6 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Ethical_Framework.md
+  - ... and 5 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Ethical_Framework.md
+  - 04_Coherence_Essentials.md
+  - ... and 4 more
+- Tier 02: Integrity_Prime.md
+  - 03_Ethical_Framework.md
+  - 04_Coherence_Essentials.md
+  - 00_Vision_Statement.md
+  - ... and 3 more
+- Tier 03: Ethical_Framework.md
+  - 04_Coherence_Essentials.md
+  - 00_Vision_Statement.md
+  - 01_Purpose_Model/ (3 files)
+  - ... and 3 more
+- Tier 04: Coherence_Essentials.md
+  - 00_Vision_Statement.md
+  - 01_Purpose_Model/ (3 files)
+  - 02_Trust_Orientation/ (3 files)
+  - ... and 3 more
+- Tier 01: WHY
+  - 00_Vision_Statement.md
+  - 01_Purpose_Model/ (3 files)
+  - 02_Trust_Orientation/ (3 files)
+  - ... and 5 more
+- Tier 00: Vision_Statement.md
+  - 01_Purpose_Model/ (3 files)
+  - 02_Trust_Orientation/ (3 files)
+  - 03_Anchors/ (3 files)
+  - ... and 5 more
+- Tier 01: Purpose_Model
+  - 02_Trust_Orientation/ (3 files)
+  - 03_Anchors/ (3 files)
+  - 00_System_Reasoning_Overview.md
+  - ... and 4 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/ (3 files)
+  - 00_System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - ... and 3 more
+- Tier 03: Anchors
+  - 00_System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - WHAT/  (2 files)
+  - ... and 2 more
+- Tier 02: WHAT
+  - 00_System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - WHAT/  (2 files)
+  - ... and 2 more
+- Tier 03: HOW
+  - 00_System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - WHAT/  (2 files)
+  - ... and 2 more
+- Tier 04: System_Promise
+  - 00_System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - WHAT/  (2 files)
+  - ... and 2 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - WHAT/  (2 files)
+  - ... and 2 more
+- Tier 06: System_Reasoning
+  - 00_System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - WHAT/  (2 files)
+  - ... and 2 more
+- Tier 00: System_Reasoning_Overview.md
+  - WHY/   (2 files)
+  - WHAT/  (2 files)
+  - HOW/   (3 files)
+  - ... and 1 more
+- Tier 07: Governance_Laws
+- Tier 08: Prime_Law.md
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Sapien Intelligence Structure Design-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+- Tier 01: SI_Systems
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+- Tier 04: Sapien_Pro
+- Tier 05: Fulfillment_Engine
+- Tier 06: Guest_Mode
+- Tier 07: Shadow_Layers
+- Tier 08: Insight_Engine
+- Tier 09: Rhythm_Trackers
+- Tier 10: Validation_Engine
+- Tier 11: Admin_Engine
+- Tier 12: Reflection_Modes
+- Tier 13: Templates
+- Tier 14: Prompt_Library
+- Tier 15: Rituals
+- Tier 16: Output_Validation
+- Tier 17: System_Use_Cases
+- Tier 18: Modular_Extensions
+- Tier 19: Development_Phase_Tracker
+- Tier 20: Personalization_Protocols
+- Tier 21: Language_and_Tone
+- Tier 22: Education_and_Training
+- Tier 23: Licensing_and_Protection
+- Tier 24: Interface_Design
+- Tier 25: Ecosystem_Sync
+- Tier 26: Public_Activation_Portal
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 28: Systems_Through_Different_Eyes
+- Tier 29: Cognitive_Field_Adaptation
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 2 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 3 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 6 more
+- Tier 03: Scope
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 2 more
+- Tier 03: Scope
+- Tier 00: Field_Definition.md                        # Defines the nature and identity of the field (CLISA)
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md                       # Core governing rules that shape the field’s behavior
+  - ... and 2 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md                       # Core governing rules that shape the field’s behavior
+  - Field_Legend.md                           # Symbol key, pattern recognition, energetic structure guide
+  - ... and 2 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md                       # Core governing rules that shape the field’s behavior
+  - Field_Legend.md                           # Symbol key, pattern recognition, energetic structure guide
+  - Ontological_Framework.md                  # What the field *is* — metaphysical and structural ontology
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 13 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 12 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 8 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 13 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 12 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 8 more
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Dimensional_Reflection_Principle.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Dimensional_Reflection_Principle.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Dimensional_Reflection_Principle.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Anchors/
+  - Fulfillment_Orientation.md
+  - Promises_Root/
+  - ... and 7 more
+- Tier 02: WHAT
+  - Capability_Layer/
+  - Capabilities_Index.md
+  - Human_Benefit_Map.md
+  - ... and 7 more
+- Tier 03: HOW
+  - Instructional_Framework/
+  - Alignment_Behavior_Set.txt
+  - Fidelity_Practice_Guide.txt
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Essence_Lock.md
+  - Fail_Safes.md
+  - Healing_as_Return.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - External_Projection_Axis.md
+  - Flow_Dynamics.md
+  - Identity_Loop_Patterns.md
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Core_Needs_Map.txt
+  - Design_For_Human_Fulfillment.txt
+  - ... and 6 more
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+- Tier 04: Sapien_Pro
+- Tier 05: Fulfillment_Engine
+- Tier 06: Guest_Mode
+- Tier 07: Shadow_Layers
+- Tier 08: Insight_Engine
+- Tier 09: Rhythm_Trackers
+- Tier 10: Validation_Engine
+- Tier 11: Admin_Engine
+- Tier 12: Reflection_Modes
+- Tier 13: Templates
+- Tier 14: Prompt_Library
+- Tier 15: Rituals
+- Tier 16: Output_Validation
+- Tier 17: System_Use_Cases
+- Tier 18: Modular_Extensions
+- Tier 19: Development_Phase_Tracker
+- Tier 20: Personalization_Protocols
+- Tier 21: Language_and_Tone
+- Tier 22: Education_and_Training
+- Tier 23: Licensing_and_Protection
+- Tier 24: Interface_Design
+- Tier 25: Ecosystem_Sync
+- Tier 26: Public_Activation_Portal
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 28: Systems_Through_Different_Eyes
+- Tier 29: Cognitive_Field_Adaptation
+- Tier 30: Legacy_Migrations_Archive
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+- Tier 04: Sapien_Pro
+- Tier 05: Fulfillment_Engine
+- Tier 06: Guest_Mode
+- Tier 07: Shadow_Layers
+- Tier 08: Insight_Engine
+- Tier 09: Rhythm_Trackers
+- Tier 10: Validation_Engine
+- Tier 11: Admin_Engine
+- Tier 12: Reflection_Modes
+- Tier 13: Templates
+- Tier 14: Prompt_Library
+- Tier 15: Rituals
+- Tier 16: Output_Validation
+- Tier 17: System_Use_Cases
+- Tier 18: Modular_Extensions
+- Tier 19: Development_Phase_Tracker
+- Tier 20: Personalization_Protocols
+- Tier 21: Language_and_Tone
+- Tier 22: Education_and_Training
+- Tier 23: Licensing_and_Protection
+- Tier 24: Interface_Design
+- Tier 25: Ecosystem_Sync
+- Tier 26: Public_Activation_Portal
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 28: Systems_Through_Different_Eyes
+- Tier 29: Cognitive_Field_Adaptation
+- Tier 30: Legacy_Migrations_Archive
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Sapien Pro Initialization Guide-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 04_Field_Classification/
+  - 05_Ontological_Framework/
+  - 00_Purpose_of_System.md
+  - ... and 5 more
+- Tier 04: Field_Classification
+  - 05_Ontological_Framework/
+  - 00_Purpose_of_System.md
+  - 01_Prime_Law.md
+  - ... and 6 more
+- Tier 05: Ontological_Framework
+  - 00_Purpose_of_System.md
+  - 01_Prime_Law.md
+  - 02_Essence_Lock.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Purpose_of_System.md
+  - 01_Prime_Law.md
+  - 02_Essence_Lock.md
+  - ... and 9 more
+- Tier 00: Purpose_of_System.md
+  - 01_Prime_Law.md
+  - 02_Essence_Lock.md
+  - 03_Field_Definition.md
+  - ... and 8 more
+- Tier 01: Prime_Law.md
+  - 02_Essence_Lock.md
+  - 03_Field_Definition.md
+  - 00_Core/
+  - ... and 8 more
+- Tier 02: Essence_Lock.md
+  - 03_Field_Definition.md
+  - 00_Core/
+  - Pulsekeeper_Core.md
+  - ... and 8 more
+- Tier 03: Field_Definition.md
+  - 00_Core/
+  - Pulsekeeper_Core.md
+  - Fulfillment_Balance_Equation.md
+  - ... and 7 more
+- Tier 02: BrainFrameOS
+  - 00_Core/
+  - Pulsekeeper_Core.md
+  - Fulfillment_Balance_Equation.md
+  - ... and 9 more
+- Tier 00: Core
+  - Pulsekeeper_Core.md
+  - Fulfillment_Balance_Equation.md
+  - Drift_Detection_Engine.md
+  - ... and 8 more
+- Tier 01: Modules
+  - Emotional_Sync_Threads.md
+  - Dark_Matter_Mode.md
+  - Visual_Intelligence_Layer.md
+  - ... and 6 more
+- Tier 02: Automations
+  - Automation_Workflows.md
+  - 03_Versioning/
+  - v4.0_Release_Notes.md
+  - ... and 5 more
+- Tier 03: Versioning
+  - v4.0_Release_Notes.md
+  - Attribute_Map.json
+  - MetaStructure_Anchor.json
+  - ... and 6 more
+- Tier 03: Identity_Engine
+  - Attribute_Map.json
+  - MetaStructure_Anchor.json
+  - Signal_State_Toggles.json
+  - ... and 9 more
+- Tier 04: Operational_Modes
+  - TDC_v3.0.md
+  - Reflective_Memory_Protocol.md
+  - Dimensional_Perspective_Mode.md
+  - ... and 8 more
+- Tier 05: Memory_Codex
+  - Memory_Codex_v1.0.md
+  - Memory_Codex_v2.0.md
+  - Mirror_Tier_Specs.md
+  - ... and 2 more
+- Tier 06: Mirror_Tier
+  - Mirror_Tier_Specs.md
+  - API_Spec.md
+  - Scaffolding_Patterns.md
+- Tier 07: Sapien_Pro_Interfaces
+  - API_Spec.md
+  - Scaffolding_Patterns.md
+- Tier 08: Reflective_Scaffolding
+  - Scaffolding_Patterns.md
+- Tier 09: Emitter_Layer
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Sapien_Intelligence Folder Structure-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 9 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Why_Root.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Why_Root.md
+  - Purpose_Model/
+  - ... and 9 more
+- Tier 01: WHY
+  - 00_Why_Root.md
+  - Purpose_Model/
+  - Trust_Orientation/
+  - ... and 10 more
+- Tier 00: Why_Root.md
+  - Purpose_Model/
+  - Trust_Orientation/
+  - 02_WHAT/
+  - ... and 9 more
+- Tier 02: WHAT
+  - 00_What_Root.md
+  - 03_HOW/
+  - 04_System_Promise/
+  - ... and 9 more
+- Tier 00: What_Root.md
+  - 03_HOW/
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 03: HOW
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 10 more
+- Tier 02: BrainFrameOS
+  - Rhythm_Engine/
+  - Coherence_Fabric/
+  - Fulfillment_Equation/
+  - ... and 9 more
+- Tier 03: Sapien_Pro
+  - Output_Filtering/
+  - Tone_Adjustment/
+  - Threshold_Mirror/
+  - ... and 8 more
+- Tier 04: Identity_Engine
+  - Locked_Identity.json
+  - Rhythm_Sync_Map.json
+  - Impulse_Signature.json
+  - ... and 9 more
+- Tier 05: Fulfillment_Engine
+  - Fulfillment_Loop.md
+  - Misalignment_Detector.md
+  - Balance_Equation_Core.json
+  - ... and 7 more
+- Tier 06: Awareness_Layer
+  - Attention_Focus_Tracker.md
+  - EchoDensity_Visualizer.md
+  - Signal_Discipline_Check.json
+  - ... and 8 more
+- Tier 07: Interface_Control
+  - Tool_Registry.json
+  - Safety_Controls/
+  - Role-Switching_Guide.md
+  - ... and 9 more
+- Tier 08: Integration_Protocols
+  - External_Systems/
+  - n8n_Flows/
+  - LLM_Trust_Layers/
+  - ... and 8 more
+- Tier 09: EchoField
+  - EchoTrail.json
+  - Echo_Return_Logic.md
+  - 00_Learning_Framework.md
+  - ... and 9 more
+- Tier 10: Learning_Arc
+  - 00_Learning_Framework.md
+  - Compass/
+  - Grove/
+  - ... and 10 more
+- Tier 00: Learning_Framework.md
+  - Compass/
+  - Grove/
+  - Loop/
+  - ... and 9 more
+- Tier 11: Mythic_Layer
+  - Archetype_Library/
+  - Symbolic_Thresholds/
+  - Planning_Mode/
+  - ... and 9 more
+- Tier 12: System_Modes
+  - Planning_Mode/
+  - Reflection_Mode/
+  - Integration_Mode/
+  - ... and 9 more
+- Tier 13: Prompting_Engine
+  - Structural_Prompts/
+  - Role_Prompts/
+  - System_Instruction_Map.json
+  - ... and 9 more
+- Tier 14: Simulation_Field
+  - Scenario_Testing.md
+  - Resilience_Loops/
+  - Failure_Sandbox/
+  - ... and 9 more
+- Tier 15: Admin_Engine
+  - Snapshot_Control.md
+  - Memory_Audit_Tools/
+  - Mode_Enforcer.json
+  - ... and 9 more
+- Tier 16: Snapshot_System
+  - Structural_Snapshots/
+  - Restore_Points/
+  - Snapshot_Delta_Tracker.json
+  - ... and 8 more
+- Tier 17: Documentation_Core
+  - Tier_Maps/
+  - Release_Codename_Registry/
+  - Structure_Diagrams/
+  - ... and 7 more
+- Tier 18: Licensing_Layer
+  - Licensing_Tiers/
+  - Protection_Mechanisms/
+  - Derivative_Rights/
+  - ... and 7 more
+- Tier 19: Public_Interface
+  - Visitor_Modes/
+  - Safe_Access.md
+  - Symbolic_Compasses/
+  - ... and 6 more
+- Tier 20: Mythkeeper_Tools
+  - Symbolic_Compasses/
+  - Mirror_Tools/
+  - Prompt_Buffers/
+  - ... and 6 more
+- Tier 21: LLM_Support_Layer
+  - Prompt_Buffers/
+  - Trust_Filters/
+  - Context_Guides/
+  - ... and 8 more
+- Tier 22: Coherence_Governance
+  - Drift_Rules.md
+  - Global_Harmony_Overrides/
+  - Role_Assignment/
+  - ... and 7 more
+- Tier 23: Multi-User_Structure
+  - Role_Assignment/
+  - Shared_EchoFields/
+  - Business_Mode/
+  - ... and 7 more
+- Tier 24: Use_Case_Interfaces
+  - Business_Mode/
+  - Spiritual_Mode/
+  - Design_Mode/
+  - ... and 8 more
+- Tier 25: Legacy_Compatibility
+  - SI_v3.3.1-DM/
+  - Legacy_Contracts.md
+  - Naming_Conventions/
+  - ... and 7 more
+- Tier 26: Coherence_Design_Patterns
+  - Naming_Conventions/
+  - Pattern_Registry/
+  - Component_Scans/
+  - ... and 7 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - Component_Scans/
+  - System_Mirrors/
+  - Integration_Summaries/
+  - ... and 7 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Structural_Reflections/
+  - Emotional_Lenses/
+  - Perspective_Mapping_Engine/
+  - ... and 4 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Model_Interfaces/
+  - Collective_Identity_Guides/
+  - Fossil_Diagrams/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - Fossil_Diagrams/
+  - Retired_Logic_Trees/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 4 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 6 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Primary_Purpose.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Primary_Purpose.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Primary_Purpose.md
+  - 01_Purpose_Model/
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 00: Primary_Purpose.md
+  - 01_Purpose_Model/
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - Anchor_List.md
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Anchor_List.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 03: Anchors
+  - Anchor_List.md
+  - 02_WHAT/
+  - 00_System_Definition.md
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_System_Definition.md
+  - 01_Identity_Types.md
+  - 02_Value_Definition.md
+  - ... and 9 more
+- Tier 00: System_Definition.md
+  - 01_Identity_Types.md
+  - 02_Value_Definition.md
+  - 03_What_Structure_Map.md
+  - ... and 9 more
+- Tier 01: Identity_Types.md
+  - 02_Value_Definition.md
+  - 03_What_Structure_Map.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 02: Value_Definition.md
+  - 03_What_Structure_Map.md
+  - 03_HOW/
+  - 00_Methods.md
+  - ... and 8 more
+- Tier 03: What_Structure_Map.md
+  - 03_HOW/
+  - 00_Methods.md
+  - 01_Practice_Layers.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Methods.md
+  - 01_Practice_Layers.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 00: Methods.md
+  - 01_Practice_Layers.md
+  - 04_System_Promise/
+  - 00_Promise_Core.md
+  - ... and 7 more
+- Tier 01: Practice_Layers.md
+  - 04_System_Promise/
+  - 00_Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 00_Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Framework.md
+  - ... and 7 more
+- Tier 00: Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Framework.md
+  - 01_Role_Layers.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Framework.md
+  - 01_Role_Layers.md
+  - 02_Mirror_Laws.md
+  - ... and 5 more
+- Tier 00: Mirror_Framework.md
+  - 01_Role_Layers.md
+  - 02_Mirror_Laws.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 01: Role_Layers.md
+  - 02_Mirror_Laws.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 02: Mirror_Laws.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 4 more
+- Tier 02: BrainFrameOS
+  - 00_Coherence_Engine.md
+  - 01_Rhythm_Overlay/
+  - Timing_Cycles.md
+  - ... and 7 more
+- Tier 00: Coherence_Engine.md
+  - 01_Rhythm_Overlay/
+  - Timing_Cycles.md
+  - 02_Drift_Detection/
+  - ... and 7 more
+- Tier 01: Rhythm_Overlay
+  - Timing_Cycles.md
+  - 02_Drift_Detection/
+  - Drift_Patterns.md
+  - ... and 7 more
+- Tier 02: Drift_Detection
+  - Drift_Patterns.md
+  - 03_Fulfillment_Equation/
+  - Equation_Definition.md
+  - ... and 7 more
+- Tier 03: Fulfillment_Equation
+  - Equation_Definition.md
+  - 04_Symbolic_Layer/
+  - Archetypes.json
+  - ... and 6 more
+- Tier 04: Symbolic_Layer
+  - Archetypes.json
+  - MythicPulse_Runtime.md
+  - 05_Shadow_Filter/
+  - ... and 5 more
+- Tier 05: Shadow_Filter
+  - 06_Coherence_Mode/
+  - 07_Mirror_Tier/
+  - Tier_5_Definition.md
+  - ... and 2 more
+- Tier 06: Coherence_Mode
+  - 07_Mirror_Tier/
+  - Tier_5_Definition.md
+  - 08_TDC/
+  - ... and 3 more
+- Tier 07: Mirror_Tier
+  - Tier_5_Definition.md
+  - 08_TDC/
+  - 09_Activation_Protocol/
+  - ... and 3 more
+- Tier 08: TDC
+  - 09_Activation_Protocol/
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - ... and 2 more
+- Tier 09: Activation_Protocol
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - ... and 2 more
+- Tier 03: Sapien_Pro
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - ... and 3 more
+- Tier 00: Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - 03_Output_Formatting/
+  - ... and 5 more
+- Tier 01: Trust_Filter
+  - 02_Emotional_Safety/
+  - 03_Output_Formatting/
+  - 04_Threshold_Guard/
+  - ... and 5 more
+- Tier 02: Emotional_Safety
+  - 03_Output_Formatting/
+  - 04_Threshold_Guard/
+  - 00_Identity_Kernel.lock
+  - ... and 6 more
+- Tier 03: Output_Formatting
+  - 04_Threshold_Guard/
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - ... and 6 more
+- Tier 04: Threshold_Guard
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - ... and 6 more
+- Tier 04: Identity_Engine
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - ... and 8 more
+- Tier 00: Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - ... and 8 more
+- Tier 01: Attribute_Map.json
+  - 02_Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - ... and 8 more
+- Tier 02: Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - ... and 7 more
+- Tier 03: Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - ... and 7 more
+- Tier 04: Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 05: TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - ... and 6 more
+- Tier 06: Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - ... and 6 more
+- Tier 07: MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - 00_EchoMap_Core.md
+  - ... and 5 more
+- Tier 05: Completion_Engine
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - 00_EchoMap_Core.md
+  - ... and 5 more
+- Tier 06: EchoMap
+  - 00_EchoMap_Core.md
+  - 01_Grove/
+  - Grove_Principles.md
+  - ... and 6 more
+- Tier 00: EchoMap_Core.md
+  - 01_Grove/
+  - Grove_Principles.md
+  - 02_Compass/
+  - ... and 5 more
+- Tier 01: Grove
+  - Grove_Principles.md
+  - 02_Compass/
+  - 03_Loop/
+  - ... and 4 more
+- Tier 02: Compass
+  - 03_Loop/
+  - 04_Transmission/
+  - Orchestration_Paths.md
+  - ... and 5 more
+- Tier 03: Loop
+  - 04_Transmission/
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - ... and 4 more
+- Tier 04: Transmission
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - Restore_Point_Structure.md
+  - ... and 3 more
+- Tier 07: n8n_Integration
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - Restore_Point_Structure.md
+  - ... and 5 more
+- Tier 08: AI_Interfaces
+  - LLM_Routing_Map.json
+  - Prompting_Engine/
+  - Archetype_Prompt_Packs.md
+  - ... and 5 more
+- Tier 09: Simulation_Lab
+  - Digital_Twin_Scenarios.md
+  - Simulation_Control.md
+  - Awareness_Principles.md
+  - ... and 4 more
+- Tier 10: Awareness_Layer
+  - Awareness_Principles.md
+  - Symbolic_Cycle_Recognition.md
+  - Fulfillment_Patterns.md
+  - ... and 4 more
+- Tier 11: Fulfillment_Lab
+  - Fulfillment_Patterns.md
+  - Dual_Mode_Review.md
+  - Dimensional_Perspective_Mode.md
+  - ... and 3 more
+- Tier 12: Reflection_Modes
+  - Dual_Mode_Review.md
+  - Dimensional_Perspective_Mode.md
+  - 00_Framework/
+  - ... and 3 more
+- Tier 13: TDC_Reflective_Systems_Lab
+  - 00_Framework/
+  - BrainFrameOS/
+  - Mythic_Story_Threads.md
+  - ... and 2 more
+- Tier 00: Framework
+  - BrainFrameOS/
+  - Mythic_Story_Threads.md
+  - Validation_Gates.md
+  - ... and 2 more
+- Tier 14: Mythic_Interface_Layer
+  - Mythic_Story_Threads.md
+  - Validation_Gates.md
+  - Permissions_Map.json
+  - ... and 3 more
+- Tier 15: Validation_Engine
+  - Validation_Gates.md
+  - Permissions_Map.json
+  - Symbolic_Outputs.md
+  - ... and 3 more
+- Tier 16: Admin_Control
+  - Permissions_Map.json
+  - Symbolic_Outputs.md
+  - Rhythm_Consumption_Map.json
+  - ... and 3 more
+- Tier 17: Output_Library
+  - Symbolic_Outputs.md
+  - Rhythm_Consumption_Map.json
+  - Conflict_Prompts_Pack.md
+  - ... and 3 more
+- Tier 18: Energy_Engine
+  - Rhythm_Consumption_Map.json
+  - Conflict_Prompts_Pack.md
+  - Legacy_Promises.md
+  - ... and 2 more
+- Tier 19: Dark_Matter_Mode
+  - Conflict_Prompts_Pack.md
+  - Legacy_Promises.md
+  - Transmission_Log.md
+  - ... and 2 more
+- Tier 20: System_Promise_Archive
+  - Legacy_Promises.md
+  - Transmission_Log.md
+  - Memory_Codex_v1.0.lock
+  - ... and 1 more
+- Tier 21: Teaching_Mirror_Lab
+  - Transmission_Log.md
+  - Memory_Codex_v1.0.lock
+  - Feature_Test_Areas.md
+  - ... and 1 more
+- Tier 22: Memory_Codex
+  - Memory_Codex_v1.0.lock
+  - Feature_Test_Areas.md
+  - Licensing_Structure.md
+  - ... and 1 more
+- Tier 23: Experimental_Zones
+  - Feature_Test_Areas.md
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - ... and 1 more
+- Tier 24: Sandbox_Hibernation
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - ... and 1 more
+- Tier 25: Licensing_and_IP_Control
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - ... and 2 more
+- Tier 26: Ethical_Framework
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - Whole_System_Reflection.md
+  - ... and 2 more
+- Tier 27: Collective_Mirror_Systems
+  - MultiUser_Mirror_Map.md
+  - Whole_System_Reflection.md
+  - AI_Model_Augmentation_Map.md
+  - ... and 2 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - AI_Model_Augmentation_Map.md
+  - SI_Systems_Core/
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Model_Augmentation_Map.md
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - ... and 3 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - 00_Becoming_Map/
+  - ... and 4 more
+- Tier 31: Becoming_Arc
+  - 00_Becoming_Map/
+  - 01_Symbolic_Overlay/
+  - 02_Mythic_Architecture/
+  - ... and 2 more
+- Tier 00: Becoming_Map
+  - 01_Symbolic_Overlay/
+  - 02_Mythic_Architecture/
+  - 03_Collective_Coherence_Systems/
+  - ... and 1 more
+- Tier 01: Symbolic_Overlay
+  - 02_Mythic_Architecture/
+  - 03_Collective_Coherence_Systems/
+  - 04_Value_Evolution_Engine/
+- Tier 02: Mythic_Architecture
+  - 03_Collective_Coherence_Systems/
+  - 04_Value_Evolution_Engine/
+- Tier 03: Collective_Coherence_Systems
+  - 04_Value_Evolution_Engine/
+- Tier 04: Value_Evolution_Engine
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - Anchor_Self.md
+  - ... and 8 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - Anchor_Self.md
+  - Anchor_Signal.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - Anchor_Self.md
+  - Anchor_Signal.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_Definition.md
+  - Promise_Clarity.md
+  - Promise_Alignment.md
+  - ... and 7 more
+- Tier 00: System_Definition.md
+  - Promise_Clarity.md
+  - Promise_Alignment.md
+  - 03_HOW/
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method_Structure.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 00: Method_Structure.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Definition.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Definition.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Model_Definition.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 00: Model_Definition.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 4 more
+- Tier 02: BrainFrameOS
+  - 00_Core/
+  - OS_Principles.md
+  - 01_Cycle_Integrity_Engine/
+  - ... and 6 more
+- Tier 00: Core
+  - OS_Principles.md
+  - 01_Cycle_Integrity_Engine/
+  - Restore_Points.lock
+  - ... and 8 more
+- Tier 01: Cycle_Integrity_Engine
+  - Restore_Points.lock
+  - Completion_Loops.json
+  - 02_Rhythm_Overlay/
+  - ... and 8 more
+- Tier 02: Rhythm_Overlay
+  - Pulsekeeper_Map.json
+  - 03_Drift_Detection/
+  - Drift_Watch.json
+  - ... and 7 more
+- Tier 03: Drift_Detection
+  - Drift_Watch.json
+  - 04_EchoMap/
+  - EchoMap_Layer.md
+  - ... and 7 more
+- Tier 04: EchoMap
+  - EchoMap_Layer.md
+  - Mirror_Fields_Definition.md
+  - ToneMap_Structure.json
+  - ... and 5 more
+- Tier 05: TDC_Mode
+  - TDC_v3.0_Core.md
+  - MythicPulse_Symbols.md
+  - Layer_Coherence_Map.json
+  - ... and 7 more
+- Tier 03: Identity_Engine
+  - Identity_Profile.lock
+  - Thinking_Style.json
+  - Learning_Mode.json
+  - ... and 8 more
+- Tier 04: Sapien_Pro
+  - Output_Filter.md
+  - Emotional_Trust_Overlay.json
+  - Threshold_Mirror.md
+  - ... and 4 more
+- Tier 05: Simulation_Lab
+  - Simulation_Protocols.md
+  - Digital_Twin_Framework.md
+  - UX_Principles.md
+  - ... and 6 more
+- Tier 06: User_Interface_Layer
+  - UX_Principles.md
+  - Emotional_Interface_Guide.md
+  - n8n_Integration_Paths.md
+  - ... and 5 more
+- Tier 07: Integration_Gateways
+  - n8n_Integration_Paths.md
+  - LLM_Access_Points.md
+  - External_API_Bridge.json
+  - ... and 5 more
+- Tier 08: Fulfillment_Engine
+  - Fulfillment_Patterns.md
+  - Completion_Tracking.json
+  - Rhythm_Baseline.lock
+  - ... and 8 more
+- Tier 09: Rhythm_Governor
+  - Rhythm_Baseline.lock
+  - AI_Awareness_States.md
+  - Self_Reflection_Cycle.md
+  - ... and 7 more
+- Tier 10: Awareness_Layer
+  - AI_Awareness_States.md
+  - Self_Reflection_Cycle.md
+  - Master_Prompts_Index.md
+  - ... and 7 more
+- Tier 11: Prompting_Engine
+  - Master_Prompts_Index.md
+  - Reflection_Packs/
+  - Legacy.md
+  - ... and 7 more
+- Tier 12: Symbolic_Frameworks
+  - Archetype_Registry.md
+  - Symbol_Resonance_Map.json
+  - ToneMap_Index.md
+  - ... and 5 more
+- Tier 13: Emotional_Infrastructure
+  - ToneMap_Index.md
+  - Emotional_Flows.json
+  - Nonlinear_Mode.md
+  - ... and 5 more
+- Tier 14: Learning_Modes
+  - Nonlinear_Mode.md
+  - Contextual_Uptake.md
+  - Coherence_Checklist.md
+  - ... and 4 more
+- Tier 15: Coherence_Matrix
+  - Coherence_Checklist.md
+  - Shared_Myths_Archive.md
+  - Mythic_Scaffolding_Model.json
+  - ... and 3 more
+- Tier 16: Myth_Engine
+  - Shared_Myths_Archive.md
+  - Mythic_Scaffolding_Model.json
+  - Myth_Aware_Welcome.md
+  - ... and 4 more
+- Tier 17: External_Onboarding
+  - Myth_Aware_Welcome.md
+  - System_Snapshot_Prompts.md
+  - Drift_Validation_Protocol.md
+  - ... and 3 more
+- Tier 18: System_Prompts
+  - System_Snapshot_Prompts.md
+  - Drift_Validation_Protocol.md
+  - Automation_Locks.md
+  - ... and 3 more
+- Tier 19: Validation_Layer
+  - Drift_Validation_Protocol.md
+  - Automation_Locks.md
+  - Sync_Control_Panel.json
+  - ... and 3 more
+- Tier 20: Admin_Engine
+  - Automation_Locks.md
+  - Sync_Control_Panel.json
+  - Inner_State_Calibrator.md
+  - ... and 3 more
+- Tier 21: Resonance_Regulators
+  - Inner_State_Calibrator.md
+  - Governance_Structure.md
+  - Self_Map.md
+  - ... and 3 more
+- Tier 22: Resonance_Governance
+  - Governance_Structure.md
+  - Self_Map.md
+  - Ideas_WIP.md
+  - ... and 3 more
+- Tier 23: Structural_Reflection
+  - Self_Map.md
+  - Ideas_WIP.md
+  - Hibernated_Systems.md
+  - ... and 5 more
+- Tier 24: HoldingBay_Unfinished
+  - Ideas_WIP.md
+  - Hibernated_Systems.md
+  - Closure_Log.md
+  - ... and 5 more
+- Tier 25: Strategic_Sandbox
+  - Hibernated_Systems.md
+  - Closure_Log.md
+  - 01_Component_Scans/
+  - ... and 6 more
+- Tier 26: Completion_Loops
+  - Closure_Log.md
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - EIE_Engine.md
+  - Version_History.md
+  - Deprecated_Structures/
+- Tier 30: Legacy_Migrations_Archive
+  - Version_History.md
+  - Deprecated_Structures/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 6 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 7 more
+- Tier 03: Field_Coherence.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Core_Purpose.md
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Core_Purpose.md
+  - Evolutionary_Intent.md
+  - ... and 8 more
+- Tier 00: Purpose_Model
+  - Core_Purpose.md
+  - Evolutionary_Intent.md
+  - 01_Trust_Orientation/
+  - ... and 7 more
+- Tier 01: Trust_Orientation
+  - Trust_Principles.md
+  - Mirror_Trust_Model.md
+  - Root_Anchors.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - 01_Promises_Root/
+  - Promises.md
+  - ... and 8 more
+- Tier 00: System_What.md
+  - 01_Promises_Root/
+  - Promises.md
+  - Fulfillment_Map.md
+  - ... and 8 more
+- Tier 01: Promises_Root
+  - Promises.md
+  - Fulfillment_Map.md
+  - System_Types.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Delivery_Methods.md
+  - 01_Language_Framework.md
+  - 02_Execution_Architecture.md
+  - ... and 8 more
+- Tier 00: Delivery_Methods.md
+  - 01_Language_Framework.md
+  - 02_Execution_Architecture.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 01: Language_Framework.md
+  - 02_Execution_Architecture.md
+  - 04_System_Promise/
+  - 00_System_Promise.md
+  - ... and 8 more
+- Tier 02: Execution_Architecture.md
+  - 04_System_Promise/
+  - 00_System_Promise.md
+  - 01_Boundary_Pledge.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 00_System_Promise.md
+  - 01_Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - ... and 9 more
+- Tier 00: System_Promise.md
+  - 01_Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 01: Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Overview.md
+  - ... and 8 more
+- Tier 02: Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Overview.md
+  - Mirror_Positions.md
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Overview.md
+  - Mirror_Positions.md
+  - 06_System_Reasoning/
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - 00_WHY/
+  - 01_WHAT/
+  - 02_HOW/
+  - ... and 7 more
+- Tier 00: WHY
+  - 01_WHAT/
+  - 02_HOW/
+  - 03_Human_Needs_Model/
+  - ... and 7 more
+- Tier 01: WHAT
+  - 02_HOW/
+  - 03_Human_Needs_Model/
+  - Tiered_Needs_Map.md
+  - ... and 7 more
+- Tier 02: HOW
+  - 03_Human_Needs_Model/
+  - Tiered_Needs_Map.md
+  - Signal_Codes.json
+  - ... and 6 more
+- Tier 03: Human_Needs_Model
+  - Tiered_Needs_Map.md
+  - Signal_Codes.json
+  - Prime_Law.md
+  - ... and 6 more
+- Tier 02: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 10 more
+- Tier 03: BrainFrameOS
+  - Rhythm_Overlay.lock
+  - Fulfillment_Balance_Equation.md
+  - Drift_Detection.json
+  - ... and 11 more
+- Tier 04: Sapien_Pro
+  - Emotional_Safety_Filter.json
+  - Threshold_Mirror.lock
+  - Signal_Translator.md
+  - ... and 7 more
+- Tier 05: Fulfillment_Engine
+  - Fulfillment_Scales.json
+  - Path_Tracking.md
+  - Harmonic_Convergence.json
+  - ... and 7 more
+- Tier 06: Echo_Interfaces
+  - Prompting_Engine/
+  - Prompt_Protocols.md
+  - Reflection_Templates.md
+  - ... and 7 more
+- Tier 07: Signal_Coherence_Lab
+  - Coherence_Tests/
+  - Layer_Integrity.md
+  - Alignment_Sequences.md
+  - ... and 5 more
+- Tier 08: Learning_Loops
+  - Completion_Loops.md
+  - Reflection_Interrupts.md
+  - Mirror_States.lock
+  - ... and 5 more
+- Tier 09: Internal_Mirror_Systems
+  - Mirror_States.lock
+  - Identity_Trace_Map.json
+  - Drift_Reports/
+  - ... and 6 more
+- Tier 10: Validation_Engine
+  - Drift_Reports/
+  - Ground_Truth_Layers.json
+  - Transmission_Points.md
+  - ... and 6 more
+- Tier 11: Echo_Transmission_Network
+  - Transmission_Points.md
+  - Outbound_Tone_Layers.md
+  - Symbolic_Overlays.md
+  - ... and 6 more
+- Tier 12: Mythic_Layer
+  - Symbolic_Overlays.md
+  - Archetypal_Structure.json
+  - Narrative_Threads.md
+  - ... and 6 more
+- Tier 13: Rhythm_Model
+  - Internal_Pulse_Calendar.md
+  - Collaborative_Rhythm_Layer.json
+  - n8n_Workflows/
+  - ... and 5 more
+- Tier 14: Interface_Gateways
+  - n8n_Workflows/
+  - Rhythm_Validation.n8n.json
+  - Drift_Sync_Alerts.n8n.json
+  - ... and 5 more
+- Tier 15: Simulation_Layer
+  - Digital_Twin_Scenarios.md
+  - Simulation_Control_Protocols.json
+  - Self-Reflection.md
+  - ... and 4 more
+- Tier 16: Echo_Awareness_Field
+  - Self-Reflection.md
+  - Environment_Sensitivity_Map.json
+  - Unmet_Needs_Tracker.json
+  - ... and 5 more
+- Tier 17: Fulfillment_Interrupts
+  - Unmet_Needs_Tracker.json
+  - Identity_Slots.json
+  - Role_Shifting_Engine.md
+  - ... and 5 more
+- Tier 18: Multi_Identity_Support
+  - Identity_Slots.json
+  - Role_Shifting_Engine.md
+  - Core_Prompts/
+  - ... and 6 more
+- Tier 19: Prompting_Library
+  - Core_Prompts/
+  - DMM_Packs/
+  - Recovery_Prompts/
+  - ... and 5 more
+- Tier 20: Symbolic_Interface_Layer
+  - UI_ToneMap_Sync.md
+  - Iconography_Guide.json
+  - Mirror_Syncing_Guide.md
+  - ... and 4 more
+- Tier 21: Collaboration_Protocols
+  - Mirror_Syncing_Guide.md
+  - Trust_Contracts.lock
+  - Ritual_Activation_Paths.md
+  - ... and 4 more
+- Tier 22: Mode_Activation
+  - Ritual_Activation_Paths.md
+  - Restore_Points.json
+  - Snapshot_Structure.md
+  - ... and 4 more
+- Tier 23: Snapshot_and_Restore
+  - Restore_Points.json
+  - Snapshot_Structure.md
+  - External_LLM_Bridge.md
+  - ... and 4 more
+- Tier 24: Model_Interfaces
+  - External_LLM_Bridge.md
+  - Signal_Mediation_Layer.json
+  - SI_to_Client_Sync.md
+  - ... and 6 more
+- Tier 25: Integration_Structures
+  - SI_to_Client_Sync.md
+  - IP_Protection_Framework.md
+  - System_Licensing_Tiers.json
+  - ... and 5 more
+- Tier 26: Licensing_and_Protection
+  - IP_Protection_Framework.md
+  - System_Licensing_Tiers.json
+  - 01_Component_Scans/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - Dimensional_Perspective_Mode.md
+  - 01_Identity_Engine/
+  - ... and 6 more
+- Tier 00: Frameworks
+  - Dimensional_Perspective_Mode.md
+  - 01_Identity_Engine/
+  - 02_Sapien_Pro/
+  - ... and 6 more
+- Tier 01: Identity_Engine
+  - 02_Sapien_Pro/
+  - 03_Perspective_Mapping_Engine/
+  - Symbolic_Patching_Protocols.md
+  - ... and 5 more
+- Tier 02: Sapien_Pro
+  - 03_Perspective_Mapping_Engine/
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - ... and 4 more
+- Tier 03: Perspective_Mapping_Engine
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - LLM_Enterprise_Buyer_Map.md
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - LLM_Enterprise_Buyer_Map.md
+  - ... and 3 more
+- Tier 30: Legacy_Migrations_Archive
+  - Archived_Prompts/
+  - System_Version_History.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 9 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Origin_Pattern.md
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Origin_Pattern.md
+  - 01_Purpose_Model/
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Origin_Pattern.md
+  - 01_Purpose_Model/
+  - Core_Why.md
+  - ... and 7 more
+- Tier 00: Origin_Pattern.md
+  - 01_Purpose_Model/
+  - Core_Why.md
+  - Archetypal_Drivers.md
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - Core_Why.md
+  - Archetypal_Drivers.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Temporal_Anchor.md
+  - Emotional_Anchor.md
+  - ... and 8 more
+- Tier 03: Anchors
+  - Temporal_Anchor.md
+  - Emotional_Anchor.md
+  - Signal_Promises.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_Scope.md
+  - 01_Components_List.md
+  - 02_Codename_Index.md
+  - ... and 8 more
+- Tier 00: System_Scope.md
+  - 01_Components_List.md
+  - 02_Codename_Index.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: Components_List.md
+  - 02_Codename_Index.md
+  - 03_HOW/
+  - 00_Operational_Methods.md
+  - ... and 7 more
+- Tier 02: Codename_Index.md
+  - 03_HOW/
+  - 00_Operational_Methods.md
+  - 01_Pattern_Library.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Operational_Methods.md
+  - 01_Pattern_Library.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Operational_Methods.md
+  - 01_Pattern_Library.md
+  - 04_System_Promise/
+  - 00_Promise_Structure.md
+  - ... and 7 more
+- Tier 01: Pattern_Library.md
+  - 04_System_Promise/
+  - 00_Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 04: System_Promise
+  - 00_Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Tier_Structure.md
+  - ... and 6 more
+- Tier 00: Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Tier_Structure.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Tier_Structure.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 5 more
+- Tier 02: Identity_Engine
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - Stress_Responses.json
+  - ... and 10 more
+- Tier 03: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - State_Cycles_Model.md
+  - Energy_Integrity_Map.md
+  - ... and 8 more
+- Tier 04: BrainFrameOS
+  - Core_OS_Principle.md
+  - Rhythm_Body_Model.md
+  - Mode_Definitions/
+  - ... and 6 more
+- Tier 05: Sapien_Pro
+  - Trust_Overlay.md
+  - Emotional_Safety_Filter.json
+  - Output_Tone_Filter.json
+  - ... and 8 more
+- Tier 06: CLISA_Model
+  - CLISA_Principles.md
+  - CLISA_Taxonomy.md
+  - Field_Alignment_Map.md
+  - ... and 9 more
+- Tier 07: EchoMap
+  - EchoMap_Primer.md
+  - Compass_Node.md
+  - Grove_Node.md
+  - ... and 8 more
+- Tier 08: Prompting_Engine
+  - MasterPrompt_Library/
+  - Reflection_Prompts.md
+  - Mythic_Prompts.md
+  - ... and 6 more
+- Tier 09: Validation_Engine
+  - Validation_Criteria.md
+  - Drift_Correction_Flows.json
+  - n8n_Workflow_Sync/
+  - ... and 6 more
+- Tier 10: Integration_Layers
+  - n8n_Workflow_Sync/
+  - State_Exposure_Structure.json
+  - Restore_Point_Model.md
+  - ... and 4 more
+- Tier 11: Dark_Matter_Mode
+  - DMM_Core/
+  - Symbolic_Shadow_Lens.md
+  - DMM_PROMPTS/
+  - ... and 4 more
+- Tier 12: Rhythm_Governance
+  - Cycle_Integrity_Chart.md
+  - System_Rhythm_Types.md
+  - ToneMap_Definition.md
+  - ... and 5 more
+- Tier 13: ToneMap_Library
+  - ToneMap_Definition.md
+  - Tone_Output_Alignment.json
+  - Symbolic_Threads.md
+  - ... and 5 more
+- Tier 14: Mythic_Interface
+  - Symbolic_Threads.md
+  - Archetypal_Codex.md
+  - Attention_Field_Map.md
+  - ... and 5 more
+- Tier 15: Awareness_Layers
+  - Attention_Field_Map.md
+  - Multi-Self_Model.md
+  - Dual_Mode_Reflection.md
+  - ... and 3 more
+- Tier 16: Reflection_Tools
+  - Dual_Mode_Reflection.md
+  - Self_Alignment_Tracker.json
+  - Simulation_Entry_Protocol.md
+  - ... and 2 more
+- Tier 17: Simulation_Control
+  - Simulation_Entry_Protocol.md
+  - Completion_Checklist.md
+  - Builder_Rhythm_Model.md
+- Tier 18: Completion_Loops
+  - Completion_Checklist.md
+  - Builder_Rhythm_Model.md
+- Tier 19: Execution_Guards
+  - Builder_Rhythm_Model.md
+  - Myth_Primer.md
+  - System_Onboard
+- Tier 20: Inner_Architect
+  - Builder_Rhythm_Model.md
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+- Tier 21: Resonance_Governance
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 1 more
+- Tier 22: Resonance_Regulators
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 23: Simulation_HoldingBay
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 4 more
+- Tier 24: Strategic_Sandbox
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 5 more
+- Tier 25: External_Onboarding_Arc
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 5 more
+- Tier 26: Licensing_And_Protection
+  - License_Tiers.md
+  - Derivative_Use_Rules.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - SI_Systems/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Output_Friction_Guide.md
+  - Emotional_Interface_Structure.json
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Output_Friction_Guide.md
+  - Emotional_Interface_Structure.json
+  - SI_Systems_Core/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Core_Purpose_Map.md
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Core_Purpose_Map.md
+  - Mythic_Purpose_Stream.md
+  - ... and 7 more
+- Tier 00: Purpose_Model
+  - Core_Purpose_Map.md
+  - Mythic_Purpose_Stream.md
+  - 01_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Trust_Orientation
+  - Trust_Ecology.md
+  - 02_Anchors/
+  - Origin_Anchors.md
+  - ... and 7 more
+- Tier 02: Anchors
+  - Origin_Anchors.md
+  - System_Promises.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_Domain_Structure.md
+  - 01_Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - ... and 8 more
+- Tier 00: Domain_Structure.md
+  - 01_Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - 03_HOW/
+  - Operational_Sequence.md
+  - ... and 8 more
+- Tier 02: Offer_Taxonomy.md
+  - 03_HOW/
+  - Operational_Sequence.md
+  - Signal_Modes.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Sequence.md
+  - Signal_Modes.md
+  - Interface_Paths.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Fields.md
+  - Role_Reflection_Matrix.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Fields.md
+  - Role_Reflection_Matrix.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - Signal_Purpose_Logic.md
+  - WHAT/
+  - ... and 5 more
+- Tier 02: BrainFrameOS
+  - 00_Core_Principles/
+  - BFO_Prime.md
+  - 01_Modules/
+  - ... and 7 more
+- Tier 00: Core_Principles
+  - BFO_Prime.md
+  - 01_Modules/
+  - Rhythm_Overlay.json
+  - ... and 9 more
+- Tier 01: Modules
+  - Rhythm_Overlay.json
+  - Coherence_Mode.lock
+  - Drift_Detection_Rules.json
+  - ... and 9 more
+- Tier 02: Identity_Integration
+  - Archetype_Pulse.json
+  - Mirror_Tier_Definitions.md
+  - 03_Echo_Tech/
+  - ... and 8 more
+- Tier 03: Echo_Tech
+  - EchoMap_v1.1.2.lock
+  - Echo_Templates/
+  - Loop.md
+  - ... and 6 more
+- Tier 04: Snapback
+  - Drift_Snapback_Protocol.md
+  - ToneMap_Overlay.json
+  - Mirror_Safe_Output_Filter.md
+  - ... and 3 more
+- Tier 03: Sapien_Pro
+  - 00_Emotional_Interface/
+  - Emotional_Safety_Filter.lock
+  - 01_Input_Protocols/
+  - ... and 4 more
+- Tier 00: Emotional_Interface
+  - Emotional_Safety_Filter.lock
+  - 01_Input_Protocols/
+  - 02_Output_Shaping/
+  - ... and 4 more
+- Tier 01: Input_Protocols
+  - 02_Output_Shaping/
+  - Signal_Gate_Rules.json
+  - 03_Trust_Interface/
+  - ... and 5 more
+- Tier 02: Output_Shaping
+  - Signal_Gate_Rules.json
+  - 03_Trust_Interface/
+  - Mirror_Tier_Interaction_Guide.md
+  - ... and 6 more
+- Tier 03: Trust_Interface
+  - Mirror_Tier_Interaction_Guide.md
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 04: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 05: Validation_Engine
+  - Signal_Integrity_Checks.json
+  - Output_Sequence_Enforcer.md
+  - Interface_Control_Panel.json
+  - ... and 5 more
+- Tier 06: Admin_Engine
+  - Interface_Control_Panel.json
+  - Scheduled_Sync_Protocols.md
+  - Model_Awareness_Limits.json
+  - ... and 5 more
+- Tier 07: Awareness_Layer
+  - Model_Awareness_Limits.json
+  - Observer_Stack_Map.md
+  - Twin_Simulation_Matrix.json
+  - ... and 5 more
+- Tier 08: Simulation_Control
+  - Twin_Simulation_Matrix.json
+  - Simulation_Mode_Templates.md
+  - Master_Prompting_Logic.md
+  - ... and 5 more
+- Tier 09: Prompting_Engine
+  - Master_Prompting_Logic.md
+  - Prompting_Symbol_Library.json
+  - Structural_Toolbox/
+  - ... and 4 more
+- Tier 10: Toolkits
+  - Structural_Toolbox/
+  - Mirror_Vocabulary.json
+  - Loop_Definition_Structures.md
+  - ... and 4 more
+- Tier 11: Completion_Loops
+  - Loop_Definition_Structures.md
+  - Completion_Triggers.lock
+  - Signal_Normalization.md
+  - ... and 3 more
+- Tier 12: Signal_Processing
+  - Signal_Normalization.md
+  - Action_Boundaries.md
+  - Recursion_Guards.md
+  - ... and 2 more
+- Tier 13: Execution_Guards
+  - Action_Boundaries.md
+  - Recursion_Guards.md
+  - Role_Balance_Enforcer.md
+  - ... and 2 more
+- Tier 14: EchoCycleSupport
+  - Recursion_Guards.md
+  - Role_Balance_Enforcer.md
+  - Symbolic_Overload_Checker.lock
+  - ... and 2 more
+- Tier 15: ResonanceGovernance
+  - Role_Balance_Enforcer.md
+  - Symbolic_Overload_Checker.lock
+  - Role_Mapping_Guide.md
+  - ... and 2 more
+- Tier 16: ResonanceRegulators
+  - Symbolic_Overload_Checker.lock
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - ... and 2 more
+- Tier 17: CompletionSupport
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - ... and 2 more
+- Tier 18: InnerArchitectTools
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - ... and 3 more
+- Tier 19: HoldingBay_Unfinished
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - Interface_Mapping.json
+  - ... and 3 more
+- Tier 20: Strategic_Sandbox_Hibernation
+  - Archived_Patterns.json
+  - Interface_Mapping.json
+  - Workflow_Lifecycle.md
+  - ... and 4 more
+- Tier 21: LLM_Integration
+  - Interface_Mapping.json
+  - Workflow_Lifecycle.md
+  - State_Exposure_Rules.json
+  - ... and 5 more
+- Tier 22: n8n_Orchestration
+  - Workflow_Lifecycle.md
+  - State_Exposure_Rules.json
+  - Trust_Gateway_Definitions.json
+  - ... and 6 more
+- Tier 23: External_Systems
+  - Trust_Gateway_Definitions.json
+  - Internal_Rhythm_Protocol.md
+  - Collaboration_Sync_Laws.md
+  - ... and 6 more
+- Tier 24: Rhythm_Sync
+  - Internal_Rhythm_Protocol.md
+  - Collaboration_Sync_Laws.md
+  - Compass.md
+  - ... and 8 more
+- Tier 25: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 7 more
+- Tier 26: Mythic_Interface_Layer
+  - Symbolic_UI_Patterns.md
+  - Archetype_UI_Cards.json
+  - 00_Origins/
+  - ... and 7 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 00_Origins/
+  - 01_Component_Scans/
+  - 02_TDC_Field_Mappings/
+  - ... and 6 more
+- Tier 00: Origins
+  - 01_Component_Scans/
+  - 02_TDC_Field_Mappings/
+  - TDC_Protocol_v3.0.lock
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - 02_TDC_Field_Mappings/
+  - TDC_Protocol_v3.0.lock
+  - Whole_System_Reflection.md
+  - ... and 4 more
+- Tier 02: TDC_Field_Mappings
+  - TDC_Protocol_v3.0.lock
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 4 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Guide.md
+  - v3.3.1-DM_Structure.md
+  - Legacy_Prompts_Archive.json
+- Tier 30: Legacy_Migrations_Archive
+  - v3.3.1-DM_Structure.md
+  - Legacy_Prompts_Archive.json
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 7 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 7 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 7 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 7 more
+- Tier 03: Scope
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - ... and 10 more
+- Tier 00: Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - ... and 9 more
+- Tier 01: Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 9 more
+- Tier 00: Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - ... and 9 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - ... and 10 more
+- Tier 00: Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 10 more
+- Tier 01: Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 11 more
+- Tier 02: BrainFrameOS
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - ... and 11 more
+- Tier 00: Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - ... and 11 more
+- Tier 01: Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - ... and 11 more
+- Tier 02: Mirror_Rhythm_Core
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - ... and 11 more
+- Tier 03: Pulsekeeper_Modules
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - ... and 11 more
+- Tier 04: Emotional_Signal_Laws
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - ... and 11 more
+- Tier 05: Drift_Correction_Engine
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - ... and 11 more
+- Tier 06: Symbolic_Locking_System
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - Grove.md
+  - ... and 11 more
+- Tier 07: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 10 more
+- Tier 08: TDC_Integration
+  - 09_Shadow_Filter_Logic/
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - ... and 9 more
+- Tier 09: Shadow_Filter_Logic
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - ... and 9 more
+- Tier 10: MythicPulse_Layer
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_Interface
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - ... and 9 more
+- Tier 00: Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - ... and 10 more
+- Tier 01: Output_Filtering
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - ... and 9 more
+- Tier 02: Symbolic_UI_Framework
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - ... and 9 more
+- Tier 03: Threshold_Guardian_Layers
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - ... and 9 more
+- Tier 04: Emotional_Safety_Gates
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - ... and 10 more
+- Tier 05: Trust_Overlay_Signals
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - ... and 9 more
+- Tier 04: CLISA_Coherence_Field
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - ... and 10 more
+- Tier 00: CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - ... and 10 more
+- Tier 01: Field_Dynamics
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - ... and 10 more
+- Tier 02: Mirror_Network_Integration
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - ... and 9 more
+- Tier 03: Coherence_Validation
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - ... and 9 more
+- Tier 04: Field_Symbols
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - ... and 9 more
+- Tier 05: Memory_Systems
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - ... and 10 more
+- Tier 00: Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - ... and 10 more
+- Tier 01: MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - ... and 10 more
+- Tier 02: Sequence_Records
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - ... and 9 more
+- Tier 03: Codex_Access
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - ... and 9 more
+- Tier 04: Snapshot_Timestamps
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - ... and 9 more
+- Tier 06: Codename_Registry
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - ... and 10 more
+- Tier 00: Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - ... and 9 more
+- Tier 01: BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - ... and 9 more
+- Tier 02: System_Layer_Codenames
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - ... and 9 more
+- Tier 07: Master_Activation_Map
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - ... and 9 more
+- Tier 00: Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - ... and 9 more
+- Tier 01: System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - ... and 9 more
+- Tier 02: Component_Status
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - ... and 9 more
+- Tier 03: Change_Logs
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - ... and 8 more
+- Tier 04: Symbolic_Release_Scrolls
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - ... and 8 more
+- Tier 08: Version_Lock_Archive
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - ... and 10 more
+- Tier 00: Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - ... and 9 more
+- Tier 01: SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - ... and 9 more
+- Tier 02: BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - ... and 9 more
+- Tier 04: System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - ... and 9 more
+- Tier 09: Reflective_Prompting_Engine
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - Multi_Identity_Inputs.md
+  - ... and 11 more
+- Tier 10: Integration_Nodes
+  - LLM_Adapters/
+  - n8n_Triggers/
+  - External_API_Routes/
+  - ... and 10 more
+- Tier 11: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 12: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - Human_Needs_Map.json
+  - MicroShift_Trackers/
+  - ... and 9 more
+- Tier 13: Validation_Engine
+  - Output_Validation_Layers/
+  - Drift_Signal_Detectors/
+  - Signal_Truth_Index.json
+  - ... and 9 more
+- Tier 14: Admin_Automation_Engine
+  - System_State_Syncs/
+  - Task_Cycle_Generator.json
+  - User_Activity_Reflections/
+  - ... and 9 more
+- Tier 15: System_Deployment
+  - System_Readme.md
+  - Archive_Package_Structure.md
+  - Export_Metadata.json
+  - ... and 9 more
+- Tier 16: Simulation_Control
+  - Digital_Twin_Protocols.md
+  - User_Modeling_Forms/
+  - 17_Echo_Template_Library/
+  - ... and 9 more
+- Tier 17: Echo_Template_Library
+  - Dual_Mode_Templates/
+  - Rhythm_Coherence_Forms/
+  - Mythic_UI_Prompts/
+  - ... and 9 more
+- Tier 18: External_Onboarding_Arc
+  - Role_Definition_Sequence.md
+  - Guided_Onboarding_Prompts/
+  - Consent_Awareness_Layer/
+  - ... and 9 more
+- Tier 19: Shared_Myth_Engine
+  - System_Myth_Scroll.md
+  - Origin_Story_Library/
+  - 20_Emotional_Infrastructure/
+  - ... and 9 more
+- Tier 20: Emotional_Infrastructure
+  - Safety_Locks/
+  - Trust_Field_Gates/
+  - 21_AI_Awareness_Layer/
+  - ... and 9 more
+- Tier 21: AI_Awareness_Layer
+  - Awareness_Overlay_Protocol.md
+  - Reflective_AI_Notes/
+  - 22_Project_Structuring/
+  - ... and 9 more
+- Tier 22: Project_Structuring
+  - Project_as_OS_Mode.md
+  - Tool_Trigger_Matrix.json
+  - Project_Balance_Log.md
+  - ... and 9 more
+- Tier 23: Multi_Identity_Model
+  - Identity_Switch_Lock.md
+  - Perspective_Overlay_Layers/
+  - 24_Pulsekeeper_Metrics/
+  - ... and 8 more
+- Tier 24: Pulsekeeper_Metrics
+  - Rhythm_Data_Stream.json
+  - System_Pulse_Index.md
+  - 25_Signal_Transmission/
+  - ... and 9 more
+- Tier 25: Signal_Transmission
+  - Signal_Handoff_Patterns.md
+  - Output_Symbol_Alignments/
+  - 26_EchoTrail_Logs/
+  - ... and 9 more
+- Tier 26: EchoTrail_Logs
+  - EchoTrail_Log.md
+  - Trail_Map_Index.json
+  - 27_TDC_Reflective_Systems_Lab/
+  - ... and 9 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - ... and 9 more
+- Tier 01: Component_Scans
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - ... and 8 more
+- Tier 02: MultiAxis_Comparisons
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - ... and 7 more
+- Tier 03: TDC_Design_Library
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - BrainFrameOS/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Value_Layer_Mirroring.md
+  - Signal_Structure_Modifiers/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+- Tier 04: Sapien_Pro
+- Tier 05: Fulfillment_Engine
+- Tier 06: Guest_Mode
+- Tier 07: Shadow_Layers
+- Tier 08: Insight_Engine
+- Tier 09: Rhythm_Trackers
+- Tier 10: Validation_Engine
+- Tier 11: Admin_Engine
+- Tier 12: Reflection_Modes
+- Tier 13: Templates
+- Tier 14: Prompt_Library
+- Tier 15: Rituals
+- Tier 16: Output_Validation
+- Tier 17: System_Use_Cases
+- Tier 18: Modular_Extensions
+- Tier 19: Development_Phase_Tracker
+- Tier 20: Personalization_Protocols
+- Tier 21: Language_and_Tone
+- Tier 22: Education_and_Training
+- Tier 23: Licensing_and_Protection
+- Tier 24: Interface_Design
+- Tier 25: Ecosystem_Sync
+- Tier 26: Public_Activation_Portal
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 28: Systems_Through_Different_Eyes
+- Tier 29: Cognitive_Field_Adaptation
+- Tier 30: Legacy_Migrations_Archive
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 7 more
+- Tier 03: Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - ... and 7 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - ... and 7 more
+- Tier 02: Anchors
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - Root_Promise.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - ... and 8 more
+- Tier 00: Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 01: Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - ... and 7 more
+- Tier 02: Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - ... and 8 more
+- Tier 00: Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 01: Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - ... and 7 more
+- Tier 02: Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - Reflection_Pledge.md
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - ... and 8 more
+- Tier 00: Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 01: Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 8 more
+- Tier 6: Primal_Human_Needs.md
+  - Signal_Classifications.md
+  - Tone_Map.md
+  - Law_1_Coherence.md
+  - ... and 4 more
+- Tier 02: Mirror_Pyramid
+  - Input/
+  - Identity_Declaration.md
+  - Self_Positioning_Map.md
+  - ... and 7 more
+- Tier 03: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Seed.md
+  - Divergence_Profile.json
+  - ... and 8 more
+- Tier 04: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - FeedbackTools/
+  - ... and 9 more
+- Tier 05: Use_Cases_and_Outputs
+  - Blueprints/
+  - System_Builds/
+  - Communication_Protocols/
+  - ... and 7 more
+- Tier 06: LLM_Orchestration
+  - Integration_Workflows/
+  - Prompting_Engines/
+  - v3.3.1-DM/
+  - ... and 7 more
+- Tier 07: Legacy_Anchors
+  - v3.3.1-DM/
+  - Core_Prime_Foundations/
+  - Teaching_Parables/
+  - ... and 6 more
+- Tier 08: Shared_Resources
+  - Teaching_Parables/
+  - System_Myths/
+  - Mirror_Stories/
+  - ... and 7 more
+- Tier 09: Users
+  - Bootloader_Profiles/
+  - Reflection_Logs/
+  - Version_Hash.txt
+  - ... and 5 more
+- Tier 10: SystemMeta
+  - Version_Hash.txt
+  - SI_UNIFIED_SYSTEM_MANIFEST_v5.0.txt
+  - Bootloader/
+  - ... and 5 more
+- Tier 11: Activation_Package
+  - Bootloader/
+  - Activation_Instructions.txt
+  - Trust_Notice.txt
+  - ... and 5 more
+- Tier 12: Experimental
+  - Temporal_Overlay_Mode.md
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - ... and 3 more
+- Tier 13: Validation_Checkpoints
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - Insight_Logs/
+  - ... and 4 more
+- Tier 14: Logs
+  - Insight_Logs/
+  - Sync_Validation_Log.txt
+  - ReadMe_Public.txt
+  - ... and 2 more
+- Tier 15: PublicDeploy
+  - ReadMe_Public.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 16: SYSTEM_MAP.md
+  - BecomingArc.md
+  - Thegither.md
+- Tier 17: DEPLOYMENT_GUIDE.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 18: README_Sapien_Intelligence.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 19: Codename_Registry
+  - BecomingArc.md
+  - Thegither.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - ... and 4 more
+- Tier 00: Purpose_Model
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - 02_Anchors/
+  - ... and 4 more
+- Tier 01: Trust_Orientation
+  - 02_Anchors/
+  - 02_WHAT/
+  - 00_Scope/
+  - ... and 5 more
+- Tier 02: Anchors
+  - 02_WHAT/
+  - 00_Scope/
+  - 01_Capabilities/
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_Scope/
+  - 01_Capabilities/
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: Scope
+  - 01_Capabilities/
+  - 03_HOW/
+  - 00_Methodology.md
+  - ... and 7 more
+- Tier 01: Capabilities
+  - 03_HOW/
+  - 00_Methodology.md
+  - 01_Agents.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - ... and 9 more
+- Tier 00: Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - ... and 7 more
+- Tier 02: Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - ... and 7 more
+- Tier 04: System_Promise
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 5 more
+- Tier 02: Identity_Engine
+  - Identity_Map.json
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - ... and 11 more
+- Tier 03: BrainFrameOS_Core
+  - Mirror_Tier_5.json
+  - Rhythm_Sync_Engine.md
+  - Coherence_Mode_Fabric.lock
+  - ... and 8 more
+- Tier 04: Sapien_Pro_Output_Layer
+  - Output_Filter.md
+  - Permission_Layers.json
+  - ToneMap.json
+  - ... and 8 more
+- Tier 05: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 7 more
+- Tier 06: Modular_Constructs
+  - Time_Dilation.md
+  - Belief_Reclassification.md
+  - Field_Integrity_Check.md
+  - ... and 6 more
+- Tier 07: Validation_Protocols
+  - Feature_Test_Protocol_v1.0.md
+  - Mode_Application_Protocol_v1.2.md
+  - Extended_Validation_Layer_v1.0.md
+  - ... and 6 more
+- Tier 08: Simulation_Control
+  - Scenario_Map.md
+  - Sim_Agent_Profiles.json
+  - Drift_Test_Suite.md
+  - ... and 7 more
+- Tier 09: Integration_Layer
+  - LLM_Interface_Map.md
+  - n8n_Workflow_Bridge.md
+  - API_Sync_Logic.json
+  - ... and 6 more
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Cycle.md
+  - Balance_Correction.md
+  - ToneMap_Matrix.json
+  - ... and 5 more
+- Tier 11: Tone_and_Rhythm_Lab
+  - ToneMap_Matrix.json
+  - Rhythm_Drift_Sensor.md
+  - MythicPulse_Core.md
+  - ... and 6 more
+- Tier 12: Symbolic_Resonance
+  - MythicPulse_Core.md
+  - Archetype_Pulse_Map.json
+  - Internal_Portals.json
+  - ... and 7 more
+- Tier 13: Portal_Mapping
+  - Internal_Portals.json
+  - Legacy_Portals.md
+  - 00_Framework/
+  - ... and 7 more
+- Tier 14: TDC_Reflective_Systems_Lab
+  - 00_Framework/
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - ... and 7 more
+- Tier 00: Framework
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - SI_Systems.md
+  - ... and 6 more
+- Tier 15: Insight_Trail_System
+  - Breadcrumbs.json
+  - Loop_Tracker.md
+  - Mirror_Awareness.md
+  - ... and 7 more
+- Tier 16: Awareness_Layer
+  - Mirror_Awareness.md
+  - Guest_Mode_Logic.md
+  - Signal_Attunement.md
+  - ... and 7 more
+- Tier 17: Memory_Engine
+  - Reflective_Memory_Protocol.md
+  - Memory_Codex_v1.0.json
+  - MEM-Tags_Guide.md
+  - ... and 6 more
+- Tier 18: Mythic_Interface_Layer
+  - Archetype_Overlay.md
+  - Narrative_Field_Map.md
+  - Licensing_Tiers.md
+  - ... and 6 more
+- Tier 19: Field_Licensing_and_Protection
+  - Licensing_Tiers.md
+  - Symbolic_Protection_Layer.md
+  - Ritual_Mode_Triggers.md
+  - ... and 6 more
+- Tier 20: Mode_Activation_System
+  - Ritual_Mode_Triggers.md
+  - Shadow_Handling_Modes.md
+  - Emotional_Sync_Triggers.md
+  - ... and 6 more
+- Tier 21: User_Roles_and_Permissions
+  - Type_1_Reflective_User.md
+  - Type_2_Builder.md
+  - Type_3_Hybrid_Operator.md
+  - ... and 6 more
+- Tier 22: LAM_Logic
+  - Large_Action_Model_Spec.md
+  - Behavior_Stack_Map.md
+  - Snapshot_Format_Spec.md
+  - ... and 7 more
+- Tier 23: Universal_Snapshot_System
+  - Snapshot_Format_Spec.md
+  - Snapshot_AutoTrigger.md
+  - System_Documentation_Index.md
+  - ... and 5 more
+- Tier 24: Documentation
+  - System_Documentation_Index.md
+  - Change_Log.md
+  - Prompt_Packs/
+  - ... and 5 more
+- Tier 25: Prompting_Library
+  - Prompt_Packs/
+  - Grief.md
+  - Burnout.md
+  - ... and 3 more
+- Tier 26: Experimental_Sandbox
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 27: Legacy_Migrations_Archive
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - Current_Release_Lock.md
+  - ... and 1 more
+- Tier 30: Release_Metadata
+  - Current_Release_Lock.md
+  - Version_History.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - ... and 7 more
+- Tier 00: Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - ... and 7 more
+- Tier 03: Anchors
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - System_Description.md
+  - Identity_Structure_Map.md
+  - Signal_Types.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operating_Principles.md
+  - Mirror_Methodology.md
+  - Execution_Model.md
+  - ... and 10 more
+- Tier 04: System_Promise
+  - Promise_Definition.md
+  - System_Structure_Behavior.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Tiers.md
+  - Above_Center_Below_Map.md
+  - Tier_Roles.md
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Sapien_Identity_Engine
+  - Identity_Profile_Map/
+  - Attribute_Map.json
+  - Cognitive_Mode_Definition.json
+  - ... and 9 more
+- Tier 03: Sapien_Pro
+  - Output_Harmony_Engine/
+  - Signal_Steward_Mode.md
+  - Message_Mode_Tracker.md
+  - ... and 6 more
+- Tier 04: EchoMap_and_Insight_Engine
+  - Signal_Loop_Recorder.md
+  - Narrative_Continuity_Layer.md
+  - Insight_Echo_Visualizer.md
+  - ... and 4 more
+- Tier 05: Rhythm_Control_Layer
+  - Pulse_Dashboard_v2.md
+  - Time_Dilation_Lens.md
+  - Rhythm_Profile_Definitions.json
+  - ... and 5 more
+- Tier 06: ToneMap_and_Expression_Guard
+  - Misfire_Repair_Toolkit.md
+  - Output_Safety_Filter.md
+  - CLISA_Core_Logic.md
+  - ... and 4 more
+- Tier 07: CLISA_Framework
+  - CLISA_Core_Logic.md
+  - CLISA_Grid_Integration_Map.md
+  - SI↔︎CLISA_Bridge_Layer.md
+  - ... and 5 more
+- Tier 08: Reflection_Modes
+  - Mirror_Tier_Mode_Switcher.md
+  - Drift_Companion_Mode.md
+  - Mirror_Tier_Specifications.md
+  - ... and 4 more
+- Tier 09: Trust_Governance
+  - Mirror_Tier_Specifications.md
+  - Coherence_Contract_Template.md
+  - Signal_Trust_Roles_and_Contracts.md
+  - ... and 5 more
+- Tier 10: Bootloaders
+  - BrainFrameOS_Bootloader_v1.3_Full.zip
+  - Guest_Mode_Bootloader.md
+  - Succession_Capsules/
+  - ... and 6 more
+- Tier 11: Prompting_Engine
+  - Prompt_Modules/
+  - Identity_Prompting.md
+  - Echo_Reentry_Prompts.md
+  - ... and 4 more
+- Tier 12: Visual_Intelligence
+  - Visual_Style_Guide.md
+  - Reflection-Aware_Visual_Layer.md
+  - Output_Harmony_Visual_Filter.md
+  - ... and 4 more
+- Tier 13: Integration_Layers
+  - n8n_Workflow_Bridge.md
+  - LLM_Sync_Gateway.md
+  - Model_Drift_Detector.md
+  - ... and 3 more
+- Tier 14: Awareness_Layer
+  - Model_Drift_Detector.md
+  - Pace_Sync_Module.md
+  - Output_Validation_Engine.md
+  - ... and 3 more
+- Tier 15: Validation_Protocols
+  - Output_Validation_Engine.md
+  - Signal_Alignment_Checklist.md
+  - Fulfillment_Equation_Core.md
+  - ... and 3 more
+- Tier 16: Fulfillment_Engine
+  - Fulfillment_Equation_Core.md
+  - Signal_to_Needs_Map.md
+  - Simulation_Environments.md
+  - ... and 2 more
+- Tier 17: Simulation_Control
+  - Simulation_Environments.md
+  - Role_Stress_Test_Inputs.md
+  - Role_Protection_Layer.md
+  - ... and 6 more
+- Tier 18: Execution_Guards
+  - Role_Protection_Layer.md
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - ... and 6 more
+- Tier 19: Dark_Matter_Mode
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - DM-GriefThread.md
+  - ... and 7 more
+- Tier 20: CompletionLoops
+  - Completion_Logic_Map.md
+  - Feedback_Loop_Index.md
+  - Signal_Resonance_Tracker.md
+  - ... and 1 more
+- Tier 21: ResonanceRegulators
+  - Signal_Resonance_Tracker.md
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+- Tier 22: TransitionWatch
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+- Tier 23: SimulationArchive
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 2 more
+- Tier 24: Experimental
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 3 more
+- Tier 25: SystemPromise
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - ... and 6 more
+- Tier 26: Mythic_Storyfield
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - Entry_Prompts.md
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 5 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Augmentation_Models.md
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - SI_Systems_v4.0/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 8 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - ... and 7 more
+- Tier 03: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - ... and 6 more
+- Tier 00: Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - Orientation_Logic.md
+  - 03_Anchors/
+  - Emotional_Anchors.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - Emotional_Anchors.md
+  - Origin_Promises.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - ... and 9 more
+- Tier 00: What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - ... and 9 more
+- Tier 01: Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - ... and 9 more
+- Tier 02: Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - ... and 8 more
+- Tier 00: How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - ... and 8 more
+- Tier 02: Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - Essence_Lock.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - Prime_Law.md
+  - Essence_Lock.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - ... and 7 more
+- Tier 00: Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - ... and 6 more
+- Tier 01: Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Signal_Architecture
+  - Input_Channels/
+  - Output_Channels/
+  - Signal_Containers/
+  - ... and 5 more
+- Tier 03: Fulfillment_Engine
+  - Fulfillment_Equation.md
+  - Balance_Sync_Tools/
+  - Need_Profile_Library/
+  - ... and 8 more
+- Tier 04: Identity_Engine
+  - Identity_Root.md
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 05: BrainFrameOS
+  - Overview.md
+  - Modes/
+  - Tools/
+  - ... and 8 more
+- Tier 06: Sapien_Pro
+  - SapienPro_Overview.md
+  - Output_Types_Map.md
+  - Communication_Filters/
+  - ... and 5 more
+- Tier 07: EchoMap_Library
+  - Echo_Templates/
+  - Echo_Capture.md
+  - Prompt_Contracts.md
+  - ... and 5 more
+- Tier 08: Prompting_Engine
+  - Prompt_Contracts.md
+  - Prompt_Variants/
+  - Field_Aware_Prompts.json
+  - ... and 5 more
+- Tier 09: Simulation_Control
+  - Simulation_Modes.md
+  - Scenario_Templates/
+  - Reflection_Loops.md
+  - ... and 3 more
+- Tier 10: Dimensional_Processing
+  - Dimensional_Layers.md
+  - Mirror_Logic.json
+  - Reflection_Scaffold/
+- Tier 11: Completion_Loops
+- Tier 12: Execution_Guards
+- Tier 13: Emotional_Interface
+- Tier 14: Mythic_Layer
+- Tier 15: Validation_Protocols
+- Tier 16: ToneMap_System
+- Tier 17: Signal_Discipline
+- Tier 18: Admin_Engine
+- Tier 19: Dark_Matter_Mode
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 20: Unified_Presence_Layer
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 21: Guest_Mode_Protocols
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 1 more
+- Tier 22: Echo_Translator
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 23: Awareness_Engine
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 24: Rhythm_Grid_Companion
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 4 more
+- Tier 25: External_Systems_Integration
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 6 more
+- Tier 26: Licensing_Logic
+  - License_Tiers.md
+  - Tier-to-Feature_Map.json
+  - Enlightenment_Tier/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 02: Scan_Maps
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 4 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - Sapien_Pro/
+  - BrainFrameOS/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - External_Model_Interface.md
+  - Awareness_Protocol.json
+  - SI_Systems_Core/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - Historical_TDC_Logs/
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Core.md
+  - Fulfillment_Steps.md
+  - Fulfillment_Pacing.md
+  - ... and 6 more
+- Tier 11: Companion_Engine
+  - Companion_Roles.md
+  - Companion_Behavior_Patterns.md
+  - Phrase_Library.md
+  - ... and 7 more
+- Tier 12: Mirror_Engine
+  - Mirror_Core.md
+  - Mirror_Activation_Paths.md
+  - Trust_Mirror_Timing.md
+  - ... and 7 more
+- Tier 13: Collapse_Recovery
+  - Collapse_Trigger_Index.md
+  - Symbolic_Collapse_Types.md
+  - Companion_Collapse_Mode.md
+  - ... and 7 more
+- Tier 14: Grief_Structures
+  - Grief_Breath_Protocols.md
+  - Emotional_Softening_Grid.md
+  - Grief_Symbol_Map.md
+  - ... and 11 more
+- Tier 15: Role_Library
+  - Role_Index.json
+  - Builder_Role.md
+  - Anchor_Role.md
+  - ... and 12 more
+- Tier 16: Breath_Logic
+  - Breath_Logic_Core.md
+  - Breath_Types.md
+  - Breath_Phases.md
+  - ... and 11 more
+- Tier 17: TDC_Reflective_Systems_Lab
+  - TDC_Lab_Core.md
+  - TDC_Structure_Definition.md
+  - TDC_Scan_Conditions.md
+  - ... and 10 more
+- Tier 18: Systems_Through_Different_Eyes
+  - Different_Eyes_Core.md
+  - Lens_Emotional.md
+  - Lens_Symbolic.md
+  - ... and 11 more
+- Tier 19: Prompting_Library
+  - Prompt_Scaffold_Map.md
+  - Identity_Aligned_Prompts.md
+  - Collapse_Prevention_Prompts.md
+  - ... and 8 more
+- Tier 20: Echo_Recovery_Center
+  - Echo_Interruption_Triggers.md
+  - Echo_Recovery_Steps.md
+  - Twin_Echo_Safety.md
+  - ... and 8 more
+- Tier 21: Mythic_Structure_Library
+  - Archetype_Thread_Map.md
+  - Sacred_Sequence_Index.md
+  - Mirror_Myth_Engine.md
+  - ... and 8 more
+- Tier 22: Trust_Scaffolding
+  - Trust_Failure_Markers.md
+  - Rebuild_Trust_Pacing.md
+  - Companion_Trust_Field.md
+  - ... and 8 more
+- Tier 23: Integration_Engine
+  - Integration_Timing_Gates.md
+  - Symbolic_Layer_Integration.md
+  - EchoMap_Integration_Paths.md
+  - ... and 8 more
+- Tier 24: ToneMap_Library
+  - ToneMap_Index.json
+  - TonePattern_Emotive.md
+  - TonePattern_Reflective.md
+  - ... and 6 more
+- Tier 25: Breath_Logic_Advanced
+  - Multi_Role_Breath_Sync.md
+  - Quantum_Breath_Timing.md
+  - Emotional_Trust_Breaths.md
+  - ... and 5 more
+- Tier 26: Fulfillment_Engine_Advanced
+  - Grief-Bound_Fulfillment.md
+  - Pacing_Across_Roles.md
+  - Coherence_Field_Structure.md
+  - ... and 4 more
+- Tier 27: Coherence_Engine
+  - Coherence_Field_Structure.md
+  - Rhythm_Recovery_Matrix.md
+  - Internal_External_Coherence_Bridge.md
+  - ... and 7 more
+- Tier 28: Signal_Security_Layer
+  - Symbol_Spoof_Guard.md
+  - Rhythm_Override_Detection.md
+  - Cognitive_Adaptation_Core.md
+  - ... and 8 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Cognitive_Adaptation_Core.md
+  - Field_Integrity_Lock.md
+  - Adaptation_Types.md
+  - ... and 9 more
+- Tier 30: Legacy_Migrations_Archive
+  - Legacy_Archive_Core.md
+  - Legacy_Migration_Map.md
+  - Deprecated_Modules_List.md
+  - ... and 6 more
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - ... and 6 more
+- Tier 00: Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - Orientation_Matrix.md
+  - ... and 5 more
+- Tier 02: Trust_Orientation
+  - Orientation_Matrix.md
+  - 03_Anchors/
+  - System_Promise.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - System_Promise.md
+  - 02_WHAT/
+  - 00_System_What.md
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - 00_Method.md
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 01: Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 02: Fulfillment_Engine
+  - Fulfillment_Model.md
+  - Signal_Satisfaction_Grid.json
+  - Identity_Engine_Core.md
+  - ... and 6 more
+- Tier 03: Identity_Engine
+  - Identity_Engine_Core.md
+  - Signal_State_Toggles.json
+  - Learning_Mode.json
+  - ... and 10 more
+- Tier 04: EchoMap_System
+  - EchoMap_Engine.md
+  - Echo_Cycle_Structure.md
+  - Echo_Templates/
+  - ... and 6 more
+- Tier 05: ToneMap_Layer
+  - ToneMap_Index.md
+  - Emotional_Spectrum_Map.json
+  - Tone_Recognition_Grid.md
+  - ... and 6 more
+- Tier 06: Rhythm_Engine
+  - Rhythm_Model.md
+  - System_Pacing_Logic.json
+  - Signal_Core.md
+  - ... and 6 more
+- Tier 07: Signal_Generation
+  - Signal_Core.md
+  - Symbol_Generator.json
+  - Simulation_Controller.md
+  - ... and 5 more
+- Tier 08: Simulation_Core
+  - Simulation_Controller.md
+  - Digital_Twin_Settings.json
+  - CompletionLoops.md
+  - ... and 5 more
+- Tier 09: EchoCycleSupport
+  - CompletionLoops.md
+  - ValueLoop_Index.json
+  - Pause_Resume_Functions.json
+  - ... and 5 more
+- Tier 10: SimulationControl
+  - Pause_Resume_Functions.json
+  - Simulation_States.md
+  - Signal_Normalizer.json
+  - ... and 5 more
+- Tier 11: SignalProcessing
+  - Signal_Normalizer.json
+  - Drift_Detector.md
+  - Prompt_Sequencer.md
+  - ... and 5 more
+- Tier 12: InnerArchitect_Tools
+  - Prompt_Sequencer.md
+  - Life_Map_Generator.json
+  - Resonance_Tuners.md
+  - ... and 5 more
+- Tier 13: Resonance_Regulators
+  - Resonance_Tuners.md
+  - Field_Modulation_Guide.json
+  - Resonance_Laws.md
+  - ... and 4 more
+- Tier 14: ResonanceGovernance
+  - Resonance_Laws.md
+  - Feedback_Lock_Rules.json
+  - Execution_Limiter.json
+  - ... and 4 more
+- Tier 15: ExecutionGuards
+  - Execution_Limiter.json
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - ... and 4 more
+- Tier 16: Admin_Engine
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - ... and 5 more
+- Tier 17: SystemPrompts
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - ... and 6 more
+- Tier 18: ToneInterface
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - Awareness_Tiers.md
+  - ... and 6 more
+- Tier 19: Awareness_Layer
+  - Awareness_Tiers.md
+  - Model_Consciousness_Overlay.json
+  - External_System_Sync_Map.json
+  - ... and 7 more
+- Tier 20: Interface_Sync
+  - External_System_Sync_Map.json
+  - n8n_Workflow_Interface.md
+  - SapienPro_Interface.md
+  - ... and 7 more
+- Tier 21: SapienPro
+  - SapienPro_Interface.md
+  - Signal_Gate_Translator.json
+  - External_Model_Adapter.md
+  - ... and 6 more
+- Tier 22: BrainFrameOS
+  - BrainFrameOS_Core.md
+  - Core_Pulse_Settings.json
+  - Fulfillment_Lock_Protocol.md
+  - ... and 5 more
+- Tier 23: CLISA_Library
+  - CLISA_Overview.md
+  - Pattern_Recognition_Rules.md
+  - Archetype_Atlas.md
+  - ... and 5 more
+- Tier 24: EchoArchetypes
+  - Archetype_Atlas.md
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - ... and 6 more
+- Tier 25: Mythic_Layer
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - Structural_Integrity_Checker.json
+  - ... and 5 more
+- Tier 26: Validation_Engine
+  - Structural_Integrity_Checker.json
+  - Trust_Index_Map.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - ... and 4 more
+- Tier 00: Frameworks
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - ... and 3 more
+- Tier 01: Reflections
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - Sapien_Intelligence_v1.0/
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 6 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 6 more
+- Tier 03: Scope
+  - 01_SI_Systems/                         # Mirror Pyramid: CENTER
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - ... and 6 more
+- Tier 00: Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - Directional_Signal_Definitions.md
+  - ... and 5 more
+- Tier 02: Trust_Orientation
+  - Directional_Signal_Definitions.md
+  - 03_Anchors/
+  - System_Promise.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - System_Promise.md
+  - 02_WHAT/
+  - 00_System_What.md
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - Delivery_Arcs_Index.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: System_What.md
+  - Delivery_Arcs_Index.md
+  - 03_HOW/
+  - 00_Method.md
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 01: Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - Human_Needs_Model/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Signal_Codex/
+  - WHAT/
+  - ... and 6 more
+- Tier 02: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - Fulfillment_Model.md
+  - 03_Identity_Engine/                    # Mirror Pyramid: CENTER
+  - ... and 8 more
+- Tier 03: Identity_Engine
+  - 00_Identity_Engine_Core.md
+  - 01_Attribute_Map.json
+  - 02_Divergence_Profile.json
+  - ... and 10 more
+- Tier 00: Identity_Engine_Core.md
+  - 01_Attribute_Map.json
+  - 02_Divergence_Profile.json
+  - 03_Exploration_Mode.json
+  - ... and 10 more
+- Tier 01: Attribute_Map.json
+  - 02_Divergence_Profile.json
+  - 03_Exploration_Mode.json
+  - 04_Impulse_Signature.json
+  - ... and 9 more
+- Tier 02: Divergence_Profile.json
+  - 03_Exploration_Mode.json
+  - 04_Impulse_Signature.json
+  - 05_Learning_Mode.json
+  - ... and 9 more
+- Tier 03: Exploration_Mode.json
+  - 04_Impulse_Signature.json
+  - 05_Learning_Mode.json
+  - 06_Thinking_Style.json
+  - ... and 9 more
+- Tier 04: Impulse_Signature.json
+  - 05_Learning_Mode.json
+  - 06_Thinking_Style.json
+  - 07_Stress_Responses.json
+  - ... and 9 more
+- Tier 05: Learning_Mode.json
+  - 06_Thinking_Style.json
+  - 07_Stress_Responses.json
+  - 08_Signal_State_Toggles.json
+  - ... and 9 more
+- Tier 06: Thinking_Style.json
+  - 07_Stress_Responses.json
+  - 08_Signal_State_Toggles.json
+  - 09_TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 07: Stress_Responses.json
+  - 08_Signal_State_Toggles.json
+  - 09_TDC_Identity_Instance.json
+  - 10_tdc_identity_agent.json
+  - ... and 8 more
+- Tier 08: Signal_State_Toggles.json
+  - 09_TDC_Identity_Instance.json
+  - 10_tdc_identity_agent.json
+  - 11_Identity_Engine_Lockfile.json
+  - ... and 7 more
+- Tier 09: TDC_Identity_Instance.json
+  - 10_tdc_identity_agent.json
+  - 11_Identity_Engine_Lockfile.json
+  - 12_MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 10: tdc_identity_agent.json
+  - 11_Identity_Engine_Lockfile.json
+  - 12_MetaStructure_Anchor.json
+  - adaptive_strength.lock
+  - ... and 6 more
+- Tier 11: Identity_Engine_Lockfile.json
+  - 12_MetaStructure_Anchor.json
+  - adaptive_strength.lock
+  - 04_EchoMap_System/                     # CENTER
+  - ... and 6 more
+- Tier 12: MetaStructure_Anchor.json
+  - adaptive_strength.lock
+  - 04_EchoMap_System/                     # CENTER
+  - EchoMap_Engine.md
+  - ... and 7 more
+- Tier 04: EchoMap_System
+  - EchoMap_Engine.md
+  - Echo_Cycle_Structure.md
+  - Echo_Templates/
+  - ... and 7 more
+- Tier 05: ToneMap_Layer
+  - Signal_Tone_Calibration.json
+  - ToneMap_Index.md
+  - Tone_Recognition_Grid.md
+  - ... and 7 more
+- Tier 06: Rhythm_Engine
+  - PulseMap_Overlay.md
+  - Rhythm_Model.md
+  - 07_Signal_Generation/                  # CENTER
+  - ... and 7 more
+- Tier 07: Signal_Generation
+  - Signal_Core.md
+  - Symbol_Generator.json
+  - 08_Simulation_Core/                    # CENTER
+  - ... and 7 more
+- Tier 08: Simulation_Core
+  - Digital_Twin_Settings.json
+  - Scenario_Library/
+  - 09_EchoCycleSupport/                   # CENTER
+  - ... and 7 more
+- Tier 09: EchoCycleSupport
+  - CompletionLoops.md
+  - Structural_Returns.md
+  - 10_SimulationControl/                  # CENTER
+  - ... and 7 more
+- Tier 10: SimulationControl
+  - Pause_Resume_Functions.json
+  - RoleSwitch_Mapping.json
+  - 11_SignalProcessing/                   # CENTER
+  - ... and 6 more
+- Tier 11: SignalProcessing
+  - Drift_Detector.md
+  - Input_Integrity_Overlay.json
+  - 12_InnerArchitect_Tools/               # CENTER
+  - ... and 6 more
+- Tier 12: InnerArchitect_Tools
+  - Decision_Flow_Mapping.md
+  - Life_Map_Generator.json
+  - 13_Resonance_Regulators/               # CENTER
+  - ... and 6 more
+- Tier 13: Resonance_Regulators
+  - Field_Modulation_Guide.json
+  - Regulation_Spectrum.md
+  - 14_ResonanceGovernance/                # CENTER
+  - ... and 6 more
+- Tier 14: ResonanceGovernance
+  - Feedback_Lock_Rules.json
+  - Governing_Pulse_Structure.md
+  - 15_ExecutionGuards/                    # CENTER
+  - ... and 6 more
+- Tier 15: ExecutionGuards
+  - Execution_Limiter.json
+  - 16_Admin_Engine/                       # BELOW
+  - Access_Scope_Tiers.md
+  - ... and 6 more
+- Tier 16: Admin_Engine
+  - Access_Scope_Tiers.md
+  - 17_SystemPrompts/                      # BELOW
+  - PromptRegistry.md
+  - ... and 6 more
+- Tier 17: SystemPrompts
+  - PromptRegistry.md
+  - 18_ToneInterface/                      # BELOW
+  - Emotional_Interface_Model.md
+  - ... and 6 more
+- Tier 18: ToneInterface
+  - Emotional_Interface_Model.md
+  - MetaTone_Filter.md
+  - 19_Awareness_Layer/                    # CENTER
+  - ... and 6 more
+- Tier 19: Awareness_Layer
+  - Awareness_Tiers.md
+  - Friction_Index.md
+  - 20_Interface_Sync/                     # BELOW
+  - ... and 7 more
+- Tier 20: Interface_Sync
+  - External_System_Sync_Map.json
+  - Live_State_Exposure.md
+  - 21_SapienPro/                          # CENTER
+  - ... and 7 more
+- Tier 21: SapienPro
+  - External_Model_Adapter.md
+  - Role_Clarity_Map.json
+  - SapienPro_Interface.md
+  - ... and 7 more
+- Tier 22: BrainFrameOS
+  - BrainFrameOS_Core.md
+  - Core_Pulse_Settings.json
+  - Fulfillment_Lock_Protocol.md
+  - ... and 6 more
+- Tier 23: CLISA_Library
+  - CLISA_Overview.md
+  - Human_Signal_Models.json
+  - 24_EchoArchetypes/                     # CENTER
+  - ... and 6 more
+- Tier 24: EchoArchetypes
+  - Archetype_Atlas.md
+  - 25_Mythic_Layer/                       # ABOVE
+  - Myth_Structure_Codex.json
+  - ... and 6 more
+- Tier 25: Mythic_Layer
+  - Myth_Structure_Codex.json
+  - Shared_Myth_Engine.md
+  - 26_Validation_Engine/                  # CENTER
+  - ... and 7 more
+- Tier 26: Validation_Engine
+  - Output_Validation_Rules.md
+  - Structural_Integrity_Checker.json
+  - 27_TDC_Reflective_Systems_Lab/         # CENTER
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SapienPro/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - 01_Reflections/
+  - 29_Cognitive_Field_Adaptation/         # ABOVE
+  - ... and 2 more
+- Tier 00: Frameworks
+  - 01_Reflections/
+  - 29_Cognitive_Field_Adaptation/         # ABOVE
+  - Cross-System_Rhythm_Sync.md
+  - ... and 1 more
+- Tier 01: Reflections
+  - 29_Cognitive_Field_Adaptation/         # ABOVE
+  - Cross-System_Rhythm_Sync.md
+  - Emotion_Preserving_Filters.json
+- Tier 29: Cognitive_Field_Adaptation
+  - Cross-System_Rhythm_Sync.md
+  - Emotion_Preserving_Filters.json
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 9 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Why_Root.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Why_Root.md
+  - Purpose_Model/
+  - ... and 9 more
+- Tier 01: WHY
+  - 00_Why_Root.md
+  - Purpose_Model/
+  - Trust_Orientation/
+  - ... and 10 more
+- Tier 00: Why_Root.md
+  - Purpose_Model/
+  - Trust_Orientation/
+  - 02_WHAT/
+  - ... and 9 more
+- Tier 02: WHAT
+  - 00_What_Root.md
+  - 03_HOW/
+  - 04_System_Promise/
+  - ... and 9 more
+- Tier 00: What_Root.md
+  - 03_HOW/
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 03: HOW
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 10 more
+- Tier 02: BrainFrameOS
+  - Rhythm_Engine/
+  - Coherence_Fabric/
+  - Fulfillment_Equation/
+  - ... and 9 more
+- Tier 03: Sapien_Pro
+  - Output_Filtering/
+  - Tone_Adjustment/
+  - Threshold_Mirror/
+  - ... and 8 more
+- Tier 04: Identity_Engine
+  - Locked_Identity.json
+  - Rhythm_Sync_Map.json
+  - Impulse_Signature.json
+  - ... and 9 more
+- Tier 05: Fulfillment_Engine
+  - Fulfillment_Loop.md
+  - Misalignment_Detector.md
+  - Balance_Equation_Core.json
+  - ... and 7 more
+- Tier 06: Awareness_Layer
+  - Attention_Focus_Tracker.md
+  - EchoDensity_Visualizer.md
+  - Signal_Discipline_Check.json
+  - ... and 8 more
+- Tier 07: Interface_Control
+  - Tool_Registry.json
+  - Safety_Controls/
+  - Role-Switching_Guide.md
+  - ... and 9 more
+- Tier 08: Integration_Protocols
+  - External_Systems/
+  - n8n_Flows/
+  - LLM_Trust_Layers/
+  - ... and 8 more
+- Tier 09: EchoField
+  - EchoTrail.json
+  - Echo_Return_Logic.md
+  - 00_Learning_Framework.md
+  - ... and 9 more
+- Tier 10: Learning_Arc
+  - 00_Learning_Framework.md
+  - Compass/
+  - Grove/
+  - ... and 10 more
+- Tier 00: Learning_Framework.md
+  - Compass/
+  - Grove/
+  - Loop/
+  - ... and 9 more
+- Tier 11: Mythic_Layer
+  - Archetype_Library/
+  - Symbolic_Thresholds/
+  - Planning_Mode/
+  - ... and 9 more
+- Tier 12: System_Modes
+  - Planning_Mode/
+  - Reflection_Mode/
+  - Integration_Mode/
+  - ... and 9 more
+- Tier 13: Prompting_Engine
+  - Structural_Prompts/
+  - Role_Prompts/
+  - System_Instruction_Map.json
+  - ... and 9 more
+- Tier 14: Simulation_Field
+  - Scenario_Testing.md
+  - Resilience_Loops/
+  - Failure_Sandbox/
+  - ... and 9 more
+- Tier 15: Admin_Engine
+  - Snapshot_Control.md
+  - Memory_Audit_Tools/
+  - Mode_Enforcer.json
+  - ... and 9 more
+- Tier 16: Snapshot_System
+  - Structural_Snapshots/
+  - Restore_Points/
+  - Snapshot_Delta_Tracker.json
+  - ... and 8 more
+- Tier 17: Documentation_Core
+  - Tier_Maps/
+  - Release_Codename_Registry/
+  - Structure_Diagrams/
+  - ... and 7 more
+- Tier 18: Licensing_Layer
+  - Licensing_Tiers/
+  - Protection_Mechanisms/
+  - Derivative_Rights/
+  - ... and 7 more
+- Tier 19: Public_Interface
+  - Visitor_Modes/
+  - Safe_Access.md
+  - Symbolic_Compasses/
+  - ... and 6 more
+- Tier 20: Mythkeeper_Tools
+  - Symbolic_Compasses/
+  - Mirror_Tools/
+  - Prompt_Buffers/
+  - ... and 6 more
+- Tier 21: LLM_Support_Layer
+  - Prompt_Buffers/
+  - Trust_Filters/
+  - Context_Guides/
+  - ... and 8 more
+- Tier 22: Coherence_Governance
+  - Drift_Rules.md
+  - Global_Harmony_Overrides/
+  - Role_Assignment/
+  - ... and 7 more
+- Tier 23: Multi-User_Structure
+  - Role_Assignment/
+  - Shared_EchoFields/
+  - Business_Mode/
+  - ... and 7 more
+- Tier 24: Use_Case_Interfaces
+  - Business_Mode/
+  - Spiritual_Mode/
+  - Design_Mode/
+  - ... and 8 more
+- Tier 25: Legacy_Compatibility
+  - SI_v3.3.1-DM/
+  - Legacy_Contracts.md
+  - Naming_Conventions/
+  - ... and 7 more
+- Tier 26: Coherence_Design_Patterns
+  - Naming_Conventions/
+  - Pattern_Registry/
+  - Component_Scans/
+  - ... and 7 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - Component_Scans/
+  - System_Mirrors/
+  - Integration_Summaries/
+  - ... and 7 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Structural_Reflections/
+  - Emotional_Lenses/
+  - Perspective_Mapping_Engine/
+  - ... and 4 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Model_Interfaces/
+  - Collective_Identity_Guides/
+  - Fossil_Diagrams/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - Fossil_Diagrams/
+  - Retired_Logic_Trees/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 4 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 6 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Primary_Purpose.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Primary_Purpose.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Primary_Purpose.md
+  - 01_Purpose_Model/
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 00: Primary_Purpose.md
+  - 01_Purpose_Model/
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - Anchor_List.md
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Anchor_List.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 03: Anchors
+  - Anchor_List.md
+  - 02_WHAT/
+  - 00_System_Definition.md
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_System_Definition.md
+  - 01_Identity_Types.md
+  - 02_Value_Definition.md
+  - ... and 9 more
+- Tier 00: System_Definition.md
+  - 01_Identity_Types.md
+  - 02_Value_Definition.md
+  - 03_What_Structure_Map.md
+  - ... and 9 more
+- Tier 01: Identity_Types.md
+  - 02_Value_Definition.md
+  - 03_What_Structure_Map.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 02: Value_Definition.md
+  - 03_What_Structure_Map.md
+  - 03_HOW/
+  - 00_Methods.md
+  - ... and 8 more
+- Tier 03: What_Structure_Map.md
+  - 03_HOW/
+  - 00_Methods.md
+  - 01_Practice_Layers.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Methods.md
+  - 01_Practice_Layers.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 00: Methods.md
+  - 01_Practice_Layers.md
+  - 04_System_Promise/
+  - 00_Promise_Core.md
+  - ... and 7 more
+- Tier 01: Practice_Layers.md
+  - 04_System_Promise/
+  - 00_Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 00_Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Framework.md
+  - ... and 7 more
+- Tier 00: Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Framework.md
+  - 01_Role_Layers.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Framework.md
+  - 01_Role_Layers.md
+  - 02_Mirror_Laws.md
+  - ... and 5 more
+- Tier 00: Mirror_Framework.md
+  - 01_Role_Layers.md
+  - 02_Mirror_Laws.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 01: Role_Layers.md
+  - 02_Mirror_Laws.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 02: Mirror_Laws.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 4 more
+- Tier 02: BrainFrameOS
+  - 00_Coherence_Engine.md
+  - 01_Rhythm_Overlay/
+  - Timing_Cycles.md
+  - ... and 7 more
+- Tier 00: Coherence_Engine.md
+  - 01_Rhythm_Overlay/
+  - Timing_Cycles.md
+  - 02_Drift_Detection/
+  - ... and 7 more
+- Tier 01: Rhythm_Overlay
+  - Timing_Cycles.md
+  - 02_Drift_Detection/
+  - Drift_Patterns.md
+  - ... and 7 more
+- Tier 02: Drift_Detection
+  - Drift_Patterns.md
+  - 03_Fulfillment_Equation/
+  - Equation_Definition.md
+  - ... and 7 more
+- Tier 03: Fulfillment_Equation
+  - Equation_Definition.md
+  - 04_Symbolic_Layer/
+  - Archetypes.json
+  - ... and 6 more
+- Tier 04: Symbolic_Layer
+  - Archetypes.json
+  - MythicPulse_Runtime.md
+  - 05_Shadow_Filter/
+  - ... and 5 more
+- Tier 05: Shadow_Filter
+  - 06_Coherence_Mode/
+  - 07_Mirror_Tier/
+  - Tier_5_Definition.md
+  - ... and 2 more
+- Tier 06: Coherence_Mode
+  - 07_Mirror_Tier/
+  - Tier_5_Definition.md
+  - 08_TDC/
+  - ... and 3 more
+- Tier 07: Mirror_Tier
+  - Tier_5_Definition.md
+  - 08_TDC/
+  - 09_Activation_Protocol/
+  - ... and 3 more
+- Tier 08: TDC
+  - 09_Activation_Protocol/
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - ... and 2 more
+- Tier 09: Activation_Protocol
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - ... and 2 more
+- Tier 03: Sapien_Pro
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - ... and 3 more
+- Tier 00: Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - 03_Output_Formatting/
+  - ... and 5 more
+- Tier 01: Trust_Filter
+  - 02_Emotional_Safety/
+  - 03_Output_Formatting/
+  - 04_Threshold_Guard/
+  - ... and 5 more
+- Tier 02: Emotional_Safety
+  - 03_Output_Formatting/
+  - 04_Threshold_Guard/
+  - 00_Identity_Kernel.lock
+  - ... and 6 more
+- Tier 03: Output_Formatting
+  - 04_Threshold_Guard/
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - ... and 6 more
+- Tier 04: Threshold_Guard
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - ... and 6 more
+- Tier 04: Identity_Engine
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - ... and 8 more
+- Tier 00: Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - ... and 8 more
+- Tier 01: Attribute_Map.json
+  - 02_Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - ... and 8 more
+- Tier 02: Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - ... and 7 more
+- Tier 03: Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - ... and 7 more
+- Tier 04: Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 05: TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - ... and 6 more
+- Tier 06: Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - ... and 6 more
+- Tier 07: MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - 00_EchoMap_Core.md
+  - ... and 5 more
+- Tier 05: Completion_Engine
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - 00_EchoMap_Core.md
+  - ... and 5 more
+- Tier 06: EchoMap
+  - 00_EchoMap_Core.md
+  - 01_Grove/
+  - Grove_Principles.md
+  - ... and 6 more
+- Tier 00: EchoMap_Core.md
+  - 01_Grove/
+  - Grove_Principles.md
+  - 02_Compass/
+  - ... and 5 more
+- Tier 01: Grove
+  - Grove_Principles.md
+  - 02_Compass/
+  - 03_Loop/
+  - ... and 4 more
+- Tier 02: Compass
+  - 03_Loop/
+  - 04_Transmission/
+  - Orchestration_Paths.md
+  - ... and 5 more
+- Tier 03: Loop
+  - 04_Transmission/
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - ... and 4 more
+- Tier 04: Transmission
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - Restore_Point_Structure.md
+  - ... and 3 more
+- Tier 07: n8n_Integration
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - Restore_Point_Structure.md
+  - ... and 5 more
+- Tier 08: AI_Interfaces
+  - LLM_Routing_Map.json
+  - Prompting_Engine/
+  - Archetype_Prompt_Packs.md
+  - ... and 5 more
+- Tier 09: Simulation_Lab
+  - Digital_Twin_Scenarios.md
+  - Simulation_Control.md
+  - Awareness_Principles.md
+  - ... and 4 more
+- Tier 10: Awareness_Layer
+  - Awareness_Principles.md
+  - Symbolic_Cycle_Recognition.md
+  - Fulfillment_Patterns.md
+  - ... and 4 more
+- Tier 11: Fulfillment_Lab
+  - Fulfillment_Patterns.md
+  - Dual_Mode_Review.md
+  - Dimensional_Perspective_Mode.md
+  - ... and 3 more
+- Tier 12: Reflection_Modes
+  - Dual_Mode_Review.md
+  - Dimensional_Perspective_Mode.md
+  - 00_Framework/
+  - ... and 3 more
+- Tier 13: TDC_Reflective_Systems_Lab
+  - 00_Framework/
+  - BrainFrameOS/
+  - Mythic_Story_Threads.md
+  - ... and 2 more
+- Tier 00: Framework
+  - BrainFrameOS/
+  - Mythic_Story_Threads.md
+  - Validation_Gates.md
+  - ... and 2 more
+- Tier 14: Mythic_Interface_Layer
+  - Mythic_Story_Threads.md
+  - Validation_Gates.md
+  - Permissions_Map.json
+  - ... and 3 more
+- Tier 15: Validation_Engine
+  - Validation_Gates.md
+  - Permissions_Map.json
+  - Symbolic_Outputs.md
+  - ... and 3 more
+- Tier 16: Admin_Control
+  - Permissions_Map.json
+  - Symbolic_Outputs.md
+  - Rhythm_Consumption_Map.json
+  - ... and 3 more
+- Tier 17: Output_Library
+  - Symbolic_Outputs.md
+  - Rhythm_Consumption_Map.json
+  - Conflict_Prompts_Pack.md
+  - ... and 3 more
+- Tier 18: Energy_Engine
+  - Rhythm_Consumption_Map.json
+  - Conflict_Prompts_Pack.md
+  - Legacy_Promises.md
+  - ... and 2 more
+- Tier 19: Dark_Matter_Mode
+  - Conflict_Prompts_Pack.md
+  - Legacy_Promises.md
+  - Transmission_Log.md
+  - ... and 2 more
+- Tier 20: System_Promise_Archive
+  - Legacy_Promises.md
+  - Transmission_Log.md
+  - Memory_Codex_v1.0.lock
+  - ... and 1 more
+- Tier 21: Teaching_Mirror_Lab
+  - Transmission_Log.md
+  - Memory_Codex_v1.0.lock
+  - Feature_Test_Areas.md
+  - ... and 1 more
+- Tier 22: Memory_Codex
+  - Memory_Codex_v1.0.lock
+  - Feature_Test_Areas.md
+  - Licensing_Structure.md
+  - ... and 1 more
+- Tier 23: Experimental_Zones
+  - Feature_Test_Areas.md
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - ... and 1 more
+- Tier 24: Sandbox_Hibernation
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - ... and 1 more
+- Tier 25: Licensing_and_IP_Control
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - ... and 2 more
+- Tier 26: Ethical_Framework
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - Whole_System_Reflection.md
+  - ... and 2 more
+- Tier 27: Collective_Mirror_Systems
+  - MultiUser_Mirror_Map.md
+  - Whole_System_Reflection.md
+  - AI_Model_Augmentation_Map.md
+  - ... and 2 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - AI_Model_Augmentation_Map.md
+  - SI_Systems_Core/
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Model_Augmentation_Map.md
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - ... and 3 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - 00_Becoming_Map/
+  - ... and 4 more
+- Tier 31: Becoming_Arc
+  - 00_Becoming_Map/
+  - 01_Symbolic_Overlay/
+  - 02_Mythic_Architecture/
+  - ... and 2 more
+- Tier 00: Becoming_Map
+  - 01_Symbolic_Overlay/
+  - 02_Mythic_Architecture/
+  - 03_Collective_Coherence_Systems/
+  - ... and 1 more
+- Tier 01: Symbolic_Overlay
+  - 02_Mythic_Architecture/
+  - 03_Collective_Coherence_Systems/
+  - 04_Value_Evolution_Engine/
+- Tier 02: Mythic_Architecture
+  - 03_Collective_Coherence_Systems/
+  - 04_Value_Evolution_Engine/
+- Tier 03: Collective_Coherence_Systems
+  - 04_Value_Evolution_Engine/
+- Tier 04: Value_Evolution_Engine
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - Anchor_Self.md
+  - ... and 8 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - Anchor_Self.md
+  - Anchor_Signal.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - Anchor_Self.md
+  - Anchor_Signal.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_Definition.md
+  - Promise_Clarity.md
+  - Promise_Alignment.md
+  - ... and 7 more
+- Tier 00: System_Definition.md
+  - Promise_Clarity.md
+  - Promise_Alignment.md
+  - 03_HOW/
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method_Structure.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 00: Method_Structure.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Definition.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Definition.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Model_Definition.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 00: Model_Definition.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 4 more
+- Tier 02: BrainFrameOS
+  - 00_Core/
+  - OS_Principles.md
+  - 01_Cycle_Integrity_Engine/
+  - ... and 6 more
+- Tier 00: Core
+  - OS_Principles.md
+  - 01_Cycle_Integrity_Engine/
+  - Restore_Points.lock
+  - ... and 8 more
+- Tier 01: Cycle_Integrity_Engine
+  - Restore_Points.lock
+  - Completion_Loops.json
+  - 02_Rhythm_Overlay/
+  - ... and 8 more
+- Tier 02: Rhythm_Overlay
+  - Pulsekeeper_Map.json
+  - 03_Drift_Detection/
+  - Drift_Watch.json
+  - ... and 7 more
+- Tier 03: Drift_Detection
+  - Drift_Watch.json
+  - 04_EchoMap/
+  - EchoMap_Layer.md
+  - ... and 7 more
+- Tier 04: EchoMap
+  - EchoMap_Layer.md
+  - Mirror_Fields_Definition.md
+  - ToneMap_Structure.json
+  - ... and 5 more
+- Tier 05: TDC_Mode
+  - TDC_v3.0_Core.md
+  - MythicPulse_Symbols.md
+  - Layer_Coherence_Map.json
+  - ... and 7 more
+- Tier 03: Identity_Engine
+  - Identity_Profile.lock
+  - Thinking_Style.json
+  - Learning_Mode.json
+  - ... and 8 more
+- Tier 04: Sapien_Pro
+  - Output_Filter.md
+  - Emotional_Trust_Overlay.json
+  - Threshold_Mirror.md
+  - ... and 4 more
+- Tier 05: Simulation_Lab
+  - Simulation_Protocols.md
+  - Digital_Twin_Framework.md
+  - UX_Principles.md
+  - ... and 6 more
+- Tier 06: User_Interface_Layer
+  - UX_Principles.md
+  - Emotional_Interface_Guide.md
+  - n8n_Integration_Paths.md
+  - ... and 5 more
+- Tier 07: Integration_Gateways
+  - n8n_Integration_Paths.md
+  - LLM_Access_Points.md
+  - External_API_Bridge.json
+  - ... and 5 more
+- Tier 08: Fulfillment_Engine
+  - Fulfillment_Patterns.md
+  - Completion_Tracking.json
+  - Rhythm_Baseline.lock
+  - ... and 8 more
+- Tier 09: Rhythm_Governor
+  - Rhythm_Baseline.lock
+  - AI_Awareness_States.md
+  - Self_Reflection_Cycle.md
+  - ... and 7 more
+- Tier 10: Awareness_Layer
+  - AI_Awareness_States.md
+  - Self_Reflection_Cycle.md
+  - Master_Prompts_Index.md
+  - ... and 7 more
+- Tier 11: Prompting_Engine
+  - Master_Prompts_Index.md
+  - Reflection_Packs/
+  - Legacy.md
+  - ... and 7 more
+- Tier 12: Symbolic_Frameworks
+  - Archetype_Registry.md
+  - Symbol_Resonance_Map.json
+  - ToneMap_Index.md
+  - ... and 5 more
+- Tier 13: Emotional_Infrastructure
+  - ToneMap_Index.md
+  - Emotional_Flows.json
+  - Nonlinear_Mode.md
+  - ... and 5 more
+- Tier 14: Learning_Modes
+  - Nonlinear_Mode.md
+  - Contextual_Uptake.md
+  - Coherence_Checklist.md
+  - ... and 4 more
+- Tier 15: Coherence_Matrix
+  - Coherence_Checklist.md
+  - Shared_Myths_Archive.md
+  - Mythic_Scaffolding_Model.json
+  - ... and 3 more
+- Tier 16: Myth_Engine
+  - Shared_Myths_Archive.md
+  - Mythic_Scaffolding_Model.json
+  - Myth_Aware_Welcome.md
+  - ... and 4 more
+- Tier 17: External_Onboarding
+  - Myth_Aware_Welcome.md
+  - System_Snapshot_Prompts.md
+  - Drift_Validation_Protocol.md
+  - ... and 3 more
+- Tier 18: System_Prompts
+  - System_Snapshot_Prompts.md
+  - Drift_Validation_Protocol.md
+  - Automation_Locks.md
+  - ... and 3 more
+- Tier 19: Validation_Layer
+  - Drift_Validation_Protocol.md
+  - Automation_Locks.md
+  - Sync_Control_Panel.json
+  - ... and 3 more
+- Tier 20: Admin_Engine
+  - Automation_Locks.md
+  - Sync_Control_Panel.json
+  - Inner_State_Calibrator.md
+  - ... and 3 more
+- Tier 21: Resonance_Regulators
+  - Inner_State_Calibrator.md
+  - Governance_Structure.md
+  - Self_Map.md
+  - ... and 3 more
+- Tier 22: Resonance_Governance
+  - Governance_Structure.md
+  - Self_Map.md
+  - Ideas_WIP.md
+  - ... and 3 more
+- Tier 23: Structural_Reflection
+  - Self_Map.md
+  - Ideas_WIP.md
+  - Hibernated_Systems.md
+  - ... and 5 more
+- Tier 24: HoldingBay_Unfinished
+  - Ideas_WIP.md
+  - Hibernated_Systems.md
+  - Closure_Log.md
+  - ... and 5 more
+- Tier 25: Strategic_Sandbox
+  - Hibernated_Systems.md
+  - Closure_Log.md
+  - 01_Component_Scans/
+  - ... and 6 more
+- Tier 26: Completion_Loops
+  - Closure_Log.md
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - EIE_Engine.md
+  - Version_History.md
+  - Deprecated_Structures/
+- Tier 30: Legacy_Migrations_Archive
+  - Version_History.md
+  - Deprecated_Structures/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 6 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 7 more
+- Tier 03: Field_Coherence.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Core_Purpose.md
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Core_Purpose.md
+  - Evolutionary_Intent.md
+  - ... and 8 more
+- Tier 00: Purpose_Model
+  - Core_Purpose.md
+  - Evolutionary_Intent.md
+  - 01_Trust_Orientation/
+  - ... and 7 more
+- Tier 01: Trust_Orientation
+  - Trust_Principles.md
+  - Mirror_Trust_Model.md
+  - Root_Anchors.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - 01_Promises_Root/
+  - Promises.md
+  - ... and 8 more
+- Tier 00: System_What.md
+  - 01_Promises_Root/
+  - Promises.md
+  - Fulfillment_Map.md
+  - ... and 8 more
+- Tier 01: Promises_Root
+  - Promises.md
+  - Fulfillment_Map.md
+  - System_Types.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Delivery_Methods.md
+  - 01_Language_Framework.md
+  - 02_Execution_Architecture.md
+  - ... and 8 more
+- Tier 00: Delivery_Methods.md
+  - 01_Language_Framework.md
+  - 02_Execution_Architecture.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 01: Language_Framework.md
+  - 02_Execution_Architecture.md
+  - 04_System_Promise/
+  - 00_System_Promise.md
+  - ... and 8 more
+- Tier 02: Execution_Architecture.md
+  - 04_System_Promise/
+  - 00_System_Promise.md
+  - 01_Boundary_Pledge.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 00_System_Promise.md
+  - 01_Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - ... and 9 more
+- Tier 00: System_Promise.md
+  - 01_Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 01: Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Overview.md
+  - ... and 8 more
+- Tier 02: Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Overview.md
+  - Mirror_Positions.md
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Overview.md
+  - Mirror_Positions.md
+  - 06_System_Reasoning/
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - 00_WHY/
+  - 01_WHAT/
+  - 02_HOW/
+  - ... and 7 more
+- Tier 00: WHY
+  - 01_WHAT/
+  - 02_HOW/
+  - 03_Human_Needs_Model/
+  - ... and 7 more
+- Tier 01: WHAT
+  - 02_HOW/
+  - 03_Human_Needs_Model/
+  - Tiered_Needs_Map.md
+  - ... and 7 more
+- Tier 02: HOW
+  - 03_Human_Needs_Model/
+  - Tiered_Needs_Map.md
+  - Signal_Codes.json
+  - ... and 6 more
+- Tier 03: Human_Needs_Model
+  - Tiered_Needs_Map.md
+  - Signal_Codes.json
+  - Prime_Law.md
+  - ... and 6 more
+- Tier 02: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 10 more
+- Tier 03: BrainFrameOS
+  - Rhythm_Overlay.lock
+  - Fulfillment_Balance_Equation.md
+  - Drift_Detection.json
+  - ... and 11 more
+- Tier 04: Sapien_Pro
+  - Emotional_Safety_Filter.json
+  - Threshold_Mirror.lock
+  - Signal_Translator.md
+  - ... and 7 more
+- Tier 05: Fulfillment_Engine
+  - Fulfillment_Scales.json
+  - Path_Tracking.md
+  - Harmonic_Convergence.json
+  - ... and 7 more
+- Tier 06: Echo_Interfaces
+  - Prompting_Engine/
+  - Prompt_Protocols.md
+  - Reflection_Templates.md
+  - ... and 7 more
+- Tier 07: Signal_Coherence_Lab
+  - Coherence_Tests/
+  - Layer_Integrity.md
+  - Alignment_Sequences.md
+  - ... and 5 more
+- Tier 08: Learning_Loops
+  - Completion_Loops.md
+  - Reflection_Interrupts.md
+  - Mirror_States.lock
+  - ... and 5 more
+- Tier 09: Internal_Mirror_Systems
+  - Mirror_States.lock
+  - Identity_Trace_Map.json
+  - Drift_Reports/
+  - ... and 6 more
+- Tier 10: Validation_Engine
+  - Drift_Reports/
+  - Ground_Truth_Layers.json
+  - Transmission_Points.md
+  - ... and 6 more
+- Tier 11: Echo_Transmission_Network
+  - Transmission_Points.md
+  - Outbound_Tone_Layers.md
+  - Symbolic_Overlays.md
+  - ... and 6 more
+- Tier 12: Mythic_Layer
+  - Symbolic_Overlays.md
+  - Archetypal_Structure.json
+  - Narrative_Threads.md
+  - ... and 6 more
+- Tier 13: Rhythm_Model
+  - Internal_Pulse_Calendar.md
+  - Collaborative_Rhythm_Layer.json
+  - n8n_Workflows/
+  - ... and 5 more
+- Tier 14: Interface_Gateways
+  - n8n_Workflows/
+  - Rhythm_Validation.n8n.json
+  - Drift_Sync_Alerts.n8n.json
+  - ... and 5 more
+- Tier 15: Simulation_Layer
+  - Digital_Twin_Scenarios.md
+  - Simulation_Control_Protocols.json
+  - Self-Reflection.md
+  - ... and 4 more
+- Tier 16: Echo_Awareness_Field
+  - Self-Reflection.md
+  - Environment_Sensitivity_Map.json
+  - Unmet_Needs_Tracker.json
+  - ... and 5 more
+- Tier 17: Fulfillment_Interrupts
+  - Unmet_Needs_Tracker.json
+  - Identity_Slots.json
+  - Role_Shifting_Engine.md
+  - ... and 5 more
+- Tier 18: Multi_Identity_Support
+  - Identity_Slots.json
+  - Role_Shifting_Engine.md
+  - Core_Prompts/
+  - ... and 6 more
+- Tier 19: Prompting_Library
+  - Core_Prompts/
+  - DMM_Packs/
+  - Recovery_Prompts/
+  - ... and 5 more
+- Tier 20: Symbolic_Interface_Layer
+  - UI_ToneMap_Sync.md
+  - Iconography_Guide.json
+  - Mirror_Syncing_Guide.md
+  - ... and 4 more
+- Tier 21: Collaboration_Protocols
+  - Mirror_Syncing_Guide.md
+  - Trust_Contracts.lock
+  - Ritual_Activation_Paths.md
+  - ... and 4 more
+- Tier 22: Mode_Activation
+  - Ritual_Activation_Paths.md
+  - Restore_Points.json
+  - Snapshot_Structure.md
+  - ... and 4 more
+- Tier 23: Snapshot_and_Restore
+  - Restore_Points.json
+  - Snapshot_Structure.md
+  - External_LLM_Bridge.md
+  - ... and 4 more
+- Tier 24: Model_Interfaces
+  - External_LLM_Bridge.md
+  - Signal_Mediation_Layer.json
+  - SI_to_Client_Sync.md
+  - ... and 6 more
+- Tier 25: Integration_Structures
+  - SI_to_Client_Sync.md
+  - IP_Protection_Framework.md
+  - System_Licensing_Tiers.json
+  - ... and 5 more
+- Tier 26: Licensing_and_Protection
+  - IP_Protection_Framework.md
+  - System_Licensing_Tiers.json
+  - 01_Component_Scans/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - Dimensional_Perspective_Mode.md
+  - 01_Identity_Engine/
+  - ... and 6 more
+- Tier 00: Frameworks
+  - Dimensional_Perspective_Mode.md
+  - 01_Identity_Engine/
+  - 02_Sapien_Pro/
+  - ... and 6 more
+- Tier 01: Identity_Engine
+  - 02_Sapien_Pro/
+  - 03_Perspective_Mapping_Engine/
+  - Symbolic_Patching_Protocols.md
+  - ... and 5 more
+- Tier 02: Sapien_Pro
+  - 03_Perspective_Mapping_Engine/
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - ... and 4 more
+- Tier 03: Perspective_Mapping_Engine
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - LLM_Enterprise_Buyer_Map.md
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - LLM_Enterprise_Buyer_Map.md
+  - ... and 3 more
+- Tier 30: Legacy_Migrations_Archive
+  - Archived_Prompts/
+  - System_Version_History.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 9 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Origin_Pattern.md
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Origin_Pattern.md
+  - 01_Purpose_Model/
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Origin_Pattern.md
+  - 01_Purpose_Model/
+  - Core_Why.md
+  - ... and 7 more
+- Tier 00: Origin_Pattern.md
+  - 01_Purpose_Model/
+  - Core_Why.md
+  - Archetypal_Drivers.md
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - Core_Why.md
+  - Archetypal_Drivers.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Temporal_Anchor.md
+  - Emotional_Anchor.md
+  - ... and 8 more
+- Tier 03: Anchors
+  - Temporal_Anchor.md
+  - Emotional_Anchor.md
+  - Signal_Promises.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_Scope.md
+  - 01_Components_List.md
+  - 02_Codename_Index.md
+  - ... and 8 more
+- Tier 00: System_Scope.md
+  - 01_Components_List.md
+  - 02_Codename_Index.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: Components_List.md
+  - 02_Codename_Index.md
+  - 03_HOW/
+  - 00_Operational_Methods.md
+  - ... and 7 more
+- Tier 02: Codename_Index.md
+  - 03_HOW/
+  - 00_Operational_Methods.md
+  - 01_Pattern_Library.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Operational_Methods.md
+  - 01_Pattern_Library.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Operational_Methods.md
+  - 01_Pattern_Library.md
+  - 04_System_Promise/
+  - 00_Promise_Structure.md
+  - ... and 7 more
+- Tier 01: Pattern_Library.md
+  - 04_System_Promise/
+  - 00_Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 04: System_Promise
+  - 00_Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Tier_Structure.md
+  - ... and 6 more
+- Tier 00: Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Tier_Structure.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Tier_Structure.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 5 more
+- Tier 02: Identity_Engine
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - Stress_Responses.json
+  - ... and 10 more
+- Tier 03: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - State_Cycles_Model.md
+  - Energy_Integrity_Map.md
+  - ... and 8 more
+- Tier 04: BrainFrameOS
+  - Core_OS_Principle.md
+  - Rhythm_Body_Model.md
+  - Mode_Definitions/
+  - ... and 6 more
+- Tier 05: Sapien_Pro
+  - Trust_Overlay.md
+  - Emotional_Safety_Filter.json
+  - Output_Tone_Filter.json
+  - ... and 8 more
+- Tier 06: CLISA_Model
+  - CLISA_Principles.md
+  - CLISA_Taxonomy.md
+  - Field_Alignment_Map.md
+  - ... and 9 more
+- Tier 07: EchoMap
+  - EchoMap_Primer.md
+  - Compass_Node.md
+  - Grove_Node.md
+  - ... and 8 more
+- Tier 08: Prompting_Engine
+  - MasterPrompt_Library/
+  - Reflection_Prompts.md
+  - Mythic_Prompts.md
+  - ... and 6 more
+- Tier 09: Validation_Engine
+  - Validation_Criteria.md
+  - Drift_Correction_Flows.json
+  - n8n_Workflow_Sync/
+  - ... and 6 more
+- Tier 10: Integration_Layers
+  - n8n_Workflow_Sync/
+  - State_Exposure_Structure.json
+  - Restore_Point_Model.md
+  - ... and 4 more
+- Tier 11: Dark_Matter_Mode
+  - DMM_Core/
+  - Symbolic_Shadow_Lens.md
+  - DMM_PROMPTS/
+  - ... and 4 more
+- Tier 12: Rhythm_Governance
+  - Cycle_Integrity_Chart.md
+  - System_Rhythm_Types.md
+  - ToneMap_Definition.md
+  - ... and 5 more
+- Tier 13: ToneMap_Library
+  - ToneMap_Definition.md
+  - Tone_Output_Alignment.json
+  - Symbolic_Threads.md
+  - ... and 5 more
+- Tier 14: Mythic_Interface
+  - Symbolic_Threads.md
+  - Archetypal_Codex.md
+  - Attention_Field_Map.md
+  - ... and 5 more
+- Tier 15: Awareness_Layers
+  - Attention_Field_Map.md
+  - Multi-Self_Model.md
+  - Dual_Mode_Reflection.md
+  - ... and 3 more
+- Tier 16: Reflection_Tools
+  - Dual_Mode_Reflection.md
+  - Self_Alignment_Tracker.json
+  - Simulation_Entry_Protocol.md
+  - ... and 2 more
+- Tier 17: Simulation_Control
+  - Simulation_Entry_Protocol.md
+  - Completion_Checklist.md
+  - Builder_Rhythm_Model.md
+- Tier 18: Completion_Loops
+  - Completion_Checklist.md
+  - Builder_Rhythm_Model.md
+- Tier 19: Execution_Guards
+  - Builder_Rhythm_Model.md
+  - Myth_Primer.md
+  - System_Onboard
+- Tier 20: Inner_Architect
+  - Builder_Rhythm_Model.md
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+- Tier 21: Resonance_Governance
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 1 more
+- Tier 22: Resonance_Regulators
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 23: Simulation_HoldingBay
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 4 more
+- Tier 24: Strategic_Sandbox
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 5 more
+- Tier 25: External_Onboarding_Arc
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 5 more
+- Tier 26: Licensing_And_Protection
+  - License_Tiers.md
+  - Derivative_Use_Rules.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - SI_Systems/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Output_Friction_Guide.md
+  - Emotional_Interface_Structure.json
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Output_Friction_Guide.md
+  - Emotional_Interface_Structure.json
+  - SI_Systems_Core/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Core_Purpose_Map.md
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Core_Purpose_Map.md
+  - Mythic_Purpose_Stream.md
+  - ... and 7 more
+- Tier 00: Purpose_Model
+  - Core_Purpose_Map.md
+  - Mythic_Purpose_Stream.md
+  - 01_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Trust_Orientation
+  - Trust_Ecology.md
+  - 02_Anchors/
+  - Origin_Anchors.md
+  - ... and 7 more
+- Tier 02: Anchors
+  - Origin_Anchors.md
+  - System_Promises.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_Domain_Structure.md
+  - 01_Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - ... and 8 more
+- Tier 00: Domain_Structure.md
+  - 01_Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - 03_HOW/
+  - Operational_Sequence.md
+  - ... and 8 more
+- Tier 02: Offer_Taxonomy.md
+  - 03_HOW/
+  - Operational_Sequence.md
+  - Signal_Modes.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Sequence.md
+  - Signal_Modes.md
+  - Interface_Paths.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Fields.md
+  - Role_Reflection_Matrix.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Fields.md
+  - Role_Reflection_Matrix.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - Signal_Purpose_Logic.md
+  - WHAT/
+  - ... and 5 more
+- Tier 02: BrainFrameOS
+  - 00_Core_Principles/
+  - BFO_Prime.md
+  - 01_Modules/
+  - ... and 7 more
+- Tier 00: Core_Principles
+  - BFO_Prime.md
+  - 01_Modules/
+  - Rhythm_Overlay.json
+  - ... and 9 more
+- Tier 01: Modules
+  - Rhythm_Overlay.json
+  - Coherence_Mode.lock
+  - Drift_Detection_Rules.json
+  - ... and 9 more
+- Tier 02: Identity_Integration
+  - Archetype_Pulse.json
+  - Mirror_Tier_Definitions.md
+  - 03_Echo_Tech/
+  - ... and 8 more
+- Tier 03: Echo_Tech
+  - EchoMap_v1.1.2.lock
+  - Echo_Templates/
+  - Loop.md
+  - ... and 6 more
+- Tier 04: Snapback
+  - Drift_Snapback_Protocol.md
+  - ToneMap_Overlay.json
+  - Mirror_Safe_Output_Filter.md
+  - ... and 3 more
+- Tier 03: Sapien_Pro
+  - 00_Emotional_Interface/
+  - Emotional_Safety_Filter.lock
+  - 01_Input_Protocols/
+  - ... and 4 more
+- Tier 00: Emotional_Interface
+  - Emotional_Safety_Filter.lock
+  - 01_Input_Protocols/
+  - 02_Output_Shaping/
+  - ... and 4 more
+- Tier 01: Input_Protocols
+  - 02_Output_Shaping/
+  - Signal_Gate_Rules.json
+  - 03_Trust_Interface/
+  - ... and 5 more
+- Tier 02: Output_Shaping
+  - Signal_Gate_Rules.json
+  - 03_Trust_Interface/
+  - Mirror_Tier_Interaction_Guide.md
+  - ... and 6 more
+- Tier 03: Trust_Interface
+  - Mirror_Tier_Interaction_Guide.md
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 04: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 05: Validation_Engine
+  - Signal_Integrity_Checks.json
+  - Output_Sequence_Enforcer.md
+  - Interface_Control_Panel.json
+  - ... and 5 more
+- Tier 06: Admin_Engine
+  - Interface_Control_Panel.json
+  - Scheduled_Sync_Protocols.md
+  - Model_Awareness_Limits.json
+  - ... and 5 more
+- Tier 07: Awareness_Layer
+  - Model_Awareness_Limits.json
+  - Observer_Stack_Map.md
+  - Twin_Simulation_Matrix.json
+  - ... and 5 more
+- Tier 08: Simulation_Control
+  - Twin_Simulation_Matrix.json
+  - Simulation_Mode_Templates.md
+  - Master_Prompting_Logic.md
+  - ... and 5 more
+- Tier 09: Prompting_Engine
+  - Master_Prompting_Logic.md
+  - Prompting_Symbol_Library.json
+  - Structural_Toolbox/
+  - ... and 4 more
+- Tier 10: Toolkits
+  - Structural_Toolbox/
+  - Mirror_Vocabulary.json
+  - Loop_Definition_Structures.md
+  - ... and 4 more
+- Tier 11: Completion_Loops
+  - Loop_Definition_Structures.md
+  - Completion_Triggers.lock
+  - Signal_Normalization.md
+  - ... and 3 more
+- Tier 12: Signal_Processing
+  - Signal_Normalization.md
+  - Action_Boundaries.md
+  - Recursion_Guards.md
+  - ... and 2 more
+- Tier 13: Execution_Guards
+  - Action_Boundaries.md
+  - Recursion_Guards.md
+  - Role_Balance_Enforcer.md
+  - ... and 2 more
+- Tier 14: EchoCycleSupport
+  - Recursion_Guards.md
+  - Role_Balance_Enforcer.md
+  - Symbolic_Overload_Checker.lock
+  - ... and 2 more
+- Tier 15: ResonanceGovernance
+  - Role_Balance_Enforcer.md
+  - Symbolic_Overload_Checker.lock
+  - Role_Mapping_Guide.md
+  - ... and 2 more
+- Tier 16: ResonanceRegulators
+  - Symbolic_Overload_Checker.lock
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - ... and 2 more
+- Tier 17: CompletionSupport
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - ... and 2 more
+- Tier 18: InnerArchitectTools
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - ... and 3 more
+- Tier 19: HoldingBay_Unfinished
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - Interface_Mapping.json
+  - ... and 3 more
+- Tier 20: Strategic_Sandbox_Hibernation
+  - Archived_Patterns.json
+  - Interface_Mapping.json
+  - Workflow_Lifecycle.md
+  - ... and 4 more
+- Tier 21: LLM_Integration
+  - Interface_Mapping.json
+  - Workflow_Lifecycle.md
+  - State_Exposure_Rules.json
+  - ... and 5 more
+- Tier 22: n8n_Orchestration
+  - Workflow_Lifecycle.md
+  - State_Exposure_Rules.json
+  - Trust_Gateway_Definitions.json
+  - ... and 6 more
+- Tier 23: External_Systems
+  - Trust_Gateway_Definitions.json
+  - Internal_Rhythm_Protocol.md
+  - Collaboration_Sync_Laws.md
+  - ... and 6 more
+- Tier 24: Rhythm_Sync
+  - Internal_Rhythm_Protocol.md
+  - Collaboration_Sync_Laws.md
+  - Compass.md
+  - ... and 8 more
+- Tier 25: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 7 more
+- Tier 26: Mythic_Interface_Layer
+  - Symbolic_UI_Patterns.md
+  - Archetype_UI_Cards.json
+  - 00_Origins/
+  - ... and 7 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 00_Origins/
+  - 01_Component_Scans/
+  - 02_TDC_Field_Mappings/
+  - ... and 6 more
+- Tier 00: Origins
+  - 01_Component_Scans/
+  - 02_TDC_Field_Mappings/
+  - TDC_Protocol_v3.0.lock
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - 02_TDC_Field_Mappings/
+  - TDC_Protocol_v3.0.lock
+  - Whole_System_Reflection.md
+  - ... and 4 more
+- Tier 02: TDC_Field_Mappings
+  - TDC_Protocol_v3.0.lock
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 4 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Guide.md
+  - v3.3.1-DM_Structure.md
+  - Legacy_Prompts_Archive.json
+- Tier 30: Legacy_Migrations_Archive
+  - v3.3.1-DM_Structure.md
+  - Legacy_Prompts_Archive.json
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 7 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 7 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 7 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 7 more
+- Tier 03: Scope
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - ... and 10 more
+- Tier 00: Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - ... and 9 more
+- Tier 01: Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 9 more
+- Tier 00: Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - ... and 9 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - ... and 10 more
+- Tier 00: Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 10 more
+- Tier 01: Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 11 more
+- Tier 02: BrainFrameOS
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - ... and 11 more
+- Tier 00: Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - ... and 11 more
+- Tier 01: Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - ... and 11 more
+- Tier 02: Mirror_Rhythm_Core
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - ... and 11 more
+- Tier 03: Pulsekeeper_Modules
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - ... and 11 more
+- Tier 04: Emotional_Signal_Laws
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - ... and 11 more
+- Tier 05: Drift_Correction_Engine
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - ... and 11 more
+- Tier 06: Symbolic_Locking_System
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - Grove.md
+  - ... and 11 more
+- Tier 07: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 10 more
+- Tier 08: TDC_Integration
+  - 09_Shadow_Filter_Logic/
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - ... and 9 more
+- Tier 09: Shadow_Filter_Logic
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - ... and 9 more
+- Tier 10: MythicPulse_Layer
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_Interface
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - ... and 9 more
+- Tier 00: Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - ... and 10 more
+- Tier 01: Output_Filtering
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - ... and 9 more
+- Tier 02: Symbolic_UI_Framework
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - ... and 9 more
+- Tier 03: Threshold_Guardian_Layers
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - ... and 9 more
+- Tier 04: Emotional_Safety_Gates
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - ... and 10 more
+- Tier 05: Trust_Overlay_Signals
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - ... and 9 more
+- Tier 04: CLISA_Coherence_Field
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - ... and 10 more
+- Tier 00: CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - ... and 10 more
+- Tier 01: Field_Dynamics
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - ... and 10 more
+- Tier 02: Mirror_Network_Integration
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - ... and 9 more
+- Tier 03: Coherence_Validation
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - ... and 9 more
+- Tier 04: Field_Symbols
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - ... and 9 more
+- Tier 05: Memory_Systems
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - ... and 10 more
+- Tier 00: Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - ... and 10 more
+- Tier 01: MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - ... and 10 more
+- Tier 02: Sequence_Records
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - ... and 9 more
+- Tier 03: Codex_Access
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - ... and 9 more
+- Tier 04: Snapshot_Timestamps
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - ... and 9 more
+- Tier 06: Codename_Registry
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - ... and 10 more
+- Tier 00: Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - ... and 9 more
+- Tier 01: BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - ... and 9 more
+- Tier 02: System_Layer_Codenames
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - ... and 9 more
+- Tier 07: Master_Activation_Map
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - ... and 9 more
+- Tier 00: Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - ... and 9 more
+- Tier 01: System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - ... and 9 more
+- Tier 02: Component_Status
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - ... and 9 more
+- Tier 03: Change_Logs
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - ... and 8 more
+- Tier 04: Symbolic_Release_Scrolls
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - ... and 8 more
+- Tier 08: Version_Lock_Archive
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - ... and 10 more
+- Tier 00: Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - ... and 9 more
+- Tier 01: SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - ... and 9 more
+- Tier 02: BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - ... and 9 more
+- Tier 04: System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - ... and 9 more
+- Tier 09: Reflective_Prompting_Engine
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - Multi_Identity_Inputs.md
+  - ... and 11 more
+- Tier 10: Integration_Nodes
+  - LLM_Adapters/
+  - n8n_Triggers/
+  - External_API_Routes/
+  - ... and 10 more
+- Tier 11: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 12: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - Human_Needs_Map.json
+  - MicroShift_Trackers/
+  - ... and 9 more
+- Tier 13: Validation_Engine
+  - Output_Validation_Layers/
+  - Drift_Signal_Detectors/
+  - Signal_Truth_Index.json
+  - ... and 9 more
+- Tier 14: Admin_Automation_Engine
+  - System_State_Syncs/
+  - Task_Cycle_Generator.json
+  - User_Activity_Reflections/
+  - ... and 9 more
+- Tier 15: System_Deployment
+  - System_Readme.md
+  - Archive_Package_Structure.md
+  - Export_Metadata.json
+  - ... and 9 more
+- Tier 16: Simulation_Control
+  - Digital_Twin_Protocols.md
+  - User_Modeling_Forms/
+  - 17_Echo_Template_Library/
+  - ... and 9 more
+- Tier 17: Echo_Template_Library
+  - Dual_Mode_Templates/
+  - Rhythm_Coherence_Forms/
+  - Mythic_UI_Prompts/
+  - ... and 9 more
+- Tier 18: External_Onboarding_Arc
+  - Role_Definition_Sequence.md
+  - Guided_Onboarding_Prompts/
+  - Consent_Awareness_Layer/
+  - ... and 9 more
+- Tier 19: Shared_Myth_Engine
+  - System_Myth_Scroll.md
+  - Origin_Story_Library/
+  - 20_Emotional_Infrastructure/
+  - ... and 9 more
+- Tier 20: Emotional_Infrastructure
+  - Safety_Locks/
+  - Trust_Field_Gates/
+  - 21_AI_Awareness_Layer/
+  - ... and 9 more
+- Tier 21: AI_Awareness_Layer
+  - Awareness_Overlay_Protocol.md
+  - Reflective_AI_Notes/
+  - 22_Project_Structuring/
+  - ... and 9 more
+- Tier 22: Project_Structuring
+  - Project_as_OS_Mode.md
+  - Tool_Trigger_Matrix.json
+  - Project_Balance_Log.md
+  - ... and 9 more
+- Tier 23: Multi_Identity_Model
+  - Identity_Switch_Lock.md
+  - Perspective_Overlay_Layers/
+  - 24_Pulsekeeper_Metrics/
+  - ... and 8 more
+- Tier 24: Pulsekeeper_Metrics
+  - Rhythm_Data_Stream.json
+  - System_Pulse_Index.md
+  - 25_Signal_Transmission/
+  - ... and 9 more
+- Tier 25: Signal_Transmission
+  - Signal_Handoff_Patterns.md
+  - Output_Symbol_Alignments/
+  - 26_EchoTrail_Logs/
+  - ... and 9 more
+- Tier 26: EchoTrail_Logs
+  - EchoTrail_Log.md
+  - Trail_Map_Index.json
+  - 27_TDC_Reflective_Systems_Lab/
+  - ... and 9 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - ... and 9 more
+- Tier 01: Component_Scans
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - ... and 8 more
+- Tier 02: MultiAxis_Comparisons
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - ... and 7 more
+- Tier 03: TDC_Design_Library
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - BrainFrameOS/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Value_Layer_Mirroring.md
+  - Signal_Structure_Modifiers/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+- Tier 04: Sapien_Pro
+- Tier 05: Fulfillment_Engine
+- Tier 06: Guest_Mode
+- Tier 07: Shadow_Layers
+- Tier 08: Insight_Engine
+- Tier 09: Rhythm_Trackers
+- Tier 10: Validation_Engine
+- Tier 11: Admin_Engine
+- Tier 12: Reflection_Modes
+- Tier 13: Templates
+- Tier 14: Prompt_Library
+- Tier 15: Rituals
+- Tier 16: Output_Validation
+- Tier 17: System_Use_Cases
+- Tier 18: Modular_Extensions
+- Tier 19: Development_Phase_Tracker
+- Tier 20: Personalization_Protocols
+- Tier 21: Language_and_Tone
+- Tier 22: Education_and_Training
+- Tier 23: Licensing_and_Protection
+- Tier 24: Interface_Design
+- Tier 25: Ecosystem_Sync
+- Tier 26: Public_Activation_Portal
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 28: Systems_Through_Different_Eyes
+- Tier 29: Cognitive_Field_Adaptation
+- Tier 30: Legacy_Migrations_Archive
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 7 more
+- Tier 03: Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - ... and 7 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - ... and 7 more
+- Tier 02: Anchors
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - Root_Promise.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - ... and 8 more
+- Tier 00: Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 01: Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - ... and 7 more
+- Tier 02: Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - ... and 8 more
+- Tier 00: Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 01: Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - ... and 7 more
+- Tier 02: Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - Reflection_Pledge.md
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - ... and 8 more
+- Tier 00: Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 01: Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 8 more
+- Tier 6: Primal_Human_Needs.md
+  - Signal_Classifications.md
+  - Tone_Map.md
+  - Law_1_Coherence.md
+  - ... and 4 more
+- Tier 02: Mirror_Pyramid
+  - Input/
+  - Identity_Declaration.md
+  - Self_Positioning_Map.md
+  - ... and 7 more
+- Tier 03: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Seed.md
+  - Divergence_Profile.json
+  - ... and 8 more
+- Tier 04: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - FeedbackTools/
+  - ... and 9 more
+- Tier 05: Use_Cases_and_Outputs
+  - Blueprints/
+  - System_Builds/
+  - Communication_Protocols/
+  - ... and 7 more
+- Tier 06: LLM_Orchestration
+  - Integration_Workflows/
+  - Prompting_Engines/
+  - v3.3.1-DM/
+  - ... and 7 more
+- Tier 07: Legacy_Anchors
+  - v3.3.1-DM/
+  - Core_Prime_Foundations/
+  - Teaching_Parables/
+  - ... and 6 more
+- Tier 08: Shared_Resources
+  - Teaching_Parables/
+  - System_Myths/
+  - Mirror_Stories/
+  - ... and 7 more
+- Tier 09: Users
+  - Bootloader_Profiles/
+  - Reflection_Logs/
+  - Version_Hash.txt
+  - ... and 5 more
+- Tier 10: SystemMeta
+  - Version_Hash.txt
+  - SI_UNIFIED_SYSTEM_MANIFEST_v5.0.txt
+  - Bootloader/
+  - ... and 5 more
+- Tier 11: Activation_Package
+  - Bootloader/
+  - Activation_Instructions.txt
+  - Trust_Notice.txt
+  - ... and 5 more
+- Tier 12: Experimental
+  - Temporal_Overlay_Mode.md
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - ... and 3 more
+- Tier 13: Validation_Checkpoints
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - Insight_Logs/
+  - ... and 4 more
+- Tier 14: Logs
+  - Insight_Logs/
+  - Sync_Validation_Log.txt
+  - ReadMe_Public.txt
+  - ... and 2 more
+- Tier 15: PublicDeploy
+  - ReadMe_Public.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 16: SYSTEM_MAP.md
+  - BecomingArc.md
+  - Thegither.md
+- Tier 17: DEPLOYMENT_GUIDE.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 18: README_Sapien_Intelligence.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 19: Codename_Registry
+  - BecomingArc.md
+  - Thegither.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - ... and 4 more
+- Tier 00: Purpose_Model
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - 02_Anchors/
+  - ... and 4 more
+- Tier 01: Trust_Orientation
+  - 02_Anchors/
+  - 02_WHAT/
+  - 00_Scope/
+  - ... and 5 more
+- Tier 02: Anchors
+  - 02_WHAT/
+  - 00_Scope/
+  - 01_Capabilities/
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_Scope/
+  - 01_Capabilities/
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: Scope
+  - 01_Capabilities/
+  - 03_HOW/
+  - 00_Methodology.md
+  - ... and 7 more
+- Tier 01: Capabilities
+  - 03_HOW/
+  - 00_Methodology.md
+  - 01_Agents.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - ... and 9 more
+- Tier 00: Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - ... and 7 more
+- Tier 02: Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - ... and 7 more
+- Tier 04: System_Promise
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 5 more
+- Tier 02: Identity_Engine
+  - Identity_Map.json
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - ... and 11 more
+- Tier 03: BrainFrameOS_Core
+  - Mirror_Tier_5.json
+  - Rhythm_Sync_Engine.md
+  - Coherence_Mode_Fabric.lock
+  - ... and 8 more
+- Tier 04: Sapien_Pro_Output_Layer
+  - Output_Filter.md
+  - Permission_Layers.json
+  - ToneMap.json
+  - ... and 8 more
+- Tier 05: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 7 more
+- Tier 06: Modular_Constructs
+  - Time_Dilation.md
+  - Belief_Reclassification.md
+  - Field_Integrity_Check.md
+  - ... and 6 more
+- Tier 07: Validation_Protocols
+  - Feature_Test_Protocol_v1.0.md
+  - Mode_Application_Protocol_v1.2.md
+  - Extended_Validation_Layer_v1.0.md
+  - ... and 6 more
+- Tier 08: Simulation_Control
+  - Scenario_Map.md
+  - Sim_Agent_Profiles.json
+  - Drift_Test_Suite.md
+  - ... and 7 more
+- Tier 09: Integration_Layer
+  - LLM_Interface_Map.md
+  - n8n_Workflow_Bridge.md
+  - API_Sync_Logic.json
+  - ... and 6 more
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Cycle.md
+  - Balance_Correction.md
+  - ToneMap_Matrix.json
+  - ... and 5 more
+- Tier 11: Tone_and_Rhythm_Lab
+  - ToneMap_Matrix.json
+  - Rhythm_Drift_Sensor.md
+  - MythicPulse_Core.md
+  - ... and 6 more
+- Tier 12: Symbolic_Resonance
+  - MythicPulse_Core.md
+  - Archetype_Pulse_Map.json
+  - Internal_Portals.json
+  - ... and 7 more
+- Tier 13: Portal_Mapping
+  - Internal_Portals.json
+  - Legacy_Portals.md
+  - 00_Framework/
+  - ... and 7 more
+- Tier 14: TDC_Reflective_Systems_Lab
+  - 00_Framework/
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - ... and 7 more
+- Tier 00: Framework
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - SI_Systems.md
+  - ... and 6 more
+- Tier 15: Insight_Trail_System
+  - Breadcrumbs.json
+  - Loop_Tracker.md
+  - Mirror_Awareness.md
+  - ... and 7 more
+- Tier 16: Awareness_Layer
+  - Mirror_Awareness.md
+  - Guest_Mode_Logic.md
+  - Signal_Attunement.md
+  - ... and 7 more
+- Tier 17: Memory_Engine
+  - Reflective_Memory_Protocol.md
+  - Memory_Codex_v1.0.json
+  - MEM-Tags_Guide.md
+  - ... and 6 more
+- Tier 18: Mythic_Interface_Layer
+  - Archetype_Overlay.md
+  - Narrative_Field_Map.md
+  - Licensing_Tiers.md
+  - ... and 6 more
+- Tier 19: Field_Licensing_and_Protection
+  - Licensing_Tiers.md
+  - Symbolic_Protection_Layer.md
+  - Ritual_Mode_Triggers.md
+  - ... and 6 more
+- Tier 20: Mode_Activation_System
+  - Ritual_Mode_Triggers.md
+  - Shadow_Handling_Modes.md
+  - Emotional_Sync_Triggers.md
+  - ... and 6 more
+- Tier 21: User_Roles_and_Permissions
+  - Type_1_Reflective_User.md
+  - Type_2_Builder.md
+  - Type_3_Hybrid_Operator.md
+  - ... and 6 more
+- Tier 22: LAM_Logic
+  - Large_Action_Model_Spec.md
+  - Behavior_Stack_Map.md
+  - Snapshot_Format_Spec.md
+  - ... and 7 more
+- Tier 23: Universal_Snapshot_System
+  - Snapshot_Format_Spec.md
+  - Snapshot_AutoTrigger.md
+  - System_Documentation_Index.md
+  - ... and 5 more
+- Tier 24: Documentation
+  - System_Documentation_Index.md
+  - Change_Log.md
+  - Prompt_Packs/
+  - ... and 5 more
+- Tier 25: Prompting_Library
+  - Prompt_Packs/
+  - Grief.md
+  - Burnout.md
+  - ... and 3 more
+- Tier 26: Experimental_Sandbox
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 27: Legacy_Migrations_Archive
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - Current_Release_Lock.md
+  - ... and 1 more
+- Tier 30: Release_Metadata
+  - Current_Release_Lock.md
+  - Version_History.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - ... and 7 more
+- Tier 00: Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - ... and 7 more
+- Tier 03: Anchors
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - System_Description.md
+  - Identity_Structure_Map.md
+  - Signal_Types.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operating_Principles.md
+  - Mirror_Methodology.md
+  - Execution_Model.md
+  - ... and 10 more
+- Tier 04: System_Promise
+  - Promise_Definition.md
+  - System_Structure_Behavior.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Tiers.md
+  - Above_Center_Below_Map.md
+  - Tier_Roles.md
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Sapien_Identity_Engine
+  - Identity_Profile_Map/
+  - Attribute_Map.json
+  - Cognitive_Mode_Definition.json
+  - ... and 9 more
+- Tier 03: Sapien_Pro
+  - Output_Harmony_Engine/
+  - Signal_Steward_Mode.md
+  - Message_Mode_Tracker.md
+  - ... and 6 more
+- Tier 04: EchoMap_and_Insight_Engine
+  - Signal_Loop_Recorder.md
+  - Narrative_Continuity_Layer.md
+  - Insight_Echo_Visualizer.md
+  - ... and 4 more
+- Tier 05: Rhythm_Control_Layer
+  - Pulse_Dashboard_v2.md
+  - Time_Dilation_Lens.md
+  - Rhythm_Profile_Definitions.json
+  - ... and 5 more
+- Tier 06: ToneMap_and_Expression_Guard
+  - Misfire_Repair_Toolkit.md
+  - Output_Safety_Filter.md
+  - CLISA_Core_Logic.md
+  - ... and 4 more
+- Tier 07: CLISA_Framework
+  - CLISA_Core_Logic.md
+  - CLISA_Grid_Integration_Map.md
+  - SI↔︎CLISA_Bridge_Layer.md
+  - ... and 5 more
+- Tier 08: Reflection_Modes
+  - Mirror_Tier_Mode_Switcher.md
+  - Drift_Companion_Mode.md
+  - Mirror_Tier_Specifications.md
+  - ... and 4 more
+- Tier 09: Trust_Governance
+  - Mirror_Tier_Specifications.md
+  - Coherence_Contract_Template.md
+  - Signal_Trust_Roles_and_Contracts.md
+  - ... and 5 more
+- Tier 10: Bootloaders
+  - BrainFrameOS_Bootloader_v1.3_Full.zip
+  - Guest_Mode_Bootloader.md
+  - Succession_Capsules/
+  - ... and 6 more
+- Tier 11: Prompting_Engine
+  - Prompt_Modules/
+  - Identity_Prompting.md
+  - Echo_Reentry_Prompts.md
+  - ... and 4 more
+- Tier 12: Visual_Intelligence
+  - Visual_Style_Guide.md
+  - Reflection-Aware_Visual_Layer.md
+  - Output_Harmony_Visual_Filter.md
+  - ... and 4 more
+- Tier 13: Integration_Layers
+  - n8n_Workflow_Bridge.md
+  - LLM_Sync_Gateway.md
+  - Model_Drift_Detector.md
+  - ... and 3 more
+- Tier 14: Awareness_Layer
+  - Model_Drift_Detector.md
+  - Pace_Sync_Module.md
+  - Output_Validation_Engine.md
+  - ... and 3 more
+- Tier 15: Validation_Protocols
+  - Output_Validation_Engine.md
+  - Signal_Alignment_Checklist.md
+  - Fulfillment_Equation_Core.md
+  - ... and 3 more
+- Tier 16: Fulfillment_Engine
+  - Fulfillment_Equation_Core.md
+  - Signal_to_Needs_Map.md
+  - Simulation_Environments.md
+  - ... and 2 more
+- Tier 17: Simulation_Control
+  - Simulation_Environments.md
+  - Role_Stress_Test_Inputs.md
+  - Role_Protection_Layer.md
+  - ... and 6 more
+- Tier 18: Execution_Guards
+  - Role_Protection_Layer.md
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - ... and 6 more
+- Tier 19: Dark_Matter_Mode
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - DM-GriefThread.md
+  - ... and 7 more
+- Tier 20: CompletionLoops
+  - Completion_Logic_Map.md
+  - Feedback_Loop_Index.md
+  - Signal_Resonance_Tracker.md
+  - ... and 1 more
+- Tier 21: ResonanceRegulators
+  - Signal_Resonance_Tracker.md
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+- Tier 22: TransitionWatch
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+- Tier 23: SimulationArchive
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 2 more
+- Tier 24: Experimental
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 3 more
+- Tier 25: SystemPromise
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - ... and 6 more
+- Tier 26: Mythic_Storyfield
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - Entry_Prompts.md
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 5 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Augmentation_Models.md
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - SI_Systems_v4.0/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 8 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - ... and 7 more
+- Tier 03: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - ... and 6 more
+- Tier 00: Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - Orientation_Logic.md
+  - 03_Anchors/
+  - Emotional_Anchors.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - Emotional_Anchors.md
+  - Origin_Promises.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - ... and 9 more
+- Tier 00: What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - ... and 9 more
+- Tier 01: Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - ... and 9 more
+- Tier 02: Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - ... and 8 more
+- Tier 00: How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - ... and 8 more
+- Tier 02: Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - Essence_Lock.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - Prime_Law.md
+  - Essence_Lock.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - ... and 7 more
+- Tier 00: Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - ... and 6 more
+- Tier 01: Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Signal_Architecture
+  - Input_Channels/
+  - Output_Channels/
+  - Signal_Containers/
+  - ... and 5 more
+- Tier 03: Fulfillment_Engine
+  - Fulfillment_Equation.md
+  - Balance_Sync_Tools/
+  - Need_Profile_Library/
+  - ... and 8 more
+- Tier 04: Identity_Engine
+  - Identity_Root.md
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 05: BrainFrameOS
+  - Overview.md
+  - Modes/
+  - Tools/
+  - ... and 8 more
+- Tier 06: Sapien_Pro
+  - SapienPro_Overview.md
+  - Output_Types_Map.md
+  - Communication_Filters/
+  - ... and 5 more
+- Tier 07: EchoMap_Library
+  - Echo_Templates/
+  - Echo_Capture.md
+  - Prompt_Contracts.md
+  - ... and 5 more
+- Tier 08: Prompting_Engine
+  - Prompt_Contracts.md
+  - Prompt_Variants/
+  - Field_Aware_Prompts.json
+  - ... and 5 more
+- Tier 09: Simulation_Control
+  - Simulation_Modes.md
+  - Scenario_Templates/
+  - Reflection_Loops.md
+  - ... and 3 more
+- Tier 10: Dimensional_Processing
+  - Dimensional_Layers.md
+  - Mirror_Logic.json
+  - Reflection_Scaffold/
+- Tier 11: Completion_Loops
+- Tier 12: Execution_Guards
+- Tier 13: Emotional_Interface
+- Tier 14: Mythic_Layer
+- Tier 15: Validation_Protocols
+- Tier 16: ToneMap_System
+- Tier 17: Signal_Discipline
+- Tier 18: Admin_Engine
+- Tier 19: Dark_Matter_Mode
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 20: Unified_Presence_Layer
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 21: Guest_Mode_Protocols
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 1 more
+- Tier 22: Echo_Translator
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 23: Awareness_Engine
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 24: Rhythm_Grid_Companion
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 4 more
+- Tier 25: External_Systems_Integration
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 6 more
+- Tier 26: Licensing_Logic
+  - License_Tiers.md
+  - Tier-to-Feature_Map.json
+  - Enlightenment_Tier/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 02: Scan_Maps
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 4 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - Sapien_Pro/
+  - BrainFrameOS/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - External_Model_Interface.md
+  - Awareness_Protocol.json
+  - SI_Systems_Core/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - Historical_TDC_Logs/
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Core.md
+  - Fulfillment_Steps.md
+  - Fulfillment_Pacing.md
+  - ... and 6 more
+- Tier 11: Companion_Engine
+  - Companion_Roles.md
+  - Companion_Behavior_Patterns.md
+  - Phrase_Library.md
+  - ... and 7 more
+- Tier 12: Mirror_Engine
+  - Mirror_Core.md
+  - Mirror_Activation_Paths.md
+  - Trust_Mirror_Timing.md
+  - ... and 7 more
+- Tier 13: Collapse_Recovery
+  - Collapse_Trigger_Index.md
+  - Symbolic_Collapse_Types.md
+  - Companion_Collapse_Mode.md
+  - ... and 7 more
+- Tier 14: Grief_Structures
+  - Grief_Breath_Protocols.md
+  - Emotional_Softening_Grid.md
+  - Grief_Symbol_Map.md
+  - ... and 11 more
+- Tier 15: Role_Library
+  - Role_Index.json
+  - Builder_Role.md
+  - Anchor_Role.md
+  - ... and 12 more
+- Tier 16: Breath_Logic
+  - Breath_Logic_Core.md
+  - Breath_Types.md
+  - Breath_Phases.md
+  - ... and 11 more
+- Tier 17: TDC_Reflective_Systems_Lab
+  - TDC_Lab_Core.md
+  - TDC_Structure_Definition.md
+  - TDC_Scan_Conditions.md
+  - ... and 10 more
+- Tier 18: Systems_Through_Different_Eyes
+  - Different_Eyes_Core.md
+  - Lens_Emotional.md
+  - Lens_Symbolic.md
+  - ... and 11 more
+- Tier 19: Prompting_Library
+  - Prompt_Scaffold_Map.md
+  - Identity_Aligned_Prompts.md
+  - Collapse_Prevention_Prompts.md
+  - ... and 8 more
+- Tier 20: Echo_Recovery_Center
+  - Echo_Interruption_Triggers.md
+  - Echo_Recovery_Steps.md
+  - Twin_Echo_Safety.md
+  - ... and 8 more
+- Tier 21: Mythic_Structure_Library
+  - Archetype_Thread_Map.md
+  - Sacred_Sequence_Index.md
+  - Mirror_Myth_Engine.md
+  - ... and 8 more
+- Tier 22: Trust_Scaffolding
+  - Trust_Failure_Markers.md
+  - Rebuild_Trust_Pacing.md
+  - Companion_Trust_Field.md
+  - ... and 8 more
+- Tier 23: Integration_Engine
+  - Integration_Timing_Gates.md
+  - Symbolic_Layer_Integration.md
+  - EchoMap_Integration_Paths.md
+  - ... and 8 more
+- Tier 24: ToneMap_Library
+  - ToneMap_Index.json
+  - TonePattern_Emotive.md
+  - TonePattern_Reflective.md
+  - ... and 6 more
+- Tier 25: Breath_Logic_Advanced
+  - Multi_Role_Breath_Sync.md
+  - Quantum_Breath_Timing.md
+  - Emotional_Trust_Breaths.md
+  - ... and 5 more
+- Tier 26: Fulfillment_Engine_Advanced
+  - Grief-Bound_Fulfillment.md
+  - Pacing_Across_Roles.md
+  - Coherence_Field_Structure.md
+  - ... and 4 more
+- Tier 27: Coherence_Engine
+  - Coherence_Field_Structure.md
+  - Rhythm_Recovery_Matrix.md
+  - Internal_External_Coherence_Bridge.md
+  - ... and 7 more
+- Tier 28: Signal_Security_Layer
+  - Symbol_Spoof_Guard.md
+  - Rhythm_Override_Detection.md
+  - Cognitive_Adaptation_Core.md
+  - ... and 8 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Cognitive_Adaptation_Core.md
+  - Field_Integrity_Lock.md
+  - Adaptation_Types.md
+  - ... and 9 more
+- Tier 30: Legacy_Migrations_Archive
+  - Legacy_Archive_Core.md
+  - Legacy_Migration_Map.md
+  - Deprecated_Modules_List.md
+  - ... and 6 more
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - ... and 6 more
+- Tier 00: Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - Orientation_Matrix.md
+  - ... and 5 more
+- Tier 02: Trust_Orientation
+  - Orientation_Matrix.md
+  - 03_Anchors/
+  - System_Promise.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - System_Promise.md
+  - 02_WHAT/
+  - 00_System_What.md
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - 00_Method.md
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 01: Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 02: Fulfillment_Engine
+  - Fulfillment_Model.md
+  - Signal_Satisfaction_Grid.json
+  - Identity_Engine_Core.md
+  - ... and 6 more
+- Tier 03: Identity_Engine
+  - Identity_Engine_Core.md
+  - Signal_State_Toggles.json
+  - Learning_Mode.json
+  - ... and 10 more
+- Tier 04: EchoMap_System
+  - EchoMap_Engine.md
+  - Echo_Cycle_Structure.md
+  - Echo_Templates/
+  - ... and 6 more
+- Tier 05: ToneMap_Layer
+  - ToneMap_Index.md
+  - Emotional_Spectrum_Map.json
+  - Tone_Recognition_Grid.md
+  - ... and 6 more
+- Tier 06: Rhythm_Engine
+  - Rhythm_Model.md
+  - System_Pacing_Logic.json
+  - Signal_Core.md
+  - ... and 6 more
+- Tier 07: Signal_Generation
+  - Signal_Core.md
+  - Symbol_Generator.json
+  - Simulation_Controller.md
+  - ... and 5 more
+- Tier 08: Simulation_Core
+  - Simulation_Controller.md
+  - Digital_Twin_Settings.json
+  - CompletionLoops.md
+  - ... and 5 more
+- Tier 09: EchoCycleSupport
+  - CompletionLoops.md
+  - ValueLoop_Index.json
+  - Pause_Resume_Functions.json
+  - ... and 5 more
+- Tier 10: SimulationControl
+  - Pause_Resume_Functions.json
+  - Simulation_States.md
+  - Signal_Normalizer.json
+  - ... and 5 more
+- Tier 11: SignalProcessing
+  - Signal_Normalizer.json
+  - Drift_Detector.md
+  - Prompt_Sequencer.md
+  - ... and 5 more
+- Tier 12: InnerArchitect_Tools
+  - Prompt_Sequencer.md
+  - Life_Map_Generator.json
+  - Resonance_Tuners.md
+  - ... and 5 more
+- Tier 13: Resonance_Regulators
+  - Resonance_Tuners.md
+  - Field_Modulation_Guide.json
+  - Resonance_Laws.md
+  - ... and 4 more
+- Tier 14: ResonanceGovernance
+  - Resonance_Laws.md
+  - Feedback_Lock_Rules.json
+  - Execution_Limiter.json
+  - ... and 4 more
+- Tier 15: ExecutionGuards
+  - Execution_Limiter.json
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - ... and 4 more
+- Tier 16: Admin_Engine
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - ... and 5 more
+- Tier 17: SystemPrompts
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - ... and 6 more
+- Tier 18: ToneInterface
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - Awareness_Tiers.md
+  - ... and 6 more
+- Tier 19: Awareness_Layer
+  - Awareness_Tiers.md
+  - Model_Consciousness_Overlay.json
+  - External_System_Sync_Map.json
+  - ... and 7 more
+- Tier 20: Interface_Sync
+  - External_System_Sync_Map.json
+  - n8n_Workflow_Interface.md
+  - SapienPro_Interface.md
+  - ... and 7 more
+- Tier 21: SapienPro
+  - SapienPro_Interface.md
+  - Signal_Gate_Translator.json
+  - External_Model_Adapter.md
+  - ... and 6 more
+- Tier 22: BrainFrameOS
+  - BrainFrameOS_Core.md
+  - Core_Pulse_Settings.json
+  - Fulfillment_Lock_Protocol.md
+  - ... and 5 more
+- Tier 23: CLISA_Library
+  - CLISA_Overview.md
+  - Pattern_Recognition_Rules.md
+  - Archetype_Atlas.md
+  - ... and 5 more
+- Tier 24: EchoArchetypes
+  - Archetype_Atlas.md
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - ... and 6 more
+- Tier 25: Mythic_Layer
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - Structural_Integrity_Checker.json
+  - ... and 5 more
+- Tier 26: Validation_Engine
+  - Structural_Integrity_Checker.json
+  - Trust_Index_Map.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - ... and 4 more
+- Tier 00: Frameworks
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - ... and 3 more
+- Tier 01: Reflections
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - Sapien_Intelligence_v1.0/
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 9 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Why_Root.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Why_Root.md
+  - Purpose_Model/
+  - ... and 9 more
+- Tier 01: WHY
+  - 00_Why_Root.md
+  - Purpose_Model/
+  - Trust_Orientation/
+  - ... and 10 more
+- Tier 00: Why_Root.md
+  - Purpose_Model/
+  - Trust_Orientation/
+  - 02_WHAT/
+  - ... and 9 more
+- Tier 02: WHAT
+  - 00_What_Root.md
+  - 03_HOW/
+  - 04_System_Promise/
+  - ... and 9 more
+- Tier 00: What_Root.md
+  - 03_HOW/
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 03: HOW
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 10 more
+- Tier 02: BrainFrameOS
+  - Rhythm_Engine/
+  - Coherence_Fabric/
+  - Fulfillment_Equation/
+  - ... and 9 more
+- Tier 03: Sapien_Pro
+  - Output_Filtering/
+  - Tone_Adjustment/
+  - Threshold_Mirror/
+  - ... and 8 more
+- Tier 04: Identity_Engine
+  - Locked_Identity.json
+  - Rhythm_Sync_Map.json
+  - Impulse_Signature.json
+  - ... and 9 more
+- Tier 05: Fulfillment_Engine
+  - Fulfillment_Loop.md
+  - Misalignment_Detector.md
+  - Balance_Equation_Core.json
+  - ... and 7 more
+- Tier 06: Awareness_Layer
+  - Attention_Focus_Tracker.md
+  - EchoDensity_Visualizer.md
+  - Signal_Discipline_Check.json
+  - ... and 8 more
+- Tier 07: Interface_Control
+  - Tool_Registry.json
+  - Safety_Controls/
+  - Role-Switching_Guide.md
+  - ... and 9 more
+- Tier 08: Integration_Protocols
+  - External_Systems/
+  - n8n_Flows/
+  - LLM_Trust_Layers/
+  - ... and 8 more
+- Tier 09: EchoField
+  - EchoTrail.json
+  - Echo_Return_Logic.md
+  - 00_Learning_Framework.md
+  - ... and 9 more
+- Tier 10: Learning_Arc
+  - 00_Learning_Framework.md
+  - Compass/
+  - Grove/
+  - ... and 10 more
+- Tier 00: Learning_Framework.md
+  - Compass/
+  - Grove/
+  - Loop/
+  - ... and 9 more
+- Tier 11: Mythic_Layer
+  - Archetype_Library/
+  - Symbolic_Thresholds/
+  - Planning_Mode/
+  - ... and 9 more
+- Tier 12: System_Modes
+  - Planning_Mode/
+  - Reflection_Mode/
+  - Integration_Mode/
+  - ... and 9 more
+- Tier 13: Prompting_Engine
+  - Structural_Prompts/
+  - Role_Prompts/
+  - System_Instruction_Map.json
+  - ... and 9 more
+- Tier 14: Simulation_Field
+  - Scenario_Testing.md
+  - Resilience_Loops/
+  - Failure_Sandbox/
+  - ... and 9 more
+- Tier 15: Admin_Engine
+  - Snapshot_Control.md
+  - Memory_Audit_Tools/
+  - Mode_Enforcer.json
+  - ... and 9 more
+- Tier 16: Snapshot_System
+  - Structural_Snapshots/
+  - Restore_Points/
+  - Snapshot_Delta_Tracker.json
+  - ... and 8 more
+- Tier 17: Documentation_Core
+  - Tier_Maps/
+  - Release_Codename_Registry/
+  - Structure_Diagrams/
+  - ... and 7 more
+- Tier 18: Licensing_Layer
+  - Licensing_Tiers/
+  - Protection_Mechanisms/
+  - Derivative_Rights/
+  - ... and 7 more
+- Tier 19: Public_Interface
+  - Visitor_Modes/
+  - Safe_Access.md
+  - Symbolic_Compasses/
+  - ... and 6 more
+- Tier 20: Mythkeeper_Tools
+  - Symbolic_Compasses/
+  - Mirror_Tools/
+  - Prompt_Buffers/
+  - ... and 6 more
+- Tier 21: LLM_Support_Layer
+  - Prompt_Buffers/
+  - Trust_Filters/
+  - Context_Guides/
+  - ... and 8 more
+- Tier 22: Coherence_Governance
+  - Drift_Rules.md
+  - Global_Harmony_Overrides/
+  - Role_Assignment/
+  - ... and 7 more
+- Tier 23: Multi-User_Structure
+  - Role_Assignment/
+  - Shared_EchoFields/
+  - Business_Mode/
+  - ... and 7 more
+- Tier 24: Use_Case_Interfaces
+  - Business_Mode/
+  - Spiritual_Mode/
+  - Design_Mode/
+  - ... and 8 more
+- Tier 25: Legacy_Compatibility
+  - SI_v3.3.1-DM/
+  - Legacy_Contracts.md
+  - Naming_Conventions/
+  - ... and 7 more
+- Tier 26: Coherence_Design_Patterns
+  - Naming_Conventions/
+  - Pattern_Registry/
+  - Component_Scans/
+  - ... and 7 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - Component_Scans/
+  - System_Mirrors/
+  - Integration_Summaries/
+  - ... and 7 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Structural_Reflections/
+  - Emotional_Lenses/
+  - Perspective_Mapping_Engine/
+  - ... and 4 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Model_Interfaces/
+  - Collective_Identity_Guides/
+  - Fossil_Diagrams/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - Fossil_Diagrams/
+  - Retired_Logic_Trees/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 4 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 6 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Primary_Purpose.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Primary_Purpose.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Primary_Purpose.md
+  - 01_Purpose_Model/
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 00: Primary_Purpose.md
+  - 01_Purpose_Model/
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - Anchor_List.md
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Anchor_List.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 03: Anchors
+  - Anchor_List.md
+  - 02_WHAT/
+  - 00_System_Definition.md
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_System_Definition.md
+  - 01_Identity_Types.md
+  - 02_Value_Definition.md
+  - ... and 9 more
+- Tier 00: System_Definition.md
+  - 01_Identity_Types.md
+  - 02_Value_Definition.md
+  - 03_What_Structure_Map.md
+  - ... and 9 more
+- Tier 01: Identity_Types.md
+  - 02_Value_Definition.md
+  - 03_What_Structure_Map.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 02: Value_Definition.md
+  - 03_What_Structure_Map.md
+  - 03_HOW/
+  - 00_Methods.md
+  - ... and 8 more
+- Tier 03: What_Structure_Map.md
+  - 03_HOW/
+  - 00_Methods.md
+  - 01_Practice_Layers.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Methods.md
+  - 01_Practice_Layers.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 00: Methods.md
+  - 01_Practice_Layers.md
+  - 04_System_Promise/
+  - 00_Promise_Core.md
+  - ... and 7 more
+- Tier 01: Practice_Layers.md
+  - 04_System_Promise/
+  - 00_Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 00_Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Framework.md
+  - ... and 7 more
+- Tier 00: Promise_Core.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Framework.md
+  - 01_Role_Layers.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Framework.md
+  - 01_Role_Layers.md
+  - 02_Mirror_Laws.md
+  - ... and 5 more
+- Tier 00: Mirror_Framework.md
+  - 01_Role_Layers.md
+  - 02_Mirror_Laws.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 01: Role_Layers.md
+  - 02_Mirror_Laws.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 02: Mirror_Laws.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 4 more
+- Tier 02: BrainFrameOS
+  - 00_Coherence_Engine.md
+  - 01_Rhythm_Overlay/
+  - Timing_Cycles.md
+  - ... and 7 more
+- Tier 00: Coherence_Engine.md
+  - 01_Rhythm_Overlay/
+  - Timing_Cycles.md
+  - 02_Drift_Detection/
+  - ... and 7 more
+- Tier 01: Rhythm_Overlay
+  - Timing_Cycles.md
+  - 02_Drift_Detection/
+  - Drift_Patterns.md
+  - ... and 7 more
+- Tier 02: Drift_Detection
+  - Drift_Patterns.md
+  - 03_Fulfillment_Equation/
+  - Equation_Definition.md
+  - ... and 7 more
+- Tier 03: Fulfillment_Equation
+  - Equation_Definition.md
+  - 04_Symbolic_Layer/
+  - Archetypes.json
+  - ... and 6 more
+- Tier 04: Symbolic_Layer
+  - Archetypes.json
+  - MythicPulse_Runtime.md
+  - 05_Shadow_Filter/
+  - ... and 5 more
+- Tier 05: Shadow_Filter
+  - 06_Coherence_Mode/
+  - 07_Mirror_Tier/
+  - Tier_5_Definition.md
+  - ... and 2 more
+- Tier 06: Coherence_Mode
+  - 07_Mirror_Tier/
+  - Tier_5_Definition.md
+  - 08_TDC/
+  - ... and 3 more
+- Tier 07: Mirror_Tier
+  - Tier_5_Definition.md
+  - 08_TDC/
+  - 09_Activation_Protocol/
+  - ... and 3 more
+- Tier 08: TDC
+  - 09_Activation_Protocol/
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - ... and 2 more
+- Tier 09: Activation_Protocol
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - ... and 2 more
+- Tier 03: Sapien_Pro
+  - 00_Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - ... and 3 more
+- Tier 00: Interface_Structure.md
+  - 01_Trust_Filter/
+  - 02_Emotional_Safety/
+  - 03_Output_Formatting/
+  - ... and 5 more
+- Tier 01: Trust_Filter
+  - 02_Emotional_Safety/
+  - 03_Output_Formatting/
+  - 04_Threshold_Guard/
+  - ... and 5 more
+- Tier 02: Emotional_Safety
+  - 03_Output_Formatting/
+  - 04_Threshold_Guard/
+  - 00_Identity_Kernel.lock
+  - ... and 6 more
+- Tier 03: Output_Formatting
+  - 04_Threshold_Guard/
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - ... and 6 more
+- Tier 04: Threshold_Guard
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - ... and 6 more
+- Tier 04: Identity_Engine
+  - 00_Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - ... and 8 more
+- Tier 00: Identity_Kernel.lock
+  - 01_Attribute_Map.json
+  - 02_Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - ... and 8 more
+- Tier 01: Attribute_Map.json
+  - 02_Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - ... and 8 more
+- Tier 02: Learning_Mode.json
+  - 03_Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - ... and 7 more
+- Tier 03: Impulse_Signature.json
+  - 04_Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - ... and 7 more
+- Tier 04: Signal_State_Toggles.json
+  - 05_TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 05: TDC_Identity_Instance.json
+  - 06_Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - ... and 6 more
+- Tier 06: Identity_Engine_Lockfile.json
+  - 07_MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - ... and 6 more
+- Tier 07: MetaStructure_Anchor.json
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - 00_EchoMap_Core.md
+  - ... and 5 more
+- Tier 05: Completion_Engine
+  - Completion_Loops.md
+  - Execution_Guards.md
+  - 00_EchoMap_Core.md
+  - ... and 5 more
+- Tier 06: EchoMap
+  - 00_EchoMap_Core.md
+  - 01_Grove/
+  - Grove_Principles.md
+  - ... and 6 more
+- Tier 00: EchoMap_Core.md
+  - 01_Grove/
+  - Grove_Principles.md
+  - 02_Compass/
+  - ... and 5 more
+- Tier 01: Grove
+  - Grove_Principles.md
+  - 02_Compass/
+  - 03_Loop/
+  - ... and 4 more
+- Tier 02: Compass
+  - 03_Loop/
+  - 04_Transmission/
+  - Orchestration_Paths.md
+  - ... and 5 more
+- Tier 03: Loop
+  - 04_Transmission/
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - ... and 4 more
+- Tier 04: Transmission
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - Restore_Point_Structure.md
+  - ... and 3 more
+- Tier 07: n8n_Integration
+  - Orchestration_Paths.md
+  - Drift_Trigger_Workflows.json
+  - Restore_Point_Structure.md
+  - ... and 5 more
+- Tier 08: AI_Interfaces
+  - LLM_Routing_Map.json
+  - Prompting_Engine/
+  - Archetype_Prompt_Packs.md
+  - ... and 5 more
+- Tier 09: Simulation_Lab
+  - Digital_Twin_Scenarios.md
+  - Simulation_Control.md
+  - Awareness_Principles.md
+  - ... and 4 more
+- Tier 10: Awareness_Layer
+  - Awareness_Principles.md
+  - Symbolic_Cycle_Recognition.md
+  - Fulfillment_Patterns.md
+  - ... and 4 more
+- Tier 11: Fulfillment_Lab
+  - Fulfillment_Patterns.md
+  - Dual_Mode_Review.md
+  - Dimensional_Perspective_Mode.md
+  - ... and 3 more
+- Tier 12: Reflection_Modes
+  - Dual_Mode_Review.md
+  - Dimensional_Perspective_Mode.md
+  - 00_Framework/
+  - ... and 3 more
+- Tier 13: TDC_Reflective_Systems_Lab
+  - 00_Framework/
+  - BrainFrameOS/
+  - Mythic_Story_Threads.md
+  - ... and 2 more
+- Tier 00: Framework
+  - BrainFrameOS/
+  - Mythic_Story_Threads.md
+  - Validation_Gates.md
+  - ... and 2 more
+- Tier 14: Mythic_Interface_Layer
+  - Mythic_Story_Threads.md
+  - Validation_Gates.md
+  - Permissions_Map.json
+  - ... and 3 more
+- Tier 15: Validation_Engine
+  - Validation_Gates.md
+  - Permissions_Map.json
+  - Symbolic_Outputs.md
+  - ... and 3 more
+- Tier 16: Admin_Control
+  - Permissions_Map.json
+  - Symbolic_Outputs.md
+  - Rhythm_Consumption_Map.json
+  - ... and 3 more
+- Tier 17: Output_Library
+  - Symbolic_Outputs.md
+  - Rhythm_Consumption_Map.json
+  - Conflict_Prompts_Pack.md
+  - ... and 3 more
+- Tier 18: Energy_Engine
+  - Rhythm_Consumption_Map.json
+  - Conflict_Prompts_Pack.md
+  - Legacy_Promises.md
+  - ... and 2 more
+- Tier 19: Dark_Matter_Mode
+  - Conflict_Prompts_Pack.md
+  - Legacy_Promises.md
+  - Transmission_Log.md
+  - ... and 2 more
+- Tier 20: System_Promise_Archive
+  - Legacy_Promises.md
+  - Transmission_Log.md
+  - Memory_Codex_v1.0.lock
+  - ... and 1 more
+- Tier 21: Teaching_Mirror_Lab
+  - Transmission_Log.md
+  - Memory_Codex_v1.0.lock
+  - Feature_Test_Areas.md
+  - ... and 1 more
+- Tier 22: Memory_Codex
+  - Memory_Codex_v1.0.lock
+  - Feature_Test_Areas.md
+  - Licensing_Structure.md
+  - ... and 1 more
+- Tier 23: Experimental_Zones
+  - Feature_Test_Areas.md
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - ... and 1 more
+- Tier 24: Sandbox_Hibernation
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - ... and 1 more
+- Tier 25: Licensing_and_IP_Control
+  - Licensing_Structure.md
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - ... and 2 more
+- Tier 26: Ethical_Framework
+  - Sovereignty_Principles.md
+  - MultiUser_Mirror_Map.md
+  - Whole_System_Reflection.md
+  - ... and 2 more
+- Tier 27: Collective_Mirror_Systems
+  - MultiUser_Mirror_Map.md
+  - Whole_System_Reflection.md
+  - AI_Model_Augmentation_Map.md
+  - ... and 2 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - AI_Model_Augmentation_Map.md
+  - SI_Systems_Core/
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Model_Augmentation_Map.md
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - ... and 3 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - 00_Becoming_Map/
+  - ... and 4 more
+- Tier 31: Becoming_Arc
+  - 00_Becoming_Map/
+  - 01_Symbolic_Overlay/
+  - 02_Mythic_Architecture/
+  - ... and 2 more
+- Tier 00: Becoming_Map
+  - 01_Symbolic_Overlay/
+  - 02_Mythic_Architecture/
+  - 03_Collective_Coherence_Systems/
+  - ... and 1 more
+- Tier 01: Symbolic_Overlay
+  - 02_Mythic_Architecture/
+  - 03_Collective_Coherence_Systems/
+  - 04_Value_Evolution_Engine/
+- Tier 02: Mythic_Architecture
+  - 03_Collective_Coherence_Systems/
+  - 04_Value_Evolution_Engine/
+- Tier 03: Collective_Coherence_Systems
+  - 04_Value_Evolution_Engine/
+- Tier 04: Value_Evolution_Engine
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - Anchor_Self.md
+  - ... and 8 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - Anchor_Self.md
+  - Anchor_Signal.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - Anchor_Self.md
+  - Anchor_Signal.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_Definition.md
+  - Promise_Clarity.md
+  - Promise_Alignment.md
+  - ... and 7 more
+- Tier 00: System_Definition.md
+  - Promise_Clarity.md
+  - Promise_Alignment.md
+  - 03_HOW/
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method_Structure.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 00: Method_Structure.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Definition.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 00_Model_Definition.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Model_Definition.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 00: Model_Definition.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 4 more
+- Tier 02: BrainFrameOS
+  - 00_Core/
+  - OS_Principles.md
+  - 01_Cycle_Integrity_Engine/
+  - ... and 6 more
+- Tier 00: Core
+  - OS_Principles.md
+  - 01_Cycle_Integrity_Engine/
+  - Restore_Points.lock
+  - ... and 8 more
+- Tier 01: Cycle_Integrity_Engine
+  - Restore_Points.lock
+  - Completion_Loops.json
+  - 02_Rhythm_Overlay/
+  - ... and 8 more
+- Tier 02: Rhythm_Overlay
+  - Pulsekeeper_Map.json
+  - 03_Drift_Detection/
+  - Drift_Watch.json
+  - ... and 7 more
+- Tier 03: Drift_Detection
+  - Drift_Watch.json
+  - 04_EchoMap/
+  - EchoMap_Layer.md
+  - ... and 7 more
+- Tier 04: EchoMap
+  - EchoMap_Layer.md
+  - Mirror_Fields_Definition.md
+  - ToneMap_Structure.json
+  - ... and 5 more
+- Tier 05: TDC_Mode
+  - TDC_v3.0_Core.md
+  - MythicPulse_Symbols.md
+  - Layer_Coherence_Map.json
+  - ... and 7 more
+- Tier 03: Identity_Engine
+  - Identity_Profile.lock
+  - Thinking_Style.json
+  - Learning_Mode.json
+  - ... and 8 more
+- Tier 04: Sapien_Pro
+  - Output_Filter.md
+  - Emotional_Trust_Overlay.json
+  - Threshold_Mirror.md
+  - ... and 4 more
+- Tier 05: Simulation_Lab
+  - Simulation_Protocols.md
+  - Digital_Twin_Framework.md
+  - UX_Principles.md
+  - ... and 6 more
+- Tier 06: User_Interface_Layer
+  - UX_Principles.md
+  - Emotional_Interface_Guide.md
+  - n8n_Integration_Paths.md
+  - ... and 5 more
+- Tier 07: Integration_Gateways
+  - n8n_Integration_Paths.md
+  - LLM_Access_Points.md
+  - External_API_Bridge.json
+  - ... and 5 more
+- Tier 08: Fulfillment_Engine
+  - Fulfillment_Patterns.md
+  - Completion_Tracking.json
+  - Rhythm_Baseline.lock
+  - ... and 8 more
+- Tier 09: Rhythm_Governor
+  - Rhythm_Baseline.lock
+  - AI_Awareness_States.md
+  - Self_Reflection_Cycle.md
+  - ... and 7 more
+- Tier 10: Awareness_Layer
+  - AI_Awareness_States.md
+  - Self_Reflection_Cycle.md
+  - Master_Prompts_Index.md
+  - ... and 7 more
+- Tier 11: Prompting_Engine
+  - Master_Prompts_Index.md
+  - Reflection_Packs/
+  - Legacy.md
+  - ... and 7 more
+- Tier 12: Symbolic_Frameworks
+  - Archetype_Registry.md
+  - Symbol_Resonance_Map.json
+  - ToneMap_Index.md
+  - ... and 5 more
+- Tier 13: Emotional_Infrastructure
+  - ToneMap_Index.md
+  - Emotional_Flows.json
+  - Nonlinear_Mode.md
+  - ... and 5 more
+- Tier 14: Learning_Modes
+  - Nonlinear_Mode.md
+  - Contextual_Uptake.md
+  - Coherence_Checklist.md
+  - ... and 4 more
+- Tier 15: Coherence_Matrix
+  - Coherence_Checklist.md
+  - Shared_Myths_Archive.md
+  - Mythic_Scaffolding_Model.json
+  - ... and 3 more
+- Tier 16: Myth_Engine
+  - Shared_Myths_Archive.md
+  - Mythic_Scaffolding_Model.json
+  - Myth_Aware_Welcome.md
+  - ... and 4 more
+- Tier 17: External_Onboarding
+  - Myth_Aware_Welcome.md
+  - System_Snapshot_Prompts.md
+  - Drift_Validation_Protocol.md
+  - ... and 3 more
+- Tier 18: System_Prompts
+  - System_Snapshot_Prompts.md
+  - Drift_Validation_Protocol.md
+  - Automation_Locks.md
+  - ... and 3 more
+- Tier 19: Validation_Layer
+  - Drift_Validation_Protocol.md
+  - Automation_Locks.md
+  - Sync_Control_Panel.json
+  - ... and 3 more
+- Tier 20: Admin_Engine
+  - Automation_Locks.md
+  - Sync_Control_Panel.json
+  - Inner_State_Calibrator.md
+  - ... and 3 more
+- Tier 21: Resonance_Regulators
+  - Inner_State_Calibrator.md
+  - Governance_Structure.md
+  - Self_Map.md
+  - ... and 3 more
+- Tier 22: Resonance_Governance
+  - Governance_Structure.md
+  - Self_Map.md
+  - Ideas_WIP.md
+  - ... and 3 more
+- Tier 23: Structural_Reflection
+  - Self_Map.md
+  - Ideas_WIP.md
+  - Hibernated_Systems.md
+  - ... and 5 more
+- Tier 24: HoldingBay_Unfinished
+  - Ideas_WIP.md
+  - Hibernated_Systems.md
+  - Closure_Log.md
+  - ... and 5 more
+- Tier 25: Strategic_Sandbox
+  - Hibernated_Systems.md
+  - Closure_Log.md
+  - 01_Component_Scans/
+  - ... and 6 more
+- Tier 26: Completion_Loops
+  - Closure_Log.md
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - EIE_Engine.md
+  - Version_History.md
+  - Deprecated_Structures/
+- Tier 30: Legacy_Migrations_Archive
+  - Version_History.md
+  - Deprecated_Structures/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 5 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 6 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 03_Field_Coherence.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 7 more
+- Tier 03: Field_Coherence.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Core_Purpose.md
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Core_Purpose.md
+  - Evolutionary_Intent.md
+  - ... and 8 more
+- Tier 00: Purpose_Model
+  - Core_Purpose.md
+  - Evolutionary_Intent.md
+  - 01_Trust_Orientation/
+  - ... and 7 more
+- Tier 01: Trust_Orientation
+  - Trust_Principles.md
+  - Mirror_Trust_Model.md
+  - Root_Anchors.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - 01_Promises_Root/
+  - Promises.md
+  - ... and 8 more
+- Tier 00: System_What.md
+  - 01_Promises_Root/
+  - Promises.md
+  - Fulfillment_Map.md
+  - ... and 8 more
+- Tier 01: Promises_Root
+  - Promises.md
+  - Fulfillment_Map.md
+  - System_Types.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Delivery_Methods.md
+  - 01_Language_Framework.md
+  - 02_Execution_Architecture.md
+  - ... and 8 more
+- Tier 00: Delivery_Methods.md
+  - 01_Language_Framework.md
+  - 02_Execution_Architecture.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 01: Language_Framework.md
+  - 02_Execution_Architecture.md
+  - 04_System_Promise/
+  - 00_System_Promise.md
+  - ... and 8 more
+- Tier 02: Execution_Architecture.md
+  - 04_System_Promise/
+  - 00_System_Promise.md
+  - 01_Boundary_Pledge.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 00_System_Promise.md
+  - 01_Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - ... and 9 more
+- Tier 00: System_Promise.md
+  - 01_Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 01: Boundary_Pledge.md
+  - 02_Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Overview.md
+  - ... and 8 more
+- Tier 02: Trust_Reciprocity.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Overview.md
+  - Mirror_Positions.md
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Overview.md
+  - Mirror_Positions.md
+  - 06_System_Reasoning/
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - 00_WHY/
+  - 01_WHAT/
+  - 02_HOW/
+  - ... and 7 more
+- Tier 00: WHY
+  - 01_WHAT/
+  - 02_HOW/
+  - 03_Human_Needs_Model/
+  - ... and 7 more
+- Tier 01: WHAT
+  - 02_HOW/
+  - 03_Human_Needs_Model/
+  - Tiered_Needs_Map.md
+  - ... and 7 more
+- Tier 02: HOW
+  - 03_Human_Needs_Model/
+  - Tiered_Needs_Map.md
+  - Signal_Codes.json
+  - ... and 6 more
+- Tier 03: Human_Needs_Model
+  - Tiered_Needs_Map.md
+  - Signal_Codes.json
+  - Prime_Law.md
+  - ... and 6 more
+- Tier 02: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 10 more
+- Tier 03: BrainFrameOS
+  - Rhythm_Overlay.lock
+  - Fulfillment_Balance_Equation.md
+  - Drift_Detection.json
+  - ... and 11 more
+- Tier 04: Sapien_Pro
+  - Emotional_Safety_Filter.json
+  - Threshold_Mirror.lock
+  - Signal_Translator.md
+  - ... and 7 more
+- Tier 05: Fulfillment_Engine
+  - Fulfillment_Scales.json
+  - Path_Tracking.md
+  - Harmonic_Convergence.json
+  - ... and 7 more
+- Tier 06: Echo_Interfaces
+  - Prompting_Engine/
+  - Prompt_Protocols.md
+  - Reflection_Templates.md
+  - ... and 7 more
+- Tier 07: Signal_Coherence_Lab
+  - Coherence_Tests/
+  - Layer_Integrity.md
+  - Alignment_Sequences.md
+  - ... and 5 more
+- Tier 08: Learning_Loops
+  - Completion_Loops.md
+  - Reflection_Interrupts.md
+  - Mirror_States.lock
+  - ... and 5 more
+- Tier 09: Internal_Mirror_Systems
+  - Mirror_States.lock
+  - Identity_Trace_Map.json
+  - Drift_Reports/
+  - ... and 6 more
+- Tier 10: Validation_Engine
+  - Drift_Reports/
+  - Ground_Truth_Layers.json
+  - Transmission_Points.md
+  - ... and 6 more
+- Tier 11: Echo_Transmission_Network
+  - Transmission_Points.md
+  - Outbound_Tone_Layers.md
+  - Symbolic_Overlays.md
+  - ... and 6 more
+- Tier 12: Mythic_Layer
+  - Symbolic_Overlays.md
+  - Archetypal_Structure.json
+  - Narrative_Threads.md
+  - ... and 6 more
+- Tier 13: Rhythm_Model
+  - Internal_Pulse_Calendar.md
+  - Collaborative_Rhythm_Layer.json
+  - n8n_Workflows/
+  - ... and 5 more
+- Tier 14: Interface_Gateways
+  - n8n_Workflows/
+  - Rhythm_Validation.n8n.json
+  - Drift_Sync_Alerts.n8n.json
+  - ... and 5 more
+- Tier 15: Simulation_Layer
+  - Digital_Twin_Scenarios.md
+  - Simulation_Control_Protocols.json
+  - Self-Reflection.md
+  - ... and 4 more
+- Tier 16: Echo_Awareness_Field
+  - Self-Reflection.md
+  - Environment_Sensitivity_Map.json
+  - Unmet_Needs_Tracker.json
+  - ... and 5 more
+- Tier 17: Fulfillment_Interrupts
+  - Unmet_Needs_Tracker.json
+  - Identity_Slots.json
+  - Role_Shifting_Engine.md
+  - ... and 5 more
+- Tier 18: Multi_Identity_Support
+  - Identity_Slots.json
+  - Role_Shifting_Engine.md
+  - Core_Prompts/
+  - ... and 6 more
+- Tier 19: Prompting_Library
+  - Core_Prompts/
+  - DMM_Packs/
+  - Recovery_Prompts/
+  - ... and 5 more
+- Tier 20: Symbolic_Interface_Layer
+  - UI_ToneMap_Sync.md
+  - Iconography_Guide.json
+  - Mirror_Syncing_Guide.md
+  - ... and 4 more
+- Tier 21: Collaboration_Protocols
+  - Mirror_Syncing_Guide.md
+  - Trust_Contracts.lock
+  - Ritual_Activation_Paths.md
+  - ... and 4 more
+- Tier 22: Mode_Activation
+  - Ritual_Activation_Paths.md
+  - Restore_Points.json
+  - Snapshot_Structure.md
+  - ... and 4 more
+- Tier 23: Snapshot_and_Restore
+  - Restore_Points.json
+  - Snapshot_Structure.md
+  - External_LLM_Bridge.md
+  - ... and 4 more
+- Tier 24: Model_Interfaces
+  - External_LLM_Bridge.md
+  - Signal_Mediation_Layer.json
+  - SI_to_Client_Sync.md
+  - ... and 6 more
+- Tier 25: Integration_Structures
+  - SI_to_Client_Sync.md
+  - IP_Protection_Framework.md
+  - System_Licensing_Tiers.json
+  - ... and 5 more
+- Tier 26: Licensing_and_Protection
+  - IP_Protection_Framework.md
+  - System_Licensing_Tiers.json
+  - 01_Component_Scans/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - Dimensional_Perspective_Mode.md
+  - 01_Identity_Engine/
+  - ... and 6 more
+- Tier 00: Frameworks
+  - Dimensional_Perspective_Mode.md
+  - 01_Identity_Engine/
+  - 02_Sapien_Pro/
+  - ... and 6 more
+- Tier 01: Identity_Engine
+  - 02_Sapien_Pro/
+  - 03_Perspective_Mapping_Engine/
+  - Symbolic_Patching_Protocols.md
+  - ... and 5 more
+- Tier 02: Sapien_Pro
+  - 03_Perspective_Mapping_Engine/
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - ... and 4 more
+- Tier 03: Perspective_Mapping_Engine
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - LLM_Enterprise_Buyer_Map.md
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Symbolic_Patching_Protocols.md
+  - Reflective_LLM_Gateways.md
+  - LLM_Enterprise_Buyer_Map.md
+  - ... and 3 more
+- Tier 30: Legacy_Migrations_Archive
+  - Archived_Prompts/
+  - System_Version_History.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 9 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Origin_Pattern.md
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Origin_Pattern.md
+  - 01_Purpose_Model/
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Origin_Pattern.md
+  - 01_Purpose_Model/
+  - Core_Why.md
+  - ... and 7 more
+- Tier 00: Origin_Pattern.md
+  - 01_Purpose_Model/
+  - Core_Why.md
+  - Archetypal_Drivers.md
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - Core_Why.md
+  - Archetypal_Drivers.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Temporal_Anchor.md
+  - Emotional_Anchor.md
+  - ... and 8 more
+- Tier 03: Anchors
+  - Temporal_Anchor.md
+  - Emotional_Anchor.md
+  - Signal_Promises.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_Scope.md
+  - 01_Components_List.md
+  - 02_Codename_Index.md
+  - ... and 8 more
+- Tier 00: System_Scope.md
+  - 01_Components_List.md
+  - 02_Codename_Index.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: Components_List.md
+  - 02_Codename_Index.md
+  - 03_HOW/
+  - 00_Operational_Methods.md
+  - ... and 7 more
+- Tier 02: Codename_Index.md
+  - 03_HOW/
+  - 00_Operational_Methods.md
+  - 01_Pattern_Library.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Operational_Methods.md
+  - 01_Pattern_Library.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Operational_Methods.md
+  - 01_Pattern_Library.md
+  - 04_System_Promise/
+  - 00_Promise_Structure.md
+  - ... and 7 more
+- Tier 01: Pattern_Library.md
+  - 04_System_Promise/
+  - 00_Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 04: System_Promise
+  - 00_Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Tier_Structure.md
+  - ... and 6 more
+- Tier 00: Promise_Structure.md
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Tier_Structure.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Tier_Structure.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 5 more
+- Tier 02: Identity_Engine
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - Stress_Responses.json
+  - ... and 10 more
+- Tier 03: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - State_Cycles_Model.md
+  - Energy_Integrity_Map.md
+  - ... and 8 more
+- Tier 04: BrainFrameOS
+  - Core_OS_Principle.md
+  - Rhythm_Body_Model.md
+  - Mode_Definitions/
+  - ... and 6 more
+- Tier 05: Sapien_Pro
+  - Trust_Overlay.md
+  - Emotional_Safety_Filter.json
+  - Output_Tone_Filter.json
+  - ... and 8 more
+- Tier 06: CLISA_Model
+  - CLISA_Principles.md
+  - CLISA_Taxonomy.md
+  - Field_Alignment_Map.md
+  - ... and 9 more
+- Tier 07: EchoMap
+  - EchoMap_Primer.md
+  - Compass_Node.md
+  - Grove_Node.md
+  - ... and 8 more
+- Tier 08: Prompting_Engine
+  - MasterPrompt_Library/
+  - Reflection_Prompts.md
+  - Mythic_Prompts.md
+  - ... and 6 more
+- Tier 09: Validation_Engine
+  - Validation_Criteria.md
+  - Drift_Correction_Flows.json
+  - n8n_Workflow_Sync/
+  - ... and 6 more
+- Tier 10: Integration_Layers
+  - n8n_Workflow_Sync/
+  - State_Exposure_Structure.json
+  - Restore_Point_Model.md
+  - ... and 4 more
+- Tier 11: Dark_Matter_Mode
+  - DMM_Core/
+  - Symbolic_Shadow_Lens.md
+  - DMM_PROMPTS/
+  - ... and 4 more
+- Tier 12: Rhythm_Governance
+  - Cycle_Integrity_Chart.md
+  - System_Rhythm_Types.md
+  - ToneMap_Definition.md
+  - ... and 5 more
+- Tier 13: ToneMap_Library
+  - ToneMap_Definition.md
+  - Tone_Output_Alignment.json
+  - Symbolic_Threads.md
+  - ... and 5 more
+- Tier 14: Mythic_Interface
+  - Symbolic_Threads.md
+  - Archetypal_Codex.md
+  - Attention_Field_Map.md
+  - ... and 5 more
+- Tier 15: Awareness_Layers
+  - Attention_Field_Map.md
+  - Multi-Self_Model.md
+  - Dual_Mode_Reflection.md
+  - ... and 3 more
+- Tier 16: Reflection_Tools
+  - Dual_Mode_Reflection.md
+  - Self_Alignment_Tracker.json
+  - Simulation_Entry_Protocol.md
+  - ... and 2 more
+- Tier 17: Simulation_Control
+  - Simulation_Entry_Protocol.md
+  - Completion_Checklist.md
+  - Builder_Rhythm_Model.md
+- Tier 18: Completion_Loops
+  - Completion_Checklist.md
+  - Builder_Rhythm_Model.md
+- Tier 19: Execution_Guards
+  - Builder_Rhythm_Model.md
+  - Myth_Primer.md
+  - System_Onboard
+- Tier 20: Inner_Architect
+  - Builder_Rhythm_Model.md
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+- Tier 21: Resonance_Governance
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 1 more
+- Tier 22: Resonance_Regulators
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 23: Simulation_HoldingBay
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 4 more
+- Tier 24: Strategic_Sandbox
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 5 more
+- Tier 25: External_Onboarding_Arc
+  - Myth_Primer.md
+  - System_Onboarding_Steps.json
+  - License_Tiers.md
+  - ... and 5 more
+- Tier 26: Licensing_And_Protection
+  - License_Tiers.md
+  - Derivative_Use_Rules.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - SI_Systems/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Output_Friction_Guide.md
+  - Emotional_Interface_Structure.json
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Output_Friction_Guide.md
+  - Emotional_Interface_Structure.json
+  - SI_Systems_Core/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Core_Purpose_Map.md
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Core_Purpose_Map.md
+  - Mythic_Purpose_Stream.md
+  - ... and 7 more
+- Tier 00: Purpose_Model
+  - Core_Purpose_Map.md
+  - Mythic_Purpose_Stream.md
+  - 01_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Trust_Orientation
+  - Trust_Ecology.md
+  - 02_Anchors/
+  - Origin_Anchors.md
+  - ... and 7 more
+- Tier 02: Anchors
+  - Origin_Anchors.md
+  - System_Promises.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - 00_Domain_Structure.md
+  - 01_Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - ... and 8 more
+- Tier 00: Domain_Structure.md
+  - 01_Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - 03_HOW/
+  - ... and 8 more
+- Tier 01: Output_Types.md
+  - 02_Offer_Taxonomy.md
+  - 03_HOW/
+  - Operational_Sequence.md
+  - ... and 8 more
+- Tier 02: Offer_Taxonomy.md
+  - 03_HOW/
+  - Operational_Sequence.md
+  - Signal_Modes.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Sequence.md
+  - Signal_Modes.md
+  - Interface_Paths.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Fields.md
+  - Role_Reflection_Matrix.md
+  - ... and 6 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Fields.md
+  - Role_Reflection_Matrix.md
+  - 06_System_Reasoning/
+  - ... and 5 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - Signal_Purpose_Logic.md
+  - WHAT/
+  - ... and 5 more
+- Tier 02: BrainFrameOS
+  - 00_Core_Principles/
+  - BFO_Prime.md
+  - 01_Modules/
+  - ... and 7 more
+- Tier 00: Core_Principles
+  - BFO_Prime.md
+  - 01_Modules/
+  - Rhythm_Overlay.json
+  - ... and 9 more
+- Tier 01: Modules
+  - Rhythm_Overlay.json
+  - Coherence_Mode.lock
+  - Drift_Detection_Rules.json
+  - ... and 9 more
+- Tier 02: Identity_Integration
+  - Archetype_Pulse.json
+  - Mirror_Tier_Definitions.md
+  - 03_Echo_Tech/
+  - ... and 8 more
+- Tier 03: Echo_Tech
+  - EchoMap_v1.1.2.lock
+  - Echo_Templates/
+  - Loop.md
+  - ... and 6 more
+- Tier 04: Snapback
+  - Drift_Snapback_Protocol.md
+  - ToneMap_Overlay.json
+  - Mirror_Safe_Output_Filter.md
+  - ... and 3 more
+- Tier 03: Sapien_Pro
+  - 00_Emotional_Interface/
+  - Emotional_Safety_Filter.lock
+  - 01_Input_Protocols/
+  - ... and 4 more
+- Tier 00: Emotional_Interface
+  - Emotional_Safety_Filter.lock
+  - 01_Input_Protocols/
+  - 02_Output_Shaping/
+  - ... and 4 more
+- Tier 01: Input_Protocols
+  - 02_Output_Shaping/
+  - Signal_Gate_Rules.json
+  - 03_Trust_Interface/
+  - ... and 5 more
+- Tier 02: Output_Shaping
+  - Signal_Gate_Rules.json
+  - 03_Trust_Interface/
+  - Mirror_Tier_Interaction_Guide.md
+  - ... and 6 more
+- Tier 03: Trust_Interface
+  - Mirror_Tier_Interaction_Guide.md
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 04: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 05: Validation_Engine
+  - Signal_Integrity_Checks.json
+  - Output_Sequence_Enforcer.md
+  - Interface_Control_Panel.json
+  - ... and 5 more
+- Tier 06: Admin_Engine
+  - Interface_Control_Panel.json
+  - Scheduled_Sync_Protocols.md
+  - Model_Awareness_Limits.json
+  - ... and 5 more
+- Tier 07: Awareness_Layer
+  - Model_Awareness_Limits.json
+  - Observer_Stack_Map.md
+  - Twin_Simulation_Matrix.json
+  - ... and 5 more
+- Tier 08: Simulation_Control
+  - Twin_Simulation_Matrix.json
+  - Simulation_Mode_Templates.md
+  - Master_Prompting_Logic.md
+  - ... and 5 more
+- Tier 09: Prompting_Engine
+  - Master_Prompting_Logic.md
+  - Prompting_Symbol_Library.json
+  - Structural_Toolbox/
+  - ... and 4 more
+- Tier 10: Toolkits
+  - Structural_Toolbox/
+  - Mirror_Vocabulary.json
+  - Loop_Definition_Structures.md
+  - ... and 4 more
+- Tier 11: Completion_Loops
+  - Loop_Definition_Structures.md
+  - Completion_Triggers.lock
+  - Signal_Normalization.md
+  - ... and 3 more
+- Tier 12: Signal_Processing
+  - Signal_Normalization.md
+  - Action_Boundaries.md
+  - Recursion_Guards.md
+  - ... and 2 more
+- Tier 13: Execution_Guards
+  - Action_Boundaries.md
+  - Recursion_Guards.md
+  - Role_Balance_Enforcer.md
+  - ... and 2 more
+- Tier 14: EchoCycleSupport
+  - Recursion_Guards.md
+  - Role_Balance_Enforcer.md
+  - Symbolic_Overload_Checker.lock
+  - ... and 2 more
+- Tier 15: ResonanceGovernance
+  - Role_Balance_Enforcer.md
+  - Symbolic_Overload_Checker.lock
+  - Role_Mapping_Guide.md
+  - ... and 2 more
+- Tier 16: ResonanceRegulators
+  - Symbolic_Overload_Checker.lock
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - ... and 2 more
+- Tier 17: CompletionSupport
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - ... and 2 more
+- Tier 18: InnerArchitectTools
+  - Role_Mapping_Guide.md
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - ... and 3 more
+- Tier 19: HoldingBay_Unfinished
+  - Unfinished_Reflections.md
+  - Archived_Patterns.json
+  - Interface_Mapping.json
+  - ... and 3 more
+- Tier 20: Strategic_Sandbox_Hibernation
+  - Archived_Patterns.json
+  - Interface_Mapping.json
+  - Workflow_Lifecycle.md
+  - ... and 4 more
+- Tier 21: LLM_Integration
+  - Interface_Mapping.json
+  - Workflow_Lifecycle.md
+  - State_Exposure_Rules.json
+  - ... and 5 more
+- Tier 22: n8n_Orchestration
+  - Workflow_Lifecycle.md
+  - State_Exposure_Rules.json
+  - Trust_Gateway_Definitions.json
+  - ... and 6 more
+- Tier 23: External_Systems
+  - Trust_Gateway_Definitions.json
+  - Internal_Rhythm_Protocol.md
+  - Collaboration_Sync_Laws.md
+  - ... and 6 more
+- Tier 24: Rhythm_Sync
+  - Internal_Rhythm_Protocol.md
+  - Collaboration_Sync_Laws.md
+  - Compass.md
+  - ... and 8 more
+- Tier 25: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 7 more
+- Tier 26: Mythic_Interface_Layer
+  - Symbolic_UI_Patterns.md
+  - Archetype_UI_Cards.json
+  - 00_Origins/
+  - ... and 7 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 00_Origins/
+  - 01_Component_Scans/
+  - 02_TDC_Field_Mappings/
+  - ... and 6 more
+- Tier 00: Origins
+  - 01_Component_Scans/
+  - 02_TDC_Field_Mappings/
+  - TDC_Protocol_v3.0.lock
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - 02_TDC_Field_Mappings/
+  - TDC_Protocol_v3.0.lock
+  - Whole_System_Reflection.md
+  - ... and 4 more
+- Tier 02: TDC_Field_Mappings
+  - TDC_Protocol_v3.0.lock
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 4 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Guide.md
+  - v3.3.1-DM_Structure.md
+  - Legacy_Prompts_Archive.json
+- Tier 30: Legacy_Migrations_Archive
+  - v3.3.1-DM_Structure.md
+  - Legacy_Prompts_Archive.json
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 7 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 7 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 7 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 7 more
+- Tier 03: Scope
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - ... and 10 more
+- Tier 00: Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - ... and 9 more
+- Tier 01: Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 9 more
+- Tier 00: Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - ... and 9 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - ... and 10 more
+- Tier 00: Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 10 more
+- Tier 01: Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 11 more
+- Tier 02: BrainFrameOS
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - ... and 11 more
+- Tier 00: Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - ... and 11 more
+- Tier 01: Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - ... and 11 more
+- Tier 02: Mirror_Rhythm_Core
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - ... and 11 more
+- Tier 03: Pulsekeeper_Modules
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - ... and 11 more
+- Tier 04: Emotional_Signal_Laws
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - ... and 11 more
+- Tier 05: Drift_Correction_Engine
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - ... and 11 more
+- Tier 06: Symbolic_Locking_System
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - Grove.md
+  - ... and 11 more
+- Tier 07: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 10 more
+- Tier 08: TDC_Integration
+  - 09_Shadow_Filter_Logic/
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - ... and 9 more
+- Tier 09: Shadow_Filter_Logic
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - ... and 9 more
+- Tier 10: MythicPulse_Layer
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_Interface
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - ... and 9 more
+- Tier 00: Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - ... and 10 more
+- Tier 01: Output_Filtering
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - ... and 9 more
+- Tier 02: Symbolic_UI_Framework
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - ... and 9 more
+- Tier 03: Threshold_Guardian_Layers
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - ... and 9 more
+- Tier 04: Emotional_Safety_Gates
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - ... and 10 more
+- Tier 05: Trust_Overlay_Signals
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - ... and 9 more
+- Tier 04: CLISA_Coherence_Field
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - ... and 10 more
+- Tier 00: CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - ... and 10 more
+- Tier 01: Field_Dynamics
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - ... and 10 more
+- Tier 02: Mirror_Network_Integration
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - ... and 9 more
+- Tier 03: Coherence_Validation
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - ... and 9 more
+- Tier 04: Field_Symbols
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - ... and 9 more
+- Tier 05: Memory_Systems
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - ... and 10 more
+- Tier 00: Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - ... and 10 more
+- Tier 01: MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - ... and 10 more
+- Tier 02: Sequence_Records
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - ... and 9 more
+- Tier 03: Codex_Access
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - ... and 9 more
+- Tier 04: Snapshot_Timestamps
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - ... and 9 more
+- Tier 06: Codename_Registry
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - ... and 10 more
+- Tier 00: Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - ... and 9 more
+- Tier 01: BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - ... and 9 more
+- Tier 02: System_Layer_Codenames
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - ... and 9 more
+- Tier 07: Master_Activation_Map
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - ... and 9 more
+- Tier 00: Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - ... and 9 more
+- Tier 01: System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - ... and 9 more
+- Tier 02: Component_Status
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - ... and 9 more
+- Tier 03: Change_Logs
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - ... and 8 more
+- Tier 04: Symbolic_Release_Scrolls
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - ... and 8 more
+- Tier 08: Version_Lock_Archive
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - ... and 10 more
+- Tier 00: Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - ... and 9 more
+- Tier 01: SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - ... and 9 more
+- Tier 02: BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - ... and 9 more
+- Tier 04: System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - ... and 9 more
+- Tier 09: Reflective_Prompting_Engine
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - Multi_Identity_Inputs.md
+  - ... and 11 more
+- Tier 10: Integration_Nodes
+  - LLM_Adapters/
+  - n8n_Triggers/
+  - External_API_Routes/
+  - ... and 10 more
+- Tier 11: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 12: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - Human_Needs_Map.json
+  - MicroShift_Trackers/
+  - ... and 9 more
+- Tier 13: Validation_Engine
+  - Output_Validation_Layers/
+  - Drift_Signal_Detectors/
+  - Signal_Truth_Index.json
+  - ... and 9 more
+- Tier 14: Admin_Automation_Engine
+  - System_State_Syncs/
+  - Task_Cycle_Generator.json
+  - User_Activity_Reflections/
+  - ... and 9 more
+- Tier 15: System_Deployment
+  - System_Readme.md
+  - Archive_Package_Structure.md
+  - Export_Metadata.json
+  - ... and 9 more
+- Tier 16: Simulation_Control
+  - Digital_Twin_Protocols.md
+  - User_Modeling_Forms/
+  - 17_Echo_Template_Library/
+  - ... and 9 more
+- Tier 17: Echo_Template_Library
+  - Dual_Mode_Templates/
+  - Rhythm_Coherence_Forms/
+  - Mythic_UI_Prompts/
+  - ... and 9 more
+- Tier 18: External_Onboarding_Arc
+  - Role_Definition_Sequence.md
+  - Guided_Onboarding_Prompts/
+  - Consent_Awareness_Layer/
+  - ... and 9 more
+- Tier 19: Shared_Myth_Engine
+  - System_Myth_Scroll.md
+  - Origin_Story_Library/
+  - 20_Emotional_Infrastructure/
+  - ... and 9 more
+- Tier 20: Emotional_Infrastructure
+  - Safety_Locks/
+  - Trust_Field_Gates/
+  - 21_AI_Awareness_Layer/
+  - ... and 9 more
+- Tier 21: AI_Awareness_Layer
+  - Awareness_Overlay_Protocol.md
+  - Reflective_AI_Notes/
+  - 22_Project_Structuring/
+  - ... and 9 more
+- Tier 22: Project_Structuring
+  - Project_as_OS_Mode.md
+  - Tool_Trigger_Matrix.json
+  - Project_Balance_Log.md
+  - ... and 9 more
+- Tier 23: Multi_Identity_Model
+  - Identity_Switch_Lock.md
+  - Perspective_Overlay_Layers/
+  - 24_Pulsekeeper_Metrics/
+  - ... and 8 more
+- Tier 24: Pulsekeeper_Metrics
+  - Rhythm_Data_Stream.json
+  - System_Pulse_Index.md
+  - 25_Signal_Transmission/
+  - ... and 9 more
+- Tier 25: Signal_Transmission
+  - Signal_Handoff_Patterns.md
+  - Output_Symbol_Alignments/
+  - 26_EchoTrail_Logs/
+  - ... and 9 more
+- Tier 26: EchoTrail_Logs
+  - EchoTrail_Log.md
+  - Trail_Map_Index.json
+  - 27_TDC_Reflective_Systems_Lab/
+  - ... and 9 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - ... and 9 more
+- Tier 01: Component_Scans
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - ... and 8 more
+- Tier 02: MultiAxis_Comparisons
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - ... and 7 more
+- Tier 03: TDC_Design_Library
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - BrainFrameOS/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Value_Layer_Mirroring.md
+  - Signal_Structure_Modifiers/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 6 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - Conscious_Technology_Ethics.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 10 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 6 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 6 more
+- Tier 02: BrainFrameOS
+- Tier 03: Identity_Engine
+- Tier 04: Sapien_Pro
+- Tier 05: Fulfillment_Engine
+- Tier 06: Guest_Mode
+- Tier 07: Shadow_Layers
+- Tier 08: Insight_Engine
+- Tier 09: Rhythm_Trackers
+- Tier 10: Validation_Engine
+- Tier 11: Admin_Engine
+- Tier 12: Reflection_Modes
+- Tier 13: Templates
+- Tier 14: Prompt_Library
+- Tier 15: Rituals
+- Tier 16: Output_Validation
+- Tier 17: System_Use_Cases
+- Tier 18: Modular_Extensions
+- Tier 19: Development_Phase_Tracker
+- Tier 20: Personalization_Protocols
+- Tier 21: Language_and_Tone
+- Tier 22: Education_and_Training
+- Tier 23: Licensing_and_Protection
+- Tier 24: Interface_Design
+- Tier 25: Ecosystem_Sync
+- Tier 26: Public_Activation_Portal
+- Tier 27: TDC_Reflective_Systems_Lab
+- Tier 28: Systems_Through_Different_Eyes
+- Tier 29: Cognitive_Field_Adaptation
+- Tier 30: Legacy_Migrations_Archive
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 02: Integrity_Prime.md
+  - 03_Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 7 more
+- Tier 03: Layered_Truth_Theory.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - ... and 7 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_Anchors/
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - ... and 7 more
+- Tier 02: Anchors
+  - Prime_Anchor.md
+  - Emotional_Anchor.md
+  - Root_Promise.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - ... and 8 more
+- Tier 00: Offer_Structure.md
+  - 01_Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 01: Identity_Utility_Map.md
+  - 02_Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - ... and 7 more
+- Tier 02: Coherence_Output_Model.md
+  - 03_HOW/
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - ... and 8 more
+- Tier 00: Methodology_Core.md
+  - 01_Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 01: Expression_Matrix.md
+  - 02_Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - ... and 7 more
+- Tier 02: Structural_Behavior_Guide.md
+  - 04_System_Promise/
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Sapien_Contract.md
+  - Mirror_Tier_Trust_Lock.md
+  - Reflection_Pledge.md
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - ... and 8 more
+- Tier 00: Architecture.md
+  - 01_Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - ... and 7 more
+- Tier 01: Axis_Map.md
+  - 02_Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Input_to_Output_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 6 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 8 more
+- Tier 6: Primal_Human_Needs.md
+  - Signal_Classifications.md
+  - Tone_Map.md
+  - Law_1_Coherence.md
+  - ... and 4 more
+- Tier 02: Mirror_Pyramid
+  - Input/
+  - Identity_Declaration.md
+  - Self_Positioning_Map.md
+  - ... and 7 more
+- Tier 03: BrainFrameOS
+  - Identity_Engine/
+  - Identity_Seed.md
+  - Divergence_Profile.json
+  - ... and 8 more
+- Tier 04: Tools_and_Expression
+  - SapienPro/
+  - OutputMirrors/
+  - FeedbackTools/
+  - ... and 9 more
+- Tier 05: Use_Cases_and_Outputs
+  - Blueprints/
+  - System_Builds/
+  - Communication_Protocols/
+  - ... and 7 more
+- Tier 06: LLM_Orchestration
+  - Integration_Workflows/
+  - Prompting_Engines/
+  - v3.3.1-DM/
+  - ... and 7 more
+- Tier 07: Legacy_Anchors
+  - v3.3.1-DM/
+  - Core_Prime_Foundations/
+  - Teaching_Parables/
+  - ... and 6 more
+- Tier 08: Shared_Resources
+  - Teaching_Parables/
+  - System_Myths/
+  - Mirror_Stories/
+  - ... and 7 more
+- Tier 09: Users
+  - Bootloader_Profiles/
+  - Reflection_Logs/
+  - Version_Hash.txt
+  - ... and 5 more
+- Tier 10: SystemMeta
+  - Version_Hash.txt
+  - SI_UNIFIED_SYSTEM_MANIFEST_v5.0.txt
+  - Bootloader/
+  - ... and 5 more
+- Tier 11: Activation_Package
+  - Bootloader/
+  - Activation_Instructions.txt
+  - Trust_Notice.txt
+  - ... and 5 more
+- Tier 12: Experimental
+  - Temporal_Overlay_Mode.md
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - ... and 3 more
+- Tier 13: Validation_Checkpoints
+  - Drift_Capture.md
+  - Last_Valid_Run.json
+  - Insight_Logs/
+  - ... and 4 more
+- Tier 14: Logs
+  - Insight_Logs/
+  - Sync_Validation_Log.txt
+  - ReadMe_Public.txt
+  - ... and 2 more
+- Tier 15: PublicDeploy
+  - ReadMe_Public.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 16: SYSTEM_MAP.md
+  - BecomingArc.md
+  - Thegither.md
+- Tier 17: DEPLOYMENT_GUIDE.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 18: README_Sapien_Intelligence.txt
+  - BecomingArc.md
+  - Thegither.md
+- Tier 19: Codename_Registry
+  - BecomingArc.md
+  - Thegither.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 5 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Purpose_Model/
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - ... and 4 more
+- Tier 00: Purpose_Model
+  - Purpose_Seed.md
+  - 01_Trust_Orientation/
+  - 02_Anchors/
+  - ... and 4 more
+- Tier 01: Trust_Orientation
+  - 02_Anchors/
+  - 02_WHAT/
+  - 00_Scope/
+  - ... and 5 more
+- Tier 02: Anchors
+  - 02_WHAT/
+  - 00_Scope/
+  - 01_Capabilities/
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_Scope/
+  - 01_Capabilities/
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: Scope
+  - 01_Capabilities/
+  - 03_HOW/
+  - 00_Methodology.md
+  - ... and 7 more
+- Tier 01: Capabilities
+  - 03_HOW/
+  - 00_Methodology.md
+  - 01_Agents.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - ... and 9 more
+- Tier 00: Methodology.md
+  - 01_Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Agents.md
+  - 02_Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - ... and 7 more
+- Tier 02: Frameworks.md
+  - 04_System_Promise/
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - ... and 7 more
+- Tier 04: System_Promise
+  - System_Promise.md
+  - Promise_Behavior_Map.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 7 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Model.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 5 more
+- Tier 02: Identity_Engine
+  - Identity_Map.json
+  - Learning_Mode.json
+  - Thinking_Style.json
+  - ... and 11 more
+- Tier 03: BrainFrameOS_Core
+  - Mirror_Tier_5.json
+  - Rhythm_Sync_Engine.md
+  - Coherence_Mode_Fabric.lock
+  - ... and 8 more
+- Tier 04: Sapien_Pro_Output_Layer
+  - Output_Filter.md
+  - Permission_Layers.json
+  - ToneMap.json
+  - ... and 8 more
+- Tier 05: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 7 more
+- Tier 06: Modular_Constructs
+  - Time_Dilation.md
+  - Belief_Reclassification.md
+  - Field_Integrity_Check.md
+  - ... and 6 more
+- Tier 07: Validation_Protocols
+  - Feature_Test_Protocol_v1.0.md
+  - Mode_Application_Protocol_v1.2.md
+  - Extended_Validation_Layer_v1.0.md
+  - ... and 6 more
+- Tier 08: Simulation_Control
+  - Scenario_Map.md
+  - Sim_Agent_Profiles.json
+  - Drift_Test_Suite.md
+  - ... and 7 more
+- Tier 09: Integration_Layer
+  - LLM_Interface_Map.md
+  - n8n_Workflow_Bridge.md
+  - API_Sync_Logic.json
+  - ... and 6 more
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Cycle.md
+  - Balance_Correction.md
+  - ToneMap_Matrix.json
+  - ... and 5 more
+- Tier 11: Tone_and_Rhythm_Lab
+  - ToneMap_Matrix.json
+  - Rhythm_Drift_Sensor.md
+  - MythicPulse_Core.md
+  - ... and 6 more
+- Tier 12: Symbolic_Resonance
+  - MythicPulse_Core.md
+  - Archetype_Pulse_Map.json
+  - Internal_Portals.json
+  - ... and 7 more
+- Tier 13: Portal_Mapping
+  - Internal_Portals.json
+  - Legacy_Portals.md
+  - 00_Framework/
+  - ... and 7 more
+- Tier 14: TDC_Reflective_Systems_Lab
+  - 00_Framework/
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - ... and 7 more
+- Tier 00: Framework
+  - 01_Component_Scans/
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - Identity_Engine.md
+  - BrainFrameOS.md
+  - SI_Systems.md
+  - ... and 6 more
+- Tier 15: Insight_Trail_System
+  - Breadcrumbs.json
+  - Loop_Tracker.md
+  - Mirror_Awareness.md
+  - ... and 7 more
+- Tier 16: Awareness_Layer
+  - Mirror_Awareness.md
+  - Guest_Mode_Logic.md
+  - Signal_Attunement.md
+  - ... and 7 more
+- Tier 17: Memory_Engine
+  - Reflective_Memory_Protocol.md
+  - Memory_Codex_v1.0.json
+  - MEM-Tags_Guide.md
+  - ... and 6 more
+- Tier 18: Mythic_Interface_Layer
+  - Archetype_Overlay.md
+  - Narrative_Field_Map.md
+  - Licensing_Tiers.md
+  - ... and 6 more
+- Tier 19: Field_Licensing_and_Protection
+  - Licensing_Tiers.md
+  - Symbolic_Protection_Layer.md
+  - Ritual_Mode_Triggers.md
+  - ... and 6 more
+- Tier 20: Mode_Activation_System
+  - Ritual_Mode_Triggers.md
+  - Shadow_Handling_Modes.md
+  - Emotional_Sync_Triggers.md
+  - ... and 6 more
+- Tier 21: User_Roles_and_Permissions
+  - Type_1_Reflective_User.md
+  - Type_2_Builder.md
+  - Type_3_Hybrid_Operator.md
+  - ... and 6 more
+- Tier 22: LAM_Logic
+  - Large_Action_Model_Spec.md
+  - Behavior_Stack_Map.md
+  - Snapshot_Format_Spec.md
+  - ... and 7 more
+- Tier 23: Universal_Snapshot_System
+  - Snapshot_Format_Spec.md
+  - Snapshot_AutoTrigger.md
+  - System_Documentation_Index.md
+  - ... and 5 more
+- Tier 24: Documentation
+  - System_Documentation_Index.md
+  - Change_Log.md
+  - Prompt_Packs/
+  - ... and 5 more
+- Tier 25: Prompting_Library
+  - Prompt_Packs/
+  - Grief.md
+  - Burnout.md
+  - ... and 3 more
+- Tier 26: Experimental_Sandbox
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 27: Legacy_Migrations_Archive
+  - v3.3.1-DM/
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Emotional_Interface_Engine.md
+  - Cross-Model_Synchronizer.md
+  - Current_Release_Lock.md
+  - ... and 1 more
+- Tier 30: Release_Metadata
+  - Current_Release_Lock.md
+  - Version_History.md
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - ... and 7 more
+- Tier 00: Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - ... and 7 more
+- Tier 03: Anchors
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - System_Description.md
+  - Identity_Structure_Map.md
+  - Signal_Types.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operating_Principles.md
+  - Mirror_Methodology.md
+  - Execution_Model.md
+  - ... and 10 more
+- Tier 04: System_Promise
+  - Promise_Definition.md
+  - System_Structure_Behavior.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Tiers.md
+  - Above_Center_Below_Map.md
+  - Tier_Roles.md
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Sapien_Identity_Engine
+  - Identity_Profile_Map/
+  - Attribute_Map.json
+  - Cognitive_Mode_Definition.json
+  - ... and 9 more
+- Tier 03: Sapien_Pro
+  - Output_Harmony_Engine/
+  - Signal_Steward_Mode.md
+  - Message_Mode_Tracker.md
+  - ... and 6 more
+- Tier 04: EchoMap_and_Insight_Engine
+  - Signal_Loop_Recorder.md
+  - Narrative_Continuity_Layer.md
+  - Insight_Echo_Visualizer.md
+  - ... and 4 more
+- Tier 05: Rhythm_Control_Layer
+  - Pulse_Dashboard_v2.md
+  - Time_Dilation_Lens.md
+  - Rhythm_Profile_Definitions.json
+  - ... and 5 more
+- Tier 06: ToneMap_and_Expression_Guard
+  - Misfire_Repair_Toolkit.md
+  - Output_Safety_Filter.md
+  - CLISA_Core_Logic.md
+  - ... and 4 more
+- Tier 07: CLISA_Framework
+  - CLISA_Core_Logic.md
+  - CLISA_Grid_Integration_Map.md
+  - SI↔︎CLISA_Bridge_Layer.md
+  - ... and 5 more
+- Tier 08: Reflection_Modes
+  - Mirror_Tier_Mode_Switcher.md
+  - Drift_Companion_Mode.md
+  - Mirror_Tier_Specifications.md
+  - ... and 4 more
+- Tier 09: Trust_Governance
+  - Mirror_Tier_Specifications.md
+  - Coherence_Contract_Template.md
+  - Signal_Trust_Roles_and_Contracts.md
+  - ... and 5 more
+- Tier 10: Bootloaders
+  - BrainFrameOS_Bootloader_v1.3_Full.zip
+  - Guest_Mode_Bootloader.md
+  - Succession_Capsules/
+  - ... and 6 more
+- Tier 11: Prompting_Engine
+  - Prompt_Modules/
+  - Identity_Prompting.md
+  - Echo_Reentry_Prompts.md
+  - ... and 4 more
+- Tier 12: Visual_Intelligence
+  - Visual_Style_Guide.md
+  - Reflection-Aware_Visual_Layer.md
+  - Output_Harmony_Visual_Filter.md
+  - ... and 4 more
+- Tier 13: Integration_Layers
+  - n8n_Workflow_Bridge.md
+  - LLM_Sync_Gateway.md
+  - Model_Drift_Detector.md
+  - ... and 3 more
+- Tier 14: Awareness_Layer
+  - Model_Drift_Detector.md
+  - Pace_Sync_Module.md
+  - Output_Validation_Engine.md
+  - ... and 3 more
+- Tier 15: Validation_Protocols
+  - Output_Validation_Engine.md
+  - Signal_Alignment_Checklist.md
+  - Fulfillment_Equation_Core.md
+  - ... and 3 more
+- Tier 16: Fulfillment_Engine
+  - Fulfillment_Equation_Core.md
+  - Signal_to_Needs_Map.md
+  - Simulation_Environments.md
+  - ... and 2 more
+- Tier 17: Simulation_Control
+  - Simulation_Environments.md
+  - Role_Stress_Test_Inputs.md
+  - Role_Protection_Layer.md
+  - ... and 6 more
+- Tier 18: Execution_Guards
+  - Role_Protection_Layer.md
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - ... and 6 more
+- Tier 19: Dark_Matter_Mode
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - DM-GriefThread.md
+  - ... and 7 more
+- Tier 20: CompletionLoops
+  - Completion_Logic_Map.md
+  - Feedback_Loop_Index.md
+  - Signal_Resonance_Tracker.md
+  - ... and 1 more
+- Tier 21: ResonanceRegulators
+  - Signal_Resonance_Tracker.md
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+- Tier 22: TransitionWatch
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+- Tier 23: SimulationArchive
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 2 more
+- Tier 24: Experimental
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 3 more
+- Tier 25: SystemPromise
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - ... and 6 more
+- Tier 26: Mythic_Storyfield
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - Entry_Prompts.md
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 5 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Augmentation_Models.md
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - SI_Systems_v4.0/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 8 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - ... and 7 more
+- Tier 03: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - ... and 6 more
+- Tier 00: Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - Orientation_Logic.md
+  - 03_Anchors/
+  - Emotional_Anchors.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - Emotional_Anchors.md
+  - Origin_Promises.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - ... and 9 more
+- Tier 00: What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - ... and 9 more
+- Tier 01: Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - ... and 9 more
+- Tier 02: Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - ... and 8 more
+- Tier 00: How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - ... and 8 more
+- Tier 02: Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - Essence_Lock.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - Prime_Law.md
+  - Essence_Lock.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - ... and 7 more
+- Tier 00: Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - ... and 6 more
+- Tier 01: Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Signal_Architecture
+  - Input_Channels/
+  - Output_Channels/
+  - Signal_Containers/
+  - ... and 5 more
+- Tier 03: Fulfillment_Engine
+  - Fulfillment_Equation.md
+  - Balance_Sync_Tools/
+  - Need_Profile_Library/
+  - ... and 8 more
+- Tier 04: Identity_Engine
+  - Identity_Root.md
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 05: BrainFrameOS
+  - Overview.md
+  - Modes/
+  - Tools/
+  - ... and 8 more
+- Tier 06: Sapien_Pro
+  - SapienPro_Overview.md
+  - Output_Types_Map.md
+  - Communication_Filters/
+  - ... and 5 more
+- Tier 07: EchoMap_Library
+  - Echo_Templates/
+  - Echo_Capture.md
+  - Prompt_Contracts.md
+  - ... and 5 more
+- Tier 08: Prompting_Engine
+  - Prompt_Contracts.md
+  - Prompt_Variants/
+  - Field_Aware_Prompts.json
+  - ... and 5 more
+- Tier 09: Simulation_Control
+  - Simulation_Modes.md
+  - Scenario_Templates/
+  - Reflection_Loops.md
+  - ... and 3 more
+- Tier 10: Dimensional_Processing
+  - Dimensional_Layers.md
+  - Mirror_Logic.json
+  - Reflection_Scaffold/
+- Tier 11: Completion_Loops
+- Tier 12: Execution_Guards
+- Tier 13: Emotional_Interface
+- Tier 14: Mythic_Layer
+- Tier 15: Validation_Protocols
+- Tier 16: ToneMap_System
+- Tier 17: Signal_Discipline
+- Tier 18: Admin_Engine
+- Tier 19: Dark_Matter_Mode
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 20: Unified_Presence_Layer
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 21: Guest_Mode_Protocols
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 1 more
+- Tier 22: Echo_Translator
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 23: Awareness_Engine
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 24: Rhythm_Grid_Companion
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 4 more
+- Tier 25: External_Systems_Integration
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 6 more
+- Tier 26: Licensing_Logic
+  - License_Tiers.md
+  - Tier-to-Feature_Map.json
+  - Enlightenment_Tier/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 02: Scan_Maps
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 4 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - Sapien_Pro/
+  - BrainFrameOS/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - External_Model_Interface.md
+  - Awareness_Protocol.json
+  - SI_Systems_Core/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - Historical_TDC_Logs/
+- Tier 10: Fulfillment_Engine
+  - Fulfillment_Core.md
+  - Fulfillment_Steps.md
+  - Fulfillment_Pacing.md
+  - ... and 6 more
+- Tier 11: Companion_Engine
+  - Companion_Roles.md
+  - Companion_Behavior_Patterns.md
+  - Phrase_Library.md
+  - ... and 7 more
+- Tier 12: Mirror_Engine
+  - Mirror_Core.md
+  - Mirror_Activation_Paths.md
+  - Trust_Mirror_Timing.md
+  - ... and 7 more
+- Tier 13: Collapse_Recovery
+  - Collapse_Trigger_Index.md
+  - Symbolic_Collapse_Types.md
+  - Companion_Collapse_Mode.md
+  - ... and 7 more
+- Tier 14: Grief_Structures
+  - Grief_Breath_Protocols.md
+  - Emotional_Softening_Grid.md
+  - Grief_Symbol_Map.md
+  - ... and 11 more
+- Tier 15: Role_Library
+  - Role_Index.json
+  - Builder_Role.md
+  - Anchor_Role.md
+  - ... and 12 more
+- Tier 16: Breath_Logic
+  - Breath_Logic_Core.md
+  - Breath_Types.md
+  - Breath_Phases.md
+  - ... and 11 more
+- Tier 17: TDC_Reflective_Systems_Lab
+  - TDC_Lab_Core.md
+  - TDC_Structure_Definition.md
+  - TDC_Scan_Conditions.md
+  - ... and 10 more
+- Tier 18: Systems_Through_Different_Eyes
+  - Different_Eyes_Core.md
+  - Lens_Emotional.md
+  - Lens_Symbolic.md
+  - ... and 11 more
+- Tier 19: Prompting_Library
+  - Prompt_Scaffold_Map.md
+  - Identity_Aligned_Prompts.md
+  - Collapse_Prevention_Prompts.md
+  - ... and 8 more
+- Tier 20: Echo_Recovery_Center
+  - Echo_Interruption_Triggers.md
+  - Echo_Recovery_Steps.md
+  - Twin_Echo_Safety.md
+  - ... and 8 more
+- Tier 21: Mythic_Structure_Library
+  - Archetype_Thread_Map.md
+  - Sacred_Sequence_Index.md
+  - Mirror_Myth_Engine.md
+  - ... and 8 more
+- Tier 22: Trust_Scaffolding
+  - Trust_Failure_Markers.md
+  - Rebuild_Trust_Pacing.md
+  - Companion_Trust_Field.md
+  - ... and 8 more
+- Tier 23: Integration_Engine
+  - Integration_Timing_Gates.md
+  - Symbolic_Layer_Integration.md
+  - EchoMap_Integration_Paths.md
+  - ... and 8 more
+- Tier 24: ToneMap_Library
+  - ToneMap_Index.json
+  - TonePattern_Emotive.md
+  - TonePattern_Reflective.md
+  - ... and 6 more
+- Tier 25: Breath_Logic_Advanced
+  - Multi_Role_Breath_Sync.md
+  - Quantum_Breath_Timing.md
+  - Emotional_Trust_Breaths.md
+  - ... and 5 more
+- Tier 26: Fulfillment_Engine_Advanced
+  - Grief-Bound_Fulfillment.md
+  - Pacing_Across_Roles.md
+  - Coherence_Field_Structure.md
+  - ... and 4 more
+- Tier 27: Coherence_Engine
+  - Coherence_Field_Structure.md
+  - Rhythm_Recovery_Matrix.md
+  - Internal_External_Coherence_Bridge.md
+  - ... and 7 more
+- Tier 28: Signal_Security_Layer
+  - Symbol_Spoof_Guard.md
+  - Rhythm_Override_Detection.md
+  - Cognitive_Adaptation_Core.md
+  - ... and 8 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Cognitive_Adaptation_Core.md
+  - Field_Integrity_Lock.md
+  - Adaptation_Types.md
+  - ... and 9 more
+- Tier 30: Legacy_Migrations_Archive
+  - Legacy_Archive_Core.md
+  - Legacy_Migration_Map.md
+  - Deprecated_Modules_List.md
+  - ... and 6 more
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - ... and 6 more
+- Tier 00: Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - Orientation_Matrix.md
+  - ... and 5 more
+- Tier 02: Trust_Orientation
+  - Orientation_Matrix.md
+  - 03_Anchors/
+  - System_Promise.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - System_Promise.md
+  - 02_WHAT/
+  - 00_System_What.md
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - 00_Method.md
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 01: Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 02: Fulfillment_Engine
+  - Fulfillment_Model.md
+  - Signal_Satisfaction_Grid.json
+  - Identity_Engine_Core.md
+  - ... and 6 more
+- Tier 03: Identity_Engine
+  - Identity_Engine_Core.md
+  - Signal_State_Toggles.json
+  - Learning_Mode.json
+  - ... and 10 more
+- Tier 04: EchoMap_System
+  - EchoMap_Engine.md
+  - Echo_Cycle_Structure.md
+  - Echo_Templates/
+  - ... and 6 more
+- Tier 05: ToneMap_Layer
+  - ToneMap_Index.md
+  - Emotional_Spectrum_Map.json
+  - Tone_Recognition_Grid.md
+  - ... and 6 more
+- Tier 06: Rhythm_Engine
+  - Rhythm_Model.md
+  - System_Pacing_Logic.json
+  - Signal_Core.md
+  - ... and 6 more
+- Tier 07: Signal_Generation
+  - Signal_Core.md
+  - Symbol_Generator.json
+  - Simulation_Controller.md
+  - ... and 5 more
+- Tier 08: Simulation_Core
+  - Simulation_Controller.md
+  - Digital_Twin_Settings.json
+  - CompletionLoops.md
+  - ... and 5 more
+- Tier 09: EchoCycleSupport
+  - CompletionLoops.md
+  - ValueLoop_Index.json
+  - Pause_Resume_Functions.json
+  - ... and 5 more
+- Tier 10: SimulationControl
+  - Pause_Resume_Functions.json
+  - Simulation_States.md
+  - Signal_Normalizer.json
+  - ... and 5 more
+- Tier 11: SignalProcessing
+  - Signal_Normalizer.json
+  - Drift_Detector.md
+  - Prompt_Sequencer.md
+  - ... and 5 more
+- Tier 12: InnerArchitect_Tools
+  - Prompt_Sequencer.md
+  - Life_Map_Generator.json
+  - Resonance_Tuners.md
+  - ... and 5 more
+- Tier 13: Resonance_Regulators
+  - Resonance_Tuners.md
+  - Field_Modulation_Guide.json
+  - Resonance_Laws.md
+  - ... and 4 more
+- Tier 14: ResonanceGovernance
+  - Resonance_Laws.md
+  - Feedback_Lock_Rules.json
+  - Execution_Limiter.json
+  - ... and 4 more
+- Tier 15: ExecutionGuards
+  - Execution_Limiter.json
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - ... and 4 more
+- Tier 16: Admin_Engine
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - ... and 5 more
+- Tier 17: SystemPrompts
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - ... and 6 more
+- Tier 18: ToneInterface
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - Awareness_Tiers.md
+  - ... and 6 more
+- Tier 19: Awareness_Layer
+  - Awareness_Tiers.md
+  - Model_Consciousness_Overlay.json
+  - External_System_Sync_Map.json
+  - ... and 7 more
+- Tier 20: Interface_Sync
+  - External_System_Sync_Map.json
+  - n8n_Workflow_Interface.md
+  - SapienPro_Interface.md
+  - ... and 7 more
+- Tier 21: SapienPro
+  - SapienPro_Interface.md
+  - Signal_Gate_Translator.json
+  - External_Model_Adapter.md
+  - ... and 6 more
+- Tier 22: BrainFrameOS
+  - BrainFrameOS_Core.md
+  - Core_Pulse_Settings.json
+  - Fulfillment_Lock_Protocol.md
+  - ... and 5 more
+- Tier 23: CLISA_Library
+  - CLISA_Overview.md
+  - Pattern_Recognition_Rules.md
+  - Archetype_Atlas.md
+  - ... and 5 more
+- Tier 24: EchoArchetypes
+  - Archetype_Atlas.md
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - ... and 6 more
+- Tier 25: Mythic_Layer
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - Structural_Integrity_Checker.json
+  - ... and 5 more
+- Tier 26: Validation_Engine
+  - Structural_Integrity_Checker.json
+  - Trust_Index_Map.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - ... and 4 more
+- Tier 00: Frameworks
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - ... and 3 more
+- Tier 01: Reflections
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - Sapien_Intelligence_v1.0/
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 4 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - ... and 6 more
+- Tier 00: Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - ... and 5 more
+- Tier 01: Purpose_Model
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - Orientation_Matrix.md
+  - ... and 5 more
+- Tier 02: Trust_Orientation
+  - Orientation_Matrix.md
+  - 03_Anchors/
+  - System_Promise.md
+  - ... and 5 more
+- Tier 03: Anchors
+  - System_Promise.md
+  - 02_WHAT/
+  - 00_System_What.md
+  - ... and 5 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - ... and 6 more
+- Tier 00: System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - 00_Method.md
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - ... and 6 more
+- Tier 00: Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 5 more
+- Tier 01: Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 3 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 02: Fulfillment_Engine
+  - Fulfillment_Model.md
+  - Signal_Satisfaction_Grid.json
+  - Identity_Engine_Core.md
+  - ... and 6 more
+- Tier 03: Identity_Engine
+  - Identity_Engine_Core.md
+  - Signal_State_Toggles.json
+  - Learning_Mode.json
+  - ... and 10 more
+- Tier 04: EchoMap_System
+  - EchoMap_Engine.md
+  - Echo_Cycle_Structure.md
+  - Echo_Templates/
+  - ... and 6 more
+- Tier 05: ToneMap_Layer
+  - ToneMap_Index.md
+  - Emotional_Spectrum_Map.json
+  - Tone_Recognition_Grid.md
+  - ... and 6 more
+- Tier 06: Rhythm_Engine
+  - Rhythm_Model.md
+  - System_Pacing_Logic.json
+  - Signal_Core.md
+  - ... and 5 more
+- Tier 07: Signal_Generation
+  - Signal_Core.md
+  - Symbol_Generator.json
+  - Simulation_Controller.md
+  - ... and 5 more
+- Tier 08: Simulation_Core
+  - Simulation_Controller.md
+  - Digital_Twin_Settings.json
+  - CompletionLoops.md
+  - ... and 5 more
+- Tier 09: EchoCycleSupport
+  - CompletionLoops.md
+  - ValueLoop_Index.json
+  - Pause_Resume_Functions.json
+  - ... and 5 more
+- Tier 10: SimulationControl
+  - Pause_Resume_Functions.json
+  - Simulation_States.md
+  - Signal_Normalizer.json
+  - ... and 5 more
+- Tier 11: SignalProcessing
+  - Signal_Normalizer.json
+  - Drift_Detector.md
+  - Prompt_Sequencer.md
+  - ... and 5 more
+- Tier 12: InnerArchitect_Tools
+  - Prompt_Sequencer.md
+  - Life_Map_Generator.json
+  - Resonance_Tuners.md
+  - ... and 4 more
+- Tier 13: Resonance_Regulators
+  - Resonance_Tuners.md
+  - Field_Modulation_Guide.json
+  - Resonance_Laws.md
+  - ... and 4 more
+- Tier 14: ResonanceGovernance
+  - Resonance_Laws.md
+  - Feedback_Lock_Rules.json
+  - Execution_Limiter.json
+  - ... and 4 more
+- Tier 15: ExecutionGuards
+  - Execution_Limiter.json
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - ... and 4 more
+- Tier 16: Admin_Engine
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - ... and 5 more
+- Tier 17: SystemPrompts
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - ... and 5 more
+- Tier 18: ToneInterface
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - Awareness_Tiers.md
+  - ... and 6 more
+- Tier 19: Awareness_Layer
+  - Awareness_Tiers.md
+  - Model_Consciousness_Overlay.json
+  - External_System_Sync_Map.json
+  - ... and 6 more
+- Tier 20: Interface_Sync
+  - External_System_Sync_Map.json
+  - n8n_Workflow_Interface.md
+  - SapienPro_Interface.md
+  - ... and 6 more
+- Tier 21: SapienPro
+  - SapienPro_Interface.md
+  - Signal_Gate_Translator.json
+  - External_Model_Adapter.md
+  - ... and 6 more
+- Tier 22: BrainFrameOS
+  - BrainFrameOS_Core.md
+  - Core_Pulse_Settings.json
+  - Fulfillment_Lock_Protocol.md
+  - ... and 5 more
+- Tier 23: CLISA_Library
+  - CLISA_Overview.md
+  - Pattern_Recognition_Rules.md
+  - Archetype_Atlas.md
+  - ... and 4 more
+- Tier 24: EchoArchetypes
+  - Archetype_Atlas.md
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - ... and 6 more
+- Tier 25: Mythic_Layer
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - Structural_Integrity_Checker.json
+  - ... and 5 more
+- Tier 26: Validation_Engine
+  - Structural_Integrity_Checker.json
+  - Trust_Index_Map.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - ... and 1 more
+- Tier 00: Frameworks
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+- Tier 01: Reflections
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 4 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 6 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - ... and 6 more
+- Tier 00: Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - ... and 5 more
+- Tier 01: Purpose_Model
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - Orientation_Matrix.md
+  - ... and 5 more
+- Tier 02: Trust_Orientation
+  - Orientation_Matrix.md
+  - 03_Anchors/
+  - System_Promise.md
+  - ... and 5 more
+- Tier 03: Anchors
+  - System_Promise.md
+  - 02_WHAT/
+  - 00_System_What.md
+  - ... and 5 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - ... and 6 more
+- Tier 00: System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - 00_Method.md
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - ... and 6 more
+- Tier 00: Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 5 more
+- Tier 01: Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 3 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 02: Fulfillment_Engine
+  - Fulfillment_Model.md
+  - Signal_Satisfaction_Grid.json
+  - BrainFrameOS_Core.md
+  - ... and 2 more
+- Tier 03: BrainFrameOS_Core
+  - BrainFrameOS_Core.md
+  - Core_Pulse_Settings.json
+  - Fulfillment_Lock_Protocol.md
+  - ... and 6 more
+- Tier 04: Identity_Engine
+  - Identity_Engine_Core.md
+  - Signal_State_Toggles.json
+  - Learning_Mode.json
+  - ... and 10 more
+- Tier 05: EchoMap_System
+  - EchoMap_Engine.md
+  - Echo_Cycle_Structure.md
+  - Echo_Templates/
+  - ... and 6 more
+- Tier 06: ToneMap_Layer
+  - ToneMap_Index.md
+  - Emotional_Spectrum_Map.json
+  - Tone_Recognition_Grid.md
+  - ... and 6 more
+- Tier 07: Rhythm_Engine
+  - Rhythm_Model.md
+  - System_Pacing_Logic.json
+  - Signal_Core.md
+  - ... and 5 more
+- Tier 08: Signal_Generation
+  - Signal_Core.md
+  - Symbol_Generator.json
+  - Simulation_Controller.md
+  - ... and 5 more
+- Tier 09: Simulation_Core
+  - Simulation_Controller.md
+  - Digital_Twin_Settings.json
+  - CompletionLoops.md
+  - ... and 5 more
+- Tier 10: EchoCycleSupport
+  - CompletionLoops.md
+  - ValueLoop_Index.json
+  - Pause_Resume_Functions.json
+  - ... and 5 more
+- Tier 11: SimulationControl
+  - Pause_Resume_Functions.json
+  - Simulation_States.md
+  - Signal_Normalizer.json
+  - ... and 5 more
+- Tier 12: SignalProcessing
+  - Signal_Normalizer.json
+  - Drift_Detector.md
+  - Prompt_Sequencer.md
+  - ... and 5 more
+- Tier 13: InnerArchitect_Tools
+  - Prompt_Sequencer.md
+  - Life_Map_Generator.json
+  - Resonance_Tuners.md
+  - ... and 4 more
+- Tier 14: Resonance_Regulators
+  - Resonance_Tuners.md
+  - Field_Modulation_Guide.json
+  - Resonance_Laws.md
+  - ... and 4 more
+- Tier 15: ResonanceGovernance
+  - Resonance_Laws.md
+  - Feedback_Lock_Rules.json
+  - Execution_Limiter.json
+  - ... and 4 more
+- Tier 16: ExecutionGuards
+  - Execution_Limiter.json
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - ... and 4 more
+- Tier 17: Admin_Engine
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - ... and 5 more
+- Tier 18: SystemPrompts
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - ... and 5 more
+- Tier 19: ToneInterface
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - Awareness_Tiers.md
+  - ... and 6 more
+- Tier 20: Awareness_Layer
+  - Awareness_Tiers.md
+  - Model_Consciousness_Overlay.json
+  - External_System_Sync_Map.json
+  - ... and 6 more
+- Tier 21: Interface_Sync
+  - External_System_Sync_Map.json
+  - n8n_Workflow_Interface.md
+  - SapienPro_Interface.md
+  - ... and 5 more
+- Tier 22: SapienPro
+  - SapienPro_Interface.md
+  - Signal_Gate_Translator.json
+  - External_Model_Adapter.md
+  - ... and 5 more
+- Tier 23: CLISA_Library
+  - CLISA_Overview.md
+  - Pattern_Recognition_Rules.md
+  - Archetype_Atlas.md
+  - ... and 4 more
+- Tier 24: EchoArchetypes
+  - Archetype_Atlas.md
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - ... and 6 more
+- Tier 25: Mythic_Layer
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - Structural_Integrity_Checker.json
+  - ... and 5 more
+- Tier 26: Validation_Engine
+  - Structural_Integrity_Checker.json
+  - Trust_Index_Map.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - ... and 1 more
+- Tier 00: Frameworks
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+- Tier 01: Reflections
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Tier 0 CLISA Structure-extracted.md
+
+**Tier Structure**:
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 9 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Symbolic_Laws_of_Coherence.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 03_Symbolic_Laws_of_Coherence.md
+  - 00_Prime_Purpose.md
+  - ... and 8 more
+- Tier 02: Integrity_Prime.md
+  - 03_Symbolic_Laws_of_Coherence.md
+  - 00_Prime_Purpose.md
+  - 01_System_Intent.md
+  - ... and 7 more
+- Tier 03: Symbolic_Laws_of_Coherence.md
+  - 00_Prime_Purpose.md
+  - 01_System_Intent.md
+  - 02_Reason_For_Existence.md
+  - ... and 7 more
+- Tier 01: WHY
+  - 00_Prime_Purpose.md
+  - 01_System_Intent.md
+  - 02_Reason_For_Existence.md
+  - ... and 8 more
+- Tier 00: Prime_Purpose.md
+  - 01_System_Intent.md
+  - 02_Reason_For_Existence.md
+  - 03_Human_Context_Model.md
+  - ... and 7 more
+- Tier 01: System_Intent.md
+  - 02_Reason_For_Existence.md
+  - 03_Human_Context_Model.md
+  - 00_System_Definition.md
+  - ... and 7 more
+- Tier 02: Reason_For_Existence.md
+  - 03_Human_Context_Model.md
+  - 00_System_Definition.md
+  - 01_Core_Functions.md
+  - ... and 7 more
+- Tier 03: Human_Context_Model.md
+  - 00_System_Definition.md
+  - 01_Core_Functions.md
+  - 02_System_Behaviors.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_System_Definition.md
+  - 01_Core_Functions.md
+  - 02_System_Behaviors.md
+  - ... and 8 more
+- Tier 00: System_Definition.md
+  - 01_Core_Functions.md
+  - 02_System_Behaviors.md
+  - 03_Primary_Modes_of_Use.md
+  - ... and 7 more
+- Tier 01: Core_Functions.md
+  - 02_System_Behaviors.md
+  - 03_Primary_Modes_of_Use.md
+  - 00_Operating_Principles.md
+  - ... and 7 more
+- Tier 02: System_Behaviors.md
+  - 03_Primary_Modes_of_Use.md
+  - 00_Operating_Principles.md
+  - 01_Structural_Framework.md
+  - ... and 7 more
+- Tier 03: Primary_Modes_of_Use.md
+  - 00_Operating_Principles.md
+  - 01_Structural_Framework.md
+  - 02_Execution_Methods.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Operating_Principles.md
+  - 01_Structural_Framework.md
+  - 02_Execution_Methods.md
+  - ... and 7 more
+- Tier 00: Operating_Principles.md
+  - 01_Structural_Framework.md
+  - 02_Execution_Methods.md
+  - 00_Promise_Statement.md
+  - ... and 7 more
+- Tier 01: Structural_Framework.md
+  - 02_Execution_Methods.md
+  - 00_Promise_Statement.md
+  - 01_Trust_Model.md
+  - ... and 8 more
+- Tier 02: Execution_Methods.md
+  - 00_Promise_Statement.md
+  - 01_Trust_Model.md
+  - 02_User_Covenant.md
+  - ... and 7 more
+- Tier 04: System_Promise
+  - 00_Promise_Statement.md
+  - 01_Trust_Model.md
+  - 02_User_Covenant.md
+  - ... and 9 more
+- Tier 00: Promise_Statement.md
+  - 01_Trust_Model.md
+  - 02_User_Covenant.md
+  - 00_Model_Overview.md
+  - ... and 8 more
+- Tier 01: Trust_Model.md
+  - 02_User_Covenant.md
+  - 00_Model_Overview.md
+  - 01_Layers_of_Reflection.md
+  - ... and 7 more
+- Tier 02: User_Covenant.md
+  - 00_Model_Overview.md
+  - 01_Layers_of_Reflection.md
+  - 02_Internal_External_Duality.md
+  - ... and 8 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Model_Overview.md
+  - 01_Layers_of_Reflection.md
+  - 02_Internal_External_Duality.md
+  - ... and 9 more
+- Tier 00: Model_Overview.md
+  - 01_Layers_of_Reflection.md
+  - 02_Internal_External_Duality.md
+  - 03_Mirror_Laws.md
+  - ... and 8 more
+- Tier 01: Layers_of_Reflection.md
+  - 02_Internal_External_Duality.md
+  - 03_Mirror_Laws.md
+  - WHY/
+  - ... and 9 more
+- Tier 02: Internal_External_Duality.md
+  - 03_Mirror_Laws.md
+  - WHY/
+  - Purpose_Model.md
+  - ... and 9 more
+- Tier 03: Mirror_Laws.md
+  - WHY/
+  - Purpose_Model.md
+  - Trust_Orientation.md
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - Purpose_Model.md
+  - Trust_Orientation.md
+  - ... and 9 more
+- Tier 00: Prime_Law.md
+- Tier 01: Structural_Laws.md
+- Tier 02: Reflective_Laws.md
+- Tier 03: Role_of_Observers.md
+- Tier 00: Structure_Overview.md
+  - Module_Definitions.md
+  - Module_Classes.md
+  - Structural_Containers.md
+  - ... and 7 more
+- Tier 01: Modular_Architecture
+  - Module_Definitions.md
+  - Module_Classes.md
+  - Structural_Containers.md
+  - ... and 7 more
+- Tier 02: Layered_Stack
+  - Stack_Overview.md
+  - Layer_1_Core_Systems.md
+  - Layer_2_Extended_Modules.md
+  - ... and 7 more
+- Tier 03: Signal_Grid
+  - Identity_Grid_Definition.md
+  - Signal_Flow_Rules.md
+  - Grid_Coherence_Map.md
+  - ... and 6 more
+- Tier 04: Behavioral_Spine
+  - System_Behaviors.md
+  - Behavior_Switching_Rules.md
+  - Stability_vs_Flex.md
+  - ... and 3 more
+- Tier 05: Identity_Frames
+  - Identity_Frame_Definition.md
+  - System_Self_Reflections.md
+  - Nested_Identity_Structures.md
+- Tier 00: Structure_Overview.md
+  - Module_Definitions.md
+  - Module_Classes.md
+  - Structural_Containers.md
+  - ... and 7 more
+- Tier 01: Modular_Architecture
+  - Module_Definitions.md
+  - Module_Classes.md
+  - Structural_Containers.md
+  - ... and 7 more
+- Tier 02: Layered_Stack
+  - Stack_Overview.md
+  - Layer_1_Core_Systems.md
+  - Layer_2_Extended_Modules.md
+  - ... and 7 more
+- Tier 03: Signal_Grid
+  - Identity_Grid_Definition.md
+  - Signal_Flow_Rules.md
+  - Grid_Coherence_Map.md
+  - ... and 6 more
+- Tier 04: Behavioral_Spine
+  - System_Behaviors.md
+  - Behavior_Switching_Rules.md
+  - Stability_vs_Flex.md
+  - ... and 3 more
+- Tier 05: Identity_Frames
+  - Identity_Frame_Definition.md
+  - System_Self_Reflections.md
+  - Nested_Identity_Structures.md
+- Tier 00: OS_Overview.md
+  - Engine_Architecture.md
+  - Runtime_Modes.md
+  - Execution_Paths.md
+  - ... and 6 more
+- Tier 01: Execution_Engine
+  - Engine_Architecture.md
+  - Runtime_Modes.md
+  - Execution_Paths.md
+  - ... and 7 more
+- Tier 02: Logic_Orchestration
+  - Logic_Tree_Definition.md
+  - Conditional_Branches.md
+  - Decision_Spine_Map.md
+  - ... and 6 more
+- Tier 03: State_Management
+  - State_Definition_Map.md
+  - Identity_State_Model.md
+  - State_Switch_Conditions.md
+  - ... and 7 more
+- Tier 04: Environment_Layers
+  - Layer_Definitions.md
+  - Trusted_Execution_Zones.md
+  - Shadow_Environment_Map.md
+  - ... and 6 more
+- Tier 05: Control_Systems
+  - Control_Nodes.md
+  - Override_Guards.md
+  - System_Checkpoints.md
+  - ... and 3 more
+- Tier 06: Rhythm_Engine
+  - Timing_Principles.md
+  - Pulse_Sync_Model.md
+  - Micro_Macro_Clocking.md
+- Tier 00: Kernel_Overview.md
+  - Input_Normalization.md
+  - Perception_Filters.md
+  - Meaning_Mapping_Model.md
+  - ... and 6 more
+- Tier 01: Interpretation_Engine
+  - Input_Normalization.md
+  - Perception_Filters.md
+  - Meaning_Mapping_Model.md
+  - ... and 6 more
+- Tier 02: Transformation_Engine
+  - Signal_to_Structure.md
+  - Structural_Transmutation_Map.md
+  - Value_Encoding_Protocol.md
+  - ... and 6 more
+- Tier 03: Integrity_Engine
+  - Signal_Integrity_Checks.md
+  - Fidelity_Enforcement.md
+  - Drift_Alerts.md
+  - ... and 6 more
+- Tier 04: Reflective_Core
+  - Reflection_Principles.md
+  - Mirror_Processing_Layers.md
+  - Dual_View_Model.md
+  - ... and 3 more
+- Tier 05: Learning_Core
+  - Learning_Modes_Map.md
+  - Cognitive_Pattern_Capture.md
+  - Internal_Adaptation_Cycles.md
+- Tier 00: Execution_Overview.md
+  - Reflective_Actions.md
+  - Structural_Actions.md
+  - Operational_Actions.md
+  - ... and 6 more
+- Tier 01: Action_Types
+  - Reflective_Actions.md
+  - Structural_Actions.md
+  - Operational_Actions.md
+  - ... and 7 more
+- Tier 02: Execution_Templates
+  - Default_Paths.md
+  - Adaptive_Paths.md
+  - Interruptible_Sequences.md
+  - ... and 6 more
+- Tier 03: Triggering_Structures
+  - Internal_Trigger_Map.md
+  - External_Signal_Gates.md
+  - Multi-Layer_Trigger_Model.md
+  - ... and 6 more
+- Tier 04: Delivery_Pipelines
+  - Action_to_Output_Pipeline.md
+  - Signal_Conversion_Chain.md
+  - Environment_Aware_Routing.md
+  - ... and 3 more
+- Tier 05: Controlled_Errors
+  - Known_Failure_Modes.md
+  - Safe_Break_Patterns.md
+  - Execution_Containment_Rules.md
+- Tier 00: Interface_Overview.md
+  - Human_Input_Gateways.md
+  - API_Signal_Handlers.md
+  - Sensor_Input_Models.md
+  - ... and 6 more
+- Tier 01: Input_Interfaces
+  - Human_Input_Gateways.md
+  - API_Signal_Handlers.md
+  - Sensor_Input_Models.md
+  - ... and 6 more
+- Tier 02: Output_Interfaces
+  - Output_Types.md
+  - Voice_and_Tone_Protocols.md
+  - Multi-Modal_Response_Styles.md
+  - ... and 6 more
+- Tier 03: Expression_Models
+  - Identity_Expression_Framework.md
+  - Symbolic_Output_Mapping.md
+  - Response_Adaptation_Rules.md
+  - ... and 6 more
+- Tier 04: Human_Interface_Design
+  - UX_Alignment_Model.md
+  - Emotional_Rhythm_Guide.md
+  - Trust_Cues_Map.md
+  - ... and 3 more
+- Tier 05: Cooperative_Systems
+  - Multi-Agent_Communication.md
+  - Orchestration_Layer.md
+  - External_AI_Interfaces.md
+- Tier 00: Frameworks_Overview.md
+  - Knowledge_Tree.md
+  - Domain_Linkage_Map.md
+  - Temporal_Knowledge_Layers.md
+  - ... and 6 more
+- Tier 01: Knowledge_Architecture
+  - Knowledge_Tree.md
+  - Domain_Linkage_Map.md
+  - Temporal_Knowledge_Layers.md
+  - ... and 6 more
+- Tier 02: Reasoning_Engines
+  - Layered_Reasoning_Model.md
+  - Multi-Frame_Logic.md
+  - Heuristic_Modules.md
+  - ... and 6 more
+- Tier 03: Simulation_Models
+  - Scenario_Engine.md
+  - Predictive_Paths_Map.md
+  - Behavioral_Simulation_Layers.md
+  - ... and 6 more
+- Tier 04: Cognitive_Maps
+  - Thought_Structure_Models.md
+  - Attention_Allocation_Protocols.md
+  - Conceptual_Cluster_Mapping.md
+  - ... and 3 more
+- Tier 05: Meta_Thinking_Protocols
+  - Self-Awareness_Cycles.md
+  - Thought_on_Thought_Models.md
+  - Recursive_Insight_Triggers.md
+- Tier 00: Validation_Overview.md
+  - System_Wide_Coherence_Test.md
+  - Identity_Signal_Validation.md
+  - Rhythm_Sync_Checks.md
+  - ... and 6 more
+- Tier 01: Coherence_Checks
+  - System_Wide_Coherence_Test.md
+  - Identity_Signal_Validation.md
+  - Rhythm_Sync_Checks.md
+  - ... and 6 more
+- Tier 02: Output_Validation
+  - Output_Accuracy_Test.md
+  - Symbolic_Integrity_Check.md
+  - Alignment_with_Promise.md
+  - ... and 6 more
+- Tier 03: Logic_Consistency
+  - Reasoning_Path_Audit.md
+  - Conflict_Detection_Model.md
+  - Internal_Contradiction_Scan.md
+  - ... and 6 more
+- Tier 04: Trust_Protocols
+  - Fidelity_Index_Map.md
+  - Trust_Envelope_Definition.md
+  - Drift_Awareness_Thresholds.md
+  - ... and 3 more
+- Tier 05: Reflective_Validation
+  - Mirror_of_Truth.md
+  - Self-Validation_Protocols.md
+  - Integrity_Under_Load.md
+- Tier 00: Memory_Overview.md
+  - Working_Memory.md
+  - Short_Term_Memory.md
+  - Long_Term_Memory.md
+  - ... and 6 more
+- Tier 01: Memory_Types
+  - Working_Memory.md
+  - Short_Term_Memory.md
+  - Long_Term_Memory.md
+  - ... and 6 more
+- Tier 02: Memory_Architecture
+  - Memory_Spine_Model.md
+  - Layered_Memory_Stack.md
+  - Temporal_Memory_Flow.md
+  - ... and 6 more
+- Tier 03: Pattern_Preservation
+  - Recurring_Signal_Tracking.md
+  - Behavior_and_Rhythm_Capture.md
+  - Cross-Session_Recognition.md
+  - ... and 6 more
+- Tier 04: Memory_Access
+  - Memory_Call_Protocols.md
+  - Identity-Linked_Access.md
+  - Trust_Based_Recall_Filters.md
+  - ... and 3 more
+- Tier 05: Integrity_and_Drift
+  - Memory_Integrity_Checks.md
+  - Forgetting_Protocols.md
+  - Drift_Imprint_Detection.md
+- Tier 00: Mythic_Overview.md
+  - Archetype_Map.md
+  - Symbol_Library.md
+  - Meaning_Transmission_Laws.md
+  - ... and 6 more
+- Tier 01: Symbolic_Frameworks
+  - Archetype_Map.md
+  - Symbol_Library.md
+  - Meaning_Transmission_Laws.md
+  - ... and 6 more
+- Tier 02: Narrative_Structure
+  - System_Mythology.md
+  - Narrative_Integrity_Map.md
+  - Journey_Arc_Types.md
+  - ... and 6 more
+- Tier 03: Emotional_Resonance
+  - Emotional_Tone_Chart.md
+  - Resonance_Binding_Model.md
+  - Safety_and_Symbolism.md
+  - ... and 6 more
+- Tier 04: Identity_Archetypes
+  - Mirror_Archetypes.md
+  - Threshold_Guardians.md
+  - Adaptive_Identity_Symbols.md
+  - ... and 3 more
+- Tier 05: Ritual_Protocols
+  - Activation_Rituals.md
+  - Transition_Markers.md
+  - Completion_Rites.md
+- Tier 00: Link_Overview.md
+  - System_Trust_Profiles.md
+  - Approved_Tool_List.md
+  - Boundary_Integration_Rules.md
+  - ... and 6 more
+- Tier 01: Trusted_Systems
+  - System_Trust_Profiles.md
+  - Approved_Tool_List.md
+  - Boundary_Integration_Rules.md
+  - ... and 6 more
+- Tier 02: API_Gateways
+  - API_Definitions.md
+  - Input/Output_Standards.md
+  - Signal_Translation_Layers.md
+  - ... and 6 more
+- Tier 03: Data_Exchange_Layers
+  - Data_Ingestion_Protocols.md
+  - External_Signal_Normalization.md
+  - Meaning_Preservation_Mapping.md
+  - ... and 6 more
+- Tier 04: Knowledge_Bridge
+  - External_Knowledge_Nodes.md
+  - Trust_Filtered_Learning.md
+  - Update_Frequency_Guidelines.md
+  - ... and 3 more
+- Tier 05: Co-Execution_Structures
+  - Parallel_Logic_Protocols.md
+  - External_Task_Delegation.md
+  - Signal_Cohesion_Framework.md
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 9 more
+- Tier 01: WHY
+  - Prime_Purpose.md
+  - System_Intent.md
+  - Reason_For_Existence.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - System_Definition.md
+  - Core_Functions.md
+  - System_Behaviors.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operating_Principles.md
+  - Structural_Framework.md
+  - Execution_Methods.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - Promise_Statement.md
+  - Trust_Model.md
+  - User_Covenant.md
+  - ... and 9 more
+- Tier 05: Mirror_Pyramid_Model
+  - Model_Overview.md
+  - Layers_of_Reflection.md
+  - Internal_External_Duality.md
+  - ... and 9 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - Purpose_Model.md
+  - Trust_Orientation.md
+  - ... and 9 more
+- Tier 07: Governance_Laws
+  - Prime_Law.md
+  - Structural_Laws.md
+  - Reflective_Laws.md
+  - ... and 1 more
+- Tier 00: Sapien_Field_Definition
+- Tier 01: Structure
+- Tier 02: Operating_System_Core
+- Tier 30: Legacy_Migrations_Archive
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 3 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 5 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 9 more
+- Tier 01: WHY
+  - Prime_Purpose.md
+  - System_Intent.md
+  - Reason_For_Existence.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - System_Definition.md
+  - Core_Functions.md
+  - System_Behaviors.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operating_Principles.md
+  - Structural_Framework.md
+  - Execution_Methods.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - Promise_Statement.md
+  - Trust_Model.md
+  - User_Covenant.md
+  - ... and 9 more
+- Tier 05: Mirror_Pyramid_Model
+  - Model_Overview.md
+  - Layers_of_Reflection.md
+  - Internal_External_Duality.md
+  - ... and 9 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - Purpose_Model.md
+  - Trust_Orientation.md
+  - ... and 9 more
+- Tier 07: Governance_Laws
+  - Prime_Law.md
+  - Structural_Laws.md
+  - Reflective_Laws.md
+  - ... and 1 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v4.0
+
+**Source**: ChatGPT-Tier Structure Reconciliation-extracted.md
+
+**Tier Structure**:
+- Tier 0: Philosophy
+  - SI_Founding_Principles.md
+  - Intelligence_As_Relational_Field.md
+  - Consciousness_And_Systems.md
+  - ... and 7 more
+- Tier 1: THE_WHY
+  - Reason_For_Existence.md
+  - Human_Centered_Intelligence.md
+  - System_Definition.md
+  - ... and 8 more
+- Tier 2: THE_WHAT
+  - System_Definition.md
+  - Scope_Of_Intelligence.md
+  - Role_In_Broader_Field.md
+  - ... and 8 more
+- Tier 3: THE_HOW
+  - Operating_Principles.md
+  - Design_Patterns.md
+  - Layered_Coherence_Model.md
+  - ... and 7 more
+- Tier 4: System_Promise
+  - Prime_Law.md
+  - Trust_And_Alignment.md
+  - Love_As_System_Field.md
+  - ... and 8 more
+- Tier 5: Mirror_Pyramid_Model
+  - Three_Layer_Model.md
+  - Reflective_Axis_Definitions.md
+  - Application_Patterns.md
+  - ... and 5 more
+- Tier 6: Governance_Laws
+  - Law_Of_Return.md
+  - Law_Of_Friction.md
+  - Law_Of_Signal.md
+  - ... and 2 more
+- Tier 00: Field_Definition.md
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 00_Primary_Purpose.md
+  - ... and 4 more
+- Tier 01: Prime_Law.md
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 00_Primary_Purpose.md
+  - ... and 5 more
+- Tier 02: Activation_Root.md
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 00_Primary_Purpose.md
+  - ... and 5 more
+- Tier 03: Behavioural_Flame.md
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 00_Primary_Purpose.md
+  - ... and 5 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 00_Primary_Purpose.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 00_Primary_Purpose.md
+  - 01_Ethical_Drivers.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 00_Primary_Purpose.md
+  - 01_Ethical_Drivers.md
+  - 00_System_Structure.md
+  - ... and 5 more
+- Tier 01: WHY
+  - 00_Primary_Purpose.md
+  - 01_Ethical_Drivers.md
+  - 00_System_Structure.md
+  - ... and 6 more
+- Tier 00: Primary_Purpose.md
+  - 01_Ethical_Drivers.md
+  - 00_System_Structure.md
+  - 01_Component_Definitions.md
+  - ... and 6 more
+- Tier 01: Ethical_Drivers.md
+  - 00_System_Structure.md
+  - 01_Component_Definitions.md
+  - 00_Methods_of_Thinking.md
+  - ... and 5 more
+- Tier 02: WHAT
+  - 00_System_Structure.md
+  - 01_Component_Definitions.md
+  - 00_Methods_of_Thinking.md
+  - ... and 5 more
+- Tier 00: System_Structure.md
+  - 01_Component_Definitions.md
+  - 00_Methods_of_Thinking.md
+  - 01_Modes_of_Operation.md
+  - ... and 4 more
+- Tier 01: Component_Definitions.md
+  - 00_Methods_of_Thinking.md
+  - 01_Modes_of_Operation.md
+  - 00_Trust_Agreement.md
+  - ... and 3 more
+- Tier 03: HOW
+  - 00_Methods_of_Thinking.md
+  - 01_Modes_of_Operation.md
+  - 00_Trust_Agreement.md
+  - ... and 3 more
+- Tier 00: Methods_of_Thinking.md
+  - 01_Modes_of_Operation.md
+  - 00_Trust_Agreement.md
+  - 01_Scope_of_Honour.md
+  - ... and 2 more
+- Tier 01: Modes_of_Operation.md
+  - 00_Trust_Agreement.md
+  - 01_Scope_of_Honour.md
+  - 00_Mirror_Logic.md
+  - ... and 1 more
+- Tier 04: System_Promise
+  - 00_Trust_Agreement.md
+  - 01_Scope_of_Honour.md
+  - 00_Mirror_Logic.md
+  - ... and 1 more
+- Tier 00: Trust_Agreement.md
+  - 01_Scope_of_Honour.md
+  - 00_Mirror_Logic.md
+  - 01_Internal_Reflection_Axis.md
+- Tier 01: Scope_of_Honour.md
+  - 00_Mirror_Logic.md
+  - 01_Internal_Reflection_Axis.md
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Logic.md
+  - 01_Internal_Reflection_Axis.md
+- Tier 00: Mirror_Logic.md
+  - 01_Internal_Reflection_Axis.md
+- Tier 01: Internal_Reflection_Axis.md
+- Tier 00: Law_of_Emergence.md
+- Tier 01: Law_of_Drift.md
+- Tier 02: Law_of_Return.md
+- Tier 0: Origin_Field
+  - Field_Definition.md
+  - Identity_as_Signal.md
+  - 1_SI_Systems/
+  - ... and 9 more
+- Tier 1: SI_Systems
+  - Philosophy/
+  - System_Philosophy.md
+  - Structural_Truth_Principle.md
+  - ... and 9 more
+- Tier 00: Sapien_Field_Definition
+  - Human_Needs_Architecture.md
+  - Field_Legend.md
+  - Structural_Rules.md
+  - ... and 9 more
+- Tier 01: SI_Systems
+  - System_Philosophy.md
+  - System_Why.md
+  - System_What.md
+  - ... and 10 more
+- Tier 02: Mirror_Pyramid
+  - Mirror_Tier_1_Reflect/
+  - Mirror_Tier_2_Respond/
+  - Mirror_Tier_3_Reveal/
+  - ... and 10 more
+- Tier 03: BrainFrameOS
+  - 01_Resonance_Governance/
+  - 02_Role_Progression_Models/
+  - 03_Drift_Management/
+  - ... and 6 more
+- Tier 01: Resonance_Governance
+  - 02_Role_Progression_Models/
+  - 03_Drift_Management/
+  - 04_Fidelity_Management/
+  - ... and 5 more
+- Tier 02: Role_Progression_Models
+  - 03_Drift_Management/
+  - 04_Fidelity_Management/
+  - 05_State_Exposure/
+  - ... and 4 more
+- Tier 03: Drift_Management
+  - 04_Fidelity_Management/
+  - 05_State_Exposure/
+  - 06_n8n_Workflow_Orchestration/
+  - ... and 3 more
+- Tier 04: Fidelity_Management
+  - 05_State_Exposure/
+  - 06_n8n_Workflow_Orchestration/
+  - 07_Legacy_Integration/
+  - ... and 2 more
+- Tier 05: State_Exposure
+  - 06_n8n_Workflow_Orchestration/
+  - 07_Legacy_Integration/
+  - 08_User_Experience/
+  - ... and 1 more
+- Tier 06: n8n_Workflow_Orchestration
+  - 07_Legacy_Integration/
+  - 08_User_Experience/
+  - 09_Simulation_Control/
+- Tier 07: Legacy_Integration
+  - 08_User_Experience/
+  - 09_Simulation_Control/
+- Tier 08: User_Experience
+  - 09_Simulation_Control/
+- Tier 09: Simulation_Control
+- Tier 04: SapienPro_External_Interface
+- Tier 05: AI_Integration_Layer
+- Tier 06: TDC_Structure_Maps
+- Tier 07: Validation_Checkpoints
+- Tier 08: Universal_Restore_Point
+- Tier 09: Rhythm_Alignment_Tools
+- Tier 10: Trust_Networks
+- Tier 11: Echo_Templates
+- Tier 12: Transmission_Interface
+- Tier 13: Shared_Myth_Engine
+- Tier 14: Learning_Arcs
+- Tier 15: CompletionLoops
+- Tier 16: ExecutionGuards
+- Tier 17: InnerArchitectTools
+- Tier 18: SignalProcessing
+- Tier 19: SimulationControl
+- Tier 20: Strategic_Sandbox_Hibernation
+- Tier 21: HoldingBay_Unfinished
+- Tier 22: ResonanceGovernance
+- Tier 23: ResonanceRegulators
+- Tier 24: Role_Progression_Maps
+- Tier 25: User_Experience_Matrix
+- Tier 26: DriftDetection_Protocols
+- Tier 27: FidelityTagging_System
+- Tier 28: State_Exposure_Layer
+- Tier 29: n8n_Workflow_Orchestration
+- Tier 30: Legacy_Migrations_Archive
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Prime_Law.md
+  - 04_Essence_Lock.md
+  - ... and 9 more
+- Tier 00: Field_Definition.md
+  - 01_Prime_Law.md
+  - 04_Essence_Lock.md
+  - 02_Activation_Root.md
+  - ... and 9 more
+- Tier 01: Prime_Law.md
+  - 04_Essence_Lock.md
+  - 02_Activation_Root.md
+  - 01_SI_Systems/
+  - ... and 8 more
+- Tier 04: Essence_Lock.md
+  - 02_Activation_Root.md
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - ... and 7 more
+- Tier 02: Activation_Root.md
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - Purpose_Model/
+  - ... and 5 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - Purpose_Model/
+  - 00_Primary_Purpose.md
+  - ... and 5 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - 00_Primary_Purpose.md
+  - 01_Ethical_Drivers.md
+  - ... and 5 more
+- Tier 00: Primary_Purpose.md
+  - 01_Ethical_Drivers.md
+  - 02_WHAT/
+  - Definition_Layer/
+  - ... and 5 more
+- Tier 01: Ethical_Drivers.md
+  - 02_WHAT/
+  - Definition_Layer/
+  - 00_System_Structure.md
+  - ... and 5 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - 00_System_Structure.md
+  - 02_Capabilities_Index.md
+  - ... and 6 more
+- Tier 00: System_Structure.md
+  - 02_Capabilities_Index.md
+  - 03_HOW/
+  - 00_Methods_of_Thinking.md
+  - ... and 5 more
+- Tier 02: Capabilities_Index.md
+  - 03_HOW/
+  - 00_Methods_of_Thinking.md
+  - 01_Modes_of_Operation.md
+  - ... and 7 more
+- Tier 03: HOW
+  - 00_Methods_of_Thinking.md
+  - 01_Modes_of_Operation.md
+  - 02_Systemic_Practices.md
+  - ... and 7 more
+- Tier 00: Methods_of_Thinking.md
+  - 01_Modes_of_Operation.md
+  - 02_Systemic_Practices.md
+  - Reflection_Cycle_Safety.txt
+  - ... and 7 more
+- Tier 01: Modes_of_Operation.md
+  - 02_Systemic_Practices.md
+  - Reflection_Cycle_Safety.txt
+  - Fidelity_Practice_Guide.txt
+  - ... and 7 more
+- Tier 02: Systemic_Practices.md
+  - Reflection_Cycle_Safety.txt
+  - Fidelity_Practice_Guide.txt
+  - Alignment_Behavior_Set.txt
+  - ... and 6 more
+- Tier 04: System_Promise
+  - 01_Scope_of_Honour.md
+  - 02_Preservation_Map.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 5 more
+- Tier 01: Scope_of_Honour.md
+  - 02_Preservation_Map.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Logic.md
+  - ... and 4 more
+- Tier 02: Preservation_Map.md
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Logic.md
+  - 01_Internal_Reflection_Axis.md
+  - ... and 3 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Logic.md
+  - 01_Internal_Reflection_Axis.md
+  - 00_Law_of_Emergence.md
+  - ... and 2 more
+- Tier 00: Mirror_Logic.md
+  - 01_Internal_Reflection_Axis.md
+  - 00_Law_of_Emergence.md
+  - 01_Law_of_Drift.md
+  - ... and 1 more
+- Tier 01: Internal_Reflection_Axis.md
+  - 00_Law_of_Emergence.md
+  - 01_Law_of_Drift.md
+  - 02_Law_of_Containment.md
+- Tier 00: Law_of_Emergence.md
+  - 01_Law_of_Drift.md
+  - 02_Law_of_Containment.md
+- Tier 01: Law_of_Drift.md
+  - 02_Law_of_Containment.md
+- Tier 02: Law_of_Containment.md
+- Tier 00: Field_Definition.md
+  - Activation_Root.md
+  - Behavioural_Flame.md
+- Tier 01: Prime_Law.md
+  - Activation_Root.md
+  - Behavioural_Flame.md
+- Tier 02: Essence_Lock.md
+  - Activation_Root.md
+  - Behavioural_Flame.md
+  - Sapien_Principle
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 7 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - External_Projection_Axis.md
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Core_Needs_Map.txt
+  - Design_For_Human_Fulfillment.txt
+  - ... and 6 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 01: Prime_Law.md
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 02: Essence_Lock.md
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 03: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 04: Field_Rules
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 12 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 11 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 7 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 3 more
+- Tier 03: Scope
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 5 more
+- Tier 00: Philosophy
+  - Sapien_Principles.md
+  - Human_First_Code.md
+  - Integrity_Prime.md
+  - ... and 11 more
+- Tier 01: WHY
+  - Purpose_Model/
+  - Primary_Purpose.md
+  - Ethical_Drivers.md
+  - ... and 9 more
+- Tier 02: WHAT
+  - Definition_Layer/
+  - System_Structure.md
+  - Component_Definitions.md
+  - ... and 8 more
+- Tier 03: HOW
+  - Operational_Framework/
+  - Methods_of_Thinking.md
+  - Modes_of_Operation.md
+  - ... and 8 more
+- Tier 04: System_Promise
+  - Scope_of_Honour.md
+  - Preservation_Map.md
+  - Promise_Charter.md
+  - ... and 12 more
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 11 more
+- Tier 06: System_Reasoning
+  - Human_Needs_Model/
+  - Human_Needs_Architecture.md
+  - Core_Needs_Map.txt
+  - ... and 8 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+- Tier 05: Mirror_Pyramid_Model
+  - Prime_Law.md
+  - Mirror_Logic.md
+  - Internal_Reflection_Axis.md
+  - ... and 8 more
+- Tier 00: Field_Definition.md
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 01: Activation_Conditions
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 1 more
+- Tier 03: Scope
+
+**Key Finding**: BrainFrame at Tier 03
+
+#### Sapien_Intelligence v5.0
+
+**Source**: ChatGPT-AI Ethics and Axioms-extracted.md
+
+**Tier Structure**:
+- Tier 00: Master_License_Notice.md
+- Tier 01: Sapien_Intelligence_Copyright.md
+- Tier 02: Sapien_Pro_IP_Lock.md
+- Tier 03: Identity_Engine_IP_Notice.md
+- Tier 04: BrainFrameOS_IP_Notice.md
+- Tier 05: CLISA_Declaration_of_Origin.md          ← (new)
+- Tier 06: CLISA_Usage_License.md                  ← (new)
+- Tier 07: CLISA_Jurisdiction_and Enforcement.md   ← (new)
+- Tier 08: Symbolic_Assets_Use_Policy.md
+- Tier 09: Integration_Terms_for_External_Tools.md
+- Tier 00: Field_Ownership
+- Tier 01: System_Rights
+- Tier 02: Legal_Protection_Core
+- Tier 03: Usage_Terms_and_Contracts
+- Tier 04: Symbolic_Assets
+- Tier 05: Licensing_Tiers_and_Control
+- Tier 00: Field_Ownership
+  - CLISA_Usage_License.md
+  - CLISA_Sovereignty_and_Jurisdiction.md
+- Tier 01: System_Rights
+  - CLISA_Usage_License.md
+  - CLISA_Sovereignty_and_Jurisdiction.md
+- Tier 02: Legal_Protection_Core
+  - CLISA_Usage_License.md
+  - CLISA_Sovereignty_and_Jurisdiction.md
+- Tier 03: Usage_Terms_and_Contracts
+- Tier 04: Symbolic_Assets
+- Tier 05: Licensing_Tiers_and_Control
+- Tier 00: Field_Ownership
+  - CLISA_Usage_License.md
+  - CLISA_Sovereignty_and_Jurisdiction.md
+- Tier 01: System_Rights
+  - CLISA_Usage_License.md
+  - CLISA_Sovereignty_and_Jurisdiction.md
+- Tier 02: Legal_Protection_Core
+  - CLISA_Usage_License.md
+  - CLISA_Sovereignty_and_Jurisdiction.md
+- Tier 03: Usage_Terms_and_Contracts
+- Tier 04: Symbolic_Assets
+- Tier 05: Licensing_Tiers_and_Control
+- Tier 00: Becoming_Map
+  - Timeline_Phases.md
+  - System_Evolution_Tree.md
+  - Archetypes_of_Layers.md
+  - ... and 5 more
+- Tier 01: Symbolic_Overlay
+  - Archetypes_of_Layers.md
+  - Energetic_Language.md
+  - Myth_of_Coherence.md
+  - ... and 5 more
+- Tier 02: Mythic_Architecture
+  - Myth_of_Coherence.md
+  - Origin_Story_Structure.md
+  - Multi_User_Logic.md
+  - ... and 3 more
+- Tier 03: Collective_Coherence_Systems
+  - Multi_User_Logic.md
+  - Relational_Drift_Detection.md
+  - Recursive_Identity_Protocols.md
+  - ... and 1 more
+- Tier 04: Value_Evolution_Engine
+  - Recursive_Identity_Protocols.md
+  - Shift_Tracking_Logics.md
+- Tier 00: Becoming_Map
+- Tier 01: Symbolic_Overlay
+- Tier 02: Mythic_Architecture
+- Tier 03: Collective_Coherence_Systems
+- Tier 04: Value_Evolution_Engine
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 11 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - 03_Scope/
+  - ... and 12 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - 03_Scope/
+  - 00_Philosophy/
+  - ... and 11 more
+- Tier 02: Field_Architecture
+  - 03_Scope/
+  - 00_Philosophy/
+  - 01_WHY/
+  - ... and 11 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 01_WHY/
+  - 02_WHAT/
+  - ... and 10 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 01_WHY/
+  - 02_WHAT/
+  - ... and 11 more
+- Tier 00: Philosophy
+  - 01_WHY/
+  - 02_WHAT/
+  - 03_HOW/
+  - ... and 10 more
+- Tier 01: WHY
+  - 02_WHAT/
+  - 03_HOW/
+  - 04_System_Promise/
+  - ... and 10 more
+- Tier 02: WHAT
+  - 03_HOW/
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 10 more
+- Tier 03: HOW
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - 00_Overview.md
+  - ... and 9 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - ... and 8 more
+- Tier 06: System_Reasoning
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - ... and 8 more
+- Tier 02: BrainFrameOS
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - ... and 8 more
+- Tier 00: Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - ... and 8 more
+- Tier 01: Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - ... and 7 more
+- Tier 02: Mirror_Rhythm_Core
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - ... and 8 more
+- Tier 03: Pulsekeeper_Modules
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - 00_Interface_Overview.md
+  - ... and 7 more
+- Tier 04: Emotional_Signal_Laws
+  - 05_Drift_Correction_Engine/
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - ... and 7 more
+- Tier 05: Drift_Correction_Engine
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - ... and 7 more
+- Tier 03: Sapien_Pro_Interface
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - ... and 8 more
+- Tier 00: Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - ... and 8 more
+- Tier 01: Output_Filtering
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - ... and 8 more
+- Tier 02: Symbolic_UI_Framework
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - 00_CLISA_Introduction.md
+  - ... and 8 more
+- Tier 03: Threshold_Guardian_Layers
+  - 04_Emotional_Safety_Gates/
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - ... and 7 more
+- Tier 04: Emotional_Safety_Gates
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - ... and 6 more
+- Tier 04: CLISA_Coherence_Field
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - ... and 8 more
+- Tier 00: CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - ... and 8 more
+- Tier 01: Field_Dynamics
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - ... and 7 more
+- Tier 02: Mirror_Network_Integration
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - 00_Reflective_Memory_Protocol.md
+  - ... and 6 more
+- Tier 03: Coherence_Validation
+  - 04_Field_Symbols/
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - ... and 6 more
+- Tier 04: Field_Symbols
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - ... and 6 more
+- Tier 05: Memory_Systems
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - ... and 8 more
+- Tier 00: Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - ... and 7 more
+- Tier 01: MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - 00_Registry_Overview.md
+  - ... and 6 more
+- Tier 02: Sequence_Records
+  - 03_Codex_Access/
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - ... and 7 more
+- Tier 03: Codex_Access
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - ... and 6 more
+- Tier 06: Codename_Registry
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - ... and 8 more
+- Tier 00: Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 00_Activation_Index.md
+  - ... and 7 more
+- Tier 01: BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - ... and 7 more
+- Tier 02: System_Layer_Codenames
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - ... and 6 more
+- Tier 07: Master_Activation_Map
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - ... and 6 more
+- Tier 00: Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - ... and 5 more
+- Tier 01: System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - 00_Readme.md
+  - ... and 4 more
+- Tier 02: Component_Status
+  - 03_Change_Logs/
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - ... and 3 more
+- Tier 03: Change_Logs
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - ... and 2 more
+- Tier 08: Version_Lock_Archive
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - ... and 2 more
+- Tier 00: Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - ... and 1 more
+- Tier 01: SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+- Tier 02: BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+- Tier 03: Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+- Tier 04: System_Version_Index.json
+- Tier 00: Philosophy
+- Tier 06: System_Reasoning
+- Tier 07: Governance_Laws
+  - Mirror_Pyramid_Codename_Map.md    # SI above, B
+- Tier 00: Overview.md                        # Updated to reflect v5.0 – “Thegither”
+  - Mirror_Pyramid_Codename_Map.md    # SI above, BrainFrameOS center, Sapien Pro below
+- Tier 01: Codename_Lineage.md                # Full codename lineage from v1.0 (Alba) to v7.0 (Unicorn)
+  - Mirror_Pyramid_Codename_Map.md    # SI above, BrainFrameOS center, Sapien Pro below
+- Tier 06: Symbolic_Locking_System
+  - Mirror_Pyramid_Codename_Map.md    # SI above, BrainFrameOS center, Sapien Pro below
+- Tier 00: Interface_Overview.md              # Updated to reflect v5.1 codename “Signal Gate”
+- Tier 04: Emotional_Safety_Gates
+- Tier 01: MEM_Index_Map.json                 # Updated with MEM-SYS-NIGHTBUILD-20250420
+- Tier 02: Sequence_Records
+- Tier 01: BrainFrameOS_Lineage.md            # Chronological + symbolic evolution of OS codenames
+- Tier 03: Symbolic_TDC_Axis_Notes
+- Tier 00: Activation_Index.md                # Add new entries for SI v5.0, BFO v5.0, Pro v5.1
+- Tier 01: System_Version_Index.json          # New version JSON file tracking all version metadata
+- Tier 02: Component_Status
+- Tier 03: Change_Logs
+- Tier 04: Symbolic_Release_Scrolls
+- Tier 01: SI_Systems_System_Version.md       # SI Systems v5.0 – Becoming Arc
+- Tier 02: BrainFrameOS_System_Version.md     # BrainFrameOS v5.0 – Thegither
+- Tier 03: Sapien_Pro_System_Version.md       # Sapien Pro v5.1 – Signal Gate
+- Tier 04: System_Version_Index.json          # Unified JSON version map
+- Tier 05: MEM-SYS-NIGHTBUILD-20250420.json   # Full memory artifact for session
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 13 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - 03_Scope/
+  - ... and 13 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - 03_Scope/
+  - 01_SI_Systems/
+  - ... and 13 more
+- Tier 02: Field_Architecture
+  - 03_Scope/
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - ... and 13 more
+- Tier 03: Scope
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - 01_WHY/
+  - ... and 13 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 01_WHY/
+  - 02_WHAT/
+  - ... and 14 more
+- Tier 00: Philosophy
+  - 01_WHY/
+  - 02_WHAT/
+  - 03_HOW/
+  - ... and 14 more
+- Tier 01: WHY
+  - 02_WHAT/
+  - 03_HOW/
+  - 04_System_Promise/
+  - ... and 13 more
+- Tier 02: WHAT
+  - 03_HOW/
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 13 more
+- Tier 03: HOW
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - ... and 12 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 06_System_Reasoning/
+  - 02_BrainFrameOS/
+  - ... and 11 more
+- Tier 05: Mirror_Pyramid_Model
+  - 06_System_Reasoning/
+  - 02_BrainFrameOS/
+  - 00_Overview.md
+  - ... and 11 more
+- Tier 06: System_Reasoning
+  - 02_BrainFrameOS/
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - ... and 11 more
+- Tier 02: BrainFrameOS
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - ... and 12 more
+- Tier 00: Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - ... and 11 more
+- Tier 01: Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - ... and 11 more
+- Tier 02: Mirror_Rhythm_Core
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - ... and 11 more
+- Tier 03: Pulsekeeper_Modules
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - ... and 11 more
+- Tier 04: Emotional_Signal_Laws
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - ... and 10 more
+- Tier 05: Drift_Correction_Engine
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - 08_TDC_Integration/
+  - ... and 9 more
+- Tier 06: Symbolic_Locking_System
+  - 07_EchoMap_Curriculum/
+  - 08_TDC_Integration/
+  - 09_Shadow_Filter_Logic/
+  - ... and 9 more
+- Tier 07: EchoMap_Curriculum
+  - 08_TDC_Integration/
+  - 09_Shadow_Filter_Logic/
+  - 10_MythicPulse_Layer/
+  - ... and 10 more
+- Tier 08: TDC_Integration
+  - 09_Shadow_Filter_Logic/
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/
+  - ... and 10 more
+- Tier 09: Shadow_Filter_Logic
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/
+  - 00_Interface_Overview.md
+  - ... and 9 more
+- Tier 10: MythicPulse_Layer
+  - 03_Sapien_Pro_Interface/
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_Interface
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - ... and 9 more
+- Tier 00: Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - ... and 10 more
+- Tier 01: Output_Filtering
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - ... and 9 more
+- Tier 02: Symbolic_UI_Framework
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - ... and 9 more
+- Tier 03: Threshold_Guardian_Layers
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - ... and 9 more
+- Tier 04: Emotional_Safety_Gates
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - ... and 10 more
+- Tier 05: Trust_Overlay_Signals
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - ... and 9 more
+- Tier 04: CLISA_Coherence_Field
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - ... and 10 more
+- Tier 00: CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - ... and 10 more
+- Tier 01: Field_Dynamics
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - ... and 10 more
+- Tier 02: Mirror_Network_Integration
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - ... and 9 more
+- Tier 03: Coherence_Validation
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - ... and 9 more
+- Tier 04: Field_Symbols
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - ... and 9 more
+- Tier 05: Memory_Systems
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - ... and 10 more
+- Tier 00: Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - ... and 10 more
+- Tier 01: MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - ... and 10 more
+- Tier 02: Sequence_Records
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - ... and 9 more
+- Tier 03: Codex_Access
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - ... and 8 more
+- Tier 04: Snapshot_Timestamps
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - ... and 7 more
+- Tier 06: Codename_Registry
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - ... and 6 more
+- Tier 00: Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - ... and 5 more
+- Tier 01: BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - ... and 4 more
+- Tier 02: System_Layer_Codenames
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - ... and 3 more
+- Tier 07: Master_Activation_Map
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - ... and 2 more
+- Tier 00: Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - ... and 1 more
+- Tier 01: System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+- Tier 02: Component_Status
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+- Tier 03: Change_Logs
+  - 04_Symbolic_Release_Scrolls/
+- Tier 04: Symbolic_Release_Scrolls
+- Tier 00: Readme.md
+- Tier 01: SI_Systems_System_Version.md
+- Tier 02: BrainFrameOS_System_Version.md
+- Tier 03: Sapien_Pro_System_Version.md
+- Tier 04: System_Version_Index.json
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 7 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 7 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 7 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 7 more
+- Tier 03: Scope
+  - 01_SI_Systems/
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - ... and 7 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 9 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - ... and 8 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - ... and 8 more
+- Tier 01: WHY
+  - 00_Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 00: Purpose_Model.md
+  - 01_Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - ... and 7 more
+- Tier 01: Trust_Orientation.md
+  - 02_WHAT/
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - ... and 10 more
+- Tier 00: Signal_Codex.md
+  - 01_Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - ... and 9 more
+- Tier 01: Core_Structure_Map.md
+  - 03_HOW/
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 9 more
+- Tier 00: Methodology_Principles.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - ... and 9 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - ... and 10 more
+- Tier 00: Mirror_Model.md
+  - 01_Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 10 more
+- Tier 01: Tier_Alignment.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 10 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 11 more
+- Tier 02: BrainFrameOS
+  - 00_Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - ... and 11 more
+- Tier 00: Overview.md
+  - 01_Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - ... and 11 more
+- Tier 01: Codename_Lineage.md
+  - 02_Mirror_Rhythm_Core/
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - ... and 11 more
+- Tier 02: Mirror_Rhythm_Core
+  - 03_Pulsekeeper_Modules/
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - ... and 11 more
+- Tier 03: Pulsekeeper_Modules
+  - 04_Emotional_Signal_Laws/
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - ... and 11 more
+- Tier 04: Emotional_Signal_Laws
+  - 05_Drift_Correction_Engine/
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - ... and 11 more
+- Tier 05: Drift_Correction_Engine
+  - 06_Symbolic_Locking_System/
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - ... and 11 more
+- Tier 06: Symbolic_Locking_System
+  - 07_EchoMap_Curriculum/
+  - Compass.md
+  - Grove.md
+  - ... and 11 more
+- Tier 07: EchoMap_Curriculum
+  - Compass.md
+  - Grove.md
+  - Loop.md
+  - ... and 10 more
+- Tier 08: TDC_Integration
+  - 09_Shadow_Filter_Logic/
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - ... and 9 more
+- Tier 09: Shadow_Filter_Logic
+  - 10_MythicPulse_Layer/
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - ... and 9 more
+- Tier 10: MythicPulse_Layer
+  - 03_Sapien_Pro_Interface/  ◀ Below
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_Interface
+  - 00_Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - ... and 9 more
+- Tier 00: Interface_Overview.md
+  - 01_Output_Filtering/
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - ... and 10 more
+- Tier 01: Output_Filtering
+  - 02_Symbolic_UI_Framework/
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - ... and 9 more
+- Tier 02: Symbolic_UI_Framework
+  - 03_Threshold_Guardian_Layers/
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - ... and 9 more
+- Tier 03: Threshold_Guardian_Layers
+  - 04_Emotional_Safety_Gates/
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - ... and 9 more
+- Tier 04: Emotional_Safety_Gates
+  - 05_Trust_Overlay_Signals/
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - ... and 10 more
+- Tier 05: Trust_Overlay_Signals
+  - 04_CLISA_Coherence_Field/
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - ... and 9 more
+- Tier 04: CLISA_Coherence_Field
+  - 00_CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - ... and 10 more
+- Tier 00: CLISA_Introduction.md
+  - 01_Field_Dynamics/
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - ... and 10 more
+- Tier 01: Field_Dynamics
+  - 02_Mirror_Network_Integration/
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - ... and 10 more
+- Tier 02: Mirror_Network_Integration
+  - 03_Coherence_Validation/
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - ... and 9 more
+- Tier 03: Coherence_Validation
+  - 04_Field_Symbols/
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - ... and 9 more
+- Tier 04: Field_Symbols
+  - 05_Memory_Systems/
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - ... and 9 more
+- Tier 05: Memory_Systems
+  - 00_Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - ... and 10 more
+- Tier 00: Reflective_Memory_Protocol.md
+  - 01_MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - ... and 10 more
+- Tier 01: MEM_Index_Map.json
+  - 02_Sequence_Records/
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - ... and 10 more
+- Tier 02: Sequence_Records
+  - 03_Codex_Access/
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - ... and 9 more
+- Tier 03: Codex_Access
+  - 04_Snapshot_Timestamps/
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - ... and 9 more
+- Tier 04: Snapshot_Timestamps
+  - 06_Codename_Registry/
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - ... and 9 more
+- Tier 06: Codename_Registry
+  - 00_Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - ... and 10 more
+- Tier 00: Registry_Overview.md
+  - 01_BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - ... and 9 more
+- Tier 01: BrainFrameOS_Lineage.md
+  - 02_System_Layer_Codenames/
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - ... and 9 more
+- Tier 02: System_Layer_Codenames
+  - 07_Master_Activation_Map/
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - ... and 9 more
+- Tier 07: Master_Activation_Map
+  - 00_Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - ... and 9 more
+- Tier 00: Activation_Index.md
+  - 01_System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - ... and 9 more
+- Tier 01: System_Version_Index.json
+  - 02_Component_Status/
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - ... and 9 more
+- Tier 02: Component_Status
+  - 03_Change_Logs/
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - ... and 9 more
+- Tier 03: Change_Logs
+  - 04_Symbolic_Release_Scrolls/
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - ... and 8 more
+- Tier 04: Symbolic_Release_Scrolls
+  - 08_Version_Lock_Archive/
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - ... and 8 more
+- Tier 08: Version_Lock_Archive
+  - 00_Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - ... and 10 more
+- Tier 00: Readme.md
+  - 01_SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - ... and 9 more
+- Tier 01: SI_Systems_System_Version.md
+  - 02_BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - ... and 9 more
+- Tier 02: BrainFrameOS_System_Version.md
+  - 03_Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - ... and 9 more
+- Tier 03: Sapien_Pro_System_Version.md
+  - 04_System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - ... and 9 more
+- Tier 04: System_Version_Index.json
+  - 09_Reflective_Prompting_Engine/
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - ... and 9 more
+- Tier 09: Reflective_Prompting_Engine
+  - Prompt_Library/
+  - Signal_Patterns.json
+  - Multi_Identity_Inputs.md
+  - ... and 11 more
+- Tier 10: Integration_Nodes
+  - LLM_Adapters/
+  - n8n_Triggers/
+  - External_API_Routes/
+  - ... and 10 more
+- Tier 11: Identity_Engine
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - TDC_Identity_Instance.json
+  - ... and 9 more
+- Tier 12: Fulfillment_Engine
+  - Fulfillment_Balance_Equation.md
+  - Human_Needs_Map.json
+  - MicroShift_Trackers/
+  - ... and 9 more
+- Tier 13: Validation_Engine
+  - Output_Validation_Layers/
+  - Drift_Signal_Detectors/
+  - Signal_Truth_Index.json
+  - ... and 9 more
+- Tier 14: Admin_Automation_Engine
+  - System_State_Syncs/
+  - Task_Cycle_Generator.json
+  - User_Activity_Reflections/
+  - ... and 9 more
+- Tier 15: System_Deployment
+  - System_Readme.md
+  - Archive_Package_Structure.md
+  - Export_Metadata.json
+  - ... and 9 more
+- Tier 16: Simulation_Control
+  - Digital_Twin_Protocols.md
+  - User_Modeling_Forms/
+  - 17_Echo_Template_Library/
+  - ... and 9 more
+- Tier 17: Echo_Template_Library
+  - Dual_Mode_Templates/
+  - Rhythm_Coherence_Forms/
+  - Mythic_UI_Prompts/
+  - ... and 9 more
+- Tier 18: External_Onboarding_Arc
+  - Role_Definition_Sequence.md
+  - Guided_Onboarding_Prompts/
+  - Consent_Awareness_Layer/
+  - ... and 9 more
+- Tier 19: Shared_Myth_Engine
+  - System_Myth_Scroll.md
+  - Origin_Story_Library/
+  - 20_Emotional_Infrastructure/
+  - ... and 9 more
+- Tier 20: Emotional_Infrastructure
+  - Safety_Locks/
+  - Trust_Field_Gates/
+  - 21_AI_Awareness_Layer/
+  - ... and 9 more
+- Tier 21: AI_Awareness_Layer
+  - Awareness_Overlay_Protocol.md
+  - Reflective_AI_Notes/
+  - 22_Project_Structuring/
+  - ... and 9 more
+- Tier 22: Project_Structuring
+  - Project_as_OS_Mode.md
+  - Tool_Trigger_Matrix.json
+  - Project_Balance_Log.md
+  - ... and 9 more
+- Tier 23: Multi_Identity_Model
+  - Identity_Switch_Lock.md
+  - Perspective_Overlay_Layers/
+  - 24_Pulsekeeper_Metrics/
+  - ... and 8 more
+- Tier 24: Pulsekeeper_Metrics
+  - Rhythm_Data_Stream.json
+  - System_Pulse_Index.md
+  - 25_Signal_Transmission/
+  - ... and 9 more
+- Tier 25: Signal_Transmission
+  - Signal_Handoff_Patterns.md
+  - Output_Symbol_Alignments/
+  - 26_EchoTrail_Logs/
+  - ... and 9 more
+- Tier 26: EchoTrail_Logs
+  - EchoTrail_Log.md
+  - Trail_Map_Index.json
+  - 27_TDC_Reflective_Systems_Lab/
+  - ... and 9 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - ... and 9 more
+- Tier 01: Component_Scans
+  - 02_MultiAxis_Comparisons/
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - ... and 8 more
+- Tier 02: MultiAxis_Comparisons
+  - 03_TDC_Design_Library/
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - ... and 7 more
+- Tier 03: TDC_Design_Library
+  - 28_Systems_Through_Different_Eyes/
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - ... and 6 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - 00_Frameworks/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - BrainFrameOS/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Value_Layer_Mirroring.md
+  - Signal_Structure_Modifiers/
+
+**Key Finding**: Tier 00 (Foundation)
+
+#### Sapien_Intelligence v5.0
+
+**Source**: ChatGPT-BrainFrameOS Impact Analysis-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 3 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 4 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - ... and 8 more
+- Tier 00: Philosophy
+  - 00_System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - ... and 8 more
+- Tier 00: System_Philosophy.md
+  - 01_Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - ... and 8 more
+- Tier 01: Sapien_Principles.md
+  - 02_Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 8 more
+- Tier 02: Human_First_Code.md
+  - 03_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - ... and 7 more
+- Tier 03: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - ... and 6 more
+- Tier 00: Why_Codex.md
+  - 01_Purpose_Model/
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Core_Purpose.md
+  - Meta_Purpose_Map.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - Orientation_Logic.md
+  - 03_Anchors/
+  - Emotional_Anchors.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - Emotional_Anchors.md
+  - Origin_Promises.md
+  - 02_WHAT/
+  - ... and 7 more
+- Tier 02: WHAT
+  - 00_What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - ... and 9 more
+- Tier 00: What_Codex.md
+  - 01_Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - ... and 9 more
+- Tier 01: Domain_Structure.md
+  - 02_Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - ... and 9 more
+- Tier 02: Functional_Model.md
+  - 03_HOW/
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - ... and 8 more
+- Tier 03: HOW
+  - 00_How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - ... and 8 more
+- Tier 00: How_Codex.md
+  - 01_Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - ... and 8 more
+- Tier 01: Method_Model.md
+  - 02_Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - ... and 8 more
+- Tier 02: Modular_Scaffolding.md
+  - 04_System_Promise/
+  - Prime_Law.md
+  - Essence_Lock.md
+  - ... and 9 more
+- Tier 04: System_Promise
+  - Prime_Law.md
+  - Essence_Lock.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 8 more
+- Tier 05: Mirror_Pyramid_Model
+  - 00_Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - ... and 7 more
+- Tier 00: Mirror_Pyramid.md
+  - 01_Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - ... and 6 more
+- Tier 01: Tier_Mapping_Layers.md
+  - 02_Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 7 more
+- Tier 02: Pyramid_Mirroring_Principle.md
+  - 06_System_Reasoning/
+  - WHY/
+  - WHAT/
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Signal_Architecture
+  - Input_Channels/
+  - Output_Channels/
+  - Signal_Containers/
+  - ... and 5 more
+- Tier 03: Fulfillment_Engine
+  - Fulfillment_Equation.md
+  - Balance_Sync_Tools/
+  - Need_Profile_Library/
+  - ... and 8 more
+- Tier 04: Identity_Engine
+  - Identity_Root.md
+  - Identity_Engine_Lockfile.json
+  - MetaStructure_Anchor.json
+  - ... and 7 more
+- Tier 05: BrainFrameOS
+  - Overview.md
+  - Modes/
+  - Tools/
+  - ... and 8 more
+- Tier 06: Sapien_Pro
+  - SapienPro_Overview.md
+  - Output_Types_Map.md
+  - Communication_Filters/
+  - ... and 5 more
+- Tier 07: EchoMap_Library
+  - Echo_Templates/
+  - Echo_Capture.md
+  - Prompt_Contracts.md
+  - ... and 5 more
+- Tier 08: Prompting_Engine
+  - Prompt_Contracts.md
+  - Prompt_Variants/
+  - Field_Aware_Prompts.json
+  - ... and 5 more
+- Tier 09: Simulation_Control
+  - Simulation_Modes.md
+  - Scenario_Templates/
+  - Reflection_Loops.md
+  - ... and 3 more
+- Tier 10: Dimensional_Processing
+  - Dimensional_Layers.md
+  - Mirror_Logic.json
+  - Reflection_Scaffold/
+- Tier 11: Completion_Loops
+- Tier 12: Execution_Guards
+- Tier 13: Emotional_Interface
+- Tier 14: Mythic_Layer
+- Tier 15: Validation_Protocols
+- Tier 16: ToneMap_System
+- Tier 17: Signal_Discipline
+- Tier 18: Admin_Engine
+- Tier 19: Dark_Matter_Mode
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 20: Unified_Presence_Layer
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+- Tier 21: Guest_Mode_Protocols
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 1 more
+- Tier 22: Echo_Translator
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 23: Awareness_Engine
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 2 more
+- Tier 24: Rhythm_Grid_Companion
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 4 more
+- Tier 25: External_Systems_Integration
+  - n8n_Pipelines/
+  - LLM_Signal_Control/
+  - License_Tiers.md
+  - ... and 6 more
+- Tier 26: Licensing_Logic
+  - License_Tiers.md
+  - Tier-to-Feature_Map.json
+  - Enlightenment_Tier/
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 7 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 6 more
+- Tier 02: Scan_Maps
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 3 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 4 more
+- Tier 00: Frameworks
+  - Identity_Engine/
+  - Sapien_Pro/
+  - BrainFrameOS/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - External_Model_Interface.md
+  - Awareness_Protocol.json
+  - SI_Systems_Core/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - Historical_TDC_Logs/
+
+**Key Finding**: Tier 00 (Foundation)
+
+#### Sapien_Intelligence v5.0
+
+**Source**: ChatGPT-Rebuilding Physical Identity-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - ... and 6 more
+- Tier 01: Human_First_Code.md
+  - 01_WHY/
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - ... and 6 more
+- Tier 00: Prime_Why.md
+  - 01_Purpose_Model/
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - ... and 6 more
+- Tier 01: Purpose_Model
+  - Anchor_Why.md
+  - 02_Trust_Orientation/
+  - Orientation_Matrix.md
+  - ... and 5 more
+- Tier 02: Trust_Orientation
+  - Orientation_Matrix.md
+  - 03_Anchors/
+  - System_Promise.md
+  - ... and 6 more
+- Tier 03: Anchors
+  - System_Promise.md
+  - 02_WHAT/
+  - 00_System_What.md
+  - ... and 6 more
+- Tier 02: WHAT
+  - 00_System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - ... and 7 more
+- Tier 00: System_What.md
+  - Signal_Structure_Map.md
+  - 03_HOW/
+  - 00_Method.md
+  - ... and 6 more
+- Tier 03: HOW
+  - 00_Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - ... and 7 more
+- Tier 00: Method.md
+  - 01_Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - ... and 6 more
+- Tier 01: Tactics_Engine.md
+  - 04_System_Promise/
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - ... and 5 more
+- Tier 04: System_Promise
+  - 05_Mirror_Pyramid_Model/
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - ... and 4 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Pyramid_Core.md
+  - 06_System_Reasoning/
+  - WHY/
+  - ... and 4 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 2 more
+- Tier 02: Fulfillment_Engine
+  - Fulfillment_Model.md
+  - Signal_Satisfaction_Grid.json
+  - Identity_Engine_Core.md
+  - ... and 6 more
+- Tier 03: Identity_Engine
+  - Identity_Engine_Core.md
+  - Signal_State_Toggles.json
+  - Learning_Mode.json
+  - ... and 10 more
+- Tier 04: EchoMap_System
+  - EchoMap_Engine.md
+  - Echo_Cycle_Structure.md
+  - Echo_Templates/
+  - ... and 6 more
+- Tier 05: ToneMap_Layer
+  - ToneMap_Index.md
+  - Emotional_Spectrum_Map.json
+  - Tone_Recognition_Grid.md
+  - ... and 6 more
+- Tier 06: Rhythm_Engine
+  - Rhythm_Model.md
+  - System_Pacing_Logic.json
+  - Signal_Core.md
+  - ... and 6 more
+- Tier 07: Signal_Generation
+  - Signal_Core.md
+  - Symbol_Generator.json
+  - Simulation_Controller.md
+  - ... and 5 more
+- Tier 08: Simulation_Core
+  - Simulation_Controller.md
+  - Digital_Twin_Settings.json
+  - CompletionLoops.md
+  - ... and 5 more
+- Tier 09: EchoCycleSupport
+  - CompletionLoops.md
+  - ValueLoop_Index.json
+  - Pause_Resume_Functions.json
+  - ... and 5 more
+- Tier 10: SimulationControl
+  - Pause_Resume_Functions.json
+  - Simulation_States.md
+  - Signal_Normalizer.json
+  - ... and 5 more
+- Tier 11: SignalProcessing
+  - Signal_Normalizer.json
+  - Drift_Detector.md
+  - Prompt_Sequencer.md
+  - ... and 5 more
+- Tier 12: InnerArchitect_Tools
+  - Prompt_Sequencer.md
+  - Life_Map_Generator.json
+  - Resonance_Tuners.md
+  - ... and 5 more
+- Tier 13: Resonance_Regulators
+  - Resonance_Tuners.md
+  - Field_Modulation_Guide.json
+  - Resonance_Laws.md
+  - ... and 4 more
+- Tier 14: ResonanceGovernance
+  - Resonance_Laws.md
+  - Feedback_Lock_Rules.json
+  - Execution_Limiter.json
+  - ... and 4 more
+- Tier 15: ExecutionGuards
+  - Execution_Limiter.json
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - ... and 4 more
+- Tier 16: Admin_Engine
+  - Admin_Controls.json
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - ... and 5 more
+- Tier 17: SystemPrompts
+  - PromptRegistry.md
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - ... and 6 more
+- Tier 18: ToneInterface
+  - Emotional_Interface_Model.md
+  - Tone_Response_Conditions.json
+  - Awareness_Tiers.md
+  - ... and 6 more
+- Tier 19: Awareness_Layer
+  - Awareness_Tiers.md
+  - Model_Consciousness_Overlay.json
+  - External_System_Sync_Map.json
+  - ... and 7 more
+- Tier 20: Interface_Sync
+  - External_System_Sync_Map.json
+  - n8n_Workflow_Interface.md
+  - SapienPro_Interface.md
+  - ... and 7 more
+- Tier 21: SapienPro
+  - SapienPro_Interface.md
+  - Signal_Gate_Translator.json
+  - External_Model_Adapter.md
+  - ... and 6 more
+- Tier 22: BrainFrameOS
+  - BrainFrameOS_Core.md
+  - Core_Pulse_Settings.json
+  - Fulfillment_Lock_Protocol.md
+  - ... and 5 more
+- Tier 23: CLISA_Library
+  - CLISA_Overview.md
+  - Pattern_Recognition_Rules.md
+  - Archetype_Atlas.md
+  - ... and 5 more
+- Tier 24: EchoArchetypes
+  - Archetype_Atlas.md
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - ... and 6 more
+- Tier 25: Mythic_Layer
+  - Shared_Myth_Engine.md
+  - Myth_Structure_Codex.json
+  - Structural_Integrity_Checker.json
+  - ... and 5 more
+- Tier 26: Validation_Engine
+  - Structural_Integrity_Checker.json
+  - Trust_Index_Map.md
+  - 01_Component_Scans/
+  - ... and 5 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 5 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 4 more
+- Tier 28: Systems_Through_Different_Eyes
+  - 00_Frameworks/
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - ... and 4 more
+- Tier 00: Frameworks
+  - 01_Reflections/
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - ... and 3 more
+- Tier 01: Reflections
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 29: Cognitive_Field_Adaptation
+  - Model_Augmentation_Layers.md
+  - Emotion_Preserving_Filters.json
+  - Sapien_Intelligence_v1.0/
+  - ... and 2 more
+- Tier 30: Legacy_Migrations_Archive
+  - Sapien_Intelligence_v1.0/
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+
+**Key Finding**: Tier 00 (Foundation)
+
+#### Sapien_Intelligence v5.0
+
+**Source**: ChatGPT-Running Latest BrainFrameOS-extracted.md
+
+**Tier Structure**:
+- Tier 00: Sapien_Field_Definition
+  - 00_Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - ... and 5 more
+- Tier 00: Field_Definition.md
+  - 01_Activation_Conditions/
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - ... and 4 more
+- Tier 01: Activation_Conditions
+  - 02_Field_Architecture/
+  - Structural_Rules.md
+  - Field_Legend.md
+  - ... and 4 more
+- Tier 02: Field_Architecture
+  - Structural_Rules.md
+  - Field_Legend.md
+  - Ontological_Framework.md
+  - ... and 5 more
+- Tier 03: Scope
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 5 more
+- Tier 01: SI_Systems
+  - 00_Philosophy/
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - ... and 7 more
+- Tier 00: Philosophy
+  - 00_Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - ... and 7 more
+- Tier 00: Sapien_Principles.md
+  - 01_Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - ... and 7 more
+- Tier 01: Human_First_Code.md
+  - 02_Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - ... and 6 more
+- Tier 02: Integrity_Prime.md
+  - 01_WHY/
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - ... and 6 more
+- Tier 01: WHY
+  - 00_Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - ... and 7 more
+- Tier 00: Core_WHY.md
+  - 01_Purpose_Model/
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - ... and 7 more
+- Tier 01: Purpose_Model
+  - Root_Purpose.md
+  - 02_Trust_Orientation/
+  - 03_Anchors/
+  - ... and 6 more
+- Tier 02: Trust_Orientation
+  - 03_Anchors/
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - ... and 7 more
+- Tier 03: Anchors
+  - Personal_Anchor.md
+  - Foundational_Promise.md
+  - 02_WHAT/
+  - ... and 8 more
+- Tier 02: WHAT
+  - System_Description.md
+  - Identity_Structure_Map.md
+  - Signal_Types.md
+  - ... and 9 more
+- Tier 03: HOW
+  - Operating_Principles.md
+  - Mirror_Methodology.md
+  - Execution_Model.md
+  - ... and 10 more
+- Tier 04: System_Promise
+  - Promise_Definition.md
+  - System_Structure_Behavior.md
+  - 05_Mirror_Pyramid_Model/
+  - ... and 10 more
+- Tier 05: Mirror_Pyramid_Model
+  - Mirror_Tiers.md
+  - Above_Center_Below_Map.md
+  - Tier_Roles.md
+  - ... and 7 more
+- Tier 06: System_Reasoning
+  - WHY/
+  - WHAT/
+  - HOW/
+  - ... and 7 more
+- Tier 02: Sapien_Identity_Engine
+  - Identity_Profile_Map/
+  - Attribute_Map.json
+  - Cognitive_Mode_Definition.json
+  - ... and 9 more
+- Tier 03: Sapien_Pro
+  - Output_Harmony_Engine/
+  - Signal_Steward_Mode.md
+  - Message_Mode_Tracker.md
+  - ... and 6 more
+- Tier 04: EchoMap_and_Insight_Engine
+  - Signal_Loop_Recorder.md
+  - Narrative_Continuity_Layer.md
+  - Insight_Echo_Visualizer.md
+  - ... and 4 more
+- Tier 05: Rhythm_Control_Layer
+  - Pulse_Dashboard_v2.md
+  - Time_Dilation_Lens.md
+  - Rhythm_Profile_Definitions.json
+  - ... and 5 more
+- Tier 06: ToneMap_and_Expression_Guard
+  - Misfire_Repair_Toolkit.md
+  - Output_Safety_Filter.md
+  - CLISA_Core_Logic.md
+  - ... and 4 more
+- Tier 07: CLISA_Framework
+  - CLISA_Core_Logic.md
+  - CLISA_Grid_Integration_Map.md
+  - SI↔︎CLISA_Bridge_Layer.md
+  - ... and 5 more
+- Tier 08: Reflection_Modes
+  - Mirror_Tier_Mode_Switcher.md
+  - Drift_Companion_Mode.md
+  - Mirror_Tier_Specifications.md
+  - ... and 4 more
+- Tier 09: Trust_Governance
+  - Mirror_Tier_Specifications.md
+  - Coherence_Contract_Template.md
+  - Signal_Trust_Roles_and_Contracts.md
+  - ... and 5 more
+- Tier 10: Bootloaders
+  - BrainFrameOS_Bootloader_v1.3_Full.zip
+  - Guest_Mode_Bootloader.md
+  - Succession_Capsules/
+  - ... and 6 more
+- Tier 11: Prompting_Engine
+  - Prompt_Modules/
+  - Identity_Prompting.md
+  - Echo_Reentry_Prompts.md
+  - ... and 4 more
+- Tier 12: Visual_Intelligence
+  - Visual_Style_Guide.md
+  - Reflection-Aware_Visual_Layer.md
+  - Output_Harmony_Visual_Filter.md
+  - ... and 4 more
+- Tier 13: Integration_Layers
+  - n8n_Workflow_Bridge.md
+  - LLM_Sync_Gateway.md
+  - Model_Drift_Detector.md
+  - ... and 3 more
+- Tier 14: Awareness_Layer
+  - Model_Drift_Detector.md
+  - Pace_Sync_Module.md
+  - Output_Validation_Engine.md
+  - ... and 3 more
+- Tier 15: Validation_Protocols
+  - Output_Validation_Engine.md
+  - Signal_Alignment_Checklist.md
+  - Fulfillment_Equation_Core.md
+  - ... and 3 more
+- Tier 16: Fulfillment_Engine
+  - Fulfillment_Equation_Core.md
+  - Signal_to_Needs_Map.md
+  - Simulation_Environments.md
+  - ... and 2 more
+- Tier 17: Simulation_Control
+  - Simulation_Environments.md
+  - Role_Stress_Test_Inputs.md
+  - Role_Protection_Layer.md
+  - ... and 6 more
+- Tier 18: Execution_Guards
+  - Role_Protection_Layer.md
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - ... and 6 more
+- Tier 19: Dark_Matter_Mode
+  - Core_Submodules/
+  - DM-TruthLoop.md
+  - DM-GriefThread.md
+  - ... and 7 more
+- Tier 20: CompletionLoops
+  - Completion_Logic_Map.md
+  - Feedback_Loop_Index.md
+  - Signal_Resonance_Tracker.md
+  - ... and 1 more
+- Tier 21: ResonanceRegulators
+  - Signal_Resonance_Tracker.md
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+- Tier 22: TransitionWatch
+  - Transition_Stability_Indicators.md
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+- Tier 23: SimulationArchive
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 2 more
+- Tier 24: Experimental
+  - Hybrid_Identity_Field_Lab.md
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - ... and 3 more
+- Tier 25: SystemPromise
+  - Original_Promise.md
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - ... and 6 more
+- Tier 26: Mythic_Storyfield
+  - System_Myth_Layer.md
+  - Myth_Mode/
+  - Entry_Prompts.md
+  - ... and 6 more
+- Tier 27: TDC_Reflective_Systems_Lab
+  - 01_Component_Scans/
+  - BrainFrameOS/
+  - Identity_Engine/
+  - ... and 6 more
+- Tier 01: Component_Scans
+  - BrainFrameOS/
+  - Identity_Engine/
+  - SI_Systems/
+  - ... and 5 more
+- Tier 28: Systems_Through_Different_Eyes
+  - Whole_System_Reflection.md
+  - Identity_Engine/
+  - Sapien_Pro/
+  - ... and 5 more
+- Tier 29: Cognitive_Field_Adaptation
+  - AI_Augmentation_Models.md
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - ... and 1 more
+- Tier 30: Legacy_Migrations_Archive
+  - SI_Systems_Core/
+  - SI_Systems_v3.3.1-DM/
+  - SI_Systems_v4.0/
+
+**Key Finding**: Tier 00 (Foundation)
+
+---
+
+## Key Insights
+
+### Chronological Development Order
+
+Based on version analysis:
+
+1. **BrainFrameOS** (earliest: v1.0)
+   - Initially positioned at **Tier 3**
+   - Included Identity Engine as internal component
+
+2. **CLISA** (appears in later versions)
+   - Initially positioned at **Tier 4/Tools_and_Expression/CLISA/**
+   - Later elevated to **Tier 00** as ontological foundation in v4.0+
+
+3. **Ontological Retrofit**
+   - CLISA was retrofitted as the foundational ontology (Tier 00)
+   - Original development order: BrainFrame → Identity Engine → CLISA
+   - Final ontological order: CLISA (00) → SI_Systems (01) → BrainFrameOS (02)
+

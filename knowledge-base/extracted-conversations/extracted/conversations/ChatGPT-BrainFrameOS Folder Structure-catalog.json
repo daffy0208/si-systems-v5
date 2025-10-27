@@ -1,0 +1,87 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Folder Structure.md",
+  "metadata": {
+    "title": "BrainFrameOS Folder Structure",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/21/2025 18:08:04",
+    "updated": "8/10/2025 12:29:26",
+    "exported": "9/26/2025 12:15:19",
+    "link": "https://chatgpt.com/g/g-p-6803b20078748191bf5ad9be8e8ab461-si-systems-official-folder-structure/c/68067b73-099c-8013-9051-d19a3c885c6e"
+  },
+  "stats": {
+    "totalExchanges": 10,
+    "totalSections": 34,
+    "totalTables": 1,
+    "totalLists": 77
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 9,
+      "locations": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 9,
+      "locations": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 9,
+      "locations": [
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 8,
+      "locations": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 1,
+      "locations": [
+        3
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 1,
+      "locations": [
+        3
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 1,
+      "locations": [
+        5
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 1,
+      "locations": [
+        5
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.366Z"
+}

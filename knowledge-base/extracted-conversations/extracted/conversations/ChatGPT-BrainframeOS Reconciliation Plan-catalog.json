@@ -1,0 +1,223 @@
+{
+  "sourceFile": "ChatGPT-BrainframeOS Reconciliation Plan.md",
+  "metadata": {
+    "title": "BrainframeOS Reconciliation Plan",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/14/2025 15:04:06",
+    "updated": "6/24/2025 10:20:31",
+    "exported": "10/9/2025 22:47:22",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67fd15d5-ae78-8013-9d3b-5f7d896f0503"
+  },
+  "stats": {
+    "totalExchanges": 48,
+    "totalSections": 64,
+    "totalTables": 14,
+    "totalLists": 196
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 86,
+      "locations": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 84,
+      "locations": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 84,
+      "locations": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 16,
+      "locations": [
+        2,
+        8,
+        10,
+        11,
+        22,
+        25,
+        33,
+        35,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "IdentityEngine",
+      "count": 10,
+      "locations": [
+        4,
+        5,
+        7,
+        18,
+        19,
+        22,
+        27,
+        33
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 9,
+      "locations": [
+        19,
+        29,
+        31,
+        33,
+        43,
+        45,
+        47
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 9,
+      "locations": [
+        19,
+        29,
+        31,
+        33,
+        43,
+        45,
+        47
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 3,
+      "locations": [
+        22
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 3,
+      "locations": [
+        22
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 3,
+      "locations": [
+        35,
+        43,
+        45
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.665Z"
+}

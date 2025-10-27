@@ -1,0 +1,68 @@
+{
+  "sourceFile": "ChatGPT-Using BrainFrame.md",
+  "metadata": {
+    "title": "Using BrainFrame",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/30/2025 2:18:17",
+    "updated": "4/24/2025 8:20:58",
+    "exported": "9/26/2025 12:57:49",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e89bd9-d610-8013-9d31-01533b1e1608"
+  },
+  "stats": {
+    "totalExchanges": 18,
+    "totalSections": 38,
+    "totalTables": 5,
+    "totalLists": 61
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 64,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 13,
+      "locations": [
+        8,
+        9,
+        11,
+        13,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 13,
+      "locations": [
+        8,
+        9,
+        11,
+        13,
+        14,
+        15,
+        17
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.979Z"
+}

@@ -1,0 +1,104 @@
+{
+  "sourceFile": "ChatGPT-Personality and Learning Profile.md",
+  "metadata": {
+    "title": "Personality and Learning Profile",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "5/5/2025 15:54:28",
+    "updated": "5/6/2025 11:24:12",
+    "exported": "10/9/2025 22:42:17",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/6818d124-22a0-8013-ac75-ca6d2cde1a22"
+  },
+  "stats": {
+    "totalExchanges": 6,
+    "totalSections": 32,
+    "totalTables": 4,
+    "totalLists": 47
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 7,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 6,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 6,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 4,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 3,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 3,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 3,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 1,
+      "locations": [
+        5
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 1,
+      "locations": [
+        5
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.424Z"
+}

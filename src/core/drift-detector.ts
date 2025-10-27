@@ -104,7 +104,7 @@ export class DriftDetector {
   /**
    * Analyze rhythm alignment (pace, detail level, response style)
    */
-  private analyzeRhythmAlignment(userMessage: string, aiResponse: string): number {
+  protected analyzeRhythmAlignment(userMessage: string, aiResponse: string): number {
     const preferredRhythm = this.baselineIdentity.communicationRhythm;
     const responseRhythm = this.detectRhythm(aiResponse);
 
@@ -122,7 +122,7 @@ export class DriftDetector {
   /**
    * Analyze context alignment (information density, detail level)
    */
-  private analyzeContextAlignment(userMessage: string, aiResponse: string): number {
+  protected analyzeContextAlignment(userMessage: string, aiResponse: string): number {
     const preferredContext = this.baselineIdentity.contextLevel;
     const responseContext = this.detectContextLevel(aiResponse);
 
@@ -136,7 +136,7 @@ export class DriftDetector {
   /**
    * Identify specific drift flags based on dimension scores
    */
-  private identifyDriftFlags(dimensions: DriftScore['dimensions']): DriftScore['flags'] {
+  protected identifyDriftFlags(dimensions: DriftScore['dimensions']): DriftScore['flags'] {
     const flags: DriftScore['flags'] = [];
 
     if (dimensions.toneAlignment > 0.4) flags.push('tone_shift');
@@ -155,7 +155,7 @@ export class DriftDetector {
   /**
    * Get recommendation based on drift score and flags
    */
-  private getRecommendation(
+  protected getRecommendation(
     overall: number,
     flags: DriftScore['flags']
   ): DriftScore['recommendation'] {
@@ -171,7 +171,7 @@ export class DriftDetector {
   /**
    * Calculate confidence in drift assessment
    */
-  private calculateConfidence(context: InteractionContext): number {
+  protected calculateConfidence(context: InteractionContext): number {
     let confidence = 0.5; // Base confidence
 
     // Increase confidence with more data

@@ -1,0 +1,80 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Integrity Guardrails.md",
+  "metadata": {
+    "title": "BrainFrame Integrity Guardrails",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/25/2025 21:29:25",
+    "updated": "8/10/2025 12:29:07",
+    "exported": "10/9/2025 15:44:48",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e32034-de14-8013-be83-53a1689eb72f"
+  },
+  "stats": {
+    "totalExchanges": 22,
+    "totalSections": 38,
+    "totalTables": 10,
+    "totalLists": 82
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 72,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        21
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 12,
+      "locations": [
+        10,
+        11,
+        12,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 12,
+      "locations": [
+        10,
+        11,
+        12,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 1,
+      "locations": [
+        19
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 1,
+      "locations": [
+        19
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.083Z"
+}

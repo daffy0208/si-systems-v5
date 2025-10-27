@@ -1,0 +1,92 @@
+{
+  "sourceFile": "ChatGPT-Dark Matter Mode Insights.md",
+  "metadata": {
+    "title": "Dark Matter Mode Insights",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/27/2025 15:24:15",
+    "updated": "3/31/2025 9:12:08",
+    "exported": "10/9/2025 15:33:18",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e56d9f-59f0-8013-97bd-e1ae2f491017"
+  },
+  "stats": {
+    "totalExchanges": 46,
+    "totalSections": 89,
+    "totalTables": 11,
+    "totalLists": 181
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 86,
+      "locations": [
+        0,
+        1,
+        3,
+        9,
+        11,
+        13,
+        15,
+        16,
+        17,
+        19,
+        21,
+        23,
+        27,
+        35,
+        37,
+        40,
+        41,
+        42,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 36,
+      "locations": [
+        0,
+        1,
+        3,
+        9,
+        11,
+        16,
+        17,
+        19,
+        21,
+        23,
+        35,
+        37,
+        40,
+        41,
+        42,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 36,
+      "locations": [
+        0,
+        1,
+        3,
+        9,
+        11,
+        16,
+        17,
+        19,
+        21,
+        23,
+        35,
+        37,
+        40,
+        41,
+        42,
+        43,
+        45
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.820Z"
+}

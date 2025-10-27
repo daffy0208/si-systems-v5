@@ -1,0 +1,76 @@
+{
+  "sourceFile": "ChatGPT-AI Tier Overview.md",
+  "metadata": {
+    "title": "AI Tier Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/7/2025 15:23:07",
+    "updated": "4/11/2025 23:02:14",
+    "exported": "10/9/2025 15:55:48",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67f3dfcb-039c-8013-8cd5-95ee44c18061"
+  },
+  "stats": {
+    "totalExchanges": 16,
+    "totalSections": 14,
+    "totalTables": 16,
+    "totalLists": 38
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 6,
+      "locations": [
+        15
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 4,
+      "locations": [
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 3,
+      "locations": [
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 3,
+      "locations": [
+        15
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 3,
+      "locations": [
+        15
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 2,
+      "locations": [
+        15
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 2,
+      "locations": [
+        15
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 2,
+      "locations": [
+        15
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.834Z"
+}

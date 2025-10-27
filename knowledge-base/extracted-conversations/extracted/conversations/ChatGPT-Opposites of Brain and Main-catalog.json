@@ -1,0 +1,54 @@
+{
+  "sourceFile": "ChatGPT-Opposites of Brain and Main.md",
+  "metadata": {
+    "title": "Opposites of Brain and Main",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/25/2025 22:28:43",
+    "updated": "4/24/2025 8:15:53",
+    "exported": "9/26/2025 12:55:53",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e32e1b-83ac-8013-a9f0-3525cf8726ca"
+  },
+  "stats": {
+    "totalExchanges": 16,
+    "totalSections": 35,
+    "totalTables": 14,
+    "totalLists": 43
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 46,
+      "locations": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 6,
+      "locations": [
+        14,
+        15
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 6,
+      "locations": [
+        14,
+        15
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.395Z"
+}

@@ -1,0 +1,20 @@
+# In another chat in this project folder I looked at \.... Would You Like
+
+## Metadata
+
+- **User**: undefined
+- **Created**: undefined
+- **Updated**: undefined
+- **Exported**: undefined
+- **Link**: [ChatGPT](undefined)
+- **Extracted**: 2025-10-25T18:34:51.141Z
+
+## Concept Summary
+
+**Total Exchanges**: 0
+
+| Concept | Mentions | Locations |
+|---------|----------|----------|
+
+## Exchanges
+

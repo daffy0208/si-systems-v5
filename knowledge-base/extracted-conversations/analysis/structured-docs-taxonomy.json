@@ -1,0 +1,44 @@
+{
+  "generatedDate": "2025-10-25T18:40:21.484Z",
+  "totalDocuments": 0,
+  "categories": {},
+  "documents": [],
+  "recommendations": [
+    {
+      "category": "CLISA",
+      "processingMethod": "Semantic Indexing",
+      "priority": "High",
+      "reason": "AI risk framework - critical for compliance and validation queries"
+    },
+    {
+      "category": "SI Systems - Philosophy",
+      "processingMethod": "Concept Extraction",
+      "priority": "High",
+      "reason": "Core principles - foundational concepts for system understanding"
+    },
+    {
+      "category": "BrainFrameOS - System Structure",
+      "processingMethod": "Hierarchical Indexing",
+      "priority": "High",
+      "reason": "System architecture - critical for technical understanding"
+    },
+    {
+      "category": "BrainFrameOS - Core Components",
+      "processingMethod": "Component Mapping",
+      "priority": "High",
+      "reason": "Large volume (likely ~400 files) - needs efficient component-based indexing"
+    },
+    {
+      "category": "BrainFrameOS - User Documentation",
+      "processingMethod": "Task-Based Indexing",
+      "priority": "Medium",
+      "reason": "User guides - optimize for \"how to\" queries"
+    },
+    {
+      "category": "BrainFrameOS - Management Tools",
+      "processingMethod": "Tool Documentation",
+      "priority": "Medium",
+      "reason": "Operational tools - index for workflow queries"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS System Check.md",
+  "metadata": {
+    "title": "BrainFrameOS System Check",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/3/2025 0:36:07",
+    "updated": "4/20/2025 23:29:46",
+    "exported": "9/26/2025 12:44:57",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67edc9e6-e588-8013-b9b1-56a55c7c0979"
+  },
+  "stats": {
+    "totalExchanges": 26,
+    "totalSections": 45,
+    "totalTables": 1,
+    "totalLists": 140
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 36,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 33,
+      "locations": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 33,
+      "locations": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 10,
+      "locations": [
+        1,
+        5,
+        7,
+        9,
+        11,
+        17,
+        19,
+        21,
+        25
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 10,
+      "locations": [
+        1,
+        5,
+        7,
+        9,
+        11,
+        17,
+        19,
+        21,
+        25
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.503Z"
+}

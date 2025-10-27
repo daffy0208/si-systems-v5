@@ -1,0 +1,72 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame V2.0 Summary.md",
+  "metadata": {
+    "title": "BrainFrame V2.0 Summary",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/1/2025 9:40:48",
+    "updated": "4/8/2025 23:18:23",
+    "exported": "9/26/2025 12:23:45",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67eba690-3cc4-8013-a7f8-bfacef3e205d"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 13,
+    "totalTables": 16,
+    "totalLists": 64
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 22,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 16,
+      "locations": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 16,
+      "locations": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 1,
+      "locations": [
+        11
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 1,
+      "locations": [
+        11
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.179Z"
+}

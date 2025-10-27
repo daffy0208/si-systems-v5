@@ -1,0 +1,81 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame 2.0 Test.md",
+  "metadata": {
+    "title": "BrainFrame 2.0 Test",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/1/2025 12:16:22",
+    "updated": "4/8/2025 23:14:46",
+    "exported": "9/26/2025 12:23:30",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67ebcb06-b1e8-8013-b89b-c7cb69288e32"
+  },
+  "stats": {
+    "totalExchanges": 26,
+    "totalSections": 51,
+    "totalTables": 2,
+    "totalLists": 86
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 38,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 37,
+      "locations": [
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 37,
+      "locations": [
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.958Z"
+}

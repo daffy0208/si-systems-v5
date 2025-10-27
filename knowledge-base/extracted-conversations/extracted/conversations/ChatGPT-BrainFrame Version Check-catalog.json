@@ -1,0 +1,36 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Version Check.md",
+  "metadata": {
+    "title": "BrainFrame Version Check",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/29/2025 0:28:22",
+    "updated": "4/24/2025 8:20:43",
+    "exported": "9/26/2025 12:57:01",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e73ea6-40f4-8013-a8ad-1b0bd3f8bb79"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 18,
+    "totalTables": 6,
+    "totalLists": 32
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 58,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.186Z"
+}

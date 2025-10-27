@@ -1,0 +1,79 @@
+{
+  "sourceFile": "ChatGPT-Using BrainFrame for Clarity.md",
+  "metadata": {
+    "title": "Using BrainFrame for Clarity",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/29/2025 23:19:29",
+    "updated": "4/24/2025 8:21:00",
+    "exported": "9/26/2025 12:58:11",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e88001-1bf4-8013-b178-f1634ccd3258"
+  },
+  "stats": {
+    "totalExchanges": 22,
+    "totalSections": 34,
+    "totalTables": 14,
+    "totalLists": 79
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 52,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 18,
+      "locations": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 18,
+      "locations": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.965Z"
+}

@@ -1,0 +1,78 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Personality Drift.md",
+  "metadata": {
+    "title": "BrainFrameOS Personality Drift",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/30/2025 15:27:48",
+    "updated": "5/27/2025 16:51:57",
+    "exported": "10/9/2025 22:46:00",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67e954e4-2640-8013-9879-04fce0026926"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 35,
+    "totalTables": 0,
+    "totalLists": 44
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 26,
+      "locations": [
+        0,
+        1,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 15,
+      "locations": [
+        0,
+        1,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 15,
+      "locations": [
+        0,
+        1,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 7,
+      "locations": [
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 5,
+      "locations": [
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 2,
+      "locations": [
+        9,
+        11
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.429Z"
+}

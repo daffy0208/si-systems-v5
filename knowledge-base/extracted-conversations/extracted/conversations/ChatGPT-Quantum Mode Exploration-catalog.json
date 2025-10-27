@@ -1,0 +1,41 @@
+{
+  "sourceFile": "ChatGPT-Quantum Mode Exploration.md",
+  "metadata": {
+    "title": "Quantum Mode Exploration",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/3/2025 16:26:23",
+    "updated": "4/19/2025 22:16:09",
+    "exported": "9/26/2025 12:43:40",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67eea89f-065c-8013-bbb6-c2d6247d3ae3"
+  },
+  "stats": {
+    "totalExchanges": 4,
+    "totalSections": 4,
+    "totalTables": 0,
+    "totalLists": 14
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 2,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.470Z"
+}

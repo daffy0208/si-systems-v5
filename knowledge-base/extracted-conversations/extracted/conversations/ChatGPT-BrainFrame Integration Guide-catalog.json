@@ -1,0 +1,68 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Integration Guide.md",
+  "metadata": {
+    "title": "BrainFrame Integration Guide",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/24/2025 15:30:39",
+    "updated": "3/31/2025 9:05:19",
+    "exported": "10/9/2025 15:32:36",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e17a9f-907c-8013-a2b5-76fb40f16893"
+  },
+  "stats": {
+    "totalExchanges": 34,
+    "totalSections": 96,
+    "totalTables": 19,
+    "totalLists": 152
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 157,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        33
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 9,
+      "locations": [
+        30,
+        31,
+        33
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 9,
+      "locations": [
+        30,
+        31,
+        33
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.067Z"
+}

@@ -1,0 +1,67 @@
+{
+  "sourceFile": "ChatGPT-Using BrainFrame Overview.md",
+  "metadata": {
+    "title": "Using BrainFrame Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/30/2025 9:40:18",
+    "updated": "5/27/2025 16:53:59",
+    "exported": "10/9/2025 15:29:45",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e90372-cfb4-8013-9141-eb1cd1ac15c7"
+  },
+  "stats": {
+    "totalExchanges": 20,
+    "totalSections": 40,
+    "totalTables": 4,
+    "totalLists": 74
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 65,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        11,
+        13,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 1,
+      "locations": [
+        17
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 1,
+      "locations": [
+        17
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 1,
+      "locations": [
+        17
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 1,
+      "locations": [
+        17
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.956Z"
+}

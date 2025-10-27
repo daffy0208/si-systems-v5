@@ -1,0 +1,52 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Summary Recap.md",
+  "metadata": {
+    "title": "BrainFrame Summary Recap",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/26/2025 14:57:28",
+    "updated": "8/10/2025 12:28:48",
+    "exported": "10/9/2025 15:44:40",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e415d7-ce1c-8013-b38c-ac18188c9711"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 19,
+    "totalTables": 3,
+    "totalLists": 34
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 44,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 17,
+      "locations": [
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 17,
+      "locations": [
+        6,
+        7,
+        9
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.156Z"
+}

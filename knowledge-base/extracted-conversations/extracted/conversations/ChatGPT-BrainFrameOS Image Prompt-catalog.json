@@ -1,0 +1,61 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Image Prompt.md",
+  "metadata": {
+    "title": "BrainFrameOS Image Prompt",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/14/2025 13:39:43",
+    "updated": "4/15/2025 9:15:46",
+    "exported": "9/26/2025 12:26:54",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67fd020e-a168-8013-9563-993d7de35131"
+  },
+  "stats": {
+    "totalExchanges": 9,
+    "totalSections": 1,
+    "totalTables": 0,
+    "totalLists": 3
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 4,
+      "locations": [
+        0,
+        1,
+        8
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 3,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 3,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 3,
+      "locations": [
+        1,
+        8
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 3,
+      "locations": [
+        1,
+        8
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.373Z"
+}

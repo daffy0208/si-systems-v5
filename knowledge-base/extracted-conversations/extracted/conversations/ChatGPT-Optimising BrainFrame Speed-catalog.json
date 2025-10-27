@@ -1,0 +1,48 @@
+{
+  "sourceFile": "ChatGPT-Optimising BrainFrame Speed.md",
+  "metadata": {
+    "title": "Optimising BrainFrame Speed",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/1/2025 9:08:50",
+    "updated": "4/8/2025 23:19:13",
+    "exported": "9/26/2025 12:24:01",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67eb9f12-0280-8013-915b-4a99178ffb59"
+  },
+  "stats": {
+    "totalExchanges": 6,
+    "totalSections": 19,
+    "totalTables": 4,
+    "totalLists": 32
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 8,
+      "locations": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 4,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 4,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.402Z"
+}

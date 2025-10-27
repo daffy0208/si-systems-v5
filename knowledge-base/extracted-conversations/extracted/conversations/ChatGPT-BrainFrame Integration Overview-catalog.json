@@ -1,0 +1,59 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Integration Overview.md",
+  "metadata": {
+    "title": "BrainFrame Integration Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/30/2025 9:45:08",
+    "updated": "4/24/2025 8:15:00",
+    "exported": "9/26/2025 12:53:38",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e90494-5548-8013-8093-397961950a82"
+  },
+  "stats": {
+    "totalExchanges": 14,
+    "totalSections": 8,
+    "totalTables": 1,
+    "totalLists": 18
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 24,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 6,
+      "locations": [
+        2,
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 6,
+      "locations": [
+        2,
+        3,
+        5,
+        7,
+        9
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.074Z"
+}

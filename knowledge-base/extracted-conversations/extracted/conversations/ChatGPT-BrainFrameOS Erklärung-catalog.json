@@ -1,0 +1,69 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Erklärung.md",
+  "metadata": {
+    "title": "BrainFrameOS Erklärung",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/28/2025 22:48:11",
+    "updated": "4/24/2025 8:15:36",
+    "exported": "9/26/2025 12:55:40",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e7272b-2664-8013-973d-46aad866ac49"
+  },
+  "stats": {
+    "totalExchanges": 16,
+    "totalSections": 30,
+    "totalTables": 2,
+    "totalLists": 62
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 60,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 59,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 59,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.333Z"
+}

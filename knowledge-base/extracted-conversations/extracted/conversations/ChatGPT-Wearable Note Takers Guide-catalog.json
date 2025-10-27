@@ -1,0 +1,83 @@
+{
+  "sourceFile": "ChatGPT-Wearable Note Takers Guide.md",
+  "metadata": {
+    "title": "Wearable Note Takers Guide",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/12/2025 21:37:27",
+    "updated": "4/15/2025 9:16:50",
+    "exported": "9/26/2025 12:27:18",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67facf06-eabc-8013-8264-5cb15146ff13"
+  },
+  "stats": {
+    "totalExchanges": 14,
+    "totalSections": 29,
+    "totalTables": 6,
+    "totalLists": 67
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 12,
+      "locations": [
+        1,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 12,
+      "locations": [
+        1,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 12,
+      "locations": [
+        1,
+        7,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 6,
+      "locations": [
+        6,
+        7
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 6,
+      "locations": [
+        6,
+        7
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 3,
+      "locations": [
+        1,
+        5,
+        9
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 2,
+      "locations": [
+        1,
+        5
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.998Z"
+}

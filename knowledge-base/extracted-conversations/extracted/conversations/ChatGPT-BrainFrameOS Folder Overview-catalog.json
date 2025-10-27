@@ -1,0 +1,140 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Folder Overview.md",
+  "metadata": {
+    "title": "BrainFrameOS Folder Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/31/2025 22:02:44",
+    "updated": "4/21/2025 0:27:51",
+    "exported": "9/25/2025 16:15:09",
+    "link": "https://chatgpt.com/g/g-p-67ea589cc4f4819182caf79754c351d0-brainframeos-information-management/c/67eb02f2-fe98-8013-ab5d-1d5b2efb2931"
+  },
+  "stats": {
+    "totalExchanges": 20,
+    "totalSections": 21,
+    "totalTables": 0,
+    "totalLists": 56
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 34,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 29,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 29,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 23,
+      "locations": [
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        17
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 4,
+      "locations": [
+        5,
+        17
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 4,
+      "locations": [
+        5,
+        17
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 4,
+      "locations": [
+        5,
+        9,
+        17
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 4,
+      "locations": [
+        6,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 4,
+      "locations": [
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 4,
+      "locations": [
+        11,
+        13,
+        15
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.359Z"
+}

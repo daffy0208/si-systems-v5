@@ -1,0 +1,62 @@
+{
+  "sourceFile": "ChatGPT-Mode Switching Integration.md",
+  "metadata": {
+    "title": "Mode Switching Integration",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/29/2025 15:04:44",
+    "updated": "4/28/2025 16:20:23",
+    "exported": "10/9/2025 15:37:13",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e80c0c-1dd0-8013-9e9c-610fcac73f33"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 21,
+    "totalTables": 0,
+    "totalLists": 25
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 18,
+      "locations": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 13,
+      "locations": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        9,
+        11
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 13,
+      "locations": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        9,
+        11
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.324Z"
+}

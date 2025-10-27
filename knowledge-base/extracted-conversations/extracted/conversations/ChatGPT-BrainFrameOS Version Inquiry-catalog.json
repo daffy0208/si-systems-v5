@@ -1,0 +1,69 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Version Inquiry.md",
+  "metadata": {
+    "title": "BrainFrameOS Version Inquiry",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/30/2025 15:12:12",
+    "updated": "4/8/2025 23:22:22",
+    "exported": "9/26/2025 12:24:24",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e9513c-a240-8013-903e-3d8b72c3c36c"
+  },
+  "stats": {
+    "totalExchanges": 16,
+    "totalSections": 32,
+    "totalTables": 13,
+    "totalLists": 48
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 18,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 16,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 16,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        13,
+        15
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.531Z"
+}

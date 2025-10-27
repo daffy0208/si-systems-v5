@@ -1,0 +1,58 @@
+{
+  "sourceFile": "ChatGPT-BrainFrameOS Simulation Limitations.md",
+  "metadata": {
+    "title": "BrainFrameOS Simulation Limitations",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/13/2025 21:00:02",
+    "updated": "4/13/2025 21:00:44",
+    "exported": "10/9/2025 15:59:03",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67fc17c1-88cc-8013-82ff-f6c994670168"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 3,
+    "totalTables": 1,
+    "totalLists": 6
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 4,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 4,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 4,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.472Z"
+}

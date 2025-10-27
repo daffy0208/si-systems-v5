@@ -44,3 +44,14 @@ export type {
   DriftTrend,
   QueryOptions,
 } from './persistence';
+
+// API Adapters (Phase 1 - P1-2)
+export { LLMAdapter, OpenAIAdapter, AnthropicAdapter } from './adapters';
+export type {
+  AdapterMessage,
+  AdapterConfig,
+  ChatOptions,
+  ChatResponse,
+  StreamChunk,
+  AdapterMetrics,
+} from './adapters';

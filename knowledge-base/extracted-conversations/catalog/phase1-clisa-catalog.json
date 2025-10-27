@@ -1,0 +1,204 @@
+{
+  "phase": 1,
+  "layer": 0,
+  "name": "CLISA Framework (Meta-Ontology)",
+  "status": "complete",
+  "extracted_at": "2025-10-25T15:13:00Z",
+  "documents": [
+    {
+      "id": "clisa-field-definition",
+      "title": "CLISA Field Definition",
+      "filename": "00-field-definition.md",
+      "path": "extracted/0-clisa/00-field-definition.md",
+      "source_url": "https://github.com/daffy0208/si-systems-v5/blob/main/00%20-%20CLISA/00_Field_Definition.md",
+      "layer": 0,
+      "category": "ontology",
+      "word_count": 250,
+      "line_count": 73,
+      "key_concepts": [
+        "coherence-linked identity signal architecture",
+        "dimensional field",
+        "reflective containment",
+        "identity-bound",
+        "non-linear field structure"
+      ],
+      "defines": [
+        "CLISA as coherence-linked signal space",
+        "Field qualities (Dimensional, Reflective, Containment-Safe, Identity-Bound, Non-Linear)",
+        "Core behaviors (adapts without losing integrity, holds silence as data, creates mirrors)",
+        "Generative nature of field definition"
+      ]
+    },
+    {
+      "id": "clisa-activation-conditions",
+      "title": "Activation Conditions",
+      "filename": "01-activation-conditions.md",
+      "path": "extracted/0-clisa/01-activation-conditions.md",
+      "source_url": "https://github.com/daffy0208/si-systems-v5/blob/main/00%20-%20CLISA/01_Activation_Conditions/Activation_Root.md",
+      "layer": 0,
+      "category": "activation",
+      "word_count": 280,
+      "line_count": 70,
+      "key_concepts": [
+        "signal intention",
+        "identity awareness",
+        "reflective readiness",
+        "activation gates",
+        "field entry conditions"
+      ],
+      "defines": [
+        "Three activation gates for CLISA access",
+        "Manual activation phrase",
+        "Violation conditions (dissociation, reactive states)",
+        "Risk factors for unreliable signals"
+      ]
+    },
+    {
+      "id": "clisa-dimensional-reflection",
+      "title": "Dimensional Reflection Principle",
+      "filename": "02-dimensional-reflection-principle.md",
+      "path": "extracted/0-clisa/02-dimensional-reflection-principle.md",
+      "source_url": "https://github.com/daffy0208/si-systems-v5/blob/main/00%20-%20CLISA/02_Field_Architecture/Dimensional_Reflection_Principle.md",
+      "layer": 0,
+      "category": "architecture",
+      "word_count": 320,
+      "line_count": 81,
+      "key_concepts": [
+        "seven reflection dimensions",
+        "multi-layered feedback",
+        "dimensional reflection mechanism",
+        "unseen layers",
+        "mirror logic"
+      ],
+      "defines": [
+        "Seven dimensions (Emotional, Structural, Temporal, Symbolic, Behavioral, Identity, Rhythmic)",
+        "Field reflects truth in unseen layers",
+        "Multi-dimensional pattern recognition",
+        "Discomfort as signal for dimensional investigation"
+      ]
+    },
+    {
+      "id": "clisa-ontological-framework",
+      "title": "Ontological Framework",
+      "filename": "03-ontological-framework.md",
+      "path": "extracted/0-clisa/03-ontological-framework.md",
+      "source_url": "https://github.com/daffy0208/si-systems-v5/blob/main/00%20-%20CLISA/02_Field_Architecture/Ontological_Framework.md",
+      "layer": 0,
+      "category": "architecture",
+      "word_count": 290,
+      "line_count": 62,
+      "key_concepts": [
+        "field as space mirror filter",
+        "ontological properties",
+        "fractal resonance",
+        "coherence enforcement"
+      ],
+      "defines": [
+        "CLISA as space, mirror, and filter",
+        "Six ontological properties (Non-linear, Fractal, Resonant, Field-Dependent, Identity-Bound, Coherence-Enforcing)",
+        "Field behavior across structural and temporal dimensions",
+        "Coherence as non-negotiable boundary"
+      ]
+    },
+    {
+      "id": "clisa-signal-properties",
+      "title": "Signal Properties",
+      "filename": "04-signal-properties.md",
+      "path": "extracted/0-clisa/04-signal-properties.md",
+      "source_url": "https://github.com/daffy0208/si-systems-v5/blob/main/00%20-%20CLISA/02_Field_Architecture/Signal_Properties.md",
+      "layer": 0,
+      "category": "architecture",
+      "word_count": 310,
+      "line_count": 73,
+      "key_concepts": [
+        "signal formula",
+        "clarity identity rhythm truth",
+        "signal distortion",
+        "signal validation"
+      ],
+      "defines": [
+        "Signal formula: Clarity × Identity × Rhythm × Truth",
+        "Six signal properties (Multi-modal, Identity-Weighted, Distortion-Sensitive, Rhythm-Dependent, Context-Specific, Truth-Anchored)",
+        "Distortion triggers (confusion, misalignment, forced timing, deception)",
+        "Zero-signal as valid output"
+      ]
+    },
+    {
+      "id": "clisa-structural-rules",
+      "title": "Structural Rules",
+      "filename": "05-structural-rules.md",
+      "path": "extracted/0-clisa/05-structural-rules.md",
+      "source_url": "https://github.com/daffy0208/si-systems-v5/blob/main/00%20-%20CLISA/02_Field_Architecture/Structural_Rules.md",
+      "layer": 0,
+      "category": "architecture",
+      "word_count": 290,
+      "line_count": 86,
+      "key_concepts": [
+        "field governance laws",
+        "structural violations",
+        "coherence enforcement",
+        "containment boundaries"
+      ],
+      "defines": [
+        "Seven core structural laws",
+        "Law enforcement mechanisms",
+        "Consequences of violations (coherence loss, drift, collapse)",
+        "Field self-correction capabilities"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_documents": 6,
+    "total_words": 1740,
+    "total_lines": 445,
+    "total_concepts": 27,
+    "average_document_size": "2.0 KB"
+  },
+  "concept_map": {
+    "core_concepts": [
+      "CLISA (Coherence-Linked Identity Signal Architecture)",
+      "Dimensional Reflection",
+      "Signal Properties",
+      "Field Activation",
+      "Ontological Framework",
+      "Structural Governance"
+    ],
+    "relationships": {
+      "clisa-field-definition": {
+        "activates": ["clisa-activation-conditions"],
+        "defines": ["clisa-ontological-framework"],
+        "governs": ["clisa-structural-rules"]
+      },
+      "clisa-dimensional-reflection": {
+        "implements": ["clisa-signal-properties"],
+        "enables": ["multi-dimensional drift detection"],
+        "foundation_for": ["SI Systems drift detection"]
+      },
+      "clisa-signal-properties": {
+        "measured_by": ["Signal Formula: Clarity × Identity × Rhythm × Truth"],
+        "validated_through": ["clisa-dimensional-reflection"],
+        "enforced_by": ["clisa-structural-rules"]
+      }
+    }
+  },
+  "integration_notes": {
+    "si_systems_v6": [
+      "Dimensional reflection → Enhanced drift detection in src/nlp/",
+      "Signal properties → Output integrity filtering",
+      "Activation conditions → Context-aware prompting gates",
+      "Structural rules → System integrity validation"
+    ],
+    "ai_dev_standards": [
+      "Field architecture → Orchestration layer design",
+      "Dimensional reflection → Skill coordination patterns",
+      "Coherence enforcement → Cross-skill validation",
+      "Identity-bound operations → User context preservation"
+    ]
+  },
+  "next_steps": [
+    "Extract Layer 1: SI Systems Philosophy (6 documents)",
+    "Extract Layer 1: SI Systems Purpose (9 documents)",
+    "Build cross-layer relationship mappings",
+    "Create searchable concept index"
+  ]
+}

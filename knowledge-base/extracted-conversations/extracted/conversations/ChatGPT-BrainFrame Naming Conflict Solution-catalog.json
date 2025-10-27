@@ -1,0 +1,64 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Naming Conflict Solution.md",
+  "metadata": {
+    "title": "BrainFrame Naming Conflict Solution",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/1/2025 14:54:49",
+    "updated": "5/27/2025 16:53:28",
+    "exported": "10/9/2025 15:29:18",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67ebf029-6100-8013-b7d0-65b47c476951"
+  },
+  "stats": {
+    "totalExchanges": 8,
+    "totalSections": 27,
+    "totalTables": 1,
+    "totalLists": 42
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 24,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 10,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 10,
+      "locations": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 3,
+      "locations": [
+        5
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 3,
+      "locations": [
+        5
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.108Z"
+}

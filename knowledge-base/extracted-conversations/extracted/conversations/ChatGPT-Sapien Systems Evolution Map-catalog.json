@@ -1,0 +1,97 @@
+{
+  "sourceFile": "ChatGPT-Sapien Systems Evolution Map.md",
+  "metadata": {
+    "title": "Sapien Systems Evolution Map",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/16/2025 0:44:15",
+    "updated": "4/19/2025 21:49:23",
+    "exported": "9/26/2025 12:38:25",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67feef4e-f084-8013-8be0-53218c491875"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 0,
+    "totalTables": 0,
+    "totalLists": 16
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 25,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 10,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 8,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 8,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 5,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 5,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 5,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 4,
+      "locations": [
+        0
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.756Z"
+}

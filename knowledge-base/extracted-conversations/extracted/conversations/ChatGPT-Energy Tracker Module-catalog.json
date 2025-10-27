@@ -1,0 +1,61 @@
+{
+  "sourceFile": "ChatGPT-Energy Tracker Module.md",
+  "metadata": {
+    "title": "Energy Tracker Module",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/28/2025 12:26:19",
+    "updated": "4/24/2025 8:20:40",
+    "exported": "9/26/2025 12:56:51",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e6956a-fb7c-8013-bfcd-47bea910b68e"
+  },
+  "stats": {
+    "totalExchanges": 23,
+    "totalSections": 24,
+    "totalTables": 0,
+    "totalLists": 56
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 13,
+      "locations": [
+        0,
+        1,
+        5,
+        9,
+        17,
+        18,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 10,
+      "locations": [
+        0,
+        1,
+        5,
+        18,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 10,
+      "locations": [
+        0,
+        1,
+        5,
+        18,
+        20,
+        21,
+        22
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.908Z"
+}

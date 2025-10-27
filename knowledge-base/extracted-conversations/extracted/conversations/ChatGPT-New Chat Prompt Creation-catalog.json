@@ -1,0 +1,44 @@
+{
+  "sourceFile": "ChatGPT-New Chat Prompt Creation.md",
+  "metadata": {
+    "title": "New Chat Prompt Creation",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/24/2025 14:42:35",
+    "updated": "4/24/2025 14:42:44",
+    "exported": "10/9/2025 22:40:51",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/680a3fca-07a8-8013-bdfb-57305fa351d1"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 1,
+    "totalTables": 0,
+    "totalLists": 3
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 4,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 4,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 4,
+      "locations": [
+        0,
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.346Z"
+}

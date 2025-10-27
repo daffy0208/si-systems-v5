@@ -1,0 +1,92 @@
+{
+  "sourceFile": "ChatGPT-Sapien Philosophy System Layer.md",
+  "metadata": {
+    "title": "Sapien Philosophy System Layer",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/18/2025 20:35:41",
+    "updated": "4/19/2025 21:44:28",
+    "exported": "9/26/2025 12:34:02",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/6802a98c-fa0c-8013-8734-bbff350c8a01"
+  },
+  "stats": {
+    "totalExchanges": 16,
+    "totalSections": 25,
+    "totalTables": 0,
+    "totalLists": 34
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 15,
+      "locations": [
+        0,
+        1,
+        5,
+        7,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 7,
+      "locations": [
+        1,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 4,
+      "locations": [
+        1,
+        3,
+        15
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 4,
+      "locations": [
+        1,
+        3,
+        15
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.733Z"
+}

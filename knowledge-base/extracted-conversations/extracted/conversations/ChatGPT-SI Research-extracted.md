@@ -1,0 +1,20 @@
+# SI Research
+
+## Metadata
+
+- **User**: David Dunlop (david.d.dunlop@gmail.com)
+- **Created**: 
+- **Updated**: 
+- **Exported**: 9/25/2025 16:09:48
+- **Link**: [ChatGPT](https://chatgpt.com/g/g-p-67f0430669108191919827cd32b66fbf-si-research/project)
+- **Extracted**: 2025-10-25T18:33:07.579Z
+
+## Concept Summary
+
+**Total Exchanges**: 0
+
+| Concept | Mentions | Locations |
+|---------|----------|----------|
+
+## Exchanges
+

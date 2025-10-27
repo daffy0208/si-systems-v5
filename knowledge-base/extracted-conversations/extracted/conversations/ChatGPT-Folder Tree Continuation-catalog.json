@@ -1,0 +1,270 @@
+{
+  "sourceFile": "ChatGPT-Folder Tree Continuation.md",
+  "metadata": {
+    "title": "Folder Tree Continuation",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/12/2025 0:04:34",
+    "updated": "4/15/2025 9:15:21",
+    "exported": "9/26/2025 12:26:34",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67f9a002-b9fc-8013-a8f2-48a2ba5c0353"
+  },
+  "stats": {
+    "totalExchanges": 70,
+    "totalSections": 65,
+    "totalTables": 7,
+    "totalLists": 137
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 111,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        20,
+        21,
+        23,
+        25,
+        29,
+        33,
+        37,
+        39,
+        40,
+        41,
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        56,
+        57,
+        59,
+        61,
+        63,
+        64,
+        65,
+        68
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 50,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        17,
+        19,
+        20,
+        23,
+        25,
+        28,
+        29,
+        31,
+        33,
+        37,
+        39,
+        40,
+        41,
+        45,
+        46,
+        47,
+        49,
+        51,
+        57,
+        59,
+        61,
+        64,
+        66,
+        67
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 49,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        17,
+        19,
+        20,
+        23,
+        25,
+        29,
+        31,
+        33,
+        37,
+        39,
+        40,
+        41,
+        45,
+        46,
+        47,
+        49,
+        51,
+        57,
+        59,
+        61,
+        64,
+        66,
+        67
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 49,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        17,
+        19,
+        20,
+        23,
+        25,
+        29,
+        31,
+        33,
+        37,
+        39,
+        40,
+        41,
+        45,
+        46,
+        47,
+        49,
+        51,
+        57,
+        59,
+        61,
+        64,
+        66,
+        67
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 23,
+      "locations": [
+        20,
+        23,
+        29,
+        39,
+        40,
+        41,
+        45,
+        51,
+        57,
+        63,
+        64
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 23,
+      "locations": [
+        20,
+        23,
+        29,
+        39,
+        40,
+        41,
+        45,
+        51,
+        57,
+        63,
+        64
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 13,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        9,
+        11,
+        25,
+        33,
+        37,
+        39,
+        57,
+        68
+      ]
+    },
+    {
+      "concept": "IdentityEngine",
+      "count": 11,
+      "locations": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        17,
+        19,
+        20,
+        23
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 7,
+      "locations": [
+        1,
+        31,
+        33,
+        47,
+        49,
+        57
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 7,
+      "locations": [
+        1,
+        31,
+        33,
+        47,
+        49,
+        57
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 2,
+      "locations": [
+        25
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.008Z"
+}

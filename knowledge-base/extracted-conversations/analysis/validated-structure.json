@@ -1,0 +1,706 @@
+{
+  "rootName": "Sapien_Intelligence_v4.0",
+  "version": "4.0",
+  "overallConfidence": 0.55,
+  "totalTiers": 42,
+  "totalSources": 42,
+  "tiers": [
+    {
+      "tierNumber": "00",
+      "canonicalName": "00_Sapien_Field_Definition",
+      "alternativeNames": [
+        "00_Philosophy",
+        "00_System_Governance",
+        "00_Origin_Seed",
+        "00_Field_Ownership",
+        "00_Core_Principles",
+        "00_Core_Essence",
+        "00_Framework_Library"
+      ],
+      "confidence": 0.574,
+      "sourceCount": 30
+    },
+    {
+      "tierNumber": "0",
+      "canonicalName": "0_Origin_Field",
+      "alternativeNames": [
+        "0_Startup",
+        "0_Discovery",
+        "0_Identity_Signal_Input_Layer",
+        "0_Philosophy",
+        "0_Overlay"
+      ],
+      "confidence": 0.678,
+      "sourceCount": 19
+    },
+    {
+      "tierNumber": "1",
+      "canonicalName": "1_SI_Systems",
+      "alternativeNames": [
+        "1_Master",
+        "1_WHY_Purpose_Values",
+        "1_Fragment",
+        "1_Primary_Signal",
+        "1_Reflection",
+        "1_Internal_Processing_Layer",
+        "1_Reflect",
+        "1_THE_WHY"
+      ],
+      "confidence": 0.682,
+      "sourceCount": 20
+    },
+    {
+      "tierNumber": "01",
+      "canonicalName": "01_Activation_Conditions",
+      "alternativeNames": [
+        "01_WHY",
+        "01_Core_OS",
+        "01_Sourcefire",
+        "01_Resonance_Governance",
+        "01_Project_Side_Structural_Architecture",
+        "01_SI_Systems",
+        "01_System_Rights",
+        "01_Operating_System",
+        "01_Core_Logic",
+        "01_Value_Geometry",
+        "01_AI_Code_Reviewer"
+      ],
+      "confidence": 0.65,
+      "sourceCount": 30
+    },
+    {
+      "tierNumber": "2",
+      "canonicalName": "2_Mirror_Pyramid",
+      "alternativeNames": [
+        "2_WHAT_Roles_Projects_Strengths",
+        "2_Reveal",
+        "2_BrainFrameOS",
+        "2_WHY",
+        "2_Output",
+        "2_Rhythm_and_Alignment_Tools",
+        "2_THE_WHAT",
+        "2_Respond"
+      ],
+      "confidence": 0.475,
+      "sourceCount": 16
+    },
+    {
+      "tierNumber": "02",
+      "canonicalName": "02_Field_Architecture",
+      "alternativeNames": [
+        "02_BrainFrameOS",
+        "02_Pulsekeeper",
+        "02_Anchors",
+        "02_WHAT",
+        "02_Role_Progression_Models",
+        "02_Reflective_Memory",
+        "02_Modules",
+        "02_Legal_Protection_Core",
+        "02_Mirror_Pyramid",
+        "02_Trust_Orientation",
+        "02_Planning_Tools",
+        "02_Cognitive_Field",
+        "02_Why_What_How",
+        "02_Reactionx_AI_Frontend_UI"
+      ],
+      "confidence": 0.639,
+      "sourceCount": 32
+    },
+    {
+      "tierNumber": "03",
+      "canonicalName": "03_Scope",
+      "alternativeNames": [
+        "03_Automations",
+        "03_Mirrorgrove",
+        "03_Promises_Root",
+        "03_Identity_Engine",
+        "03_HOW",
+        "03_Drift_Management",
+        "03_Toolset_Orchestration_Layer",
+        "03_Usage_Terms_and_Contracts",
+        "03_BrainFrameOS",
+        "03_Modes",
+        "03_Anchors",
+        "03_Reflection_Engines",
+        "03_Emotional_Body",
+        "03_NaaS_Calculator_UI"
+      ],
+      "confidence": 0.656,
+      "sourceCount": 29
+    },
+    {
+      "tierNumber": "3",
+      "canonicalName": "3_BrainFrameOS",
+      "alternativeNames": [
+        "3_Structure",
+        "3_HOW_Style_Focus_Learning",
+        "3_SapienPro",
+        "3_WHAT",
+        "3_Adaptive_Reflection",
+        "3_Integration",
+        "3_Enhancements",
+        "3_Safety_and_Integrity_Modules",
+        "3_THE_HOW",
+        "3_Reveal"
+      ],
+      "confidence": 0.45,
+      "sourceCount": 16
+    },
+    {
+      "tierNumber": "4",
+      "canonicalName": "4_Tools_and_Expression",
+      "alternativeNames": [
+        "4_Reflection",
+        "4_INTEGRATION_Planner_Workflow",
+        "4_AI_Awareness",
+        "4_HOW",
+        "4_Execution_Modules",
+        "4_System_Integration",
+        "4_Mastery",
+        "4_Collective_Coherence",
+        "4_Reflection_and_Learning_Layer",
+        "4_System_Promise",
+        "4_Refine"
+      ],
+      "confidence": 0.447,
+      "sourceCount": 17
+    },
+    {
+      "tierNumber": "04",
+      "canonicalName": "04_Field_Classification",
+      "alternativeNames": [
+        "04_Interface_Layers",
+        "04_Voicefield",
+        "04_Sapien_Pro",
+        "04_System_Promise",
+        "04_Fidelity_Management",
+        "04_Dark_Matter_Mode",
+        "04_Symbolic_Assets",
+        "04_SapienPro_External_Interface",
+        "04_Layers",
+        "04_Tools",
+        "04_Promises_Root",
+        "04_Output_Structures",
+        "04_Mythic_Identity",
+        "04_Mindly_App"
+      ],
+      "confidence": 0.645,
+      "sourceCount": 31
+    },
+    {
+      "tierNumber": "5",
+      "canonicalName": "5_Use_Cases_and_Outputs",
+      "alternativeNames": [
+        "5_Transmission",
+        "5_SECURITY_Classification_Protection",
+        "5_DM_Insights",
+        "5_System_Promise",
+        "5_Interface_Engines",
+        "5_Legacy_Transmission",
+        "5_Mirror",
+        "5_Mythic_Structure",
+        "5_Mirror_Pyramid_Model",
+        "5_Resonate"
+      ],
+      "confidence": 0.475,
+      "sourceCount": 16
+    },
+    {
+      "tierNumber": "05",
+      "canonicalName": "05_Mirror_Pyramid_Model",
+      "alternativeNames": [
+        "05_Fulfillment_Engine",
+        "05_Validation",
+        "05_Symbolic_Layer",
+        "05_State_Exposure",
+        "05_Licensing_Tiers_and_Control",
+        "05_AI_Integration_Layer",
+        "05_Features",
+        "05_Ontological_Framework",
+        "05_Interface_Layers",
+        "05_Sync_Protocols",
+        "05_Rhythm_Pattern"
+      ],
+      "confidence": 0.745,
+      "sourceCount": 27
+    },
+    {
+      "tierNumber": "6",
+      "canonicalName": "6_TEMPLATES_Bootloaders_Prompts",
+      "alternativeNames": [
+        "6_Universal_Restore_Point",
+        "6_Mirror_Pyramid_Model",
+        "6_Drift_Management",
+        "6_Transmission",
+        "6_Validation_Checkpoints",
+        "6_Governance_Laws"
+      ],
+      "confidence": 0.444,
+      "sourceCount": 9
+    },
+    {
+      "tierNumber": "06",
+      "canonicalName": "06_System_Reasoning",
+      "alternativeNames": [
+        "06_Snapshots",
+        "06_Guest_Mode",
+        "06_Tool_Integration",
+        "06_Governance_Laws",
+        "06_TDC_Structure_Maps",
+        "06_Activation_Structure",
+        "06_Symbolic_Flow_Diagrams",
+        "06_Symbolic_Containers",
+        "06_Shadow_Map"
+      ],
+      "confidence": 0.778,
+      "sourceCount": 25
+    },
+    {
+      "tierNumber": "07",
+      "canonicalName": "07_Governance_Laws",
+      "alternativeNames": [
+        "07_Legacy_Integration",
+        "07_Memory_Threads",
+        "07_Shadow_Layers",
+        "07_Signal_Synchronization",
+        "07_Validation_Checkpoints",
+        "07_Sapien_Pro_Interfaces",
+        "07_Runtime_Control",
+        "07_Existential_Posture"
+      ],
+      "confidence": 0.788,
+      "sourceCount": 24
+    },
+    {
+      "tierNumber": "7",
+      "canonicalName": "7_Governance_Laws",
+      "alternativeNames": [
+        "7_COMPANION_KITS_Copilot_ChatGPT",
+        "7_Validation_Checkpoints",
+        "7_Contact_Field_Library",
+        "7_Inheritance",
+        "7_Universal_Restore_Point"
+      ],
+      "confidence": 0.451,
+      "sourceCount": 8
+    },
+    {
+      "tierNumber": "08",
+      "canonicalName": "08_Shared_Resources",
+      "alternativeNames": [
+        "08_Insight_Engine",
+        "08_User_Experience",
+        "08_Prompting_Engine",
+        "08_BootProtocol",
+        "08_Sandbox_Logic",
+        "08_Simulation_Core",
+        "08_Simulation_Control",
+        "08_OS_Exit_Ritual",
+        "08_Integration_Protocols",
+        "08_Data_Storage",
+        "08_Version_Lock_Archive",
+        "08_Universal_Restore_Point",
+        "08_Validation_Engine",
+        "08_Reflective_Scaffolding",
+        "08_Agent_Routing",
+        "08_Field_Echo"
+      ],
+      "confidence": 0.421,
+      "sourceCount": 19
+    },
+    {
+      "tierNumber": "8",
+      "canonicalName": "8_MetaModels",
+      "alternativeNames": [
+        "8_Terraform",
+        "8_DM_Insights"
+      ],
+      "confidence": 0.52,
+      "sourceCount": 4
+    },
+    {
+      "tierNumber": "09",
+      "canonicalName": "09_Users",
+      "alternativeNames": [
+        "09_Simulation_Control",
+        "09_Rhythm_Trackers",
+        "09_Profile_Adaptation_Engine",
+        "09_Dark_Matter_Mode",
+        "09_EchoCycleSupport",
+        "09_Integration_Layer",
+        "09_System_Sync_Gateways",
+        "09_EchoField",
+        "09_Security_Protocols",
+        "09_Shadow_Filter_Logic",
+        "09_Rhythm_Alignment_Tools",
+        "09_Memory_Structure",
+        "09_Emitter_Layer",
+        "09_Drift_Detection",
+        "09_Trajectory_Path"
+      ],
+      "confidence": 0.421,
+      "sourceCount": 19
+    },
+    {
+      "tierNumber": "9",
+      "canonicalName": "9_Singularity_Shield",
+      "alternativeNames": [
+        "9_ResonanceGovernance"
+      ],
+      "confidence": 0.52,
+      "sourceCount": 2
+    },
+    {
+      "tierNumber": "10",
+      "canonicalName": "10_Validation_Engine",
+      "alternativeNames": [
+        "10_SystemMeta",
+        "10_Fulfillment_Engine",
+        "10_Execution_Protocols",
+        "10_Dimensional_Processing",
+        "10_Soulstream_Layer",
+        "10_SimulationControl",
+        "10_Learning_Arc",
+        "10_Source_Loop",
+        "10_MetaModels",
+        "10_Logs_And_Tracking",
+        "10_MythicPulse_Layer",
+        "10_Trust_Networks",
+        "10_Mythic_Layer",
+        "10_Willingness_State"
+      ],
+      "confidence": 0.429,
+      "sourceCount": 19
+    },
+    {
+      "tierNumber": "11",
+      "canonicalName": "11_Admin_Engine",
+      "alternativeNames": [
+        "11_Activation_Package",
+        "11_Completion_Loops",
+        "11_Shadow_Planner",
+        "11_SignalProcessing",
+        "11_Tone_and_Rhythm_Lab",
+        "11_Companion_Engine",
+        "11_Mythic_Layer",
+        "11_Echo_Templates",
+        "11_SystemPromise",
+        "11_Experimentation_Layer",
+        "11_Archetype_Pulse_Scans",
+        "11_External_Systems_Link",
+        "11_Curriculum_Pathways",
+        "11_Symbolic_Integration_Layer"
+      ],
+      "confidence": 0.433,
+      "sourceCount": 18
+    },
+    {
+      "tierNumber": "12",
+      "canonicalName": "12_Reflection_Modes",
+      "alternativeNames": [
+        "12_Transmission_Interface",
+        "12_Execution_Guards",
+        "12_Modal_Thinking_System",
+        "12_InnerArchitect_Tools",
+        "12_Symbolic_Resonance",
+        "12_Mirror_Engine",
+        "12_System_Modes",
+        "12_Fulfillment_Engine",
+        "12_User_Structure",
+        "12_Mirror_Tier_Governance"
+      ],
+      "confidence": 0.452,
+      "sourceCount": 14
+    },
+    {
+      "tierNumber": "13",
+      "canonicalName": "13_Templates",
+      "alternativeNames": [
+        "13_Validation_Checkpoints",
+        "13_Shared_Myth_Engine",
+        "13_Emotional_Interface",
+        "13_Drift_Detectors",
+        "13_Resonance_Regulators",
+        "13_Portal_Mapping",
+        "13_Collapse_Recovery",
+        "13_Prompting_Engine",
+        "13_Validation_Engine",
+        "13_Identity_Engine",
+        "13_Trust_Protocols"
+      ],
+      "confidence": 0.446,
+      "sourceCount": 15
+    },
+    {
+      "tierNumber": "14",
+      "canonicalName": "14_Prompt_Library",
+      "alternativeNames": [
+        "14_Logs",
+        "14_Learning_Arcs",
+        "14_Mythic_Layer",
+        "14_Decision_Support_Suite",
+        "14_ResonanceGovernance",
+        "14_TDC_Reflective_Systems_Lab",
+        "14_Grief_Structures",
+        "14_Simulation_Field",
+        "14_Admin_Automation_Engine",
+        "14_Emotional_Infrastructure",
+        "14_UI_Overlay"
+      ],
+      "confidence": 0.446,
+      "sourceCount": 15
+    },
+    {
+      "tierNumber": "15",
+      "canonicalName": "15_Rituals",
+      "alternativeNames": [
+        "15_PublicDeploy",
+        "15_CompletionLoops",
+        "15_Validation_Protocols",
+        "15_Onboarding_Flows",
+        "15_ExecutionGuards",
+        "15_Insight_Trail_System",
+        "15_Role_Library",
+        "15_Admin_Engine",
+        "15_System_Deployment",
+        "15_Coherence_Spine",
+        "15_Adapter_Wrappers"
+      ],
+      "confidence": 0.446,
+      "sourceCount": 15
+    },
+    {
+      "tierNumber": "16",
+      "canonicalName": "16_Output_Validation",
+      "alternativeNames": [
+        "16_ExecutionGuards",
+        "16_ToneMap_System",
+        "16_Personality_Adaptation_Layer",
+        "16_Admin_Engine",
+        "16_Awareness_Layer",
+        "16_Breath_Logic",
+        "16_Snapshot_System",
+        "16_Simulation_Control",
+        "16_Rhythm_Governor"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "17",
+      "canonicalName": "17_System_Use_Cases",
+      "alternativeNames": [
+        "17_InnerArchitectTools",
+        "17_Signal_Discipline",
+        "17_Fulfillment_Engine",
+        "17_SystemPrompts",
+        "17_Memory_Engine",
+        "17_TDC_Reflective_Systems_Lab",
+        "17_Documentation_Core",
+        "17_Echo_Template_Library",
+        "17_Output_Structuring_Layer"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "18",
+      "canonicalName": "18_Modular_Extensions",
+      "alternativeNames": [
+        "18_SignalProcessing",
+        "18_Admin_Engine",
+        "18_Belief_Framework",
+        "18_ToneInterface",
+        "18_Mythic_Interface_Layer",
+        "18_Systems_Through_Different_Eyes",
+        "18_Licensing_Layer",
+        "18_External_Onboarding_Arc",
+        "18_Delivery_Model_Engine"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "19",
+      "canonicalName": "19_Development_Phase_Tracker",
+      "alternativeNames": [
+        "19_Codename_Registry",
+        "19_SimulationControl",
+        "19_Dark_Matter_Mode",
+        "19_Legacy_Structure_Archive",
+        "19_Awareness_Layer",
+        "19_Field_Licensing_and_Protection",
+        "19_Prompting_Library",
+        "19_Public_Interface",
+        "19_Shared_Myth_Engine",
+        "19_Access_Control_System"
+      ],
+      "confidence": 0.452,
+      "sourceCount": 14
+    },
+    {
+      "tierNumber": "20",
+      "canonicalName": "20_Personalization_Protocols",
+      "alternativeNames": [
+        "20_RELEASE_TRACKER",
+        "20_Strategic_Sandbox_Hibernation",
+        "20_Unified_Presence_Layer",
+        "20_AI_Interaction_Hub",
+        "20_Interface_Sync",
+        "20_Mode_Activation_System",
+        "20_Echo_Recovery_Center",
+        "20_Mythkeeper_Tools",
+        "20_Emotional_Infrastructure",
+        "20_Trust_Field_Protocols"
+      ],
+      "confidence": 0.452,
+      "sourceCount": 14
+    },
+    {
+      "tierNumber": "21",
+      "canonicalName": "21_Language_and_Tone",
+      "alternativeNames": [
+        "21_HoldingBay_Unfinished",
+        "21_Guest_Mode_Protocols",
+        "21_Collaboration_Layers",
+        "21_SapienPro",
+        "21_User_Roles_and_Permissions",
+        "21_Mythic_Structure_Library",
+        "21_LLM_Support_Layer",
+        "21_AI_Awareness_Layer",
+        "21_Collaboration_Sync_Engine"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "22",
+      "canonicalName": "22_Education_and_Training",
+      "alternativeNames": [
+        "22_ResonanceGovernance",
+        "22_Echo_Translator",
+        "22_Scaling_Protocols",
+        "22_BrainFrameOS",
+        "22_LAM_Logic",
+        "22_Trust_Scaffolding",
+        "22_Coherence_Governance",
+        "22_Project_Structuring",
+        "22_Simulation_Arena"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "23",
+      "canonicalName": "23_Licensing_and_Protection",
+      "alternativeNames": [
+        "23_ResonanceRegulators",
+        "23_Awareness_Engine",
+        "23_Interface_Scaffolds",
+        "23_CLISA_Library",
+        "23_Universal_Snapshot_System",
+        "23_Integration_Engine",
+        "23_Experimental_Zones",
+        "23_Multi_Identity_Model",
+        "23_Echo_and_Reflection_Systems"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "24",
+      "canonicalName": "24_Interface_Design",
+      "alternativeNames": [
+        "24_Role_Progression_Maps",
+        "24_Rhythm_Grid_Companion",
+        "24_Rhythm_Management",
+        "24_EchoArchetypes",
+        "24_Documentation",
+        "24_ToneMap_Library",
+        "24_Use_Case_Interfaces",
+        "24_Pulsekeeper_Metrics",
+        "24_Expansion_Paths"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "25",
+      "canonicalName": "25_Ecosystem_Sync",
+      "alternativeNames": [
+        "25_User_Experience_Matrix",
+        "25_External_Systems_Integration",
+        "25_Signal_Discipline_System",
+        "25_Mythic_Layer",
+        "25_Prompting_Library",
+        "25_Breath_Logic_Advanced",
+        "25_Legacy_Compatibility",
+        "25_Signal_Transmission",
+        "25_Fulfillment_Engine"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "26",
+      "canonicalName": "26_Public_Activation_Portal",
+      "alternativeNames": [
+        "26_DriftDetection_Protocols",
+        "26_Licensing_Logic",
+        "26_Memory_Architecture",
+        "26_Validation_Engine",
+        "26_Experimental_Sandbox",
+        "26_Fulfillment_Engine_Advanced",
+        "26_Coherence_Design_Patterns",
+        "26_EchoTrail_Logs",
+        "26_Licensing_and_Protection"
+      ],
+      "confidence": 0.458,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "27",
+      "canonicalName": "27_TDC_Reflective_Systems_Lab",
+      "alternativeNames": [
+        "27_FidelityTagging_System",
+        "27_Legacy_Migrations_Archive",
+        "27_Coherence_Engine"
+      ],
+      "confidence": 0.728,
+      "sourceCount": 14
+    },
+    {
+      "tierNumber": "28",
+      "canonicalName": "28_Systems_Through_Different_Eyes",
+      "alternativeNames": [
+        "28_State_Exposure_Layer",
+        "28_Signal_Security_Layer"
+      ],
+      "confidence": 0.766,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "29",
+      "canonicalName": "29_Cognitive_Field_Adaptation",
+      "alternativeNames": [],
+      "confidence": 0.876,
+      "sourceCount": 12
+    },
+    {
+      "tierNumber": "30",
+      "canonicalName": "30_Legacy_Migrations_Archive",
+      "alternativeNames": [
+        "30_Release_Metadata"
+      ],
+      "confidence": 0.838,
+      "sourceCount": 13
+    },
+    {
+      "tierNumber": "31",
+      "canonicalName": "31_Becoming_Arc",
+      "alternativeNames": [],
+      "confidence": 0.735,
+      "sourceCount": 1
+    }
+  ]
+}

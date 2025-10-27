@@ -1,0 +1,55 @@
+{
+  "sourceFile": "ChatGPT-Recap project folder contents.md",
+  "metadata": {
+    "title": "Recap project folder contents",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "8/9/2025 9:44:57",
+    "updated": "8/9/2025 9:45:11",
+    "exported": "10/9/2025 22:49:22",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/68970a88-99ec-8329-8868-52ce4039a308"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 3,
+    "totalTables": 0,
+    "totalLists": 15
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 9,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 9,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 9,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.515Z"
+}

@@ -1,0 +1,72 @@
+{
+  "batch_id": "batch_14",
+  "source": "SI Systems Knowledge Base",
+  "version": "1.0",
+  "upload_date": "2025-10-25T18:43:21.051Z",
+  "documents": [
+    {
+      "id": "doc_442",
+      "type": "documentation",
+      "title": "Absolutely. Below is the **canonical reference version of AXIS v1.1**,",
+      "content": "# Absolutely. Below is the **canonical reference version of AXIS v1.1**,\n\n## Metadata\n\n- **User**: undefined\n- **Created**: undefined\n- **Updated**: undefined\n- **Exported**: undefined\n- **Link**: [ChatGPT](undefined)\n- **Extracted**: 2025-10-25T18:34:52.743Z\n\n## Concept Summary\n\n**Total Exchanges**: 0\n\n| Concept | Mentions | Locations |\n|---------|----------|----------|\n\n## Exchanges\n\n",
+      "metadata": {
+        "source": "Axis v1.1.md",
+        "size": 389,
+        "category": "Other",
+        "concepts": []
+      },
+      "tags": [
+        "Other"
+      ],
+      "embedding_ready": true
+    },
+    {
+      "id": "doc_443",
+      "type": "documentation",
+      "title": "Yes. You just uncovered the core truth.\\",
+      "content": "# Yes. You just uncovered the core truth.\\\n\n## Metadata\n\n- **User**: undefined\n- **Created**: undefined\n- **Updated**: undefined\n- **Exported**: undefined\n- **Link**: [ChatGPT](undefined)\n- **Extracted**: 2025-10-25T18:34:52.753Z\n\n## Concept Summary\n\n**Total Exchanges**: 0\n\n| Concept | Mentions | Locations |\n|---------|----------|----------|\n\n## Exchanges\n\n",
+      "metadata": {
+        "source": "BrainFrame OS - Character Build.md",
+        "size": 359,
+        "category": "BrainFrame",
+        "concepts": []
+      },
+      "tags": [
+        "BrainFrame"
+      ],
+      "embedding_ready": true
+    },
+    {
+      "id": "doc_444",
+      "type": "documentation",
+      "title": "Table of Contents",
+      "content": "# Table of Contents\n\n## Metadata\n\n- **User**: undefined\n- **Created**: undefined\n- **Updated**: undefined\n- **Exported**: undefined\n- **Link**: [ChatGPT](undefined)\n- **Extracted**: 2025-10-25T18:34:52.760Z\n\n## Concept Summary\n\n**Total Exchanges**: 0\n\n| Concept | Mentions | Locations |\n|---------|----------|----------|\n\n## Exchanges\n\n",
+      "metadata": {
+        "source": "Core AI Problems Prioritized by Benefit to Humanity.md",
+        "size": 336,
+        "category": "Other",
+        "concepts": []
+      },
+      "tags": [
+        "Other"
+      ],
+      "embedding_ready": true
+    },
+    {
+      "id": "doc_445",
+      "type": "documentation",
+      "title": "Table of Contents",
+      "content": "# Table of Contents\n\n## Metadata\n\n- **User**: undefined\n- **Created**: undefined\n- **Updated**: undefined\n- **Exported**: undefined\n- **Link**: [ChatGPT](undefined)\n- **Extracted**: 2025-10-25T18:34:52.769Z\n\n## Concept Summary\n\n**Total Exchanges**: 0\n\n| Concept | Mentions | Locations |\n|---------|----------|----------|\n\n## Exchanges\n\n",
+      "metadata": {
+        "source": "Core Problems Facing Artificial Intelligence Today - A Comprehensive Analysis.md",
+        "size": 336,
+        "category": "Other",
+        "concepts": []
+      },
+      "tags": [
+        "Other"
+      ],
+      "embedding_ready": true
+    }
+  ]
+}

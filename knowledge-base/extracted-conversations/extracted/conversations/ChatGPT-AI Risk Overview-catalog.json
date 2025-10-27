@@ -1,0 +1,97 @@
+{
+  "sourceFile": "ChatGPT-AI Risk Overview.md",
+  "metadata": {
+    "title": "AI Risk Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/28/2025 11:48:00",
+    "updated": "5/25/2025 20:05:10",
+    "exported": "9/25/2025 16:11:31",
+    "link": "https://chatgpt.com/g/g-p-6804585959cc8191b61d9e012dda13b0-si-systems-validation/c/680f5cde-99e8-8013-90a3-03e086992bd6"
+  },
+  "stats": {
+    "totalExchanges": 186,
+    "totalSections": 427,
+    "totalTables": 229,
+    "totalLists": 874
+  },
+  "concepts": [
+    {
+      "concept": "CLISA",
+      "count": 38,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        8,
+        9,
+        10,
+        11,
+        17,
+        85,
+        175,
+        180,
+        181
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 38,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        8,
+        9,
+        10,
+        11,
+        17,
+        85,
+        175,
+        180,
+        181
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 22,
+      "locations": [
+        160,
+        161,
+        165,
+        167,
+        168,
+        169,
+        171,
+        172,
+        177
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 22,
+      "locations": [
+        160,
+        161,
+        165,
+        167,
+        168,
+        169,
+        171,
+        172,
+        177
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 4,
+      "locations": [
+        175,
+        177,
+        183
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.775Z"
+}

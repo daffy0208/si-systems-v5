@@ -1,0 +1,105 @@
+{
+  "sourceFile": "ChatGPT-Sapien Intelligence Activation Complete.md",
+  "metadata": {
+    "title": "Sapien Intelligence Activation Complete",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "5/28/2025 11:39:29",
+    "updated": "8/10/2025 12:17:51",
+    "exported": "10/9/2025 22:50:10",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/6836e7e0-7350-8013-aa54-327338594b04"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 24,
+    "totalTables": 9,
+    "totalLists": 69
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 34,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 32,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 32,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 5,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 3,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 3,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 3,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.686Z"
+}

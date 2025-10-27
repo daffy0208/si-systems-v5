@@ -1,0 +1,79 @@
+{
+  "sourceFile": "ChatGPT-SI Systems Structure Review.md",
+  "metadata": {
+    "title": "SI Systems Structure Review",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/14/2025 15:13:45",
+    "updated": "4/14/2025 18:08:08",
+    "exported": "10/9/2025 15:59:16",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67fd1819-6454-8013-b47e-38cdc3a3190c"
+  },
+  "stats": {
+    "totalExchanges": 4,
+    "totalSections": 0,
+    "totalTables": 0,
+    "totalLists": 0
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 4,
+      "locations": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 3,
+      "locations": [
+        0
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 3,
+      "locations": [
+        0
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 2,
+      "locations": [
+        2,
+        3
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    },
+    {
+      "concept": "IdentityEngine",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.658Z"
+}

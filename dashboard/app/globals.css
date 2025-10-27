@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --drift-safe: 142 71 129; /* green-500 */
+  --drift-warning: 245 158 11; /* amber-500 */
+  --drift-danger: 239 68 68; /* red-500 */
+}
+
+.dark {
+  --background: 224 71% 4%;
+  --foreground: 213 31% 91%;
+}
+
+body {
+  @apply bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-50;
+}
+
+/* Drift score colors */
+.drift-safe {
+  @apply text-green-500 dark:text-green-400;
+}
+
+.drift-warning {
+  @apply text-amber-500 dark:text-amber-400;
+}
+
+.drift-danger {
+  @apply text-red-500 dark:text-red-400;
+}
+
+/* Smooth transitions for real-time updates */
+.drift-transition {
+  transition: all 500ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Glow effects for drift levels */
+.drift-glow-safe {
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.3);
+}
+
+.drift-glow-warning {
+  box-shadow: 0 0 20px rgba(245, 158, 11, 0.3);
+}
+
+.drift-glow-danger {
+  box-shadow: 0 0 20px rgba(239, 68, 68, 0.3);
+}

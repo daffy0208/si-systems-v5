@@ -1,0 +1,46 @@
+{
+  "sourceFile": "ChatGPT-Using BrainFrame for Planning.md",
+  "metadata": {
+    "title": "Using BrainFrame for Planning",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/30/2025 9:36:27",
+    "updated": "4/24/2025 8:21:02",
+    "exported": "9/26/2025 12:58:37",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e9028b-db44-8013-87b4-afa2358e8c21"
+  },
+  "stats": {
+    "totalExchanges": 4,
+    "totalSections": 3,
+    "totalTables": 0,
+    "totalLists": 8
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 25,
+      "locations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 7,
+      "locations": [
+        2,
+        3
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 7,
+      "locations": [
+        2,
+        3
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.972Z"
+}

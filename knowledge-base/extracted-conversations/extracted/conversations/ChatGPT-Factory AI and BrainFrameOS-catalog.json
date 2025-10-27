@@ -1,0 +1,164 @@
+{
+  "sourceFile": "ChatGPT-Factory AI and BrainFrameOS.md",
+  "metadata": {
+    "title": "Factory AI and BrainFrameOS",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "6/6/2025 14:54:19",
+    "updated": "6/12/2025 16:40:40",
+    "exported": "10/9/2025 22:46:11",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/6842f30b-283c-8013-9d62-6628b981071a"
+  },
+  "stats": {
+    "totalExchanges": 28,
+    "totalSections": 54,
+    "totalTables": 51,
+    "totalLists": 140
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 45,
+      "locations": [
+        0,
+        1,
+        3,
+        6,
+        7,
+        9,
+        11,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 45,
+      "locations": [
+        0,
+        1,
+        3,
+        6,
+        7,
+        9,
+        11,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 45,
+      "locations": [
+        0,
+        1,
+        3,
+        6,
+        7,
+        9,
+        11,
+        19,
+        21,
+        23,
+        25
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 45,
+      "locations": [
+        1,
+        3,
+        7,
+        9,
+        11,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 32,
+      "locations": [
+        1,
+        3,
+        7,
+        9,
+        11,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 26,
+      "locations": [
+        1,
+        3,
+        6,
+        7,
+        9,
+        11,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 26,
+      "locations": [
+        1,
+        3,
+        6,
+        7,
+        9,
+        11,
+        17,
+        19,
+        23
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 5,
+      "locations": [
+        1,
+        7,
+        17,
+        21
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 5,
+      "locations": [
+        1,
+        7,
+        17,
+        21
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 3,
+      "locations": [
+        1,
+        9,
+        17
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.944Z"
+}

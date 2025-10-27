@@ -1,0 +1,76 @@
+{
+  "sourceFile": "ChatGPT-SI Systems Folder Tree.md",
+  "metadata": {
+    "title": "SI Systems Folder Tree",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/10/2025 21:07:10",
+    "updated": "4/11/2025 22:50:29",
+    "exported": "10/9/2025 15:54:23",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67f824ee-6968-8013-a251-dd36c525c519"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 1,
+    "totalTables": 0,
+    "totalLists": 4
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 6,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 2,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 2,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 2,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 1,
+      "locations": [
+        1
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.651Z"
+}

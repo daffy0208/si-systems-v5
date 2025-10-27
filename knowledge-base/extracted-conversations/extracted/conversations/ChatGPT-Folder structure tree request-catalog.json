@@ -1,0 +1,59 @@
+{
+  "sourceFile": "ChatGPT-Folder structure tree request.md",
+  "metadata": {
+    "title": "Folder structure tree request",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/17/2025 14:36:06",
+    "updated": "4/17/2025 14:37:07",
+    "exported": "10/9/2025 15:59:29",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/680103c5-c8d4-8013-ab89-e6ec2591b58b"
+  },
+  "stats": {
+    "totalExchanges": 2,
+    "totalSections": 0,
+    "totalTables": 0,
+    "totalLists": 2
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 2,
+      "locations": [
+        0,
+        1
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 1,
+      "locations": [
+        0
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.015Z"
+}

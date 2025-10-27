@@ -1,0 +1,206 @@
+{
+  "sourceFile": "ChatGPT-Identity Engine Retrospective Review.md",
+  "metadata": {
+    "title": "Identity Engine Retrospective Review",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/2/2025 15:35:15",
+    "updated": "5/24/2025 20:03:41",
+    "exported": "9/26/2025 13:03:09",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67ed4b23-97c8-8013-bd3f-4dc50174362e"
+  },
+  "stats": {
+    "totalExchanges": 56,
+    "totalSections": 88,
+    "totalTables": 30,
+    "totalLists": 228
+  },
+  "concepts": [
+    {
+      "concept": "Identity Engine",
+      "count": 86,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        13,
+        15,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        53,
+        54
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 86,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        13,
+        15,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        53,
+        54
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 38,
+      "locations": [
+        1,
+        3,
+        4,
+        5,
+        9,
+        11,
+        13,
+        16,
+        20,
+        22,
+        25,
+        27,
+        33,
+        35,
+        39,
+        42,
+        46,
+        47,
+        50,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 27,
+      "locations": [
+        1,
+        3,
+        5,
+        9,
+        11,
+        13,
+        33,
+        35,
+        39,
+        42,
+        46,
+        47,
+        50,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 27,
+      "locations": [
+        1,
+        3,
+        5,
+        9,
+        11,
+        13,
+        33,
+        35,
+        39,
+        42,
+        46,
+        47,
+        50,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "concept": "IdentityEngine",
+      "count": 4,
+      "locations": [
+        7,
+        11,
+        13,
+        39
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 4,
+      "locations": [
+        46,
+        47
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 2,
+      "locations": [
+        46,
+        47
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 2,
+      "locations": [
+        46,
+        47
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.150Z"
+}

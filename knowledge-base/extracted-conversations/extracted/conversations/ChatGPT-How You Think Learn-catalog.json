@@ -1,0 +1,45 @@
+{
+  "sourceFile": "ChatGPT-How You Think Learn.md",
+  "metadata": {
+    "title": "How You Think Learn",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/25/2025 21:32:49",
+    "updated": "8/10/2025 12:27:40",
+    "exported": "10/9/2025 15:30:23",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67e32101-ab74-8013-a775-db7457143baa"
+  },
+  "stats": {
+    "totalExchanges": 6,
+    "totalSections": 11,
+    "totalTables": 1,
+    "totalLists": 16
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 9,
+      "locations": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 5,
+      "locations": [
+        2,
+        3
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 5,
+      "locations": [
+        2,
+        3
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.097Z"
+}

@@ -1,0 +1,155 @@
+{
+  "sourceFile": "ChatGPT-Graphing Sapien Knowledge Growth.md",
+  "metadata": {
+    "title": "Graphing Sapien Knowledge Growth",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/6/2025 23:06:28",
+    "updated": "4/11/2025 23:02:59",
+    "exported": "10/9/2025 15:56:05",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67f2fae4-a288-8013-8da7-8255e0a25a0d"
+  },
+  "stats": {
+    "totalExchanges": 46,
+    "totalSections": 53,
+    "totalTables": 19,
+    "totalLists": 122
+  },
+  "concepts": [
+    {
+      "concept": "Sapien",
+      "count": 28,
+      "locations": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        9,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        33,
+        37,
+        39,
+        45
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 25,
+      "locations": [
+        0,
+        1,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        33,
+        37,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 22,
+      "locations": [
+        1,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        33,
+        37,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 22,
+      "locations": [
+        1,
+        9,
+        11,
+        13,
+        17,
+        19,
+        21,
+        33,
+        37,
+        41,
+        43,
+        45
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 21,
+      "locations": [
+        3,
+        5,
+        7,
+        9,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        27,
+        29,
+        33,
+        37,
+        45
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 6,
+      "locations": [
+        10,
+        11,
+        23,
+        35,
+        37,
+        39
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 6,
+      "locations": [
+        10,
+        11,
+        23,
+        35,
+        37,
+        39
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 4,
+      "locations": [
+        1,
+        9,
+        25,
+        39
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:07.078Z"
+}

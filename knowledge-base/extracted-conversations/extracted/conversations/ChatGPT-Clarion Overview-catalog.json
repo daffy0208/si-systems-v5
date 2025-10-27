@@ -1,0 +1,90 @@
+{
+  "sourceFile": "ChatGPT-Clarion Overview.md",
+  "metadata": {
+    "title": "Clarion Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/5/2025 13:59:20",
+    "updated": "4/11/2025 22:49:33",
+    "exported": "10/9/2025 15:53:58",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67f12928-c998-8013-969a-f9f9dfaaf445"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 22,
+    "totalTables": 1,
+    "totalLists": 28
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrameOS",
+      "count": 17,
+      "locations": [
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 17,
+      "locations": [
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 17,
+      "locations": [
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 13,
+      "locations": [
+        3,
+        5,
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 9,
+      "locations": [
+        5,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 4,
+      "locations": [
+        3,
+        9,
+        10
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.768Z"
+}

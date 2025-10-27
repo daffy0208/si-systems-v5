@@ -1,0 +1,232 @@
+{
+  "sourceFile": "ChatGPT-AI2 Paper Finder Overview.md",
+  "metadata": {
+    "title": "AI2 Paper Finder Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/24/2025 14:37:51",
+    "updated": "8/10/2025 12:35:33",
+    "exported": "9/25/2025 16:11:42",
+    "link": "https://chatgpt.com/g/g-p-6804585959cc8191b61d9e012dda13b0/c/680a3eaf-6ae0-8013-a2d5-aba4f5ee2dac"
+  },
+  "stats": {
+    "totalExchanges": 66,
+    "totalSections": 71,
+    "totalTables": 8,
+    "totalLists": 191
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 55,
+      "locations": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        17,
+        18,
+        19,
+        21,
+        23,
+        24,
+        25,
+        27,
+        30,
+        31,
+        33,
+        37,
+        41,
+        42,
+        43,
+        60,
+        61,
+        63
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 54,
+      "locations": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        17,
+        18,
+        19,
+        21,
+        23,
+        24,
+        25,
+        27,
+        31,
+        33,
+        37,
+        41,
+        42,
+        43,
+        60,
+        61,
+        63
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 54,
+      "locations": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        17,
+        18,
+        19,
+        21,
+        23,
+        24,
+        25,
+        27,
+        31,
+        33,
+        37,
+        41,
+        42,
+        43,
+        60,
+        61,
+        63
+      ]
+    },
+    {
+      "concept": "CLISA",
+      "count": 38,
+      "locations": [
+        8,
+        9,
+        11,
+        19,
+        21,
+        23,
+        27,
+        37,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        56,
+        57,
+        58,
+        59,
+        63
+      ]
+    },
+    {
+      "concept": "clisa",
+      "count": 38,
+      "locations": [
+        8,
+        9,
+        11,
+        19,
+        21,
+        23,
+        27,
+        37,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        56,
+        57,
+        58,
+        59,
+        63
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 16,
+      "locations": [
+        1,
+        3,
+        8,
+        9,
+        23,
+        63
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 9,
+      "locations": [
+        8,
+        9,
+        23,
+        37,
+        56,
+        57,
+        61,
+        63
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 9,
+      "locations": [
+        8,
+        9,
+        23,
+        37,
+        56,
+        57,
+        61,
+        63
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 6,
+      "locations": [
+        8,
+        9,
+        63
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 5,
+      "locations": [
+        1,
+        3,
+        8,
+        9,
+        23
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.866Z"
+}

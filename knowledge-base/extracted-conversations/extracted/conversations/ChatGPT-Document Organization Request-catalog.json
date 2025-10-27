@@ -1,0 +1,76 @@
+{
+  "sourceFile": "ChatGPT-Document Organization Request.md",
+  "metadata": {
+    "title": "Document Organization Request",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/26/2025 14:29:30",
+    "updated": "4/28/2025 16:17:33",
+    "exported": "10/9/2025 15:36:15",
+    "link": "https://chatgpt.com/g/g-p-67e95b82d48c819180163ee5db128083-brainframe-collated-origin-information/c/67e40f49-378c-8013-abfa-61e3c6ec9177"
+  },
+  "stats": {
+    "totalExchanges": 34,
+    "totalSections": 178,
+    "totalTables": 3,
+    "totalLists": 208
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 79,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        15,
+        17,
+        19,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        29,
+        31,
+        33
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 40,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        17,
+        21,
+        24,
+        25,
+        29,
+        31,
+        33
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 40,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        17,
+        21,
+        24,
+        25,
+        29,
+        31,
+        33
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.841Z"
+}

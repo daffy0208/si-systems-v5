@@ -1,0 +1,142 @@
+{
+  "sourceFile": "ChatGPT-Aquip.io Company Overview.md",
+  "metadata": {
+    "title": "Aquip.io Company Overview",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/8/2025 15:13:14",
+    "updated": "4/11/2025 22:57:59",
+    "exported": "10/9/2025 15:54:59",
+    "link": "https://chatgpt.com/g/g-p-67e13e0671a88191aad08d4df163e5f7-brainframe-core-system-framework/c/67f52efa-3a04-8013-a945-23ef0d705005"
+  },
+  "stats": {
+    "totalExchanges": 106,
+    "totalSections": 146,
+    "totalTables": 1,
+    "totalLists": 279
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 30,
+      "locations": [
+        1,
+        3,
+        8,
+        9,
+        11,
+        13,
+        27,
+        29,
+        31,
+        46,
+        62,
+        65,
+        88,
+        89
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 26,
+      "locations": [
+        1,
+        3,
+        8,
+        9,
+        11,
+        13,
+        27,
+        29,
+        31,
+        88,
+        89
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 26,
+      "locations": [
+        1,
+        3,
+        8,
+        9,
+        11,
+        13,
+        27,
+        29,
+        31,
+        88,
+        89
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 26,
+      "locations": [
+        1,
+        3,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        29,
+        31,
+        33,
+        35
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 14,
+      "locations": [
+        1,
+        3,
+        9,
+        10,
+        11,
+        13,
+        29,
+        31,
+        33
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 11,
+      "locations": [
+        3,
+        8,
+        9,
+        11,
+        13,
+        33,
+        35
+      ]
+    },
+    {
+      "concept": "Identity Engine",
+      "count": 6,
+      "locations": [
+        3,
+        9,
+        33,
+        35,
+        37
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 6,
+      "locations": [
+        3,
+        9,
+        33,
+        35,
+        37
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:05.900Z"
+}

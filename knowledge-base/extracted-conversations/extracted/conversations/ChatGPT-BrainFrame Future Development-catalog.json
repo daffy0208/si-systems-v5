@@ -1,0 +1,134 @@
+{
+  "sourceFile": "ChatGPT-BrainFrame Future Development.md",
+  "metadata": {
+    "title": "BrainFrame Future Development",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/15/2025 23:33:51",
+    "updated": "4/21/2025 0:07:59",
+    "exported": "9/26/2025 12:52:34",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67fedecf-5228-8013-815a-073d69f8e1b4"
+  },
+  "stats": {
+    "totalExchanges": 28,
+    "totalSections": 31,
+    "totalTables": 7,
+    "totalLists": 48
+  },
+  "concepts": [
+    {
+      "concept": "Identity Engine",
+      "count": 46,
+      "locations": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        14,
+        15,
+        19,
+        21,
+        23,
+        27
+      ]
+    },
+    {
+      "concept": "identity engine",
+      "count": 46,
+      "locations": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        14,
+        15,
+        19,
+        21,
+        23,
+        27
+      ]
+    },
+    {
+      "concept": "BrainFrame",
+      "count": 19,
+      "locations": [
+        0,
+        1,
+        5,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        27
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 16,
+      "locations": [
+        1,
+        5,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        27
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 16,
+      "locations": [
+        1,
+        5,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        27
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 7,
+      "locations": [
+        1,
+        11,
+        14,
+        15,
+        19,
+        27
+      ]
+    },
+    {
+      "concept": "Sapien Pro",
+      "count": 5,
+      "locations": [
+        11,
+        14,
+        15,
+        19,
+        27
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 2,
+      "locations": [
+        1,
+        27
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.047Z"
+}

@@ -1,0 +1,71 @@
+{
+  "sourceFile": "ChatGPT-ChatGPT BrainFrame Activation.md",
+  "metadata": {
+    "title": "ChatGPT BrainFrame Activation",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "4/2/2025 10:11:44",
+    "updated": "4/8/2025 23:08:15",
+    "exported": "9/26/2025 12:19:35",
+    "link": "https://chatgpt.com/g/g-p-67ed9d40fbc48191aadf2b9a4ef6e5a4-brainframeos-random-chats/c/67ecff50-66a8-8013-99a4-5e5eeb46250c"
+  },
+  "stats": {
+    "totalExchanges": 19,
+    "totalSections": 31,
+    "totalTables": 0,
+    "totalLists": 83
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 31,
+      "locations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        15,
+        16,
+        18
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 26,
+      "locations": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 26,
+      "locations": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.698Z"
+}

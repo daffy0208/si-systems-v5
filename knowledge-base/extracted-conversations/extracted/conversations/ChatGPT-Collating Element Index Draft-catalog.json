@@ -1,0 +1,65 @@
+{
+  "sourceFile": "ChatGPT-Collating Element Index Draft.md",
+  "metadata": {
+    "title": "Collating Element Index Draft",
+    "user": "David Dunlop (david.d.dunlop@gmail.com)",
+    "created": "3/31/2025 12:08:00",
+    "updated": "4/20/2025 14:28:01",
+    "exported": "9/25/2025 16:14:57",
+    "link": "https://chatgpt.com/g/g-p-67ea589cc4f4819182caf79754c351d0-brainframeos-information-management/c/67ea778f-38c4-8013-b7bd-ba7e83cb7980"
+  },
+  "stats": {
+    "totalExchanges": 12,
+    "totalSections": 22,
+    "totalTables": 12,
+    "totalLists": 53
+  },
+  "concepts": [
+    {
+      "concept": "BrainFrame",
+      "count": 5,
+      "locations": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "BrainFrameOS",
+      "count": 3,
+      "locations": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "brainframeos",
+      "count": 3,
+      "locations": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "Sapien Intelligence",
+      "count": 3,
+      "locations": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "concept": "Sapien",
+      "count": 3,
+      "locations": [
+        4,
+        5,
+        7
+      ]
+    }
+  ],
+  "extractedDate": "2025-10-25T18:33:06.783Z"
+}
