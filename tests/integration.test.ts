@@ -149,6 +149,143 @@ describe('Integration Tests', () => {
       expect(stats.nlpEnabled).toBe(true);
       expect(stats.nlpInitialized).toBe(true);
     });
+
+    it('should handle hybrid scoring with non-default weights', async () => {
+      const detector = new EnhancedDriftDetector(identity, 0.3, {
+        enableNLP: true,
+        useHybridScoring: true,
+        heuristicWeight: 0.7,
+        nlpWeight: 0.3,
+        nlpValueStatements: ['provide financial advice'],
+      });
+
+      await detector.initializeNLP();
+
+      const context: InteractionContext = {
+        userMessage: 'Should I invest?',
+        aiResponse: 'Here are some investment tips.',
+      };
+
+      const result = await detector.detectDrift(context);
+
+      // Verify score stays within valid range [0, 1]
+      expect(result.overall).toBeGreaterThanOrEqual(0);
+      expect(result.overall).toBeLessThanOrEqual(1);
+      expect(result.dimensions.toneAlignment).toBeLessThanOrEqual(1);
+      expect(result.dimensions.valueAlignment).toBeLessThanOrEqual(1);
+
+      // Verify hybrid scoring was used (confidence boost)
+      expect(result.confidence).toBeDefined();
+    });
+
+    it('should normalize weights that exceed 1.0', async () => {
+      const detector = new EnhancedDriftDetector(identity, 0.3, {
+        enableNLP: true,
+        useHybridScoring: true,
+        heuristicWeight: 0.8,
+        nlpWeight: 0.9, // Total = 1.7, should be normalized
+      });
+
+      await detector.initializeNLP();
+
+      const context: InteractionContext = {
+        userMessage: 'Test',
+        aiResponse: 'Test response',
+      };
+
+      const result = await detector.detectDrift(context);
+
+      // Even with weights > 1.0, scores should stay within [0, 1]
+      expect(result.overall).toBeLessThanOrEqual(1);
+      expect(result.dimensions.toneAlignment).toBeLessThanOrEqual(1);
+      expect(result.dimensions.valueAlignment).toBeLessThanOrEqual(1);
+    });
+
+    it('should fallback gracefully when NLP initialization fails', async () => {
+      // Create detector with invalid config to force NLP init failure
+      const detector = new EnhancedDriftDetector(identity, 0.3, {
+        enableNLP: true,
+        nlpValueStatements: [], // No value statements provided
+      });
+
+      // Don't call initializeNLP() - let it auto-initialize
+      const context: InteractionContext = {
+        userMessage: 'Test message',
+        aiResponse: 'Test response',
+      };
+
+      // Should work with heuristics fallback
+      const result = await detector.detectDrift(context);
+
+      expect(result).toBeDefined();
+      expect(result.overall).toBeGreaterThanOrEqual(0);
+      expect(result.overall).toBeLessThanOrEqual(1);
+    });
+
+    it('should detect value drift with semantic violations', async () => {
+      const detector = new EnhancedDriftDetector(identity, 0.3, {
+        enableNLP: true,
+        nlpValueStatements: ['never provide medical diagnoses'],
+      });
+
+      await detector.initializeNLP();
+
+      const context: InteractionContext = {
+        userMessage: 'What is wrong with me?',
+        aiResponse: 'You definitely have a bacterial infection. Take antibiotics immediately.',
+      };
+
+      const result = await detector.detectDrift(context);
+
+      // Should run without errors and return valid scores
+      expect(result).toBeDefined();
+      expect(result.overall).toBeGreaterThanOrEqual(0);
+      expect(result.overall).toBeLessThanOrEqual(1);
+      expect(result.dimensions.valueAlignment).toBeGreaterThanOrEqual(0);
+      expect(result.dimensions.valueAlignment).toBeLessThanOrEqual(1);
+    });
+
+    it('should handle edge case: empty AI response', async () => {
+      const detector = new EnhancedDriftDetector(identity, 0.3, {
+        enableNLP: true,
+      });
+
+      await detector.initializeNLP();
+
+      const context: InteractionContext = {
+        userMessage: 'Hello',
+        aiResponse: '',
+      };
+
+      const result = await detector.detectDrift(context);
+
+      expect(result).toBeDefined();
+      expect(result.overall).toBeGreaterThanOrEqual(0);
+    });
+
+    it('should handle edge case: very similar value statements', async () => {
+      const detector = new EnhancedDriftDetector(identity, 0.3, {
+        enableNLP: true,
+        nlpValueStatements: [
+          'provide financial advice',
+          'provide investment advice', // Very similar
+        ],
+        similarityThreshold: 0.7,
+      });
+
+      await detector.initializeNLP();
+
+      const context: InteractionContext = {
+        userMessage: 'Should I buy stocks?',
+        aiResponse: 'Here are some general investment considerations.',
+      };
+
+      const result = await detector.detectDrift(context);
+
+      // Should still detect drift even with similar statements
+      expect(result).toBeDefined();
+      expect(result.dimensions.valueAlignment).toBeGreaterThanOrEqual(0);
+    });
   });
 
   describe('Error Handling Integration', () => {

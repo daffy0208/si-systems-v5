@@ -185,6 +185,11 @@ export class NLPPipeline {
       normB += b[i] * b[i];
     }
 
+    // Zero-norm protection: return 0 instead of NaN
+    if (normA === 0 || normB === 0) {
+      return 0;
+    }
+
     return dotProduct / (Math.sqrt(normA) * Math.sqrt(normB));
   }
 

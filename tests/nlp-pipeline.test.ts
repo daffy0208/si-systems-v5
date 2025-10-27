@@ -104,6 +104,24 @@ describe('NLPPipeline', () => {
 
       expect(sim).toBeGreaterThan(0.99); // Should be nearly 1.0
     });
+
+    it('should handle zero-norm vectors gracefully', () => {
+      // Test zero-norm protection in cosineSimilarity
+      const normalVector = new Float32Array([1, 2, 3]);
+      const zeroVector = new Float32Array([0, 0, 0]);
+
+      // Should return 0 instead of NaN when one vector is zero
+      const sim1 = pipeline.cosineSimilarity(normalVector, zeroVector);
+      const sim2 = pipeline.cosineSimilarity(zeroVector, normalVector);
+      const sim3 = pipeline.cosineSimilarity(zeroVector, zeroVector);
+
+      expect(sim1).toBe(0);
+      expect(sim2).toBe(0);
+      expect(sim3).toBe(0);
+      expect(Number.isNaN(sim1)).toBe(false);
+      expect(Number.isNaN(sim2)).toBe(false);
+      expect(Number.isNaN(sim3)).toBe(false);
+    });
   });
 
   describe('cache management', () => {

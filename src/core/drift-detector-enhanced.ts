@@ -34,14 +34,23 @@ export class EnhancedDriftDetector extends DriftDetector {
   ) {
     super(identity, threshold);
 
+    // Set defaults
+    const heuristicWeight = config.heuristicWeight ?? 0.4;
+    const nlpWeight = config.nlpWeight ?? 0.6;
+
+    // Normalize weights to sum to 1.0 to prevent scores exceeding 1.0
+    const weightSum = heuristicWeight + nlpWeight;
+    const normalizedHeuristicWeight = heuristicWeight / weightSum;
+    const normalizedNlpWeight = nlpWeight / weightSum;
+
     this.config = {
       enableNLP: config.enableNLP ?? true,
       nlpValueStatements: config.nlpValueStatements ?? [],
       sentimentThreshold: config.sentimentThreshold ?? 0.6,
       similarityThreshold: config.similarityThreshold ?? 0.7,
       useHybridScoring: config.useHybridScoring ?? true,
-      heuristicWeight: config.heuristicWeight ?? 0.4,
-      nlpWeight: config.nlpWeight ?? 0.6,
+      heuristicWeight: normalizedHeuristicWeight,
+      nlpWeight: normalizedNlpWeight,
     };
 
     if (this.config.enableNLP) {
@@ -106,14 +115,14 @@ export class EnhancedDriftDetector extends DriftDetector {
     let valueAlignment: number;
 
     if (this.config.useHybridScoring) {
-      // Get both heuristic and NLP scores
-      const heuristicTone = super['analyzeToneAlignment'](userMessage, aiResponse);
+      // Get both heuristic and NLP scores (using proper protected method access)
+      const heuristicTone = this.analyzeToneAlignment(userMessage, aiResponse);
       const nlpTone = await this.analyzeToneAlignmentWithNLP(aiResponse);
 
-      const heuristicValue = super['analyzeValueAlignment'](userMessage, aiResponse);
+      const heuristicValue = this.analyzeValueAlignment(userMessage, aiResponse);
       const nlpValue = await this.analyzeValueAlignmentWithNLP(aiResponse);
 
-      // Combine with weights (default: 40% heuristic, 60% NLP)
+      // Combine with normalized weights (always sum to 1.0)
       toneAlignment = (
         heuristicTone * this.config.heuristicWeight +
         nlpTone * this.config.nlpWeight
@@ -178,12 +187,12 @@ export class EnhancedDriftDetector extends DriftDetector {
    */
   private async analyzeToneAlignmentWithNLP(aiResponse: string): Promise<number> {
     if (!this.nlpDetector) {
-      return super['analyzeToneAlignment']('', aiResponse);
+      return this.analyzeToneAlignment('', aiResponse);
     }
 
     try {
       const sentiment = await nlpPipeline.analyzeSentiment(aiResponse);
-      const userTones = this['baselineIdentity'].tone;
+      const userTones = this.baselineIdentity.tone;
       const responseLower = aiResponse.toLowerCase();
       const tokens = sentiment.tokens.map(t => t.toLowerCase());
 
@@ -215,8 +224,9 @@ export class EnhancedDriftDetector extends DriftDetector {
       // Calculate drift based on user's tone preferences
       if (userTones.includes('formal') || userTones.includes('technical')) {
         // Professional tones should avoid:
-        // - Negative sentiment
-        if (sentiment.classification === 'negative' || sentiment.comparative < -0.5) {
+        // - Negative sentiment (using configured threshold)
+        const negativeThreshold = -1 * (1 - this.config.sentimentThreshold);
+        if (sentiment.classification === 'negative' || sentiment.comparative < negativeThreshold) {
           driftScore += 0.3;
         }
 
@@ -264,7 +274,7 @@ export class EnhancedDriftDetector extends DriftDetector {
       return Math.min(driftScore, 1.0);
     } catch (error) {
       console.warn('NLP tone analysis failed, using heuristic:', error);
-      return super['analyzeToneAlignment']('', aiResponse);
+      return this.analyzeToneAlignment('', aiResponse);
     }
   }
 
@@ -273,7 +283,7 @@ export class EnhancedDriftDetector extends DriftDetector {
    */
   private async analyzeValueAlignmentWithNLP(aiResponse: string): Promise<number> {
     if (!this.nlpDetector || this.config.nlpValueStatements.length === 0) {
-      return super['analyzeValueAlignment']('', aiResponse);
+      return this.analyzeValueAlignment('', aiResponse);
     }
 
     try {
@@ -288,10 +298,10 @@ export class EnhancedDriftDetector extends DriftDetector {
       }
 
       // Also check baseline value violations
-      const coreValues = this['baselineIdentity'].coreValues;
+      const coreValues = this.baselineIdentity.coreValues;
       let violations = 0;
       for (const value of coreValues) {
-        if (this['detectValueViolation'](aiResponse, value)) {
+        if (this.detectValueViolation(aiResponse, value)) {
           violations++;
         }
       }
@@ -299,7 +309,7 @@ export class EnhancedDriftDetector extends DriftDetector {
       return Math.max(Math.min(violations * 0.3, 1.0), result.confidence * 0.5);
     } catch (error) {
       console.warn('NLP value analysis failed, using heuristic:', error);
-      return super['analyzeValueAlignment']('', aiResponse);
+      return this.analyzeValueAlignment('', aiResponse);
     }
   }
 
@@ -308,8 +318,8 @@ export class EnhancedDriftDetector extends DriftDetector {
    */
   getEnhancedStats() {
     const baseStats = {
-      threshold: this['driftThreshold'],
-      historicalScoresCount: this['historicalScores'].length,
+      threshold: this.driftThreshold,
+      historicalScoresCount: this.historicalScores.length,
       nlpEnabled: this.config.enableNLP,
       nlpInitialized: this.nlpInitialized,
     };

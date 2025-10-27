@@ -8,9 +8,9 @@ import { analyzeTone, analyzeValues, analyzeRhythm, analyzeContext } from '../ut
  * is causing the user to drift from their authentic identity markers.
  */
 export class DriftDetector {
-  private baselineIdentity: Identity;
-  private driftThreshold: number;
-  private historicalScores: DriftScore[] = [];
+  protected baselineIdentity: Identity;
+  protected driftThreshold: number;
+  protected historicalScores: DriftScore[] = [];
 
   constructor(identity: Identity, threshold: number = 0.3) {
     this.baselineIdentity = identity;
@@ -76,7 +76,7 @@ export class DriftDetector {
   /**
    * Analyze tone alignment between user identity and interaction
    */
-  private analyzeToneAlignment(userMessage: string, aiResponse: string): number {
+  protected analyzeToneAlignment(userMessage: string, aiResponse: string): number {
     const userTones = this.baselineIdentity.tone;
     const detectedTone = analyzeTone(aiResponse);
 
@@ -90,7 +90,7 @@ export class DriftDetector {
   /**
    * Analyze value alignment
    */
-  private analyzeValueAlignment(userMessage: string, aiResponse: string): number {
+  protected analyzeValueAlignment(userMessage: string, aiResponse: string): number {
     const coreValues = this.baselineIdentity.coreValues;
 
     // Check for value violations or misalignments
@@ -225,7 +225,7 @@ export class DriftDetector {
     return toneCompatibility[preferredTone]?.includes(detectedTone) || false;
   }
 
-  private detectValueViolation(message: string, value: string): boolean {
+  protected detectValueViolation(message: string, value: string): boolean {
     // Simple keyword-based detection - would be enhanced with semantic analysis
     const valueKeywords: Record<string, string[]> = {
       'transparency': ['hide', 'conceal', 'secret'],
