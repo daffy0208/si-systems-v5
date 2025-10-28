@@ -8,27 +8,42 @@
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/index.js"
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
     },
     "./adapters": {
       "types": "./dist/adapters/index.d.ts",
-      "import": "./dist/adapters/index.js"
+      "import": "./dist/adapters/index.js",
+      "require": "./dist/adapters/index.cjs"
     },
     "./core": {
       "types": "./dist/core/index.d.ts",
-      "import": "./dist/core/index.js"
+      "import": "./dist/core/index.js",
+      "require": "./dist/core/index.cjs"
     },
     "./persistence": {
       "types": "./dist/persistence/index.d.ts",
-      "import": "./dist/persistence/index.js"
+      "import": "./dist/persistence/index.js",
+      "require": "./dist/persistence/index.cjs"
     },
     "./nlp": {
       "types": "./dist/nlp/index.d.ts",
-      "import": "./dist/nlp/index.js"
+      "import": "./dist/nlp/index.js",
+      "require": "./dist/nlp/index.cjs"
+    },
+    "./filters": {
+      "types": "./dist/filters/index.d.ts",
+      "import": "./dist/filters/index.js",
+      "require": "./dist/filters/index.cjs"
+    },
+    "./prompters": {
+      "types": "./dist/prompters/index.d.ts",
+      "import": "./dist/prompters/index.js",
+      "require": "./dist/prompters/index.cjs"
     }
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsup",
     "test": "vitest run",
     "test:watch": "vitest --watch",
     "test:coverage": "vitest run --coverage",
@@ -64,6 +79,7 @@
     "@vitest/coverage-v8": "^1.6.1",
     "eslint": "^8.55.0",
     "prettier": "^3.1.1",
+    "tsup": "^8.5.0",
     "tsx": "^4.7.0",
     "typescript": "^5.3.3",
     "vitest": "^1.0.4"
