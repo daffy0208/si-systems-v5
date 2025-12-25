@@ -1,4 +1,4 @@
-import { Identity, DriftScore, InteractionContext } from '../types/identity';
+import { Identity, DriftScore, InteractionContext, IdentitySchema } from '../types/identity';
 import { analyzeTone, analyzeValues, analyzeRhythm, analyzeContext } from '../utils/analyzers';
 
 /**
@@ -15,7 +15,6 @@ export class DriftDetector {
   constructor(identity: Identity, threshold: number = 0.3) {
     // Validate identity object
     try {
-      const { IdentitySchema } = require('../types/identity');
       IdentitySchema.parse(identity);
     } catch (error: any) {
       throw new TypeError(`Invalid identity object: ${error.message}`);

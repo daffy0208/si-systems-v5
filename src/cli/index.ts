@@ -5,8 +5,6 @@
  */
 
 import { Command } from 'commander';
-import { DriftDetector } from '../core/drift-detector';
-import { Identity } from '../types/identity';
 
 const program = new Command();
 
@@ -18,34 +16,41 @@ program
 program
   .command('demo')
   .description('Run interactive demo')
-  .action(async () => {
-    // Dynamic import to avoid loading heavy dependencies upfront
-    const { default: cliDemo } = await import('../../examples/cli-demo.js');
-    // Run demo logic
+  .action(() => {
     console.log('Running SI Systems interactive demo...');
-    console.log('For full demo, run: npm run demo:nlp');
+    console.log('For full interactive demo, run: npm run demo');
+    console.log('For NLP demo, run: npm run demo:nlp');
+    console.log('\nNote: Use npm run commands in development mode for full functionality.');
   });
 
 program
   .command('evaluate')
   .description('Run evaluation suite')
   .option('-h, --hybrid', 'Run hybrid evaluation')
-  .action(async (options) => {
+  .action((options) => {
     if (options.hybrid) {
       console.log('Running hybrid evaluation...');
-      const { default: evalHybrid } = await import('../evaluation/evaluate-hybrid.js');
+      console.log('Use: npm run evaluate:hybrid');
     } else {
       console.log('Running standard evaluation...');
-      const { default: evalStandard } = await import('../evaluation/run-evaluation.js');
+      console.log('Use: npm run evaluate');
     }
   });
 
 program
   .command('benchmark')
   .description('Run performance benchmarks')
-  .action(async () => {
+  .action(() => {
     console.log('Running performance benchmarks...');
-    const { default: benchmark } = await import('../benchmarks/performance-suite.js');
+    console.log('Use: npm run benchmark');
+  });
+
+program
+  .command('stress-test')
+  .description('Run stress tests')
+  .action(() => {
+    console.log('Running stress tests...');
+    console.log('Use: npm run stress-test');
   });
 
 program.parse();

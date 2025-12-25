@@ -16,8 +16,9 @@ export default defineConfig({
   // Output both CJS and ESM formats
   format: ['cjs', 'esm'],
 
-  // Generate TypeScript declarations
-  dts: true,
+  // Skip DTS generation due to memory issues
+  // TODO: Re-enable when memory issue is resolved or use tsc separately
+  dts: false,
 
   // Don't bundle dependencies (let consumers handle it)
   splitting: false,
@@ -33,4 +34,11 @@ export default defineConfig({
 
   // Preserve directory structure
   outDir: 'dist',
+
+  // Memory optimization
+  external: [
+    // Mark heavy dependencies as external to reduce memory usage during build
+    '@xenova/transformers',
+    'better-sqlite3',
+  ],
 });
