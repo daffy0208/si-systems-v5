@@ -10,6 +10,7 @@ export default defineConfig({
     'src/nlp/index.ts',
     'src/filters/index.ts',
     'src/prompters/index.ts',
+    'src/cli/index.ts',
   ],
 
   // Output both CJS and ESM formats
