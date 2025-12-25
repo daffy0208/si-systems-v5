@@ -1,7 +1,7 @@
 {
   "name": "@si-systems/core",
   "version": "0.1.0",
-  "description": "Identity-Aligned System Architecture for Human-AI Interaction",
+  "description": "The Anti-Drift Architecture: Stop becoming a High-Speed Zombie. Prioritizes Human Sovereignty over Machine Efficiency.",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
