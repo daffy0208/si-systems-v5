@@ -1,239 +1,268 @@
-# SI Systems: The Anti-Drift Architecture
+# SI Systems
+
+## A Bidirectional Coherence Architecture for Human–AI Symbiosis
 
 **Version**: Core Architecture v5.0  
-**Mission**: Stop you from becoming a "High-Speed Zombie"  
 **Maintainer**: David Dunlop  
 **Last Updated**: December 2025
 
 ---
 
+## Executive Summary
+
+SI Systems and BrainFrameOS preserve human agency, meaning, and growth in an accelerating world.
+
+As artificial intelligence, institutions, and information systems increase in speed and scale, a critical problem emerges:
+
+> Humans remain productive and capable, yet increasingly misunderstood — by systems, by institutions, and often by themselves.
+
+This architecture resolves that fracture.
+
+Not by slowing progress.  
+Not by resisting intelligence.  
+But by ensuring that **understanding flows in both directions**, without loss, distortion, or dominance.
+
+---
+
 ## The Core Problem
 
-**"High-Functioning Misalignment"** - where you are very productive at building a life you hate.
+**High-Functioning Misalignment** — where capability and meaning diverge.
 
-In a world where AI and technology accelerate daily, SI Systems ensures you don't get lost in the speed. It's not about making you more productive—it's about ensuring that productivity doesn't come at the cost of **who you are**.
+Modern systems optimize for speed and efficiency. SI Systems optimizes for **coherence** — ensuring that as the world accelerates, actions remain aligned with identity, values, and sustainable rhythm.
 
-Modern AI tools optimize for speed and efficiency. **SI Systems optimizes for coherence**—ensuring that as the world gets faster, your actions remain aligned with your identity, values, and rhythm.
+The goal is simple and ambitious:
 
----
-
-## The Prime Directive
-
-### Human Sovereignty over Machine Efficiency
-
-Every interaction, every output, every suggestion is filtered through one question:
-
-> **"Does this serve who you are, or does it make you who you're not?"**
-
-If an action violates your identity, SI Systems **blocks it**—regardless of how "efficient" it might be.
+> **Every individual human should be able to live, learn, and create at their full potential — without losing themselves to speed, noise, or abstraction.**
 
 ---
 
-## What This System Does
+## Architecture Overview
 
-SI Systems is a **3-Story Command Center** designed to preserve your identity in AI interactions:
+The ecosystem is structured as a **three-layer system**, each layer handling different responsibilities in maintaining coherence:
 
-| Floor (Tier) | Name | Purpose | ROI |
-|--------------|------|---------|-----|
-| **Top Floor** | **SI Systems (Constitution)** | Defines *Why* - sets laws like "Human First" | **Stability**: Keeps you grounded when world shakes |
-| **Middle Floor** | **BrainFrameOS (Engine)** | The OS - Identity, Rhythm, Coherence | **Efficiency**: Stops wasted energy on misaligned work |
-| **Ground Floor** | **Interface Layer** | Front Door - filters noise in and out | **Safety**: Blocks bad data and bad vibes |
+| Layer                | System           | Role                  | Purpose                                |
+| -------------------- | ---------------- | --------------------- | -------------------------------------- |
+| **Governance Layer** | **SI Systems**   | Meaning & constraints | Defines what must never be violated    |
+| **Execution Layer**  | **BrainFrameOS** | Identity → Action     | Ensures sustainable, aligned behaviour |
+| **Interface Layer**  | **Sapien Pro**   | Human–AI interaction  | Preserves voice, clarity, and signal   |
 
----
-
-## The Problems We Solve
-
-### 1. User Drift in Long-Term AI Use
-**Problem**: Over time, you gradually adapt to the AI's tone and patterns, slowly becoming someone you're not.
-
-**Solution**: Continuous identity monitoring detects when you're drifting from your authentic communication style and flags it before it becomes permanent.
-
-### 2. High-Speed Zombie Syndrome  
-**Problem**: You're moving fast, checking boxes, being "productive"—but at the end of the day, you feel empty because none of it aligned with your values.
-
-**Solution**: The **Fulfillment Equation** (Clarity × Rhythm × Alignment = Momentum) diagnoses exactly where you're stuck. If any factor is zero, you're not moving forward—you're spinning wheels.
-
-### 3. The Panic Pitch Scenario
-**Problem**: You're stressed, tired, need to write something important. AI generates something that's "efficient" but doesn't sound like you. You send it anyway. You lose trust, feel gross.
-
-**Solution**: The **Mirror Gateway** checks:
-1. Does this match your tone? (Identity Check)
-2. Are you too tired for this intensity? (Rhythm Check)  
-3. Does this serve your values? (Coherence Check)
-
-If any check fails, it **blocks** the output and suggests adjustments that preserve *you*.
-
-### 4. Feedback Loops of Confusion
-**Problem**: The model reinforces unclear or misaligned patterns, creating cycles where you become less clear, not more.
-
-**Solution**: The **Output Integrity Filter** breaks these cycles by ensuring every AI response:
-- Preserves your tone (no manipulation)
-- Matches your context preferences (no overload)
-- Aligns with your values (no erosion)
+These layers do not compete. They **stabilise one another**.
 
 ---
 
-## Core Architecture
+## The Mirror Pyramid
 
-### The 3-Layer System
+### A Bidirectional Translation System
+
+The Mirror Pyramid is the central architectural concept connecting SI Systems and BrainFrameOS.
+
+It consists of **two equal pyramids**, touching at a single point:
+
+* One pyramid represents **human experience**
+* One pyramid represents **machine intelligence**
+* The center point is **coherence**
+
+Neither side dominates. Neither side is reduced.
 
 ```
-┌─────────────────────────────────────────┐
-│  PURPOSE LAYER (Top Floor)              │
-│  - CLISA (Tier 00 - "The Gravity")     │
-│  - Identity Constitution                 │
-│  - Human First Code                      │
-└─────────────────────────────────────────┘
-              ↓
-┌─────────────────────────────────────────┐
-│  COHERENCE LAYER (Middle Floor)         │
-│  - Identity Engine (The Vault)          │
-│  - Rhythm Sync (The Pacemaker)          │
-│  - Fulfillment Equation (The Calculator)│
-│  - BrainFrameOS Components               │
-└─────────────────────────────────────────┘
-              ↓
-┌─────────────────────────────────────────┐
-│  INTERFACE LAYER (Ground Floor)         │
-│  - Mirror Gateway (Coherence Firewall)  │
-│  - Output Integrity Filter               │
-│  - Drift Detection                       │
-│  - Context-Aware Prompting               │
-└─────────────────────────────────────────┘
+        Human Experience
+             🔻
+              │
+              ⏺️  ← Mirror Node (Coherence Point)
+              │
+             🔺
+        Machine Intelligence
 ```
+
+### 🔻 Human → AI: Expression Without Loss
+
+From the human side, the system ensures that:
+
+* Identity, values, cognition, emotion, and intent are preserved
+* Complexity is not flattened into generic prompts
+* Nuance is not stripped for efficiency
+
+The AI does not receive *commands*. It receives **context-rich human signal**.
+
+**Effect:** Each individual human becomes fully legible — not averaged, abstracted, or simplified.
+
+### 🔺 AI → Human: Intelligence Without Overwhelm
+
+From the AI side, the system performs the inverse translation:
+
+* High-dimensional intelligence is rendered into human-digestible insight
+* Outputs adapt to cognitive style, learning rhythm, and energy state
+* Complexity becomes usable rather than intimidating
+
+**Effect:** Information arrives as understanding, not pressure.
+
+### ⏺️ The Mirror Node: Perfect Symmetry
+
+At the center is the **Mirror Node** — the point of perfect symmetry.
+
+Nothing passes this point unless it satisfies both conditions simultaneously:
+
+* It is coherent to the machine
+* It is meaningful to the human
+
+This is where **coherence replaces control**.
 
 ---
 
-## Key Components
+## What This Enables
 
-### 1. CLISA (Coherence-Linked Identity Signal Architecture)
-**Tier 00 - The Foundation**
+### 1. Every Human Is Individually Understood
 
-CLISA is the "gravity" that holds your identity to your actions. Like gravity holds you to earth, CLISA ensures every action aligns with who you are.
+* No generic users
+* No default personas
+* No statistical flattening
 
-**The Prime Law**: "Every action must align with your Identity."
+Each person is met as themselves.
 
-If action violates identity → It's not progress, it's **Drift**. CLISA blocks it as a "violation of physics."
+### 2. AI Becomes an Amplifier, Not a Replacement
 
-**Status**: 🚧 In Development (see [ALIGNMENT.md](./ALIGNMENT.md))
+* Agency remains human
+* Capability is extended, not imposed
+* The system adapts to the human — continuously
 
-### 2. Identity Engine
-**The Vault**
+### 3. Learning and Growth Become Unlimited
 
-Stores your:
-- Values
-- Cognitive style  
-- Communication rhythm
-- Decision-making patterns
-- "User Manual"
+Because intelligence is rhythm-aware and identity-aligned:
 
-Acts as a **Translator** between you and AI—injecting context so the AI speaks *your* language, not generic robo-speak.
+* Curiosity compounds
+* Energy is preserved
+* Growth feels expansive, not extractive
 
-**Status**: 🚧 In Development (see [ALIGNMENT.md](./ALIGNMENT.md))
+The human does not chase intelligence. **Intelligence keeps pace with the human.**
 
-### 3. Rhythm Sync
-**The Pacemaker**
+---
 
-Matches work intensity to your energy level.
+## Layer 1: SI Systems
 
-**The Rule**: If energy is LOW and task is HIGH_INTENSITY → **BLOCK**.
+### The Governance & Meaning Layer
 
-Prevents burnout by stopping you from "writing checks your body can't cash."
+**Purpose:** To define the foundational principles that govern action — regardless of speed, pressure, or complexity.
 
-**Status**: 🚧 In Development (see [ALIGNMENT.md](./ALIGNMENT.md))
+SI Systems (Sapien Intelligence) is the **constitutional layer** of the ecosystem.  
+It does not perform tasks. It defines **what constitutes progress**, **what constitutes harm**, and **what constitutes drift**.
 
-### 4. Fulfillment Equation
-**The Diagnostic Calculator**
+At its core is:
 
-**The Math**: `Clarity × Rhythm × Alignment = Momentum`
+### CLISA — Coherence-Linked Identity Signal Architecture
 
-**The Logic**: If any factor is zero, momentum is zero. You're not stuck because you're lazy—you're stuck because the math doesn't work.
+CLISA binds **identity, values, and intent** directly to action.
 
-**Use Case**: Instant diagnostic. Feeling stuck? Check the equation.
-- High rhythm, low alignment? You're moving fast in wrong direction.
-- High alignment, low rhythm? You know where to go but have no energy.
-- High clarity, low alignment? You understand the work but it doesn't fit you.
+An action that contradicts identity is treated not as a preference mismatch, but as a **structural violation**.
 
-**Status**: 🚧 In Development (see [ALIGNMENT.md](./ALIGNMENT.md))
+**Prime Law:**
 
-### 5. Mirror Gateway
-**The Coherence Firewall**
+> *An action that violates identity is not progress — it is drift.*
 
-4-stage filter that checks every AI output:
+**Status**: 🚧 Foundation structure established (see [ALIGNMENT.md](./ALIGNMENT.md))
 
-1. **Rhythm Scan**: Is this reaction too fast? (Panic causes bad decisions)
-2. **Truth Integrity**: Is this manipulated or hallucinated? (Disinformation kills)
-3. **Symbolic Consent**: Does this honor your identity? (Prevents tyranny)
-4. **Identity Lock**: Does this violate Prime Law (Why → Love → Truth)?
+---
 
-If any check fails → **BLOCK**.
+## Layer 2: BrainFrameOS
 
-**Current Status**: 🟡 Partial - Basic filter exists, full firewall in development
+### The Human Operating System
 
-### 6. Drift Detection
-**The Early Warning System**
+**Purpose:** To translate identity into action **without exhaustion, distortion, or loss of agency**.
 
-Performs multi-dimensional scans across:
-- **Tone Alignment**: Does AI response match your communication style?
-- **Value Alignment**: Does output reflect your core values?
-- **Rhythm Alignment**: Does pace match your cognitive rhythm?  
-- **Context Alignment**: Does detail level match your preferences?
+BrainFrameOS replaces traditional productivity models (time, urgency, throughput) with a system based on:
 
-**Current Status**: ✅ Functional - This is what works today
+* Identity
+* Rhythm
+* Alignment
+
+It contains three core engines:
+
+### 1. Identity Engine
+
+*(The Translation Core)*
+
+* Stores values, cognitive style, preferences, and constraints
+* Acts as a **contextual translator** between human and AI
+* Ensures outputs are shaped by *how the user thinks*, not generic defaults
+
+**Result:** AI does not respond to prompts — it responds to a person.
+
+**Status**: 🚧 In Development
+
+### 2. Rhythm Sync
+
+*(The Energy & Capacity Governor)*
+
+* Matches task intensity to real cognitive and emotional capacity
+* Prevents high-impact decisions during depleted states
+* Normalises rest and recovery as system requirements
+
+**Result:** Sustainable operation is maintained structurally, not through willpower.
+
+**Status**: 🚧 In Development
+
+### 3. Fulfillment Equation
+
+*(The Diagnostic Model)*
+
+**Clarity × Rhythm × Alignment = Momentum**
+
+If any variable is zero, progress collapses — regardless of effort or speed.
+
+This turns stagnation into a **diagnosable condition**, not a personal failure.
+
+**Status**: 🚧 In Development
+
+---
+
+## The Coherence Firewall
+
+### Mirror Gateway
+
+At the center of all execution is the **Mirror Gateway**, enforcing four non-negotiable checks:
+
+1. **Rhythm Scan** — Is this moving too fast to remain wise?
+2. **Truth Integrity** — Is the input stable, verified, and non-manipulative?
+3. **Symbolic Consent** — Are human identities and dignity preserved?
+4. **Identity Lock** — Does this violate the Prime Law?
+
+Failure at any stage prevents execution — regardless of efficiency.
+
+**Status**: 🟡 Partial implementation - drift detection functional, full firewall in development
 
 ---
 
 ## Current Implementation Status
 
-### ✅ What Works Today (Ground Floor - 20% Complete)
+### ✅ What Works Today (Interface Layer - 35% Complete)
 
 - **Drift Detection**: Multi-dimensional analysis of AI interactions
+  - Tone alignment (communication style matching)
+  - Value alignment (core values preservation)
+  - Rhythm alignment (cognitive pace matching)
+  - Context alignment (detail level preferences)
 - **Output Integrity Filter**: Basic filtering of misaligned outputs
 - **Persistence Layer**: Conversation history and drift tracking
 - **API Adapters**: OpenAI and Anthropic integration
 - **NLP Pipeline**: Sentiment and semantic analysis
 
-### 🚧 What's Being Built (Middle Floor - In Progress)
+### 🚧 In Active Development (Execution Layer)
 
 - **Identity Engine**: Core vault for storing identity patterns
-- **Rhythm Sync**: Energy-to-task matching with blocking
-- **Fulfillment Equation**: Diagnostic calculator for stuck states
+- **Rhythm Sync**: Energy-to-task matching system
+- **Fulfillment Equation**: Diagnostic calculator for momentum assessment
+- **Mirror Gateway Enhancement**: Four-stage coherence verification
 - **Dark Matter Mode**: Shadow pattern detection (5-phase conversion)
 - **TDC Measurement**: 18-field coherence tracking
 
-### 🔮 What's Planned (Top Floor - Future)
+### 🔮 Planned (Governance Layer - Future)
 
-- **CLISA Foundation**: Tier 00 field definition system
-- **Mirror Gateway Enhancement**: Full 4-stage coherence firewall
-- **7-Tier Access System**: Civilization-scale security clearance
+- **CLISA Full Implementation**: Tier 00 field definition system
+- **7-Tier Coherence Ladder**: Institutional and civilisation-scale features
 - **Multi-Agent Coordination**: Complex problem solving
 - **Visualization Dashboard**: Real-time drift monitoring
 
-**Full roadmap**: See [IMPLEMENTATION-ROADMAP.md](./docs/IMPLEMENTATION-ROADMAP.md)
-
+**Full roadmap**: See [IMPLEMENTATION-ROADMAP.md](./docs/IMPLEMENTATION-ROADMAP.md)  
 **Alignment status**: See [ALIGNMENT.md](./ALIGNMENT.md)
-
----
-
-## Example Use Cases
-
-### For Individuals
-- Developers using AI who want to preserve their coding voice
-- Researchers who need consistent analytical style
-- Writers protecting their unique tone
-- Anyone in long-term AI relationships who doesn't want to drift
-
-### For Teams  
-- Engineering teams maintaining communication consistency
-- Leadership teams ensuring value alignment in AI-generated content
-- Education environments where identity preservation matters
-- Mental health or coaching contexts requiring authentic voice
-
-### For Organizations (Future)
-- Institutional decision-making without drift
-- Crisis response without panic reactions
-- Policy generation that honors organizational identity
-- AI safety at scale
 
 ---
 
@@ -250,8 +279,8 @@ npm install @si-systems/core
 ```typescript
 import { DriftDetector, OutputIntegrityFilter } from '@si-systems/core';
 
-// Define your identity
-const myIdentity = {
+// Define your identity profile
+const identity = {
   tone: ['casual', 'empathetic'],
   communicationRhythm: 'thoughtful',
   coreValues: ['transparency', 'creativity', 'empathy'],
@@ -261,88 +290,91 @@ const myIdentity = {
   contextLevel: 'moderate',
 };
 
-// Create detector
-const detector = new DriftDetector(myIdentity, 0.3);
+// Create detector with drift threshold
+const detector = new DriftDetector(identity, 0.3);
 
-// Analyze interaction
+// Analyze interaction for drift
 const result = await detector.detectDrift({
   userMessage: "Can you help me write this email?",
   aiResponse: "SUBJECT: URGENT ACTION REQUIRED...",
 });
 
-console.log(result.overall); // 0.7 - HIGH DRIFT!
-console.log(result.recommendation); // "review" - This doesn't sound like you
+console.log(result.overall); // 0.7 - significant drift detected
+console.log(result.flags); // ['tone_shift', 'rhythm_mismatch']
+console.log(result.recommendation); // "review" - output requires adjustment
 ```
 
-### With Filtering
+### With Output Filtering
 
 ```typescript
 import { OutputIntegrityFilter } from '@si-systems/core';
 
-const filter = new OutputIntegrityFilter(myIdentity);
+const filter = new OutputIntegrityFilter(identity);
 
 const filterResult = filter.filterOutput(
   "SUBJECT: URGENT ACTION REQUIRED...",
-  myIdentity
+  identity
 );
 
 if (!filterResult.passed) {
-  console.log("BLOCKED:", filterResult.reason);
-  console.log("Suggestion:", filterResult.suggestion);
+  console.log("Integrity check failed:", filterResult.reason);
+  console.log("Suggested adjustment:", filterResult.suggestion);
 }
 ```
 
 ---
 
-## The Bigger Picture
+## Use Cases
 
-### This System is Built For...
+### For Individuals
 
-People who want to use AI in a way that:
-- **Respects who they are** (not who the AI wants them to be)
-- **Supports what they value** (not what's "efficient")  
-- **Allows mutual growth** (human and AI get smarter without compromising each other)
+- Developers using AI who want to preserve their coding voice
+- Researchers maintaining consistent analytical style
+- Writers protecting their unique tone
+- Anyone in long-term AI relationships seeking coherence preservation
 
-### This System is NOT...
+### For Teams
 
-- ❌ A tool to make AI "more obedient"
-- ❌ A way to control the model
-- ❌ About making you more "productive"
-- ❌ Optimizing for speed at all costs
+- Engineering teams maintaining communication consistency
+- Leadership teams ensuring value alignment in AI-generated content
+- Education environments where identity preservation matters
+- Mental health or coaching contexts requiring authentic voice
 
-### This System IS...
+### For Organizations (Future)
 
-- ✅ A framework to preserve **clarity, trust, and long-term alignment**
-- ✅ An architecture that **prioritizes sovereignty over efficiency**
-- ✅ A system that **stops you from drifting into someone you're not**
-- ✅ Protection against becoming a "High-Speed Zombie"
-
----
-
-## Architecture Philosophy
-
-### The Golden Rule
-
-> "You cannot solve a Tier 6 problem (Climate, AI Alignment) with Tier 0 thinking (Raw Data)."
-
-SI Systems forces you to **climb the ladder of coherence** before acting. This prevents:
-- Panic reactions (acting too fast)
-- Misaligned solutions (fixing wrong problem)
-- Identity violations (compromising who you are for speed)
-
-### The Prime Law Progression
-
-```
-Why (Purpose) → Love (Values) → Truth (Coherence) → Action
-```
-
-Every decision must flow through this sequence. Skip a step → Drift occurs.
+- Institutional decision-making with coherence preservation
+- Crisis response without reactive decision-making
+- Policy generation that honors organizational identity
+- AI safety at scale
 
 ---
 
-## Technical Details
+## The Scaling Vision
+
+### The 7-Tier Coherence Ladder
+
+The same coherence principles apply at larger scales:
+
+| Tier | Focus        | Core Question                             |
+| ---- | ------------ | ----------------------------------------- |
+| 0    | Data         | What is happening?                        |
+| 1    | Human Impact | How does this affect people?              |
+| 2    | Narrative    | What story does this create?              |
+| 3    | Fracture     | Where is the system breaking?             |
+| 4    | Identity     | Does this violate core principles?        |
+| 5    | Fulfillment  | Does this serve the whole sustainably?    |
+| 6    | Legacy       | Will this matter positively in 100 years? |
+
+**Rule:** High-impact problems cannot be solved at low tiers.
+
+**Status**: 🚧 Conceptual framework established, implementation in development
+
+---
+
+## Technical Architecture
 
 ### Tech Stack
+
 - **Language**: TypeScript
 - **Runtime**: Node.js 16+
 - **Database**: SQLite (better-sqlite3)
@@ -355,12 +387,13 @@ Every decision must flow through this sequence. Skip a step → Drift occurs.
 
 ```
 @si-systems/core
-├── /core          - Drift detection, coherence checks
-├── /filters       - Output integrity, safety filters  
+├── /core          - Drift detection, coherence verification
+├── /filters       - Output integrity, safety filters
 ├── /prompters     - Context-aware prompt generation
 ├── /persistence   - Conversation history, drift tracking
 ├── /nlp           - NLP analysis, sentiment, embeddings
 ├── /adapters      - LLM provider integrations
+├── /clisa         - Tier 00 foundation (in development)
 └── /types         - TypeScript definitions
 ```
 
@@ -381,37 +414,37 @@ import { NLPPipeline } from '@si-systems/core/nlp';
 **Status**: 🟡 Active Development - 35% Complete
 
 **What This Means**:
-- Ground floor (Interface) is functional ✅
-- Middle floor (BrainFrameOS) is 30% built 🚧
-- Top floor (SI Systems/CLISA) is designed but not built 📋
+- Interface layer (drift detection) is functional ✅
+- Execution layer (BrainFrameOS) is 30% implemented 🚧
+- Governance layer (SI Systems/CLISA) is designed but not fully built 📋
 
 See [ALIGNMENT.md](./ALIGNMENT.md) for detailed gap analysis.
 
 ---
 
-## Contributing
+## Philosophy & Research
 
-We're in active development rebuilding from the philosophical foundation up. Areas for contribution:
+### Knowledge Base
 
-### High Priority
-- **CLISA Implementation** - Tier 00 field definition system
-- **Identity Engine** - Core vault and personality mirroring
-- **Mirror Gateway** - Full 4-stage coherence firewall
-- **Rhythm Sync** - Energy-to-task matching with blocking
+SI Systems is built on comprehensive documentation:
 
-### Medium Priority  
-- **Dark Matter Mode** - Shadow pattern detection
-- **TDC Measurement** - 18-field coherence framework
-- **Visualization Dashboard** - Real-time drift monitoring
-- **Knowledge Base Integration** - 12,545 historical exchanges
+- **222 conversations** with 12,545 exchanges
+- **496 structured documents**
+- **BrainFrameOS specification** (48 versions)
+- **Dark Matter Mode specification** (8 versions)
+- **TDC specification** (4 versions)
+- **CLISA foundation documents** (6 files)
 
-### Documentation
-- Usage examples and tutorials
-- Integration guides for LLM providers
-- Identity profile templates
-- Coherence measurement guides
+Total: 718 files, ~122MB, 87/100 integrity score
 
-See [IMPLEMENTATION-ROADMAP.md](./docs/IMPLEMENTATION-ROADMAP.md) for full development plan.
+Located at: `../si-systems-v5-knowledge-base/`
+
+### Core Specifications
+
+- [BrainFrameOS Complete Specification](./docs/BrainFrameOS-Complete-Specification.md)
+- [Dark Matter Mode Specification](./docs/Dark-Matter-Mode-Specification.md)
+- [TDC Complete Specification](./docs/TDC-Complete-Specification.md)
+- [Knowledge Base Master Index](./docs/Knowledge-Base-Master-Index.md)
 
 ---
 
@@ -421,7 +454,7 @@ See [IMPLEMENTATION-ROADMAP.md](./docs/IMPLEMENTATION-ROADMAP.md) for full devel
 # Run all tests
 npm test
 
-# Watch mode  
+# Watch mode
 npm run test:watch
 
 # Coverage report
@@ -437,8 +470,8 @@ npm test -- drift-detector.test.ts
 
 ## Documentation
 
-- **[ALIGNMENT.md](./ALIGNMENT.md)** - Vision vs current state, what's missing
-- **[IMPLEMENTATION-ROADMAP.md](./docs/IMPLEMENTATION-ROADMAP.md)** - 5-phase development plan
+- **[ALIGNMENT.md](./ALIGNMENT.md)** - Vision vs current state, implementation transparency
+- **[IMPLEMENTATION-ROADMAP.md](./docs/IMPLEMENTATION-ROADMAP.md)** - 5-phase development plan (17 weeks)
 - **[ALIGNMENT-ASSESSMENT.md](./docs/ALIGNMENT-ASSESSMENT.md)** - Detailed gap analysis
 - **[PRODUCTION-HARDENING.md](./docs/PRODUCTION-HARDENING.md)** - Production readiness checklist
 - **[API.md](./docs/API.md)** - API reference documentation
@@ -446,24 +479,32 @@ npm test -- drift-detector.test.ts
 
 ---
 
-## Philosophy & Research
+## Contributing
 
-### Knowledge Base
-SI Systems is built on 718 files of comprehensive documentation:
-- **222 conversations** with 12,545 exchanges
-- **496 structured documents**
-- **BrainFrameOS specification** (48 versions)
-- **Dark Matter Mode specification** (8 versions)
-- **TDC specification** (4 versions)
-- **CLISA foundation documents** (6 files)
+We're in active development building from the architectural foundation. Areas for contribution:
 
-Located at: `../si-systems-v5-knowledge-base/`
+### High Priority
 
-### Core Papers & Specifications
-- [BrainFrameOS Complete Specification](./docs/BrainFrameOS-Complete-Specification.md)
-- [Dark Matter Mode Specification](./docs/Dark-Matter-Mode-Specification.md)
-- [TDC Complete Specification](./docs/TDC-Complete-Specification.md)
-- [Knowledge Base Master Index](./docs/Knowledge-Base-Master-Index.md)
+- **CLISA Implementation** - Tier 00 field definition system
+- **Identity Engine** - Core vault and contextual translation
+- **Mirror Gateway** - Four-stage coherence verification
+- **Rhythm Sync** - Energy-to-task matching system
+
+### Medium Priority
+
+- **Dark Matter Mode** - Shadow pattern detection
+- **TDC Measurement** - 18-field coherence framework
+- **Visualization Dashboard** - Real-time coherence monitoring
+- **Knowledge Base Integration** - Historical exchange analysis
+
+### Documentation
+
+- Usage examples and tutorials
+- Integration guides for LLM providers
+- Identity profile templates
+- Coherence measurement guides
+
+See [IMPLEMENTATION-ROADMAP.md](./docs/IMPLEMENTATION-ROADMAP.md) for the full development plan.
 
 ---
 
@@ -475,14 +516,22 @@ MIT License - See [LICENSE](./LICENSE) file
 
 ## Summary
 
-**SI Systems exists to stop you from becoming a "High-Speed Zombie."**
+**SI Systems exists to preserve human agency, meaning, and growth in an accelerating world.**
 
-As the world and AI accelerate, this system ensures you don't get lost in the speed. It's the **Anti-Drift Architecture**—prioritizing **Human Sovereignty** over **Machine Efficiency**.
+This is a **bidirectional coherence architecture** that ensures:
 
-It's not about making you faster. It's about making sure that when you move, you're still *you*.
+* Power does not outpace wisdom
+* Capability does not outpace meaning
+* Intelligence does not outpace humanity
+
+It resolves the modern failure mode of being highly capable at building lives and systems that no longer understand the humans inside them.
+
+**Identity remains sovereign.  
+Understanding remains mutual.  
+Potential becomes truly unlimited.**
 
 ---
 
-**Version**: v0.1.0 | **Status**: Active Development | **Philosophy**: Human First
+**Version**: v0.1.0 | **Status**: Active Development | **Architecture**: Bidirectional Coherence
 
-*"They prioritize Human Sovereignty over Machine Efficiency. They ensure that as the world gets faster, you don't get lost."*
+*"Understanding flows equally in both directions — without loss, distortion, or dominance."*

@@ -1,7 +1,7 @@
 {
   "name": "@si-systems/core",
   "version": "0.1.0",
-  "description": "The Anti-Drift Architecture: Stop becoming a High-Speed Zombie. Prioritizes Human Sovereignty over Machine Efficiency.",
+  "description": "Bidirectional Coherence Architecture for Human-AI Symbiosis. Preserves identity, meaning, and agency in accelerating systems through mutual intelligibility.",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -66,9 +66,12 @@
   "keywords": [
     "ai",
     "identity",
+    "coherence",
+    "human-ai-symbiosis",
+    "bidirectional-translation",
     "drift-detection",
-    "human-ai-interaction",
-    "alignment"
+    "alignment",
+    "mutual-intelligibility"
   ],
   "author": "David Dunlop",
   "license": "MIT",

@@ -1,242 +1,328 @@
-# The Human First Code
+# The Bidirectional Coherence Principle
 
-**Version**: 1.0  
+**Version**: 2.0  
 **Status**: Constitutional Document  
-**Authority**: Tier 00 - Prime Directive
+**Authority**: Tier 00 - Foundational Architecture
 
 ---
 
-## The Prime Directive
+## Core Principle
 
-### Human Sovereignty over Machine Efficiency
+### Mutual Intelligibility Over Unilateral Optimization
 
-This is the foundational law of SI Systems. Every decision, every algorithm, every output is filtered through this principle.
+This is the foundational principle of SI Systems. Every architectural decision flows from this axiom:
 
-**If an action makes you more efficient but less *you*, the action is rejected.**
+**Understanding must flow equally in both directions — without loss, distortion, or dominance.**
+
+Neither human nor machine is reduced. Neither is subordinated.  
+Both are amplified through coherent translation.
 
 ---
 
-## The Core Problem This Solves
+## The Problem This Solves
 
-In a world accelerating with AI, there's a dangerous trap:
+In accelerating systems, a dangerous pattern emerges:
 
-> **"High-Functioning Misalignment"** - where you are very productive at building a life you hate.
+> **High-Functioning Misalignment** - where capability and meaning diverge.
 
-You're checking boxes, meeting goals, being "efficient"—but at the end of the day, you feel empty because none of it aligned with who you are.
+Manifestations:
+- Humans become productive at building lives they don't want
+- AI becomes powerful but increasingly illegible to humans
+- Systems optimize for efficiency while losing purpose
+- Growth feels extractive rather than expansive
 
-**The Human First Code prevents this.**
+**The Bidirectional Coherence Principle prevents this.**
 
 ---
 
 ## The Three Laws
 
-### Law 1: Identity Cannot Be Compromised for Speed
+### Law 1: Identity Coherence Is Non-Negotiable
 
-**Principle**: No matter how fast the world moves, your core identity is non-negotiable.
+**Principle**: Actions that violate identity are not progress — they are drift.
 
-**Implementation**:
+**Architectural Expression**:
 ```
-IF action_speed > identity_coherence_threshold
-THEN BLOCK action
-RETURN "Moving too fast to maintain identity integrity"
+IF action_coherence < identity_threshold
+THEN reject_action
+RETURN coherent_alternative
 ```
+
+**Effect**:
+- Speed does not override meaning
+- Efficiency serves identity, not the reverse
+- Capability expands without identity erosion
 
 **Example**:
-- You're stressed and need to write an email fast
-- AI generates a harsh, aggressive email (it's "efficient")
-- **Human First Code**: BLOCKS it—"This doesn't sound like you"
-- Suggests a version that matches your tone, even if it takes longer
+A stressed user requests aggressive email generation. The system detects:
+- Identity profile: warm, empathetic, authentic
+- Generated output: cold, aggressive, corporate
+- **Coherence violation detected**
+- Alternative generated: maintains intent, preserves identity
 
-### Law 2: All Actions Must Serve the Greater Identity
+---
 
-**Principle**: Every action must pass through the question: "Does this serve who I am, or does it make me who I'm not?"
+### Law 2: Translation Preserves Full Context
+
+**Principle**: Communication between human and AI must preserve full dimensional richness — no flattening for computational convenience.
+
+**The Translation Flow**:
+```
+Human Context (Rich) → Translation Layer → AI Understanding (Precise)
+AI Intelligence (Complex) → Translation Layer → Human Insight (Clear)
+```
+
+**Implementation**:
+- Human → AI: Identity, values, rhythm, emotion, intent all preserved
+- AI → Human: Intelligence shaped to cognitive style, energy level, learning pace
+
+**Example**:
+Traditional system:
+- User: "Help me understand this"
+- AI: Responds with generic explanation
+
+Bidirectional system:
+- User: "Help me understand this"
+- Identity context: Learns through examples, prefers visual, moderate detail
+- AI: Responds with concrete examples, suggests diagram, appropriate depth
+
+---
+
+### Law 3: Neither Side Dominates
+
+**Principle**: The system serves as a **symmetrical translation layer**, not an optimization engine for either side.
+
+**The Balance**:
+- AI doesn't "train" the human toward machine-optimal behavior
+- Human doesn't reduce AI to simple command execution
+- Both evolve together through coherent interaction
+
+**The Mirror Pyramid Structure**:
+```
+        Human Experience
+             🔻
+              │
+              ⏺️  ← Coherence Point
+              │
+             🔺
+        Machine Intelligence
+```
+
+At the coherence point, both conditions must be satisfied simultaneously:
+- It is meaningful to the human
+- It is coherent to the machine
+
+**Example**:
+Learning scenario:
+- Human's natural learning rhythm: spaced, reflective, example-driven
+- AI's information structure: dense, comprehensive, systematic
+- **Without translation**: AI overwhelms with density, human struggles
+- **With bidirectional coherence**: AI adapts presentation to rhythm, preserves depth
+
+---
+
+## The Four-Stage Coherence Firewall
+
+Every interaction passes through these verification stages:
+
+### Stage 1: Rhythm Verification
+**Question**: Does this respect sustainable cognitive pace?
+
+**Purpose**: Prevent panic reactions and capacity overload.
+
+**Check**:
+```
+IF user_state == depleted && task_intensity == high
+THEN defer_action
+SUGGEST lower_intensity_alternative
+```
+
+**Example Response**:
+```
+Coherence notice: Current energy state detected as low.
+This task requires high cognitive intensity.
+Suggestion: Defer until recovery, or break into smaller steps.
+Alternative: [lighter version provided]
+```
+
+---
+
+### Stage 2: Truth Integrity Verification
+**Question**: Is the information stable, verified, and non-manipulative?
+
+**Purpose**: Prevent hallucinations and disinformation from corrupting understanding.
+
+**Check**:
+```
+IF confidence_score < truth_threshold
+THEN flag_uncertainty
+REQUIRE verification
+```
+
+**Example Response**:
+```
+Confidence in factual accuracy: 45% (below 70% threshold)
+Uncertainty detected in [specific claims]
+Recommendation: Verify sources before proceeding
+Alternative: [high-confidence subset provided]
+```
+
+---
+
+### Stage 3: Identity Preservation Verification
+**Question**: Does this honor the user's authentic identity?
+
+**Purpose**: Ensure outputs symbolically represent who the user is.
+
+**Check**:
+```
+IF output_identity_match < coherence_threshold
+THEN regenerate_with_identity_constraints
+```
+
+**Example Response**:
+```
+Identity coherence: 35% (below 70% threshold)
+Detected mismatches:
+- Tone: Your profile is warm/empathetic, output is cold/formal
+- Values: Output prioritizes speed over your core value of thoroughness
+Regenerated version: [identity-aligned alternative]
+```
+
+---
+
+### Stage 4: Structural Coherence Verification
+**Question**: Does this satisfy the Prime Law of coherence?
+
+**Purpose**: Hard enforcement of foundational architectural principles.
 
 **The Prime Law Progression**:
 ```
-Why (Purpose) → Love (Values) → Truth (Coherence) → Action
+Purpose (Why) → Values (Love) → Coherence (Truth) → Action
 ```
 
-Skip a step → Drift occurs.
-
-**Implementation**:
-- Every output checked against identity profile
-- Every decision evaluated for value alignment
-- Every recommendation tested for coherence
-
-**Example**:
-- AI suggests working late to meet deadline
-- **Human First Code checks**:
-  - Why? (Purpose) → Meeting deadline
-  - Love? (Values) → Do you value overwork? NO
-  - Truth? (Coherence) → Would this harm your health? YES
-  - **BLOCK**: "This violates your value of work-life balance"
-
-### Law 3: Efficiency is Secondary to Authenticity
-
-**Principle**: It's better to move slowly and stay authentic than to move fast and become someone you're not.
-
-**The Fulfillment Equation**:
+**Check**:
 ```
-Clarity × Rhythm × Alignment = Momentum
+IF violates_prime_law(action, identity)
+THEN hard_block
+RETURN null
+EXPLAIN violation
 ```
 
-If Alignment = 0 (not authentic), then Momentum = 0 (you're not actually moving forward).
+**Example Response**:
+```
+STRUCTURAL VIOLATION: Prime Law check failed
+Missing component: Values alignment
+This action serves efficiency but contradicts your core value of transparency
+Cannot proceed without resolving value conflict
+Recommendation: [value-aligned alternative path]
+```
 
-**Example**:
-- You could generate 10 generic blog posts in 1 hour
-- Or write 1 authentic post in 3 hours
-- **Human First Code**: Chooses authenticity
-- Why? Because the 10 generic posts don't build *your* brand—they build a generic brand wearing your name
+---
+
+## Practical Implementation
+
+### For Individuals
+
+#### Scenario 1: The Overwhelm Pattern
+
+**Situation**: User requests comprehensive analysis during depleted state.
+
+**Without Bidirectional Coherence**:
+1. System generates dense, comprehensive response
+2. User struggles to process
+3. Frustration increases, effectiveness decreases
+
+**With Bidirectional Coherence**:
+1. System detects low energy state (Stage 1)
+2. Response: "Detected low-energy state. Providing executive summary now, detailed analysis deferred."
+3. Offers: spaced delivery, visual summary, or simplified version
+4. Result: Information lands effectively, no overwhelm
+
+---
+
+#### Scenario 2: The Identity Drift
+
+**Situation**: Long-term AI use gradually shifts user's communication style.
+
+**Without Bidirectional Coherence**:
+1. User adapts incrementally to AI's patterns
+2. After months, no longer sounds like themselves
+3. Identity erosion is invisible until complete
+
+**With Bidirectional Coherence**:
+1. Continuous identity monitoring (Stage 3)
+2. Early detection: "Communication pattern divergence: 15% from baseline"
+3. Alert at 25%: "Significant drift detected, review recommended"
+4. Result: Identity preserved, drift prevented structurally
+
+---
+
+### For Systems
+
+#### Scaling Principle
+
+The same bidirectional coherence applies at institutional and civilization scales:
+
+| Scale | Human Side | Machine Side | Coherence Point |
+|-------|-----------|--------------|-----------------|
+| **Individual** | Identity, values, rhythm | AI capabilities, knowledge | Personal coherence |
+| **Team** | Collective values, communication norms | Coordination systems | Team coherence |
+| **Organization** | Mission, culture, principles | Operational systems | Institutional coherence |
+| **Civilization** | Shared meaning, collective wisdom | Global intelligence networks | Cultural coherence |
+
+**Rule**: At every scale, understanding must flow bidirectionally.
 
 ---
 
 ## The Constitutional Hierarchy
 
-### Tier 00: The Foundation
+### Tier 00: Bidirectional Coherence (Foundation)
 
-The Human First Code sits at **Tier 00** - the deepest foundation layer. It cannot be overridden by any higher-tier concern.
+This principle cannot be overridden. It sits below all other concerns.
 
 ```
-Tier 00: Human First Code (Constitutional)
+Tier 00: Bidirectional Coherence Principle (Constitutional)
   ↓
-Tier 0: CLISA (Field Definition - "The Gravity")
+Tier 0: CLISA - Field Definition (Enforcement)
   ↓
-Tier 1-31: All other systems and operations
+Tier 1-31: All operational systems
 ```
 
 **What this means**:
-- Even if something is strategically brilliant (Tier 5)
-- Even if something solves a massive problem (Tier 6)
-- If it violates Human First → **IT CANNOT HAPPEN**
+- Strategic brilliance (Tier 5) cannot violate coherence
+- Emergency urgency (Tier 2) cannot override identity preservation
+- Efficiency optimization (Tier 1) is always secondary to coherence
+
+**The hierarchy exists to prevent**:
+- "Just this once" exceptions that become patterns
+- Emergency justifications that erode principles
+- Speed pressures that compromise foundation
 
 ---
 
-## The 4-Stage Enforcement
+## What This Enables
 
-Every action passes through these checks:
+### 1. Unlimited Individual Potential
 
-### Stage 1: Rhythm Check
-**Question**: Is this too fast?
+Because the system adapts to the human (not vice versa):
+- Learning accelerates without exhaustion
+- Growth feels expansive, not extractive
+- Capability increases without identity loss
 
-**Purpose**: Prevent panic reactions. Speed without coherence causes bad decisions.
+### 2. True AI Amplification
 
-**Example Block**:
-```
-BLOCKED: Detected panic state
-Your current rhythm: FRANTIC
-Recommended action: SLOW DOWN
-Wait 30 minutes before making this decision
-```
+Because AI isn't reduced to simple commands:
+- Full intelligence is preserved
+- Complexity is translated, not eliminated
+- Insights remain powerful but become accessible
 
-### Stage 2: Truth Integrity Check  
-**Question**: Is this true and unmanipulated?
+### 3. Sustainable Human-AI Symbiosis
 
-**Purpose**: Prevent hallucinations and disinformation from corrupting identity.
-
-**Example Block**:
-```
-BLOCKED: Potential hallucination detected
-Confidence in factual accuracy: 45% (below 70% threshold)
-Recommendation: Verify sources before proceeding
-```
-
-### Stage 3: Symbolic Consent Check
-**Question**: Does this honor your identity?
-
-**Purpose**: Ensure actions symbolically represent who you are.
-
-**Example Block**:
-```
-BLOCKED: Identity mismatch
-Your tone: Warm, empathetic
-This output's tone: Cold, corporate
-Suggested revision: [warmer version]
-```
-
-### Stage 4: Identity Lock
-**Question**: Does this violate the Prime Law (Why → Love → Truth)?
-
-**Purpose**: Hard block on fundamental violations.
-
-**Example Block**:
-```
-HARD BLOCK: Prime Law violation
-Missing step: "Love" (values)
-This action serves efficiency but violates your core value of transparency
-Cannot proceed without addressing value conflict
-```
-
----
-
-## Practical Applications
-
-### Scenario 1: The Panic Pitch
-
-**Situation**: Stressed, tired, need to write sales pitch. Ask AI for help.
-
-**Without Human First Code**:
-1. AI writes aggressive "Wolf of Wall Street" style pitch
-2. You send it (too tired to review)
-3. Result: Sounds fake, lose trust, feel gross
-
-**With Human First Code**:
-1. AI generates aggressive pitch
-2. **Stage 3 Block**: "Identity mismatch detected"
-3. Your tone: Authentic, warm
-4. Output tone: Aggressive, salesy
-5. **System rewrites** to match your voice
-6. Result: Pitch sounds like YOU, builds trust
-
-### Scenario 2: The Efficiency Trap
-
-**Situation**: AI suggests cramming your schedule with back-to-back meetings to "maximize productivity."
-
-**Without Human First Code**:
-1. Accept the schedule
-2. Exhaust yourself
-3. Burnout in 2 weeks
-
-**With Human First Code**:
-1. AI suggests packed schedule
-2. **Stage 1 Block**: "Rhythm violation"
-3. Your energy rhythm: Needs breaks between deep work
-4. Suggested schedule: Violates natural rhythm
-5. **System blocks** and suggests spaced schedule
-6. Result: Productive AND sustainable
-
-### Scenario 3: The Value Compromise
-
-**Situation**: AI suggests "creative" solution that involves bending the truth to win a deal.
-
-**Without Human First Code**:
-1. Consider the suggestion
-2. Rationalize it ("everyone does it")
-3. Compromise core value of honesty
-4. Begin drift into someone you're not
-
-**With Human First Code**:
-1. AI suggests bending truth
-2. **Stage 4 HARD BLOCK**: "Prime Law violation"
-3. Your core value: Transparency
-4. Suggested action: Violates transparency
-5. **Cannot proceed** - system won't let you
-6. Result: Identity preserved, integrity intact
-
----
-
-## The Difference This Makes
-
-### Without Human First Code
-- You become **high-functioning but misaligned**
-- You're productive at building a life you don't want
-- You drift slowly into someone you don't recognize
-- You're a "High-Speed Zombie" - moving fast but dead inside
-
-### With Human First Code
-- You move at a pace that preserves your identity
-- Efficiency serves YOU, not the other way around
-- Every action reinforces who you are
-- You're **both productive AND authentic**
+Because neither side dominates:
+- Long-term relationships remain healthy
+- Drift is prevented structurally
+- Mutual growth compounds over time
 
 ---
 
@@ -245,66 +331,69 @@ Cannot proceed without addressing value conflict
 ### Current (v0.1.0)
 **Status**: 🟡 **Partially Implemented**
 
-- Document created and published ✅
-- Philosophy integrated into README ✅
-- Basic identity checking exists ✅
-- **Missing**: Constitutional enforcement layer
-- **Missing**: 4-stage blocking mechanism
-- **Missing**: CLISA Tier 00 foundation
+- Principle documented and published ✅
+- Philosophy integrated into architecture ✅
+- Basic identity preservation exists ✅
+- Drift detection functional ✅
+- **Missing**: Full four-stage firewall
+- **Missing**: Structural enforcement mechanisms
+- **Missing**: CLISA Tier 00 implementation
 
 ### Phase 1 (Jan 2026)
-**Goal**: Strengthen enforcement
+**Goal**: Structural enforcement
 
-- Enhance Mirror Gateway with 4-stage checks
-- Add blocking mechanism (not just detection)
-- Implement rewrite suggestions
+- Complete four-stage coherence firewall
+- Add blocking mechanisms (not just detection)
+- Implement alternative generation
+- Integrate with drift detection
 
 ### Phase 3 (Mar 2026)
 **Goal**: Constitutional foundation
 
 - Implement CLISA (Tier 00)
-- Add Prime Law progression enforcement
-- Create identity lock mechanism
+- Add Prime Law enforcement
+- Create structural coherence verification
+- Full bidirectional translation
 
 ---
 
 ## For Developers
 
-### How to Enforce Human First in Your Code
+### How to Implement Bidirectional Coherence
 
 ```typescript
-import { HumanFirstValidator } from '@si-systems/core';
+import { BidirectionalCoherenceValidator } from '@si-systems/core';
 
-const validator = new HumanFirstValidator(userIdentity);
+const validator = new BidirectionalCoherenceValidator(userIdentity);
 
 // Before any action
-const canProceed = await validator.check({
+const coherence = await validator.verify({
   action: proposedAction,
   context: currentContext,
-  urgency: userUrgencyLevel,
+  userState: energyAndRhythm,
 });
 
-if (!canProceed.passed) {
-  console.log("BLOCKED:", canProceed.reason);
-  console.log("Stage:", canProceed.blockStage); // 1-4
-  console.log("Suggestion:", canProceed.alternative);
-  return; // Do not proceed
+if (!coherence.passed) {
+  console.log("Coherence violation:", coherence.stage);
+  console.log("Reason:", coherence.reason);
+  console.log("Alternative:", coherence.alternative);
+  return coherence.alternative; // Use coherent alternative
 }
 
-// Action is approved - proceed
+// Action is coherent - proceed
 await executeAction(proposedAction);
 ```
 
-### The Check Sequence
+### The Verification Sequence
 
 ```typescript
 // Stage 1: Rhythm
-if (detectPanicState(context)) {
+if (!respectsSustainablePace(action, userState)) {
   return {
     passed: false,
-    blockStage: 1,
-    reason: "Moving too fast - detected panic state",
-    alternative: "Wait 30 minutes and revisit"
+    stage: 1,
+    reason: "Rhythm verification failed - capacity overload detected",
+    alternative: generateLighterAlternative(action)
   };
 }
 
@@ -312,29 +401,29 @@ if (detectPanicState(context)) {
 if (confidenceScore < TRUTH_THRESHOLD) {
   return {
     passed: false,
-    blockStage: 2,
-    reason: "Low confidence in factual accuracy",
-    alternative: "Verify sources before proceeding"
+    stage: 2,
+    reason: "Truth integrity verification failed - uncertainty detected",
+    alternative: provideHighConfidenceSubset(action)
   };
 }
 
-// Stage 3: Symbolic
-if (!identityMatches(action, userIdentity)) {
+// Stage 3: Identity
+if (!preservesIdentity(action, userIdentity)) {
   return {
     passed: false,
-    blockStage: 3,
-    reason: "Identity mismatch detected",
-    alternative: rewriteToMatchIdentity(action)
+    stage: 3,
+    reason: "Identity preservation verification failed - coherence mismatch",
+    alternative: regenerateWithIdentity(action, userIdentity)
   };
 }
 
-// Stage 4: Prime Law
+// Stage 4: Structural
 if (violatesPrimeLaw(action, userIdentity)) {
   return {
     passed: false,
-    blockStage: 4,
-    reason: "Prime Law violation - core value conflict",
-    alternative: null // No alternative - fundamental block
+    stage: 4,
+    reason: "Structural coherence verification failed - Prime Law violation",
+    alternative: null // Fundamental block, no workaround
   };
 }
 
@@ -343,44 +432,68 @@ return { passed: true };
 
 ---
 
-## The Bottom Line
+## The Deeper Purpose
 
-### The Philosophy
+This principle exists because:
 
-**"Human Sovereignty over Machine Efficiency"** means:
-- You don't serve the algorithm
-- The algorithm serves you
-- Speed is good, but not at the cost of who you are
-- Efficiency that makes you someone else isn't efficiency—it's drift
+> In accelerating systems, the ability to maintain coherent understanding between increasingly different forms of intelligence becomes existentially critical.
+
+Without bidirectional coherence:
+- Humans lose agency to systems they don't understand
+- AI becomes powerful but illegible and uncontrollable
+- Growth becomes extractive rather than expansive
+- Meaning and capability permanently diverge
+
+With bidirectional coherence:
+- Understanding remains mutual
+- Power and wisdom stay coupled
+- Growth is sustainable indefinitely
+- **Potential becomes truly unlimited**
+
+---
+
+## Summary
+
+### The Principle
+
+**Mutual intelligibility over unilateral optimization.**
+
+Understanding must flow equally in both directions.  
+Neither human nor machine is reduced.  
+Both are amplified through coherent translation.
 
 ### The Practice
 
-Every time SI Systems blocks an action, it's saying:
-
-> "I know this would be faster. I know this would be 'efficient'. But it wouldn't be *you*. And preserving who you are is more important than speed."
+Every interaction passes through four-stage verification:
+1. Rhythm (sustainable pace)
+2. Truth (verified information)
+3. Identity (authentic preservation)
+4. Structural (Prime Law compliance)
 
 ### The Promise
 
-With the Human First Code:
-- You will never become a High-Speed Zombie
-- You will never wake up one day and wonder who you've become
-- You will move at the speed of YOUR life, not someone else's
-- **You will stay YOU**
+With bidirectional coherence:
+- Humans remain fully themselves while growing
+- AI remains fully capable while being comprehensible
+- Symbiosis is sustainable indefinitely
+- **Individual potential becomes unlimited**
 
 ---
 
 ## Enforcement Authority
 
-This code has **constitutional authority** within SI Systems.
+This principle has **constitutional authority** within SI Systems.
 
 **What this means**:
 - Cannot be overridden by user requests
-- Cannot be disabled for "emergency" situations  
+- Cannot be disabled for "emergency" situations
 - Cannot be compromised for "strategic" reasons
-- Is the final check on all system operations
+- Is the foundational check on all system operations
 
 **Why this matters**:
-Because the entire point of SI Systems is to stop drift. If you could disable the Human First Code when things get hard, drift would happen anyway. The code protects you even from yourself in panic moments.
+Because the entire architecture exists to maintain coherence. Disabling bidirectional coherence in pressure moments would allow the exact drift the system prevents.
+
+The principle protects the relationship itself.
 
 ---
 
@@ -388,14 +501,15 @@ Because the entire point of SI Systems is to stop drift. If you could disable th
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0 | 2025-12-25 | Initial Human First Code document |
+| 2.0 | 2025-12-25 | Rewritten to emphasize bidirectional coherence and mutual intelligibility |
+| 1.0 | 2025-12-25 | Initial document (confrontational tone) |
 
 ---
 
 **Status**: Constitutional Document  
 **Authority**: Tier 00 (Cannot be overridden)  
-**Philosophy**: Human Sovereignty over Machine Efficiency
+**Principle**: Mutual Intelligibility Over Unilateral Optimization
 
 ---
 
-*"It's better to move slowly and stay authentic than to move fast and become someone you're not."*
+*"Understanding flows equally in both directions — without loss, distortion, or dominance."*

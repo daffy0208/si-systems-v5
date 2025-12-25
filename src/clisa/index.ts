@@ -2,11 +2,14 @@
  * CLISA (Coherence-Linked Identity Signal Architecture)
  * Tier 00 - The Constitutional Foundation
  * 
- * CLISA is the "gravity" that holds your identity to your actions.
- * Like gravity holds you to earth, CLISA ensures every action aligns with who you are.
+ * CLISA binds identity, values, and intent directly to action through a field definition
+ * system. Actions that contradict identity are treated as structural violations,
+ * not preference mismatches.
  * 
- * The Prime Law: "Every action must align with your Identity."
- * If action violates identity → It's not progress, it's Drift.
+ * The Prime Law: "An action that violates identity is not progress — it is drift."
+ * 
+ * This creates a coherence field within which all actions must operate, analogous to
+ * gravitational fields in physics — a fundamental constraint on possible states.
  * 
  * Status: 🚧 IN DEVELOPMENT - Phase 3 (March 2026)
  * See: /docs/ALIGNMENT.md for implementation status
@@ -18,8 +21,8 @@ import { Identity } from '../types/identity';
  * CLISA Field Definition
  * Tier 00 - Ontological Foundation
  * 
- * This defines the "field" within which all actions must operate.
- * Violating this field is a "violation of physics" - it cannot happen.
+ * Defines the coherence field within which all actions must operate.
+ * Field violations are structural impossibilities, not behavioral failures.
  */
 export interface CLISAField {
   /** The identity that defines this field */
