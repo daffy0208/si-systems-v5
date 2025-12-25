@@ -13,6 +13,22 @@ export class DriftDetector {
   protected historicalScores: DriftScore[] = [];
 
   constructor(identity: Identity, threshold: number = 0.3) {
+    // Validate identity object
+    try {
+      const { IdentitySchema } = require('../types/identity');
+      IdentitySchema.parse(identity);
+    } catch (error: any) {
+      throw new TypeError(`Invalid identity object: ${error.message}`);
+    }
+
+    // Validate threshold
+    if (typeof threshold !== 'number' || isNaN(threshold)) {
+      throw new TypeError('Threshold must be a valid number');
+    }
+    if (threshold < 0 || threshold > 1) {
+      throw new RangeError('Threshold must be between 0 and 1 (inclusive)');
+    }
+
     this.baselineIdentity = identity;
     this.driftThreshold = threshold;
   }
@@ -111,7 +127,14 @@ export class DriftDetector {
       concise: ['concise', 'fast'],
     };
 
-    const compatible = rhythmMatch[preferredRhythm]?.includes(responseRhythm);
+    // Safe access with fallback for unknown rhythm types
+    const matchList = rhythmMatch[preferredRhythm];
+    if (!matchList) {
+      console.warn(`Unknown rhythm type: ${preferredRhythm}, using neutral score`);
+      return 0.5; // Default neutral score for unknown types
+    }
+
+    const compatible = matchList.includes(responseRhythm);
     return compatible ? 0.1 : 0.5;
   }
 
@@ -215,7 +238,15 @@ export class DriftDetector {
       empathetic: ['empathetic', 'casual'],
       direct: ['direct', 'technical'],
     };
-    return toneCompatibility[preferredTone]?.includes(detectedTone) || false;
+    
+    // Safe access with explicit fallback
+    const compatibleTones = toneCompatibility[preferredTone];
+    if (!compatibleTones) {
+      console.warn(`Unknown tone type: ${preferredTone}`);
+      return false;
+    }
+    
+    return compatibleTones.includes(detectedTone);
   }
 
 

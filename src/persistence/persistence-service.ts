@@ -518,7 +518,13 @@ export class PersistenceService {
     // Use whitelist to prevent SQL injection in ORDER BY
     const requestedOrderBy = options.orderBy || 'timestamp';
     const orderBy = ORDER_BY_WHITELIST[requestedOrderBy] || 'timestamp';
-    const direction = options.orderDirection === 'ASC' ? 'ASC' : 'DESC';
+    
+    // Validate and sanitize ORDER direction
+    const requestedDirection = (options.orderDirection || 'DESC').toUpperCase();
+    const direction = (requestedDirection === 'ASC' || requestedDirection === 'DESC') 
+      ? requestedDirection 
+      : 'DESC';
+    
     query += ` ORDER BY ${orderBy} ${direction}`;
 
     if (options.limit) {

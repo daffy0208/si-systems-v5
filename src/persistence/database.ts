@@ -128,6 +128,21 @@ export class DatabaseConnection {
       freePages,
     };
   }
+
+  /**
+   * Execute a function within a transaction for atomic operations
+   * Automatically rolls back on error
+   */
+  static transaction<T>(fn: () => T): T {
+    if (!this.instance) {
+      throw new Error('Database connection not initialized');
+    }
+
+    // better-sqlite3 transactions are synchronous and automatic
+    // Use the built-in transaction method
+    const transactionFn = this.instance.transaction(fn);
+    return transactionFn();
+  }
 }
 
 /**
